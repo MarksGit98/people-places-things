@@ -1,0 +1,92 @@
+{
+  "startDate": "2026-01-07",
+  "puzzles": [
+    {
+      "id": 1,
+      "rows": [
+        {
+          "constraint": "Starts with the letter 'B'",
+          "cells": [
+            { "clue": "Famous pop group from Liverpool", "answer": "Beatles", "imageUrl": "" },
+            { "clue": "Capital of Germany", "answer": "Berlin", "imageUrl": "" },
+            { "clue": "Yellow curved fruit", "answer": "Banana", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Two words",
+          "cells": [
+            { "clue": "Starred in Forrest Gump", "answer": "Tom Hanks", "imageUrl": "" },
+            { "clue": "City that never sleeps", "answer": "New York", "imageUrl": "" },
+            { "clue": "Device for telling time on your wrist", "answer": "Wrist Watch", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Contains double letters",
+          "cells": [
+            { "clue": "Wrote Harry Potter", "answer": "J.K. Rowling", "imageUrl": "" },
+            { "clue": "Largest state in the USA", "answer": "Mississippi", "imageUrl": "" },
+            { "clue": "Hot air transportation", "answer": "Balloon", "imageUrl": "" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "rows": [
+        {
+          "constraint": "Ends with the letter 'A'",
+          "cells": [
+            { "clue": "Queen of Pop", "answer": "Madonna", "imageUrl": "" },
+            { "clue": "Home of the Colosseum", "answer": "Roma", "imageUrl": "" },
+            { "clue": "Stringed instrument from Hawaii", "answer": "Ukulele", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "One syllable",
+          "cells": [
+            { "clue": "Basketball legend, first name", "answer": "Kobe", "imageUrl": "" },
+            { "clue": "Country famous for baguettes", "answer": "France", "imageUrl": "" },
+            { "clue": "Kitchen utensil for flipping pancakes", "answer": "Spatula", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Rhymes with 'night'",
+          "cells": [
+            { "clue": "First man on the moon (last name)", "answer": "Wright", "imageUrl": "" },
+            { "clue": "Island nation known for beaches and reggae", "answer": "Jamaica", "imageUrl": "" },
+            { "clue": "Illumination source", "answer": "Light", "imageUrl": "" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "rows": [
+        {
+          "constraint": "Exactly 5 letters",
+          "cells": [
+            { "clue": "Tennis champion Serena", "answer": "Venus", "imageUrl": "" },
+            { "clue": "City of Love", "answer": "Paris", "imageUrl": "" },
+            { "clue": "Computing device from Apple", "answer": "Apple", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Starts and ends with same letter",
+          "cells": [
+            { "clue": "Pop star, 'Bad Romance' singer", "answer": "Lady Gaga", "imageUrl": "" },
+            { "clue": "US state known for potatoes", "answer": "Idaho", "imageUrl": "" },
+            { "clue": "Japanese two-wheeled transport", "answer": "Rickshaw", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Contains the letter 'X'",
+          "cells": [
+            { "clue": "SpaceX founder", "answer": "Elon Musk", "imageUrl": "" },
+            { "clue": "Lone Star State", "answer": "Texas", "imageUrl": "" },
+            { "clue": "Musical instrument with keys", "answer": "Saxophone", "imageUrl": "" }
+          ]
+        }
+      ]
+    }
+  ]
+}
