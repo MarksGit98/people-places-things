@@ -1,0 +1,195 @@
+.how-to-play {
+  max-width: 500px;
+  margin: var(--spacing-xl) auto;
+  padding: var(--spacing-lg);
+  background-color: var(--color-surface);
+  border-radius: var(--radius-lg);
+  /* Paper cutout effect */
+  border: 2.5px solid white;
+  box-shadow:
+    0 0 0 1px rgba(0, 0, 0, 0.08),
+    3px 3px 0 rgba(100, 100, 120, 0.25),
+    5px 5px 0 rgba(100, 100, 120, 0.15),
+    6px 6px 12px rgba(0, 0, 0, 0.12);
+}
+
+.how-to-play__title {
+  font-size: var(--font-size-lg);
+  font-weight: var(--font-weight-bold);
+  color: var(--color-text-primary);
+  text-align: center;
+  margin-bottom: var(--spacing-lg);
+}
+
+.how-to-play__rules {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-md);
+}
+
+.how-to-play__rule {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--spacing-md);
+}
+
+.how-to-play__icon {
+  flex-shrink: 0;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: var(--radius-md);
+  font-size: var(--font-size-lg);
+  font-weight: var(--font-weight-bold);
+}
+
+.how-to-play__icon--grid {
+  background: linear-gradient(135deg, #f0f0f0 0%, #e0e0e0 100%);
+}
+
+.how-to-play__mini-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 8px);
+  grid-template-rows: repeat(3, 8px);
+  gap: 2px;
+}
+
+.how-to-play__mini-grid span {
+  background-color: var(--color-text-secondary);
+  border-radius: 1px;
+}
+
+.how-to-play__mini-grid span:nth-child(1),
+.how-to-play__mini-grid span:nth-child(4),
+.how-to-play__mini-grid span:nth-child(7) {
+  background-color: #9B7ED9;
+}
+
+.how-to-play__mini-grid span:nth-child(2),
+.how-to-play__mini-grid span:nth-child(5),
+.how-to-play__mini-grid span:nth-child(8) {
+  background-color: #4EADC5;
+}
+
+.how-to-play__mini-grid span:nth-child(3),
+.how-to-play__mini-grid span:nth-child(6),
+.how-to-play__mini-grid span:nth-child(9) {
+  background-color: #E8A946;
+}
+
+.how-to-play__icon--clue {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+}
+
+.how-to-play__icon--guesses {
+  background: linear-gradient(135deg, #f0f0f0 0%, #e0e0e0 100%);
+  gap: 4px;
+}
+
+.how-to-play__dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: var(--color-border);
+}
+
+.how-to-play__dot--active {
+  background-color: var(--color-text-secondary);
+}
+
+.how-to-play__icon--colors {
+  background: linear-gradient(135deg, #f0f0f0 0%, #e0e0e0 100%);
+  gap: 4px;
+}
+
+.how-to-play__color-box {
+  width: 14px;
+  height: 14px;
+  border-radius: 2px;
+}
+
+.how-to-play__color-box--green {
+  background-color: var(--color-correct-1);
+}
+
+.how-to-play__color-box--yellow {
+  background-color: var(--color-correct-2);
+}
+
+.how-to-play__text {
+  flex: 1;
+}
+
+.how-to-play__text strong {
+  display: block;
+  font-size: var(--font-size-md);
+  color: var(--color-text-primary);
+  margin-bottom: 2px;
+}
+
+.how-to-play__text p {
+  font-size: var(--font-size-sm);
+  color: var(--color-text-secondary);
+  line-height: var(--line-height-normal);
+  margin: 0;
+}
+
+/* Category colors */
+.how-to-play__people {
+  color: #9B7ED9;
+  font-weight: var(--font-weight-semibold);
+}
+
+.how-to-play__places {
+  color: #4EADC5;
+  font-weight: var(--font-weight-semibold);
+}
+
+.how-to-play__things {
+  color: #E8A946;
+  font-weight: var(--font-weight-semibold);
+}
+
+/* Score colors */
+.how-to-play__green {
+  color: var(--color-correct-1);
+  font-weight: var(--font-weight-semibold);
+}
+
+.how-to-play__yellow {
+  color: #b9a448;
+  font-weight: var(--font-weight-semibold);
+}
+
+.how-to-play__red {
+  color: var(--color-incorrect);
+  font-weight: var(--font-weight-semibold);
+}
+
+/* Mobile styles */
+@media (max-width: 600px) {
+  .how-to-play {
+    margin: var(--spacing-md) var(--spacing-sm);
+    padding: var(--spacing-md);
+  }
+
+  .how-to-play__title {
+    font-size: var(--font-size-md);
+  }
+
+  .how-to-play__icon {
+    width: 36px;
+    height: 36px;
+  }
+
+  .how-to-play__text strong {
+    font-size: var(--font-size-sm);
+  }
+
+  .how-to-play__text p {
+    font-size: var(--font-size-xs);
+  }
+}

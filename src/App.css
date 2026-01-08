@@ -12,6 +12,34 @@
   padding: var(--spacing-md);
 }
 
+.app__puzzle-number {
+  font-size: var(--font-size-xs);
+  font-weight: var(--font-weight-medium);
+  color: var(--color-text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: var(--spacing-sm);
+}
+
+/* Dev reset button - remove for production */
+.app__reset-btn {
+  margin-top: var(--spacing-xl);
+  padding: var(--spacing-xs) var(--spacing-md);
+  font-size: var(--font-size-xs);
+  color: var(--color-text-muted);
+  background-color: transparent;
+  border: 1px dashed var(--color-border);
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  transition: all var(--transition-fast);
+}
+
+.app__reset-btn:hover {
+  color: var(--color-incorrect);
+  border-color: var(--color-incorrect);
+  background-color: rgba(220, 53, 69, 0.05);
+}
+
 .app__complete-banner {
   margin-top: var(--spacing-lg);
   padding: var(--spacing-md) var(--spacing-xl);
@@ -57,6 +85,11 @@
 @media (max-width: 600px) {
   .app__main {
     padding: var(--spacing-sm);
+  }
+
+  .app__puzzle-number {
+    font-size: 10px;
+    margin-bottom: var(--spacing-xs);
   }
 
   .app__complete-banner {

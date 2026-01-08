@@ -1,7 +1,9 @@
 export type ColumnType = 'people' | 'places' | 'things';
 
 export interface Cell {
+  category: ColumnType;
   clue: string;
+  clue2: string;
   answer: string;
   imageUrl?: string;
 }
@@ -16,8 +18,13 @@ export interface Puzzle {
   rows: [Row, Row, Row]; // Always 3 rows
 }
 
+// Puzzle as stored in JSON (without id, since order determines id)
+export interface PuzzleJson {
+  rows: [Row, Row, Row];
+}
+
 export interface PuzzleData {
-  puzzles: Puzzle[];
+  puzzles: PuzzleJson[];
   startDate: string; // ISO date string for puzzle #1
 }
 
@@ -41,7 +48,7 @@ export interface GameState {
 
 export interface ShareResult {
   puzzleNumber: number;
-  grid: ('green' | 'yellow' | 'orange' | 'red')[][];
+  grid: ('green' | 'yellow' | 'red')[][];
   correctCount: number;
   totalCells: number;
 }

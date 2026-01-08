@@ -71,8 +71,8 @@
   --transition-slow: 350ms ease;
 
   /* Grid */
-  --cell-size: 180px;
-  --cell-size-mobile: 100px;
+  --cell-size: 170px;
+  --cell-size-mobile: 115px;
   --grid-gap: 8px;
   --header-height: 48px;
 }

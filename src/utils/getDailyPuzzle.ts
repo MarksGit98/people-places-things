@@ -1,10 +1,23 @@
 import type { Puzzle, PuzzleData } from '../types';
 
+// Set to true to always show puzzle #1 for testing
+const DEV_FORCE_PUZZLE_ONE = true;
+
 /**
  * Gets the current puzzle based on days elapsed since the start date.
  * Puzzles cycle through the available puzzles array.
+ * The puzzle id is computed from the array index (index 0 = puzzle #1).
  */
 export function getDailyPuzzle(puzzleData: PuzzleData): Puzzle {
+  // Dev override: always show first puzzle
+  if (DEV_FORCE_PUZZLE_ONE) {
+    const puzzleJson = puzzleData.puzzles[0];
+    return {
+      ...puzzleJson,
+      id: 1,
+    };
+  }
+
   const startDate = new Date(puzzleData.startDate);
   const now = new Date();
 
@@ -24,10 +37,10 @@ export function getDailyPuzzle(puzzleData: PuzzleData): Puzzle {
   // Get puzzle index (cycle through available puzzles)
   const puzzleIndex = Math.max(0, daysElapsed % puzzleData.puzzles.length);
 
-  // Return the puzzle with an adjusted ID to reflect the actual day number
-  const puzzle = puzzleData.puzzles[puzzleIndex];
+  // Return the puzzle with id based on days elapsed (puzzle #1 on day 1, etc.)
+  const puzzleJson = puzzleData.puzzles[puzzleIndex];
   return {
-    ...puzzle,
+    ...puzzleJson,
     id: daysElapsed + 1, // Puzzle numbers start at 1
   };
 }

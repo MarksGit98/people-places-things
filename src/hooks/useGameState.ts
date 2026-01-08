@@ -8,7 +8,7 @@ function createInitialCellState(): CellState {
   return {
     guesses: [],
     status: 'unanswered',
-    guessesRemaining: 3,
+    guessesRemaining: 2,
   };
 }
 
@@ -50,21 +50,29 @@ function saveGameState(state: GameState): void {
 }
 
 export function useGameState(puzzle: Puzzle) {
-  const [gameState, setGameState] = useState<GameState>(() =>
-    loadGameState(puzzle.id)
-  );
-
-  // Save to localStorage whenever state changes
-  useEffect(() => {
-    saveGameState(gameState);
-  }, [gameState]);
-
   // Check if game is complete
   const checkGameComplete = useCallback((cells: CellState[][]): boolean => {
     return cells.every((row) =>
       row.every((cell) => cell.status === 'correct' || cell.status === 'incorrect')
     );
   }, []);
+
+  const [gameState, setGameState] = useState<GameState>(() => {
+    const loaded = loadGameState(puzzle.id);
+    // Sync completion status in case it's out of sync with cell states
+    const isComplete = loaded.cells.every((row) =>
+      row.every((cell) => cell.status === 'correct' || cell.status === 'incorrect')
+    );
+    if (isComplete && loaded.gameStatus !== 'completed') {
+      return { ...loaded, gameStatus: 'completed', completedAt: new Date().toISOString() };
+    }
+    return loaded;
+  });
+
+  // Save to localStorage whenever state changes
+  useEffect(() => {
+    saveGameState(gameState);
+  }, [gameState]);
 
   const handleGuess = useCallback(
     (rowIndex: number, colIndex: number, guess: string) => {
@@ -111,12 +119,11 @@ export function useGameState(puzzle: Puzzle) {
 
   const getShareResult = useCallback((): ShareResult => {
     const grid = gameState.cells.map((row) =>
-      row.map((cell): 'green' | 'yellow' | 'orange' | 'red' => {
+      row.map((cell): 'green' | 'yellow' | 'red' => {
         if (cell.status !== 'correct') return 'red';
         const guessCount = cell.guesses.length;
         if (guessCount === 1) return 'green';
-        if (guessCount === 2) return 'yellow';
-        return 'orange';
+        return 'yellow';
       })
     );
 

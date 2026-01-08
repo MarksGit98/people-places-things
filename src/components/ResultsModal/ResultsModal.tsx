@@ -1,3 +1,4 @@
+import { useState } from 'react';
 import type { ShareResult } from '../../types';
 import './ResultsModal.css';
 
@@ -7,7 +8,7 @@ interface ResultsModalProps {
   gameUrl: string;
 }
 
-const EMOJI_MAP = {
+const EMOJI_MAP: Record<string, string> = {
   green: '🟩',
   yellow: '🟨',
   orange: '🟧',
@@ -15,35 +16,25 @@ const EMOJI_MAP = {
 };
 
 export function ResultsModal({ result, onClose, gameUrl }: ResultsModalProps) {
+  const [copied, setCopied] = useState(false);
+
   const emojiGrid = result.grid
     .map((row) => row.map((cell) => EMOJI_MAP[cell]).join(''))
     .join('\n');
 
-  const shareText = `People, Places & Things #${result.puzzleNumber}
+  const shareText = `People, Places & Things
+Daily Puzzle #${result.puzzleNumber}
+${result.correctCount}/${result.totalCells} Correct
 
 ${emojiGrid}
 
-${result.correctCount}/${result.totalCells} correct — play at ${gameUrl}`;
+Play at ${gameUrl}`;
 
   const handleShare = async () => {
-    if (navigator.share) {
-      try {
-        await navigator.share({
-          text: shareText,
-        });
-      } catch (err) {
-        // User cancelled or share failed, fall back to clipboard
-        copyToClipboard();
-      }
-    } else {
-      copyToClipboard();
-    }
-  };
-
-  const copyToClipboard = async () => {
     try {
       await navigator.clipboard.writeText(shareText);
-      alert('Copied to clipboard!');
+      setCopied(true);
+      setTimeout(() => setCopied(false), 2000);
     } catch {
       // Fallback for older browsers
       const textArea = document.createElement('textarea');
@@ -52,33 +43,38 @@ ${result.correctCount}/${result.totalCells} correct — play at ${gameUrl}`;
       textArea.select();
       document.execCommand('copy');
       document.body.removeChild(textArea);
-      alert('Copied to clipboard!');
+      setCopied(true);
+      setTimeout(() => setCopied(false), 2000);
     }
-  };
-
-  const getScoreMessage = () => {
-    const percentage = (result.correctCount / result.totalCells) * 100;
-    if (percentage === 100) return 'Perfect! 🎉';
-    if (percentage >= 75) return 'Great job! 🌟';
-    if (percentage >= 50) return 'Nice work! 👍';
-    if (percentage >= 25) return 'Good effort! 💪';
-    return 'Better luck next time! 🍀';
   };
 
   return (
     <div className="results-modal-overlay" onClick={onClose}>
       <div className="results-modal" onClick={(e) => e.stopPropagation()}>
-        <button className="results-modal__close" onClick={onClose}>
-          ×
+        <button className="results-modal__close" onClick={onClose} aria-label="Close">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+            <line x1="18" y1="6" x2="6" y2="18" />
+            <line x1="6" y1="6" x2="18" y2="18" />
+          </svg>
         </button>
 
-        <h2 className="results-modal__title">Puzzle Complete!</h2>
-        <p className="results-modal__message">{getScoreMessage()}</p>
+        <div className="results-modal__title">
+          <span className="results-modal__title-line">
+            <span className="results-modal__word results-modal__word--people">People</span>
+            <span className="results-modal__separator">, </span>
+            <span className="results-modal__word results-modal__word--places">Places</span>
+          </span>
+          <span className="results-modal__title-line">
+            <span className="results-modal__separator">& </span>
+            <span className="results-modal__word results-modal__word--things">Things</span>
+          </span>
+        </div>
 
         <div className="results-modal__score">
           <span className="results-modal__score-number">{result.correctCount}</span>
           <span className="results-modal__score-divider">/</span>
           <span className="results-modal__score-total">{result.totalCells}</span>
+          <span className="results-modal__score-label">Correct!</span>
         </div>
 
         <div className="results-modal__grid">
@@ -94,13 +90,12 @@ ${result.correctCount}/${result.totalCells} correct — play at ${gameUrl}`;
         </div>
 
         <button className="results-modal__share" onClick={handleShare}>
-          Share Result
+          {copied ? 'Copied!' : 'Share Results'}
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+            <path d="M22 2L11 13" />
+            <path d="M22 2L15 22L11 13L2 9L22 2Z" />
+          </svg>
         </button>
-
-        <div className="results-modal__preview">
-          <p className="results-modal__preview-label">Preview:</p>
-          <pre className="results-modal__preview-text">{shareText}</pre>
-        </div>
       </div>
     </div>
   );

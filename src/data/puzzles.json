@@ -2,88 +2,113 @@
   "startDate": "2026-01-07",
   "puzzles": [
     {
-      "id": 1,
+      "rows": [
+        {
+          "constraint": "Two words both beginning with the same letter",
+          "cells": [
+            { "category": "people", "clue": "Chilean-American actor known for playing a masked character in a hit Disney+ show", "clue2": "Known for his portrayal of Oberyn Martell in the HBO series Game of Thrones", "answer": "Pedro Pascal", "imageUrl": "" },
+            { "category": "places", "clue": "Iconic landmark in England", "clue2": "Features a giant clock", "answer": "Big Ben", "imageUrl": "" },
+            { "category": "things", "clue": "This edible treat is composed almost entirely of sugar", "clue2": "Likely found at carnivals or the county fair", "answer": "Cotton Candy", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Starts and ends with the same letter",
+          "cells": [
+            { "category": "people", "clue": "Contemporary Oscar-award winning actress", "clue2": "Starred in La La Land and Poor Things", "answer": "Emma Stone", "imageUrl": "" },
+            { "category": "places", "clue": "Island once used as a penal colony for convicts", "clue2": "Home to koalas and kangaroos", "answer": "Australia", "imageUrl": "" },
+            { "category": "things", "clue": "Simple handheld tool one may find in a school", "clue2": "Beats paper but loses to rock", "answer": "Scissors", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Starts with the letter 'K'",
+          "cells": [
+            { "category": "people", "clue": "The first rapper to win a Pulitzer Prize in music", "clue2": "Famously headlined the Superbowl", "answer": "Kendrick Lamar", "imageUrl": "" },
+            { "category": "places", "clue": "Famous for its cherry blossoms", "clue2": "Was once the imperial capital of a modern nation but no longer", "answer": "Kyoto", "imageUrl": "" },
+            { "category": "things", "clue": "Device invented by Amazon and introduced in 2007", "clue2": "This invention transformed the way people read", "answer": "Kindle", "imageUrl": "" }
+          ]
+        }
+      ]
+    },
+    {
       "rows": [
         {
           "constraint": "Starts with the letter 'B'",
           "cells": [
-            { "clue": "Famous pop group from Liverpool", "answer": "Beatles", "imageUrl": "" },
-            { "clue": "Capital of Germany", "answer": "Berlin", "imageUrl": "" },
-            { "clue": "Yellow curved fruit", "answer": "Banana", "imageUrl": "" }
+            { "category": "people", "clue": "Fight Club and Ocean's Eleven actor", "clue2": "[Second hint]", "answer": "Brad Pitt", "imageUrl": "" },
+            { "category": "places", "clue": "Capital of Germany", "clue2": "[Second hint]", "answer": "Berlin", "imageUrl": "" },
+            { "category": "things", "clue": "Yellow curved fruit", "clue2": "[Second hint]", "answer": "Banana", "imageUrl": "" }
           ]
         },
         {
           "constraint": "Two words",
           "cells": [
-            { "clue": "Starred in Forrest Gump", "answer": "Tom Hanks", "imageUrl": "" },
-            { "clue": "City that never sleeps", "answer": "New York", "imageUrl": "" },
-            { "clue": "Device for telling time on your wrist", "answer": "Wrist Watch", "imageUrl": "" }
+            { "category": "people", "clue": "Starred in Forrest Gump", "clue2": "[Second hint]", "answer": "Tom Hanks", "imageUrl": "" },
+            { "category": "places", "clue": "City that never sleeps", "clue2": "[Second hint]", "answer": "New York", "imageUrl": "" },
+            { "category": "things", "clue": "Device for telling time on your wrist", "clue2": "[Second hint]", "answer": "Wrist Watch", "imageUrl": "" }
           ]
         },
         {
           "constraint": "Contains double letters",
           "cells": [
-            { "clue": "Wrote Harry Potter", "answer": "J.K. Rowling", "imageUrl": "" },
-            { "clue": "Largest state in the USA", "answer": "Mississippi", "imageUrl": "" },
-            { "clue": "Hot air transportation", "answer": "Balloon", "imageUrl": "" }
+            { "category": "people", "clue": "Wrote Harry Potter", "clue2": "[Second hint]", "answer": "J.K. Rowling", "imageUrl": "" },
+            { "category": "places", "clue": "State named after a famous river", "clue2": "[Second hint]", "answer": "Mississippi", "imageUrl": "" },
+            { "category": "things", "clue": "Hot air transportation", "clue2": "[Second hint]", "answer": "Balloon", "imageUrl": "" }
           ]
         }
       ]
     },
     {
-      "id": 2,
       "rows": [
         {
           "constraint": "Ends with the letter 'A'",
           "cells": [
-            { "clue": "Queen of Pop", "answer": "Madonna", "imageUrl": "" },
-            { "clue": "Home of the Colosseum", "answer": "Roma", "imageUrl": "" },
-            { "clue": "Stringed instrument from Hawaii", "answer": "Ukulele", "imageUrl": "" }
+            { "category": "people", "clue": "Star of Wednesday on Netflix", "clue2": "[Second hint]", "answer": "Jenna Ortega", "imageUrl": "" },
+            { "category": "places", "clue": "Home of the Colosseum", "clue2": "[Second hint]", "answer": "Roma", "imageUrl": "" },
+            { "category": "things", "clue": "Device for taking photos", "clue2": "[Second hint]", "answer": "Camera", "imageUrl": "" }
           ]
         },
         {
-          "constraint": "One syllable",
+          "constraint": "Contains the letter 'A'",
           "cells": [
-            { "clue": "Basketball legend, first name", "answer": "Kobe", "imageUrl": "" },
-            { "clue": "Country famous for baguettes", "answer": "France", "imageUrl": "" },
-            { "clue": "Kitchen utensil for flipping pancakes", "answer": "Spatula", "imageUrl": "" }
+            { "category": "people", "clue": "Talk show host and media mogul", "clue2": "[Second hint]", "answer": "Oprah Winfrey", "imageUrl": "" },
+            { "category": "places", "clue": "Country famous for baguettes", "clue2": "[Second hint]", "answer": "France", "imageUrl": "" },
+            { "category": "things", "clue": "Cooking vessel for frying", "clue2": "[Second hint]", "answer": "Pan", "imageUrl": "" }
           ]
         },
         {
           "constraint": "Rhymes with 'night'",
           "cells": [
-            { "clue": "First man on the moon (last name)", "answer": "Wright", "imageUrl": "" },
-            { "clue": "Island nation known for beaches and reggae", "answer": "Jamaica", "imageUrl": "" },
-            { "clue": "Illumination source", "answer": "Light", "imageUrl": "" }
+            { "category": "people", "clue": "First to achieve powered flight at Kitty Hawk", "clue2": "[Second hint]", "answer": "Orville Wright", "imageUrl": "" },
+            { "category": "places", "clue": "English island in the Channel", "clue2": "[Second hint]", "answer": "Wight", "imageUrl": "" },
+            { "category": "things", "clue": "Illumination source", "clue2": "[Second hint]", "answer": "Light", "imageUrl": "" }
           ]
         }
       ]
     },
     {
-      "id": 3,
       "rows": [
         {
-          "constraint": "Exactly 5 letters",
+          "constraint": "Five-letter word (first word for names)",
           "cells": [
-            { "clue": "Tennis champion Serena", "answer": "Venus", "imageUrl": "" },
-            { "clue": "City of Love", "answer": "Paris", "imageUrl": "" },
-            { "clue": "Computing device from Apple", "answer": "Apple", "imageUrl": "" }
+            { "category": "people", "clue": "Tennis champion, Serena's sister", "clue2": "[Second hint]", "answer": "Venus Williams", "imageUrl": "" },
+            { "category": "places", "clue": "City of Love", "clue2": "[Second hint]", "answer": "Paris", "imageUrl": "" },
+            { "category": "things", "clue": "Computer pointing device", "clue2": "[Second hint]", "answer": "Mouse", "imageUrl": "" }
           ]
         },
         {
           "constraint": "Starts and ends with same letter",
           "cells": [
-            { "clue": "Pop star, 'Bad Romance' singer", "answer": "Lady Gaga", "imageUrl": "" },
-            { "clue": "US state known for potatoes", "answer": "Idaho", "imageUrl": "" },
-            { "clue": "Japanese two-wheeled transport", "answer": "Rickshaw", "imageUrl": "" }
+            { "category": "people", "clue": "Oscar winner for La La Land", "clue2": "[Second hint]", "answer": "Emma Stone", "imageUrl": "" },
+            { "category": "places", "clue": "Buckeye State", "clue2": "[Second hint]", "answer": "Ohio", "imageUrl": "" },
+            { "category": "things", "clue": "Paddled watercraft", "clue2": "[Second hint]", "answer": "Kayak", "imageUrl": "" }
           ]
         },
         {
           "constraint": "Contains the letter 'X'",
           "cells": [
-            { "clue": "SpaceX founder", "answer": "Elon Musk", "imageUrl": "" },
-            { "clue": "Lone Star State", "answer": "Texas", "imageUrl": "" },
-            { "clue": "Musical instrument with keys", "answer": "Saxophone", "imageUrl": "" }
+            { "category": "people", "clue": "Legendary 'Purple Haze' guitarist", "clue2": "[Second hint]", "answer": "Jimi Hendrix", "imageUrl": "" },
+            { "category": "places", "clue": "Lone Star State", "clue2": "[Second hint]", "answer": "Texas", "imageUrl": "" },
+            { "category": "things", "clue": "Musical instrument with keys", "clue2": "[Second hint]", "answer": "Saxophone", "imageUrl": "" }
           ]
         }
       ]
