@@ -72,7 +72,8 @@
 
   /* Grid */
   --cell-size: 170px;
-  --cell-size-mobile: 115px;
+  --cell-size-mobile: 110px;
+  --cell-height-mobile: 185px;
   --grid-gap: 8px;
   --header-height: 48px;
 }

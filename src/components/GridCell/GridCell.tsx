@@ -85,8 +85,10 @@ export function GridCell({ cell, cellState, columnType, onGuess, disabled }: Gri
             <div className="grid-cell__clue-divider"></div>
             <div className="grid-cell__clues">
               <p className="grid-cell__clue">1. {cell.clue}</p>
-              {showSecondClue && (
+              {showSecondClue ? (
                 <p className="grid-cell__clue grid-cell__clue--second">2. {cell.clue2}</p>
+              ) : (
+                <p className="grid-cell__clue grid-cell__clue--placeholder">2. Guess to reveal second clue</p>
               )}
             </div>
           </div>
@@ -98,7 +100,7 @@ export function GridCell({ cell, cellState, columnType, onGuess, disabled }: Gri
                 type="text"
                 value={inputValue}
                 onChange={(e) => setInputValue(e.target.value)}
-                placeholder="Your guess..."
+                placeholder="Guess..."
                 className="grid-cell__input"
                 disabled={disabled}
                 autoComplete="off"
