@@ -43,16 +43,43 @@ PUZZLE GENERATION RULES
 	18. Contains an animal
 	19. Not pronounced how it’s spelled
 	20. Contains silent letters
+	21. Composed of two smaller words ("Rushmore" - Rush & More, "Louis Armstrong" - Arm & Strong, "Hourglass" - Hour & glass)
 
 	Other clues in this vein are also acceptable as long as the constraint applies to every answer in its respective block (for people, place, and thing).
 
+-IMPORTANT: Avoid generic "Contains X" constraints where X is a common letter combination (like AR, IN, LE, ST, ND, etc.). These don't provide meaningful hints to players. "Contains X" is only acceptable when:
+	1. X is a double letter (Contains 'TT', Contains 'LL', etc.)
+	2. X is a unique/uncommon combination (Contains 'GH', Contains 'PH', Contains 'QU', etc.)
+	3. X is a recognizable word or suffix embedded in the answer
+
+	Prefer "Starts with X" or "Ends with X" constraints over generic "Contains X" as they give players a clearer starting point.
+
 -When you generate clues please crosscheck the answers with the constraints to ensure the answer actually satisfies the constraint as I have noticed several instances with auto-generated puzzles in which not all of the answers within a given constraint block actually satisfy the constraint condition
 
--For the People category specifically the constraints can apply to first or last names (Starts with X, ends with X, etc) unless specified otherwise. For instance a constraint such as "Two words beginning with the same letter" would imply that both first and last name will begin with same letter. However when generating clues try to avoid using Starts with X letter on very generic common names. For instance "starts with B" for Brad Pitt would not be a great clue. For more unique singular names or more esoteric letters like "Starts with L" for Lebron James works much better. For starts and ends with X clues try to use the more unique name of the individuals first and last names to satisfy the constraint. For instance "Starts with T" would be a better constraint for the name "Donald Trump" than "starts with D" as "Donald" is a very generic common name and does not immediatly invoke the image of the person in question as "Trump" does. 
+-For the People category specifically the constraints can apply to first or last names (Starts with X, ends with X, etc) unless specified otherwise. For instance a constraint such as "Two words beginning with the same letter" would imply that both first and last name will begin with same letter. However when generating clues try to avoid using Starts with X letter on common names. In fact as a general rule only apply the "Starts or Ends with X" constraints to the person's last name unless their first name is rather iconic. For instance "starts with B" for Brad Pitt would not be a great clue. For more unique singular names or more esoteric letters like "Starts with L" for Lebron James works much better as he is referred to more often as Lebron than as James. For starts and ends with X clues try to use the more unique name of the individuals first and last names to satisfy the constraint. For instance "Starts with T" would be a better constraint for the name "Donald Trump" than "starts with D" as "Donald" is a very generic common name and does not immediatly invoke the image of the person in question as "Trump" does. 
 
 -Feel free to reference online sources such as official crosswords from the New York Times or questions from Jeopardy and other quality trivia/crossword games and such for inspiration. 
 
--No duplicate answers anywhere. I.E. if the name Timothee Chalamet was used an answer in a puzzle it should not be an answer in any other puzzle in the json. 
+-No duplicate answers anywhere. I.E. if the name Timothee Chalamet was used an answer in a puzzle it should not be an answer in any other puzzle in the json.
+
+
+CLUE STYLE GUIDELINES
+
+-Keep clues short and punchy, but longer is acceptable if needed. Aim for under 13 words max.
+
+-Use a conversational, playful tone. Occasionally bordering on funny is encouraged.
+
+-Prefer association-based clues over literal descriptions. Don't describe what something looks like - describe what it's connected to or known for.
+
+-Misdirection should be simple and clever, not convoluted. A good misdirect fits in one short phrase (e.g., "Dracula's least favorite symbol" for Crucifix).
+
+-Assume cultural literacy. Don't over-explain pop culture references.
+
+-Contemporary relevance is a plus. Recent events and current trends make clues feel fresh.
+
+-Second clues can be more direct but should still have personality - avoid dry factual statements like "Capital of X country."
+
+-Avoid phrases that literally describe the physical object (e.g., "two sticks connected by a chain" is too direct for nunchucks - prefer "Bruce Lee's combat weapon of choice").
 
 
 
