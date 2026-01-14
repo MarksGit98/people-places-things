@@ -92,7 +92,7 @@
           "cells": [
             { "category": "people", "clue": "Formerly a member of a 5 brother band", "clue2": "Famously pioneered an iconic dance move that involves stepping backwards", "answer": "Michael Jackson", "imageUrl": "" },
             { "category": "places", "clue": "Once controlled by the Bolsheviks", "clue2": "City architecturally distinguished by its onion-shaped domes", "answer": "Moscow", "imageUrl": "" },
-            { "category": "things", "clue": "Crown jewel of the Louvre", "clue2": "A masterpiece featuring an enigmatic smile", "answer": "The Mona Lisa", "imageUrl": "" }
+            { "category": "things", "clue": "Crown jewel of the Louvre", "clue2": "A masterpiece featuring an enigmatic smile", "answer": "The Mona Lisa", "acceptableAnswers": ["Mona Lisa"], "imageUrl": "" }
           ]
         },
         {
@@ -276,7 +276,7 @@
           "cells": [
             { "category": "people", "clue": "A vocalist whose age can be tracked through her discography", "clue2": "She set fire to the rain and the charts", "answer": "Adele", "imageUrl": "" },
             { "category": "places", "clue": "A \"union territory\" that features both Old and New", "clue2": "This capital on the Yamuna River is where the 2010 Commonwealth Games were held", "answer": "Delhi", "imageUrl": "" },
-            { "category": "things", "clue": "The tasty subject matter of Jiro's dreams", "clue2": "This delicacy is traditionally rolled in a bamboo matt", "answer": "Sushi", "imageUrl": "" }
+            { "category": "things", "clue": "The tasty subject matter of Jiro's dreams", "clue2": "This delicacy is traditionally rolled in a bamboo mat", "answer": "Sushi", "imageUrl": "" }
           ]
         }
       ]
@@ -304,7 +304,7 @@
           "cells": [
             { "category": "people", "clue": "He made his debut at the 2024 Superbowl Halftime Show in roller-skates", "clue2": "Also the guy who helps you find your seat", "answer": "Usher", "imageUrl": "" },
             { "category": "places", "clue": "City so remote it became shorthand for \"the middle of nowhere\"", "clue2": "Historic Saharan trading post that also attracted many Islamic scholars", "answer": "Timbuktu", "imageUrl": "" },
-            { "category": "things", "clue": "It's green and earthy and certainly trendy", "clue2": "Can be found in your latte and your ice cream", "answer": "Matcha", "imageUrl": "" }
+            { "category": "things", "clue": "It's green. It's earthy. And it's certainly trendy", "clue2": "Can be found in your latte and your ice cream", "answer": "Matcha", "imageUrl": "" }
           ]
         }
       ]
@@ -315,23 +315,23 @@
           "constraint": "Ends in 'ER'",
           "cells": [
             { "category": "people", "clue": "Canadian whose bowl cut once conquered oncemiddle school lockers worldwide", "clue2": "From YouTube covers in his room to teenage hearthrob on stadium tours", "answer": "Justin Bieber", "acceptableAnswers":["Bieber"], "imageUrl": "" },
-            { "category": "places", "clue": "Where people come from all around to scale rocks, aptly named", "clue2": "The Mile-high city's technically higher neighbor", "answer": "Boulder", "imageUrl": "" },
-            { "category": "things", "clue": "Retro device that is spinning once more in the hip part of town", "clue2": "Platter with a needle that DJs use to scratch and mix", "answer": "Record Player", "imageUrl": "" }
+            { "category": "places", "clue": "The place people come to from all around to scale rocks, aptly named", "clue2": "The Mile-high city's technically higher neighbor", "answer": "Boulder", "imageUrl": "" },
+            { "category": "things", "clue": "Retro device that is spinning once more in the hip part of town", "clue2": "Vinyl scratcher", "answer": "Record Player", "imageUrl": "" }
           ]
         },
         {
           "constraint": "Contains the letter 'X'",
           "cells": [
-            { "category": "people", "clue": "His guitar caught fire at Monterey, and so did his legend", "clue2": "Left-handed wizard who asked if you were experienced", "answer": "Jimi Hendrix", "acceptableAnswers": ["Hendrix"], "imageUrl": "" },
-            { "category": "places", "clue": "Grand Duchy where bankers outnumber bakers and castles dot every hill", "clue2": "Tiny European nation sandwiched between Belgium, France, and Germany", "answer": "Luxembourg", "imageUrl": "" },
-            { "category": "things", "clue": "Religious symbol that became heavy metal's favorite accessory", "clue2": "The shape you're nailed to in certain execution methods", "answer": "Crucifix", "imageUrl": "" }
+            { "category": "people", "clue": "His guitar caught fire at Monterey, and so did his legend", "clue2": "Left-handed wizard who reaminged the anthem at Woodstock", "answer": "Jimi Hendrix", "acceptableAnswers": ["Hendrix"], "imageUrl": "" },
+            { "category": "places", "clue": "Grand Duchy where bankers outnumber bakers and castles dot every hill", "clue2": "This tiny European nation boasts the second highest GDP per capita in the world", "answer": "Luxembourg", "imageUrl": "" },
+            { "category": "things", "clue": "Dracula's least favorite symbol", "clue2": "What a man from Nazareth was nailed to, as the story goes", "answer": "Crucifix", "imageUrl": "" }
           ]
         },
         {
           "constraint": "Starts with the letter 'N'",
           "cells": [
-            { "category": "people", "clue": "The island cell couldn't contain the man who'd one day lead the rainbow nation", "clue2": "He walked out of Robben after 27 years and walked into the presidency", "answer": "Nelson Mandela", "acceptableAnswers": ["Mandela"], "imageUrl": "" },
-            { "category": "places", "clue": "City where a mushroom cloud ended one war and started the atomic age", "clue2": "Second site where Little Boy's sibling was dropped", "answer": "Nagasaki", "imageUrl": "" },
+            { "category": "people", "clue": "An island cell couldn't contain this lawyer and future world leader", "clue2": "Inspired the name of a phenomenon where people collectively misremember an event", "answer": "Nelson Mandela", "acceptableAnswers": ["Mandela"], "imageUrl": "" },
+            { "category": "places", "clue": "Second site where Little Boy's sibling was dropped", "clue2": "Second site where Little Boy's sibling was dropped", "answer": "Nagasaki", "imageUrl": "" },
             { "category": "things", "clue": "Okinawan weapon that Bruce Lee made famous in Enter the Dragon", "clue2": "Two sticks connected by a chain, beloved by martial arts films", "answer": "Nunchucks", "acceptableAnswers": ["Nunchaku"], "imageUrl": "" }
           ]
         }
