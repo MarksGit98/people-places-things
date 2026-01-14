@@ -16,6 +16,8 @@ PUZZLE GENERATION RULES
 
 -First clue each puzzle should generally be a little more ambiguous or esoteric or indirect than the second clue. this is not a 100% hard and fast rule but overall I want the first clue to be harder for the user to guess the answer from than the second clue. 
 
+-To be clear the second clue should still attempt to be somewhat indirect or playful. Something like simply stating: "This city is the capital of X country" is not a quality enough clue.
+
 -Avoid referencing the exact words in the answer within the cell clue text. For instance if the answer is "Piggy Bank" do not use the words "Pig" or "Bank" in the clue text
 
 -For the 2 clues within each puzzle cell avoid writing clues based on the spelling of the words as these types of clues are relegated to the broader y-axis clue section or the "constraint" field in each puzzle in the json
