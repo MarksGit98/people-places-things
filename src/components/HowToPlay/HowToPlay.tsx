@@ -16,7 +16,23 @@ export function HowToPlay() {
           </span>
           <div className="how-to-play__text">
             <strong>3x3 Grid</strong>
-            <p>Each puzzle has 9 cells across 3 categories: <span className="how-to-play__people">People</span>, <span className="how-to-play__places">Places</span>, and <span className="how-to-play__things">Things</span>.</p>
+            <p>Each puzzle is composed of a 3 x 3 grid. Each column header corresponds to the 3 categories: <span className="how-to-play__people">People</span>, <span className="how-to-play__places">Places</span>, and <span className="how-to-play__things">Things</span> and the answers to the cells in each column fit into their respective category.</p>
+          </div>
+        </div>
+
+        <div className="how-to-play__rule">
+          <span className="how-to-play__icon how-to-play__icon--categories">
+            <span className="how-to-play__category-dot how-to-play__category-dot--people"></span>
+            <span className="how-to-play__category-dot how-to-play__category-dot--places"></span>
+            <span className="how-to-play__category-dot how-to-play__category-dot--things"></span>
+          </span>
+          <div className="how-to-play__text">
+            <strong>Categories</strong>
+            <ul className="how-to-play__category-list">
+              <li><span className="how-to-play__people">People</span> — Celebrities, historical figures, fictional characters, athletes, musicians, etc.</li>
+              <li><span className="how-to-play__places">Places</span> — Countries, US States, cities, historical landmarks, famous buildings, geographical features, and fictional locations..</li>
+              <li><span className="how-to-play__things">Things</span> — Commonly used objects, food, technology, historical inventions, brands, fictional items of significance, etc.</li>
+            </ul>
           </div>
         </div>
 
@@ -24,7 +40,7 @@ export function HowToPlay() {
           <span className="how-to-play__icon how-to-play__icon--clue">?</span>
           <div className="how-to-play__text">
             <strong>Read the Clues</strong>
-            <p>Each cell has a clue and a row constraint. Your answer must satisfy both!</p>
+            <p>Each cell also has only one correct answer that must satisify the category, the individual clues provided in the cell, and its respective row constraint.</p>
           </div>
         </div>
 
@@ -45,7 +61,7 @@ export function HowToPlay() {
             <span className="how-to-play__color-box how-to-play__color-box--yellow"></span>
           </span>
           <div className="how-to-play__text">
-            <strong>Score by Speed</strong>
+            <strong>Score</strong>
             <p><span className="how-to-play__green">Green</span> = 1st try, <span className="how-to-play__yellow">Yellow</span> = 2nd try, <span className="how-to-play__red">Red</span> = missed</p>
           </div>
         </div>

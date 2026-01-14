@@ -1,0 +1,2135 @@
+{
+  "generatedAt": "2026-01-11T23:47:35.078Z",
+  "totalClues": 236,
+  "counts": {
+    "people": 37,
+    "places": 65,
+    "things": 134
+  },
+  "clues": [
+    {
+      "category": "people",
+      "answer": "Woodrow Wilson",
+      "clue": "The Panama Canal was finished under the administration of which U.S. president?",
+      "clue2": "This person's name has 2 words",
+      "source": "OpenTriviaDB - History",
+      "originalCategory": "History",
+      "confidence": "high"
+    },
+    {
+      "category": "people",
+      "answer": " December 2nd 1804",
+      "clue": "When was Napoleon Bonaparte crowned emperor of the French? ",
+      "clue2": "This person's name has 4 words",
+      "source": "OpenTriviaDB - History",
+      "originalCategory": "History",
+      "confidence": "high"
+    },
+    {
+      "category": "people",
+      "answer": "55",
+      "clue": "How old was Lyndon B. Johnson when he assumed the role of President of the United States?",
+      "clue2": "Starts with the letter \"5\"",
+      "source": "OpenTriviaDB - History",
+      "originalCategory": "History",
+      "confidence": "high"
+    },
+    {
+      "category": "people",
+      "answer": "Marie Antoinette",
+      "clue": "Which famous world leader is famed for the saying, \"Let them eat cake\", yet is rumored that he/she never said it at all?",
+      "clue2": "This person's name has 2 words",
+      "source": "OpenTriviaDB - History",
+      "originalCategory": "History",
+      "confidence": "high"
+    },
+    {
+      "category": "people",
+      "answer": "Gus Grissom",
+      "clue": "Who was the first man to travel into outer space twice?",
+      "clue2": "This person's name has 2 words",
+      "source": "OpenTriviaDB - History",
+      "originalCategory": "History",
+      "confidence": "high"
+    },
+    {
+      "category": "people",
+      "answer": "Vespasian",
+      "clue": "Who was the last Roman emperor in the Year of Four Emperors (69 AD)?",
+      "clue2": "Starts with the letter \"V\"",
+      "source": "OpenTriviaDB - History",
+      "originalCategory": "History",
+      "confidence": "high"
+    },
+    {
+      "category": "people",
+      "answer": "The Napoleonic Wars",
+      "clue": "What historical event was Tchaikovsky's 1812 Overture referencing?",
+      "clue2": "This person's name has 3 words",
+      "source": "OpenTriviaDB - History",
+      "originalCategory": "History",
+      "confidence": "high"
+    },
+    {
+      "category": "people",
+      "answer": "Jimmy Carter",
+      "clue": "Which U.S. President was famously 'attacked' by a swimming rabbit?",
+      "clue2": "This person's name has 2 words",
+      "source": "OpenTriviaDB - History",
+      "originalCategory": "History",
+      "confidence": "high"
+    },
+    {
+      "category": "people",
+      "answer": "The Prince",
+      "clue": "In \"Katamari Damacy\", you control a character known as:",
+      "clue2": "This person's name has 2 words",
+      "source": "OpenTriviaDB - General Knowledge",
+      "originalCategory": "General Knowledge",
+      "confidence": "high"
+    },
+    {
+      "category": "people",
+      "answer": "Leader of the Ukrainian Cossacks",
+      "clue": "Bohdan Khmelnytsky was which of the following?",
+      "clue2": "This person's name has 5 words",
+      "source": "OpenTriviaDB - History",
+      "originalCategory": "History",
+      "confidence": "medium"
+    },
+    {
+      "category": "people",
+      "answer": "Homer",
+      "clue": "Who is attributed credit for recording the epic poem The Odyssey?",
+      "clue2": "Starts with the letter \"H\"",
+      "source": "OpenTriviaDB - History",
+      "originalCategory": "History",
+      "confidence": "medium"
+    },
+    {
+      "category": "people",
+      "answer": "Kurt Knispel",
+      "clue": "Which WWII tank ace is credited with having destroyed the most tanks?",
+      "clue2": "This person's name has 2 words",
+      "source": "OpenTriviaDB - History",
+      "originalCategory": "History",
+      "confidence": "medium"
+    },
+    {
+      "category": "people",
+      "answer": "Cold War",
+      "clue": "During what war did the \"Cuban Missile Crisis\" occur?",
+      "clue2": "This person's name has 2 words",
+      "source": "OpenTriviaDB - History",
+      "originalCategory": "History",
+      "confidence": "medium"
+    },
+    {
+      "category": "people",
+      "answer": "Richard III",
+      "clue": "Which king was killed at the Battle of Bosworth Field in 1485? ",
+      "clue2": "This person's name has 2 words",
+      "source": "OpenTriviaDB - History",
+      "originalCategory": "History",
+      "confidence": "medium"
+    },
+    {
+      "category": "people",
+      "answer": "Romantic",
+      "clue": "Pianist Frédéric Chopin was a composer of which musical era?",
+      "clue2": "Starts with the letter \"R\"",
+      "source": "OpenTriviaDB - History",
+      "originalCategory": "History",
+      "confidence": "medium"
+    },
+    {
+      "category": "people",
+      "answer": "José Rizal",
+      "clue": "What was the name of the national hero of the Philippines who inspired and lead the Philippine Revolution against colonial Spain?",
+      "clue2": "This person's name has 2 words",
+      "source": "OpenTriviaDB - History",
+      "originalCategory": "History",
+      "confidence": "medium"
+    },
+    {
+      "category": "people",
+      "answer": "Making jams and jellies",
+      "clue": "In addition to his career as an astrologer and \"prophet\", Nostradamus published a 1555 treatise that included a section on what?",
+      "clue2": "This person's name has 4 words",
+      "source": "OpenTriviaDB - History",
+      "originalCategory": "History",
+      "confidence": "medium"
+    },
+    {
+      "category": "people",
+      "answer": "Socrates",
+      "clue": "With which Greek philosopher would you associate the phrase, \"I know that I know nothing\"?",
+      "clue2": "Starts with the letter \"S\"",
+      "source": "OpenTriviaDB - History",
+      "originalCategory": "History",
+      "confidence": "medium"
+    },
+    {
+      "category": "people",
+      "answer": "Charles Alderton",
+      "clue": "Who is the creator of the soft drink, Dr. Pepper?",
+      "clue2": "This person's name has 2 words",
+      "source": "OpenTriviaDB - History",
+      "originalCategory": "History",
+      "confidence": "medium"
+    },
+    {
+      "category": "people",
+      "answer": "St. Helena",
+      "clue": "After his loss at the Battle of Waterloo, Napoleon Bonaparte was exiled to which island?",
+      "clue2": "This person's name has 2 words",
+      "source": "OpenTriviaDB - History",
+      "originalCategory": "History",
+      "confidence": "medium"
+    },
+    {
+      "category": "people",
+      "answer": "The Mayans",
+      "clue": "Which American civilization is the source of the belief that the world would end or drastically change on December 21st, 2012?",
+      "clue2": "This person's name has 2 words",
+      "source": "OpenTriviaDB - History",
+      "originalCategory": "History",
+      "confidence": "medium"
+    },
+    {
+      "category": "people",
+      "answer": "Josh DeSeno",
+      "clue": "Whose greyscale face is on the kappa emoticon on Twitch?",
+      "clue2": "This person's name has 2 words",
+      "source": "OpenTriviaDB - General Knowledge",
+      "originalCategory": "General Knowledge",
+      "confidence": "medium"
+    },
+    {
+      "category": "people",
+      "answer": "Traffic Collision Avoidance System",
+      "clue": "In flight systems, what does the initialism \"TCAS\" stand for?",
+      "clue2": "This person's name has 4 words",
+      "source": "OpenTriviaDB - General Knowledge",
+      "originalCategory": "General Knowledge",
+      "confidence": "medium"
+    },
+    {
+      "category": "people",
+      "answer": "Almond Joy",
+      "clue": "Which candy is NOT made by Mars?",
+      "clue2": "This person's name has 2 words",
+      "source": "OpenTriviaDB - General Knowledge",
+      "originalCategory": "General Knowledge",
+      "confidence": "medium"
+    },
+    {
+      "category": "people",
+      "answer": "Star City",
+      "clue": "In DC comics where does the Green Arrow (Oliver Queen) live?",
+      "clue2": "This person's name has 2 words",
+      "source": "OpenTriviaDB - General Knowledge",
+      "originalCategory": "General Knowledge",
+      "confidence": "medium"
+    },
+    {
+      "category": "people",
+      "answer": "Peace",
+      "clue": "Linus Pauling, one of the only winners of multiple Nobel Prizes, earned his Nobel Prizes in Chemistry and what?",
+      "clue2": "Starts with the letter \"P\"",
+      "source": "OpenTriviaDB - General Knowledge",
+      "originalCategory": "General Knowledge",
+      "confidence": "medium"
+    },
+    {
+      "category": "people",
+      "answer": "The Shatter's",
+      "clue": "In the MMO RPG \"Realm of the Mad God\", what dungeon is widely considered to be the most difficult?",
+      "clue2": "This person's name has 2 words",
+      "source": "OpenTriviaDB - General Knowledge",
+      "originalCategory": "General Knowledge",
+      "confidence": "medium"
+    },
+    {
+      "category": "people",
+      "answer": "Plum",
+      "clue": "According to the nursery rhyme, what fruit did Little Jack Horner pull out of his Christmas pie?",
+      "clue2": "Starts with the letter \"P\"",
+      "source": "OpenTriviaDB - General Knowledge",
+      "originalCategory": "General Knowledge",
+      "confidence": "medium"
+    },
+    {
+      "category": "people",
+      "answer": "The Fox and the Hound",
+      "clue": "Which of the following is NOT one of Aesop's fables?",
+      "clue2": "This person's name has 5 words",
+      "source": "OpenTriviaDB - General Knowledge",
+      "originalCategory": "General Knowledge",
+      "confidence": "medium"
+    },
+    {
+      "category": "people",
+      "answer": "Emperor",
+      "clue": "What is the largest living species of penguin?",
+      "clue2": "Starts with the letter \"E\"",
+      "source": "OpenTriviaDB - General Knowledge",
+      "originalCategory": "General Knowledge",
+      "confidence": "medium"
+    },
+    {
+      "category": "people",
+      "answer": "Shan Yu",
+      "clue": "In Mulan (1998), who is the leader of the Huns?",
+      "clue2": "This person's name has 2 words",
+      "source": "OpenTriviaDB - Entertainment: Film",
+      "originalCategory": "Entertainment: Film",
+      "confidence": "medium"
+    },
+    {
+      "category": "people",
+      "answer": "Billy Corgan",
+      "clue": "Who is the lead singer of the Smashing Pumpkins?",
+      "clue2": "This person's name has 2 words",
+      "source": "OpenTriviaDB - Entertainment: Music",
+      "originalCategory": "Entertainment: Music",
+      "confidence": "medium"
+    },
+    {
+      "category": "people",
+      "answer": "Alex Turner",
+      "clue": "Who is the lead singer of Arctic Monkeys?",
+      "clue2": "This person's name has 2 words",
+      "source": "OpenTriviaDB - Entertainment: Music",
+      "originalCategory": "Entertainment: Music",
+      "confidence": "medium"
+    },
+    {
+      "category": "people",
+      "answer": "Patrick Stump",
+      "clue": "Who is the singer for Fall Out Boy?",
+      "clue2": "This person's name has 2 words",
+      "source": "OpenTriviaDB - Entertainment: Music",
+      "originalCategory": "Entertainment: Music",
+      "confidence": "medium"
+    },
+    {
+      "category": "people",
+      "answer": "Deoxyribonucleic Acid",
+      "clue": "What does DNA stand for?",
+      "clue2": "This person's name has 2 words",
+      "source": "OpenTriviaDB - Science &amp; Nature",
+      "originalCategory": "Science &amp; Nature",
+      "confidence": "medium"
+    },
+    {
+      "category": "people",
+      "answer": "Cognitive Dissonance",
+      "clue": "Which psychological term refers to the stress of holding contrasting beliefs?",
+      "clue2": "This person's name has 2 words",
+      "source": "OpenTriviaDB - Science &amp; Nature",
+      "originalCategory": "Science &amp; Nature",
+      "confidence": "medium"
+    },
+    {
+      "category": "people",
+      "answer": "Convergent Plate Boundaries/Oceanic Crust",
+      "clue": "Which of these two plates are best know for forming earthquakes and tsunami's? ",
+      "clue2": "This person's name has 4 words",
+      "source": "OpenTriviaDB - Science &amp; Nature",
+      "originalCategory": "Science &amp; Nature",
+      "confidence": "medium"
+    },
+    {
+      "category": "places",
+      "answer": "Switzerland",
+      "clue": "The World Health Organization headquarters is located in which European country?",
+      "clue2": "This location has 11 letters in its name",
+      "source": "OpenTriviaDB - Geography",
+      "originalCategory": "Geography",
+      "confidence": "high"
+    },
+    {
+      "category": "places",
+      "answer": "Michigan",
+      "clue": "Frankenmuth, a US city nicknamed \"Little Bavaria\", is located in what state?",
+      "clue2": "This location has 8 letters in its name",
+      "source": "OpenTriviaDB - Geography",
+      "originalCategory": "Geography",
+      "confidence": "high"
+    },
+    {
+      "category": "places",
+      "answer": "Afghanistan and Pakistan",
+      "clue": "The mountainous Khyber Pass connects which of the two following countries?",
+      "clue2": "This location has 24 letters in its name",
+      "source": "OpenTriviaDB - Geography",
+      "originalCategory": "Geography",
+      "confidence": "high"
+    },
+    {
+      "category": "places",
+      "answer": "Dubai",
+      "clue": "Which of these is NOT a city in Saudi Arabia?",
+      "clue2": "Begins with \"D\"",
+      "source": "OpenTriviaDB - Geography",
+      "originalCategory": "Geography",
+      "confidence": "high"
+    },
+    {
+      "category": "places",
+      "answer": "Samoyedic",
+      "clue": "All of the following are classified as Finno-Ugric languages EXCEPT:",
+      "clue2": "This location has 9 letters in its name",
+      "source": "OpenTriviaDB - Geography",
+      "originalCategory": "Geography",
+      "confidence": "high"
+    },
+    {
+      "category": "places",
+      "answer": "Seoul",
+      "clue": "What is the capital of South Korea?",
+      "clue2": "Begins with \"S\"",
+      "source": "OpenTriviaDB - Geography",
+      "originalCategory": "Geography",
+      "confidence": "high"
+    },
+    {
+      "category": "places",
+      "answer": "Dakar",
+      "clue": "What is the capital of Senegal?",
+      "clue2": "Begins with \"D\"",
+      "source": "OpenTriviaDB - Geography",
+      "originalCategory": "Geography",
+      "confidence": "high"
+    },
+    {
+      "category": "places",
+      "answer": "Egypt and Sudan",
+      "clue": "Bir Tawil, an uninhabited track of land claimed by no country, is located along the border of which two countries?",
+      "clue2": "This location has 15 letters in its name",
+      "source": "OpenTriviaDB - Geography",
+      "originalCategory": "Geography",
+      "confidence": "high"
+    },
+    {
+      "category": "places",
+      "answer": "Europe and Africa",
+      "clue": "On which continent/s is the entire country of Spain specifically located when taking into account all of its territory?",
+      "clue2": "This location has 17 letters in its name",
+      "source": "OpenTriviaDB - Geography",
+      "originalCategory": "Geography",
+      "confidence": "high"
+    },
+    {
+      "category": "places",
+      "answer": "0",
+      "clue": "How many rivers are in Saudi Arabia?",
+      "clue2": "Begins with \"0\"",
+      "source": "OpenTriviaDB - Geography",
+      "originalCategory": "Geography",
+      "confidence": "high"
+    },
+    {
+      "category": "places",
+      "answer": "Colombo",
+      "clue": "What is the largest city and commercial capital of Sri Lanka?",
+      "clue2": "This location has 7 letters in its name",
+      "source": "OpenTriviaDB - Geography",
+      "originalCategory": "Geography",
+      "confidence": "high"
+    },
+    {
+      "category": "places",
+      "answer": "Kaunas",
+      "clue": "What is the second-largest city in Lithuania?",
+      "clue2": "Begins with \"K\"",
+      "source": "OpenTriviaDB - Geography",
+      "originalCategory": "Geography",
+      "confidence": "high"
+    },
+    {
+      "category": "places",
+      "answer": "Santiago",
+      "clue": "What is the capital of Chile?",
+      "clue2": "This location has 8 letters in its name",
+      "source": "OpenTriviaDB - Geography",
+      "originalCategory": "Geography",
+      "confidence": "high"
+    },
+    {
+      "category": "places",
+      "answer": "Georgian",
+      "clue": "Which of the following languages does NOT use the Latin alphabet?",
+      "clue2": "This location has 8 letters in its name",
+      "source": "OpenTriviaDB - Geography",
+      "originalCategory": "Geography",
+      "confidence": "high"
+    },
+    {
+      "category": "places",
+      "answer": "Bratislava",
+      "clue": "What is the capital of Slovakia?",
+      "clue2": "This location has 10 letters in its name",
+      "source": "OpenTriviaDB - Geography",
+      "originalCategory": "Geography",
+      "confidence": "high"
+    },
+    {
+      "category": "places",
+      "answer": "Guyana",
+      "clue": "Which is not a country in Africa?",
+      "clue2": "Begins with \"G\"",
+      "source": "OpenTriviaDB - Geography",
+      "originalCategory": "Geography",
+      "confidence": "high"
+    },
+    {
+      "category": "places",
+      "answer": "1",
+      "clue": "How many time zones does China have?",
+      "clue2": "Begins with \"1\"",
+      "source": "OpenTriviaDB - Geography",
+      "originalCategory": "Geography",
+      "confidence": "high"
+    },
+    {
+      "category": "places",
+      "answer": "Indonesia",
+      "clue": "What is the largest Muslim country in the world?",
+      "clue2": "This location has 9 letters in its name",
+      "source": "OpenTriviaDB - Geography",
+      "originalCategory": "Geography",
+      "confidence": "high"
+    },
+    {
+      "category": "places",
+      "answer": "Denmark",
+      "clue": "Greenland is a part of which kingdom?",
+      "clue2": "This location has 7 letters in its name",
+      "source": "OpenTriviaDB - Geography",
+      "originalCategory": "Geography",
+      "confidence": "high"
+    },
+    {
+      "category": "places",
+      "answer": "Africa",
+      "clue": "The Gambia is a nation found on which continent?",
+      "clue2": "Begins with \"A\"",
+      "source": "OpenTriviaDB - Geography",
+      "originalCategory": "Geography",
+      "confidence": "high"
+    },
+    {
+      "category": "places",
+      "answer": "1,776 ft",
+      "clue": "How tall is One World Trade Center in New York City?",
+      "clue2": "This location has 8 letters in its name",
+      "source": "OpenTriviaDB - Geography",
+      "originalCategory": "Geography",
+      "confidence": "high"
+    },
+    {
+      "category": "places",
+      "answer": "Omicron (&Omicron;)",
+      "clue": "What is the 15th letter of the Greek alphabet?",
+      "clue2": "This location has 19 letters in its name",
+      "source": "OpenTriviaDB - Geography",
+      "originalCategory": "Geography",
+      "confidence": "high"
+    },
+    {
+      "category": "places",
+      "answer": "Murcia",
+      "clue": "The following Spanish provinces are located in the northern area of Spain except:",
+      "clue2": "Begins with \"M\"",
+      "source": "OpenTriviaDB - Geography",
+      "originalCategory": "Geography",
+      "confidence": "high"
+    },
+    {
+      "category": "places",
+      "answer": "Indonesia",
+      "clue": "What is the most populous Muslim-majority nation in 2010?",
+      "clue2": "This location has 9 letters in its name",
+      "source": "OpenTriviaDB - Geography",
+      "originalCategory": "Geography",
+      "confidence": "high"
+    },
+    {
+      "category": "places",
+      "answer": "Rome, Italy",
+      "clue": "Where would you find the \"Spanish Steps\"?",
+      "clue2": "This location has 11 letters in its name",
+      "source": "OpenTriviaDB - Geography",
+      "originalCategory": "Geography",
+      "confidence": "high"
+    },
+    {
+      "category": "places",
+      "answer": "Basque",
+      "clue": "Which of the following European languages is classified as a \"language isolate?\"",
+      "clue2": "Begins with \"B\"",
+      "source": "OpenTriviaDB - Geography",
+      "originalCategory": "Geography",
+      "confidence": "high"
+    },
+    {
+      "category": "places",
+      "answer": "Andorra",
+      "clue": "What tiny principality lies between Spain and France?",
+      "clue2": "This location has 7 letters in its name",
+      "source": "OpenTriviaDB - Geography",
+      "originalCategory": "Geography",
+      "confidence": "high"
+    },
+    {
+      "category": "places",
+      "answer": "Peru",
+      "clue": "Where are the Nazca Lines located?",
+      "clue2": "Begins with \"P\"",
+      "source": "OpenTriviaDB - Geography",
+      "originalCategory": "Geography",
+      "confidence": "high"
+    },
+    {
+      "category": "places",
+      "answer": "Brazil",
+      "clue": "In which country is the city of Rio de Janeiro?",
+      "clue2": "Begins with \"B\"",
+      "source": "OpenTriviaDB - Geography",
+      "originalCategory": "Geography",
+      "confidence": "high"
+    },
+    {
+      "category": "places",
+      "answer": "India",
+      "clue": "The Andaman and Nicobar Islands in South East Asia are controlled by which country?",
+      "clue2": "Begins with \"I\"",
+      "source": "OpenTriviaDB - Geography",
+      "originalCategory": "Geography",
+      "confidence": "high"
+    },
+    {
+      "category": "places",
+      "answer": "Western Australia",
+      "clue": "Broome is a town in which state of Australia?",
+      "clue2": "This location has 17 letters in its name",
+      "source": "OpenTriviaDB - Geography",
+      "originalCategory": "Geography",
+      "confidence": "high"
+    },
+    {
+      "category": "places",
+      "answer": "Canada",
+      "clue": "What country is the second largest in the world by area?",
+      "clue2": "Begins with \"C\"",
+      "source": "OpenTriviaDB - Geography",
+      "originalCategory": "Geography",
+      "confidence": "high"
+    },
+    {
+      "category": "places",
+      "answer": "December 6th",
+      "clue": "When does Finland celebrate their independence day?",
+      "clue2": "This location has 12 letters in its name",
+      "source": "OpenTriviaDB - Geography",
+      "originalCategory": "Geography",
+      "confidence": "high"
+    },
+    {
+      "category": "places",
+      "answer": "Copenhagen",
+      "clue": "What is the capital of Denmark?",
+      "clue2": "This location has 10 letters in its name",
+      "source": "OpenTriviaDB - Geography",
+      "originalCategory": "Geography",
+      "confidence": "high"
+    },
+    {
+      "category": "places",
+      "answer": "Maori",
+      "clue": "What is the name of New Zealand's indigenous people?",
+      "clue2": "Begins with \"M\"",
+      "source": "OpenTriviaDB - Geography",
+      "originalCategory": "Geography",
+      "confidence": "high"
+    },
+    {
+      "category": "places",
+      "answer": "5",
+      "clue": "How many countries are larger than Australia?",
+      "clue2": "Begins with \"5\"",
+      "source": "OpenTriviaDB - Geography",
+      "originalCategory": "Geography",
+      "confidence": "high"
+    },
+    {
+      "category": "places",
+      "answer": "Fairfax County, Virginia",
+      "clue": "Colchester Overpass, otherwise known as \"Bunny Man Bridge\", is located where?",
+      "clue2": "This location has 24 letters in its name",
+      "source": "OpenTriviaDB - Geography",
+      "originalCategory": "Geography",
+      "confidence": "high"
+    },
+    {
+      "category": "places",
+      "answer": "Quebec",
+      "clue": "Montreal is in which Canadian province?",
+      "clue2": "Begins with \"Q\"",
+      "source": "OpenTriviaDB - Geography",
+      "originalCategory": "Geography",
+      "confidence": "high"
+    },
+    {
+      "category": "places",
+      "answer": "3",
+      "clue": "How many countries share a land border with Luxembourg?",
+      "clue2": "Begins with \"3\"",
+      "source": "OpenTriviaDB - Geography",
+      "originalCategory": "Geography",
+      "confidence": "high"
+    },
+    {
+      "category": "places",
+      "answer": "36,600",
+      "clue": "In 2012 the German-speaking microstate \"Liechtenstein\" in Central Europe had a population of how many inhabitants?",
+      "clue2": "Begins with \"3\"",
+      "source": "OpenTriviaDB - Geography",
+      "originalCategory": "Geography",
+      "confidence": "high"
+    },
+    {
+      "category": "places",
+      "answer": "Monaco",
+      "clue": "What country has a horizontal bicolor red and white flag?",
+      "clue2": "Begins with \"M\"",
+      "source": "OpenTriviaDB - Geography",
+      "originalCategory": "Geography",
+      "confidence": "high"
+    },
+    {
+      "category": "places",
+      "answer": "Sudbury, Ontario",
+      "clue": "In which city is the Big Nickel located in Canada?",
+      "clue2": "This location has 16 letters in its name",
+      "source": "OpenTriviaDB - Geography",
+      "originalCategory": "Geography",
+      "confidence": "high"
+    },
+    {
+      "category": "places",
+      "answer": "Transylvania",
+      "clue": "Which area of Eastern Europe is famous for its association with vampires?",
+      "clue2": "This location has 12 letters in its name",
+      "source": "OpenTriviaDB - Geography",
+      "originalCategory": "Geography",
+      "confidence": "high"
+    },
+    {
+      "category": "places",
+      "answer": "Uzbekistan",
+      "clue": "Which of these countries is \"doubly landlocked\" (surrounded entirely by one or more landlocked countries)?",
+      "clue2": "This location has 10 letters in its name",
+      "source": "OpenTriviaDB - Geography",
+      "originalCategory": "Geography",
+      "confidence": "high"
+    },
+    {
+      "category": "places",
+      "answer": "Albany",
+      "clue": "What is the capital of the US State of New York?",
+      "clue2": "Begins with \"A\"",
+      "source": "OpenTriviaDB - Geography",
+      "originalCategory": "Geography",
+      "confidence": "high"
+    },
+    {
+      "category": "places",
+      "answer": "Minsk",
+      "clue": "What is the capital of Belarus?",
+      "clue2": "Begins with \"M\"",
+      "source": "OpenTriviaDB - Geography",
+      "originalCategory": "Geography",
+      "confidence": "high"
+    },
+    {
+      "category": "places",
+      "answer": "Barbados",
+      "clue": "Bridgetown is the capital of which island country in the Carribean?",
+      "clue2": "This location has 8 letters in its name",
+      "source": "OpenTriviaDB - Geography",
+      "originalCategory": "Geography",
+      "confidence": "high"
+    },
+    {
+      "category": "places",
+      "answer": "Edinburgh",
+      "clue": "What is the capital of Scotland?",
+      "clue2": "This location has 9 letters in its name",
+      "source": "OpenTriviaDB - Geography",
+      "originalCategory": "Geography",
+      "confidence": "high"
+    },
+    {
+      "category": "places",
+      "answer": "India",
+      "clue": "The words \"bungalow\" and \"shampoo\" originate from the languages of which country?",
+      "clue2": "Begins with \"I\"",
+      "source": "OpenTriviaDB - General Knowledge",
+      "originalCategory": "General Knowledge",
+      "confidence": "high"
+    },
+    {
+      "category": "places",
+      "answer": "San Francisco, California",
+      "clue": "Which of these American cities has fewer than 1,000,000 people?",
+      "clue2": "This location has 25 letters in its name",
+      "source": "OpenTriviaDB - Geography",
+      "originalCategory": "Geography",
+      "confidence": "medium"
+    },
+    {
+      "category": "places",
+      "answer": "Lishana Deni",
+      "clue": "What is the name of one of the Neo-Aramaic languages spoken by the Jewish population from Northwestern Iraq?",
+      "clue2": "This location has 12 letters in its name",
+      "source": "OpenTriviaDB - Geography",
+      "originalCategory": "Geography",
+      "confidence": "medium"
+    },
+    {
+      "category": "places",
+      "answer": "The signing of the Declaration of Independence",
+      "clue": "What does the United States of America celebrate during the 4th of July?",
+      "clue2": "This location has 46 letters in its name",
+      "source": "OpenTriviaDB - History",
+      "originalCategory": "History",
+      "confidence": "medium"
+    },
+    {
+      "category": "places",
+      "answer": "1792",
+      "clue": "In what year did Kentucky become the 15th state to join the union?",
+      "clue2": "Begins with \"1\"",
+      "source": "OpenTriviaDB - History",
+      "originalCategory": "History",
+      "confidence": "medium"
+    },
+    {
+      "category": "places",
+      "answer": "Constantinople",
+      "clue": "In 1453, which important city fell?",
+      "clue2": "This location has 14 letters in its name",
+      "source": "OpenTriviaDB - History",
+      "originalCategory": "History",
+      "confidence": "medium"
+    },
+    {
+      "category": "places",
+      "answer": "July 1st, 1867",
+      "clue": "When did Canada leave the confederation to become their own nation?",
+      "clue2": "This location has 14 letters in its name",
+      "source": "OpenTriviaDB - History",
+      "originalCategory": "History",
+      "confidence": "medium"
+    },
+    {
+      "category": "places",
+      "answer": "France",
+      "clue": "The Battle of the Somme in World War I took place in which country?",
+      "clue2": "Begins with \"F\"",
+      "source": "OpenTriviaDB - History",
+      "originalCategory": "History",
+      "confidence": "medium"
+    },
+    {
+      "category": "places",
+      "answer": "Great Pyramid of Giza",
+      "clue": "In the Seven Wonders of the World, which wonder is the only that has survived to this day?",
+      "clue2": "This location has 21 letters in its name",
+      "source": "OpenTriviaDB - History",
+      "originalCategory": "History",
+      "confidence": "medium"
+    },
+    {
+      "category": "places",
+      "answer": "Hampton Court",
+      "clue": "What was the name of one of the surviving palaces of Henry VIII located near Richmond, London?",
+      "clue2": "This location has 13 letters in its name",
+      "source": "OpenTriviaDB - History",
+      "originalCategory": "History",
+      "confidence": "medium"
+    },
+    {
+      "category": "places",
+      "answer": "England, Germany, Russia",
+      "clue": "During World War I, which nation's monarchs were blood related?",
+      "clue2": "This location has 24 letters in its name",
+      "source": "OpenTriviaDB - History",
+      "originalCategory": "History",
+      "confidence": "medium"
+    },
+    {
+      "category": "places",
+      "answer": "1901",
+      "clue": "What year did Australia become a federation?",
+      "clue2": "Begins with \"1\"",
+      "source": "OpenTriviaDB - History",
+      "originalCategory": "History",
+      "confidence": "medium"
+    },
+    {
+      "category": "places",
+      "answer": "St. Peter's Basilica",
+      "clue": "Which church's interior in Vatican City was designed in 1503 by renaissance architects including Bramante, Michelangelo and Bernini?",
+      "clue2": "This location has 20 letters in its name",
+      "source": "OpenTriviaDB - General Knowledge",
+      "originalCategory": "General Knowledge",
+      "confidence": "medium"
+    },
+    {
+      "category": "places",
+      "answer": "Sneeze",
+      "clue": "Autosomal-dominant Compelling Helio-Ophthalmic Outburst syndrome is the need to do what when seeing the Sun?",
+      "clue2": "Begins with \"S\"",
+      "source": "OpenTriviaDB - Science &amp; Nature",
+      "originalCategory": "Science &amp; Nature",
+      "confidence": "medium"
+    },
+    {
+      "category": "places",
+      "answer": "Brain",
+      "clue": "Where in the human body is the Pineal Gland located?",
+      "clue2": "Begins with \"B\"",
+      "source": "OpenTriviaDB - Science &amp; Nature",
+      "originalCategory": "Science &amp; Nature",
+      "confidence": "medium"
+    },
+    {
+      "category": "places",
+      "answer": "Polaris",
+      "clue": "What is the official name of the star located closest to the North Celestial Pole?",
+      "clue2": "This location has 7 letters in its name",
+      "source": "OpenTriviaDB - Science &amp; Nature",
+      "originalCategory": "Science &amp; Nature",
+      "confidence": "medium"
+    },
+    {
+      "category": "places",
+      "answer": "Mars and Jupiter",
+      "clue": "The asteroid belt is located between which two planets?",
+      "clue2": "This location has 16 letters in its name",
+      "source": "OpenTriviaDB - Science &amp; Nature",
+      "originalCategory": "Science &amp; Nature",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "Watches",
+      "clue": "Rolex is a company that specializes in what type of product?",
+      "clue2": "The answer is 1 word(s) starting with \"W\"",
+      "source": "OpenTriviaDB - General Knowledge",
+      "originalCategory": "General Knowledge",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "LV-426",
+      "clue": "What was the name of the planet in \"Aliens\"?",
+      "clue2": "The answer is 1 word(s) starting with \"L\"",
+      "source": "OpenTriviaDB - Entertainment: Film",
+      "originalCategory": "Entertainment: Film",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "Hogarth Hughes",
+      "clue": "In the movie &ldquo;The Iron Giant,&rdquo; this character is the protagonist.",
+      "clue2": "The answer is 2 word(s) starting with \"H\"",
+      "source": "OpenTriviaDB - Entertainment: Film",
+      "originalCategory": "Entertainment: Film",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "Green Arrow",
+      "clue": "Which DC superhero was NOT included in the 2017 movie \"Justice League\"?",
+      "clue2": "The answer is 2 word(s) starting with \"G\"",
+      "source": "OpenTriviaDB - Entertainment: Film",
+      "originalCategory": "Entertainment: Film",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "Tron",
+      "clue": "In what Disney movie can you spot the character \"Pac-Man\" in if you look closely enough in some scenes?",
+      "clue2": "The answer is 1 word(s) starting with \"T\"",
+      "source": "OpenTriviaDB - Entertainment: Film",
+      "originalCategory": "Entertainment: Film",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "RoboCop",
+      "clue": "Which of these films is NOT set in Los Angeles?",
+      "clue2": "The answer is 1 word(s) starting with \"R\"",
+      "source": "OpenTriviaDB - Entertainment: Film",
+      "originalCategory": "Entertainment: Film",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "Benjamin Franklin Gates",
+      "clue": "What is the name of the character Nicolas Cage plays in the movie \"National Treasure?\"",
+      "clue2": "The answer is 3 word(s) starting with \"B\"",
+      "source": "OpenTriviaDB - Entertainment: Film",
+      "originalCategory": "Entertainment: Film",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "Verdi",
+      "clue": "The film Mad Max: Fury Road features the Dies Irae  from which composer's requiem?",
+      "clue2": "The answer is 1 word(s) starting with \"V\"",
+      "source": "OpenTriviaDB - Entertainment: Film",
+      "originalCategory": "Entertainment: Film",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "Titanic",
+      "clue": "What film did James Cameron's Avatar dethrone as the highest-grossing film ever?",
+      "clue2": "The answer is 1 word(s) starting with \"T\"",
+      "source": "OpenTriviaDB - Entertainment: Film",
+      "originalCategory": "Entertainment: Film",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "Wilson",
+      "clue": "What name did Tom Hanks give to his volleyball companion in the film `Cast Away`?",
+      "clue2": "The answer is 1 word(s) starting with \"W\"",
+      "source": "OpenTriviaDB - Entertainment: Film",
+      "originalCategory": "Entertainment: Film",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "Toy Story 2",
+      "clue": "Which movie sequel had improved box office results compared to its original film?",
+      "clue2": "The answer is 3 word(s) starting with \"T\"",
+      "source": "OpenTriviaDB - Entertainment: Film",
+      "originalCategory": "Entertainment: Film",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "a lawnmower",
+      "clue": "Before getting the shotgun, what did the titular hobo in 'Hobo with a Shotgun' want to purchase?",
+      "clue2": "The answer is 2 word(s) starting with \"a\"",
+      "source": "OpenTriviaDB - Entertainment: Film",
+      "originalCategory": "Entertainment: Film",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "Drums",
+      "clue": "In the 2014 film \"Birdman\", what is the primary instrument in the score?",
+      "clue2": "The answer is 1 word(s) starting with \"D\"",
+      "source": "OpenTriviaDB - Entertainment: Film",
+      "originalCategory": "Entertainment: Film",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "1986",
+      "clue": "In what year was the first Transformers movie released?",
+      "clue2": "The answer is 1 word(s) starting with \"1\"",
+      "source": "OpenTriviaDB - Entertainment: Film",
+      "originalCategory": "Entertainment: Film",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "Sugar",
+      "clue": "What was Marilyn Monroe`s character's first name in the film \"Some Like It Hot\"?",
+      "clue2": "The answer is 1 word(s) starting with \"S\"",
+      "source": "OpenTriviaDB - Entertainment: Film",
+      "originalCategory": "Entertainment: Film",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "1957",
+      "clue": "In the Friday The 13th series, what year did Jason drown in?",
+      "clue2": "The answer is 1 word(s) starting with \"1\"",
+      "source": "OpenTriviaDB - Entertainment: Film",
+      "originalCategory": "Entertainment: Film",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "1997",
+      "clue": "What year did the James Cameron film \"Titanic\" come out in theaters?",
+      "clue2": "The answer is 1 word(s) starting with \"1\"",
+      "source": "OpenTriviaDB - Entertainment: Film",
+      "originalCategory": "Entertainment: Film",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "Beer",
+      "clue": "In order to cut costs, what were most of the extras of Mad Max (1979) paid with?",
+      "clue2": "The answer is 1 word(s) starting with \"B\"",
+      "source": "OpenTriviaDB - Entertainment: Film",
+      "originalCategory": "Entertainment: Film",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "Boomstick",
+      "clue": "In the 1992 film \"Army of Darkness\", what name does Ash give to his double-barreled shotgun?",
+      "clue2": "The answer is 1 word(s) starting with \"B\"",
+      "source": "OpenTriviaDB - Entertainment: Film",
+      "originalCategory": "Entertainment: Film",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "Distant Drums",
+      "clue": "What was the first movie to ever use a Wilhelm Scream?",
+      "clue2": "The answer is 2 word(s) starting with \"D\"",
+      "source": "OpenTriviaDB - Entertainment: Film",
+      "originalCategory": "Entertainment: Film",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "Jimmy Cooper",
+      "clue": "In the 1979 British film \"Quadrophenia\" what is the name of the main protagonist?",
+      "clue2": "The answer is 2 word(s) starting with \"J\"",
+      "source": "OpenTriviaDB - Entertainment: Film",
+      "originalCategory": "Entertainment: Film",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "A New Hope",
+      "clue": "What is the name of the first \"Star Wars\" film by release order?",
+      "clue2": "The answer is 3 word(s) starting with \"A\"",
+      "source": "OpenTriviaDB - Entertainment: Film",
+      "originalCategory": "Entertainment: Film",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "Keegan-Michael Key",
+      "clue": "In the Super Mario Bros. Movie (2023), who plays Toad?",
+      "clue2": "The answer is 2 word(s) starting with \"K\"",
+      "source": "OpenTriviaDB - Entertainment: Film",
+      "originalCategory": "Entertainment: Film",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "Camp Crystal Lake",
+      "clue": "Where does the original Friday The 13th movie take place?",
+      "clue2": "The answer is 3 word(s) starting with \"C\"",
+      "source": "OpenTriviaDB - Entertainment: Film",
+      "originalCategory": "Entertainment: Film",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "The Simpsons Movie",
+      "clue": "7-Eleven stores were temporarily converted into Kwik E-marts to promote the release of what movie?",
+      "clue2": "The answer is 3 word(s) starting with \"T\"",
+      "source": "OpenTriviaDB - Entertainment: Film",
+      "originalCategory": "Entertainment: Film",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "2010",
+      "clue": "Which year was the first official Youtube Rewind released?",
+      "clue2": "The answer is 1 word(s) starting with \"2\"",
+      "source": "OpenTriviaDB - Entertainment: Film",
+      "originalCategory": "Entertainment: Film",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "Yautja",
+      "clue": "What is the species of the \"Predator\" in the 1987 movie \"Predator\"?",
+      "clue2": "The answer is 1 word(s) starting with \"Y\"",
+      "source": "OpenTriviaDB - Entertainment: Film",
+      "originalCategory": "Entertainment: Film",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "Mining gear",
+      "clue": "The killer in the 1981 film 'My Bloody Valentine' wears what sort of outfit?",
+      "clue2": "The answer is 2 word(s) starting with \"M\"",
+      "source": "OpenTriviaDB - Entertainment: Film",
+      "originalCategory": "Entertainment: Film",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "Scarface",
+      "clue": "Which movie contains the quote, \"Say hello to my little friend!\"?",
+      "clue2": "The answer is 1 word(s) starting with \"S\"",
+      "source": "OpenTriviaDB - Entertainment: Film",
+      "originalCategory": "Entertainment: Film",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "Men of Harlech",
+      "clue": "In the 1964 film \"Zulu\", what song does the British Army company sing before the final battle?",
+      "clue2": "The answer is 3 word(s) starting with \"M\"",
+      "source": "OpenTriviaDB - Entertainment: Film",
+      "originalCategory": "Entertainment: Film",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "His puppy is killed and his car was stolen",
+      "clue": "In the film \"John Wick\" why does John Wick get out of retirement?",
+      "clue2": "The answer is 9 word(s) starting with \"H\"",
+      "source": "OpenTriviaDB - Entertainment: Film",
+      "originalCategory": "Entertainment: Film",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "Victoria",
+      "clue": "Which one of these action movies are shot entirely in one take?",
+      "clue2": "The answer is 1 word(s) starting with \"V\"",
+      "source": "OpenTriviaDB - Entertainment: Film",
+      "originalCategory": "Entertainment: Film",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "Spanish Inquisition",
+      "clue": "What historical time period was the center of the Assassin&rsquo;s Creed movie (2016)?",
+      "clue2": "The answer is 2 word(s) starting with \"S\"",
+      "source": "OpenTriviaDB - Entertainment: Film",
+      "originalCategory": "Entertainment: Film",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "Unknown Pleasures",
+      "clue": "Which iconic album cover features the pulsar waves of CP 1919 placed in the center of the cover?",
+      "clue2": "The answer is 2 word(s) starting with \"U\"",
+      "source": "OpenTriviaDB - Entertainment: Music",
+      "originalCategory": "Entertainment: Music",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "Blonde",
+      "clue": "What was the name of singer Frank Ocean's second studio album, which was released on August 20, 2016?",
+      "clue2": "The answer is 1 word(s) starting with \"B\"",
+      "source": "OpenTriviaDB - Entertainment: Music",
+      "originalCategory": "Entertainment: Music",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "Adele, 25",
+      "clue": "What was the best selling album of 2015?",
+      "clue2": "The answer is 2 word(s) starting with \"A\"",
+      "source": "OpenTriviaDB - Entertainment: Music",
+      "originalCategory": "Entertainment: Music",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "-",
+      "clue": "Which of these is not an Ed Sheeran album?",
+      "clue2": "The answer is 1 word(s) starting with \"-\"",
+      "source": "OpenTriviaDB - Entertainment: Music",
+      "originalCategory": "Entertainment: Music",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "John",
+      "clue": "Which Beatle led the way across the zebra crossing on the Abbey Road album cover?",
+      "clue2": "The answer is 1 word(s) starting with \"J\"",
+      "source": "OpenTriviaDB - Entertainment: Music",
+      "originalCategory": "Entertainment: Music",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "Dave Navarro",
+      "clue": "Which of the following guitarists recorded an album as a member of the Red Hot Chili Peppers?",
+      "clue2": "The answer is 2 word(s) starting with \"D\"",
+      "source": "OpenTriviaDB - Entertainment: Music",
+      "originalCategory": "Entertainment: Music",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "Masta Killa",
+      "clue": "Which member of the Wu-Tang Clan had only one verse in their debut album Enter the Wu-Tang (36 Chambers)?",
+      "clue2": "The answer is 2 word(s) starting with \"M\"",
+      "source": "OpenTriviaDB - Entertainment: Music",
+      "originalCategory": "Entertainment: Music",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "Foo Fighters",
+      "clue": "Which band released the album \"Sonic Highways\" in 2014?",
+      "clue2": "The answer is 2 word(s) starting with \"F\"",
+      "source": "OpenTriviaDB - Entertainment: Music",
+      "originalCategory": "Entertainment: Music",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "Snow",
+      "clue": "Which Canadian reggae musician had a 1993 hit with the song 'Informer'?",
+      "clue2": "The answer is 1 word(s) starting with \"S\"",
+      "source": "OpenTriviaDB - Entertainment: Music",
+      "originalCategory": "Entertainment: Music",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "Hurt",
+      "clue": "Johnny Cash did a cover of this song written by lead singer of Nine Inch Nails, Trent Reznor.",
+      "clue2": "The answer is 1 word(s) starting with \"H\"",
+      "source": "OpenTriviaDB - Entertainment: Music",
+      "originalCategory": "Entertainment: Music",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "WiFi Tears",
+      "clue": "Which of these is NOT a song by Pegboard Nerds?",
+      "clue2": "The answer is 2 word(s) starting with \"W\"",
+      "source": "OpenTriviaDB - Entertainment: Music",
+      "originalCategory": "Entertainment: Music",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "We Don't Need Another Hero",
+      "clue": "What song by Tina Turner is the theme for Mad Max Beyond Thunderdome?",
+      "clue2": "The answer is 5 word(s) starting with \"W\"",
+      "source": "OpenTriviaDB - Entertainment: Music",
+      "originalCategory": "Entertainment: Music",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "The Velvet Underground and Nico",
+      "clue": "This album, now considered to be one of the greatest of all time, was a commercial failure when it was released.",
+      "clue2": "The answer is 5 word(s) starting with \"T\"",
+      "source": "OpenTriviaDB - Entertainment: Music",
+      "originalCategory": "Entertainment: Music",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "20.5",
+      "clue": "How many copies have Metallica album \"Metallica\" (A.K.A The Black Album) sold worldwide (in Millions of Copies)?",
+      "clue2": "The answer is 1 word(s) starting with \"2\"",
+      "source": "OpenTriviaDB - Entertainment: Music",
+      "originalCategory": "Entertainment: Music",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "Adventure",
+      "clue": "What is the name of French electronic music producer Madeon's 2015 debut studio album?",
+      "clue2": "The answer is 1 word(s) starting with \"A\"",
+      "source": "OpenTriviaDB - Entertainment: Music",
+      "originalCategory": "Entertainment: Music",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "Mr. Rogers",
+      "clue": "In the song &ldquo;The Ultimate Showdown of Ultimate Destiny,&rdquo; who is the only one to survive the battle?",
+      "clue2": "The answer is 2 word(s) starting with \"M\"",
+      "source": "OpenTriviaDB - Entertainment: Music",
+      "originalCategory": "Entertainment: Music",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "Homework",
+      "clue": "What was Daft Punk's first studio album?",
+      "clue2": "The answer is 1 word(s) starting with \"H\"",
+      "source": "OpenTriviaDB - Entertainment: Music",
+      "originalCategory": "Entertainment: Music",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "For Blood And Empire",
+      "clue": "Which of the following is an album by punk rock band Anti-Flag?",
+      "clue2": "The answer is 4 word(s) starting with \"F\"",
+      "source": "OpenTriviaDB - Entertainment: Music",
+      "originalCategory": "Entertainment: Music",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "Alesso",
+      "clue": "Which of these artists was NOT a member of the electronic music supergroup Swedish House Mafia, which split up in 2013?",
+      "clue2": "The answer is 1 word(s) starting with \"A\"",
+      "source": "OpenTriviaDB - Entertainment: Music",
+      "originalCategory": "Entertainment: Music",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "The Piper at the Gates of Dawn",
+      "clue": "What is Pink Floyd's first album?",
+      "clue2": "The answer is 7 word(s) starting with \"T\"",
+      "source": "OpenTriviaDB - Entertainment: Music",
+      "originalCategory": "Entertainment: Music",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "2012",
+      "clue": "When was Gangnam Style uploaded to YouTube?",
+      "clue2": "The answer is 1 word(s) starting with \"2\"",
+      "source": "OpenTriviaDB - Entertainment: Music",
+      "originalCategory": "Entertainment: Music",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "The Life of Pablo",
+      "clue": "Which of these is NOT the name of an album released by American rapper Viper?",
+      "clue2": "The answer is 4 word(s) starting with \"T\"",
+      "source": "OpenTriviaDB - Entertainment: Music",
+      "originalCategory": "Entertainment: Music",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "\"So melt your headaches call it home\"",
+      "clue": "In the Panic! At the Disco's song \"Nothern Downpour\", which lyric follows 'I know the world's a broken bone'.",
+      "clue2": "The answer is 7 word(s) starting with \"\"\"",
+      "source": "OpenTriviaDB - Entertainment: Music",
+      "originalCategory": "Entertainment: Music",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "V",
+      "clue": "What is the name of the album released in 2014 by American band Maroon 5?",
+      "clue2": "The answer is 1 word(s) starting with \"V\"",
+      "source": "OpenTriviaDB - Entertainment: Music",
+      "originalCategory": "Entertainment: Music",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "August 21",
+      "clue": "The Rio 2016 Summer Olympics held it's closing ceremony on what date?",
+      "clue2": "The answer is 2 word(s) starting with \"A\"",
+      "source": "OpenTriviaDB - Sports",
+      "originalCategory": "Sports",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "Death of Ayrton Senna (San Marino)",
+      "clue": "The F1 season of 1994 is remembered for what tragic event?",
+      "clue2": "The answer is 6 word(s) starting with \"D\"",
+      "source": "OpenTriviaDB - Sports",
+      "originalCategory": "Sports",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "7 - 1",
+      "clue": "What was the final score of the Germany vs. Brazil 2014 FIFA World Cup match?",
+      "clue2": "The answer is 3 word(s) starting with \"7\"",
+      "source": "OpenTriviaDB - Sports",
+      "originalCategory": "Sports",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "1",
+      "clue": "In Canadian football, scoring a rouge is worth how many points?",
+      "clue2": "The answer is 1 word(s) starting with \"1\"",
+      "source": "OpenTriviaDB - Sports",
+      "originalCategory": "Sports",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "Mexico",
+      "clue": "At which race was the 2018 F1 Drivers Championship won?",
+      "clue2": "The answer is 1 word(s) starting with \"M\"",
+      "source": "OpenTriviaDB - Sports",
+      "originalCategory": "Sports",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "Hammer",
+      "clue": "What tool lends it's name to a last-stone advantage in an end in Curling?",
+      "clue2": "The answer is 1 word(s) starting with \"H\"",
+      "source": "OpenTriviaDB - Sports",
+      "originalCategory": "Sports",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "European Championships",
+      "clue": "The song \"Three Lions\" by the Lightning Seeds was made for which major football event in 1996?",
+      "clue2": "The answer is 2 word(s) starting with \"E\"",
+      "source": "OpenTriviaDB - Sports",
+      "originalCategory": "Sports",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "0",
+      "clue": "In baseball, how many fouls are an out?",
+      "clue2": "The answer is 1 word(s) starting with \"0\"",
+      "source": "OpenTriviaDB - Sports",
+      "originalCategory": "Sports",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "Portugal",
+      "clue": "What team did England beat in the semi-final stage to win in the 1966 World Cup final?",
+      "clue2": "The answer is 1 word(s) starting with \"P\"",
+      "source": "OpenTriviaDB - Sports",
+      "originalCategory": "Sports",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "Cue",
+      "clue": "What is the name of the \"tool\" used to hit the white ball in snooker or billiards?",
+      "clue2": "The answer is 1 word(s) starting with \"C\"",
+      "source": "OpenTriviaDB - Sports",
+      "originalCategory": "Sports",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "Porsche",
+      "clue": "Which car manufacturer won the 2017 24 Hours of Le Mans?",
+      "clue2": "The answer is 1 word(s) starting with \"P\"",
+      "source": "OpenTriviaDB - Sports",
+      "originalCategory": "Sports",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "6",
+      "clue": "How many French Open's did Björn Borg win?",
+      "clue2": "The answer is 1 word(s) starting with \"6\"",
+      "source": "OpenTriviaDB - Sports",
+      "originalCategory": "Sports",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "Mazda",
+      "clue": "Prior to 2018, which car company is the only Japanese company which won the 24 Hours of Le Mans?",
+      "clue2": "The answer is 1 word(s) starting with \"M\"",
+      "source": "OpenTriviaDB - Sports",
+      "originalCategory": "Sports",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "Puma",
+      "clue": "Which German sportswear company's logo is the 'Formstripe'?",
+      "clue2": "The answer is 1 word(s) starting with \"P\"",
+      "source": "OpenTriviaDB - Sports",
+      "originalCategory": "Sports",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "Moscow",
+      "clue": "Where was the Games of the XXII Olympiad held?",
+      "clue2": "The answer is 1 word(s) starting with \"M\"",
+      "source": "OpenTriviaDB - Sports",
+      "originalCategory": "Sports",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "Chile",
+      "clue": "Which soccer team won the Copa América Centenario 2016?",
+      "clue2": "The answer is 1 word(s) starting with \"C\"",
+      "source": "OpenTriviaDB - Sports",
+      "originalCategory": "Sports",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "Turkey",
+      "clue": "In bowling, what is the term used for getting three consecutive strikes?",
+      "clue2": "The answer is 1 word(s) starting with \"T\"",
+      "source": "OpenTriviaDB - Sports",
+      "originalCategory": "Sports",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "Nine",
+      "clue": "How many times did Martina Navratilova win the Wimbledon Singles Championship?",
+      "clue2": "The answer is 1 word(s) starting with \"N\"",
+      "source": "OpenTriviaDB - Sports",
+      "originalCategory": "Sports",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "American Football",
+      "clue": "Which sport is NOT traditionally played during the Mongolian Naadam festival?",
+      "clue2": "The answer is 2 word(s) starting with \"A\"",
+      "source": "OpenTriviaDB - Sports",
+      "originalCategory": "Sports",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "38",
+      "clue": "How many games did Arsenal FC go unbeaten during the 2003-2004 season of the English Premier League",
+      "clue2": "The answer is 1 word(s) starting with \"3\"",
+      "source": "OpenTriviaDB - Sports",
+      "originalCategory": "Sports",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "22",
+      "clue": "How many soccer players should be on the field at the same time?",
+      "clue2": "The answer is 1 word(s) starting with \"2\"",
+      "source": "OpenTriviaDB - Sports",
+      "originalCategory": "Sports",
+      "confidence": "high"
+    },
+    {
+      "category": "things",
+      "answer": "1986",
+      "clue": "In what year did the nuclear power plant in Chernobyl melt down?",
+      "clue2": "The answer is 1 word(s) starting with \"1\"",
+      "source": "OpenTriviaDB - History",
+      "originalCategory": "History",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "Octagon",
+      "clue": "What geometric shape is generally used for stop signs?",
+      "clue2": "The answer is 1 word(s) starting with \"O\"",
+      "source": "OpenTriviaDB - General Knowledge",
+      "originalCategory": "General Knowledge",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "Key",
+      "clue": "In the video-game franchise Kingdom Hearts, the main protagonist, carries a weapon with what shape?",
+      "clue2": "The answer is 1 word(s) starting with \"K\"",
+      "source": "OpenTriviaDB - General Knowledge",
+      "originalCategory": "General Knowledge",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "Brad's Drink",
+      "clue": "What was the soft drink Pepsi originally introduced as?",
+      "clue2": "The answer is 2 word(s) starting with \"B\"",
+      "source": "OpenTriviaDB - General Knowledge",
+      "originalCategory": "General Knowledge",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "Tennis",
+      "clue": "Bob and Mike Bryan were well known brothers in which sport?",
+      "clue2": "The answer is 1 word(s) starting with \"T\"",
+      "source": "OpenTriviaDB - General Knowledge",
+      "originalCategory": "General Knowledge",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "Sodium",
+      "clue": " Which chemical element, number 11 in the Periodic table, has the symbol Na?",
+      "clue2": "The answer is 1 word(s) starting with \"S\"",
+      "source": "OpenTriviaDB - General Knowledge",
+      "originalCategory": "General Knowledge",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "8",
+      "clue": "In \"Resident Evil 3\", how many inventory slots does Jill have at the start of the game?",
+      "clue2": "The answer is 1 word(s) starting with \"8\"",
+      "source": "OpenTriviaDB - General Knowledge",
+      "originalCategory": "General Knowledge",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "Canned soups",
+      "clue": "The American company \"Campbell's\" is most well known for making what food product?",
+      "clue2": "The answer is 2 word(s) starting with \"C\"",
+      "source": "OpenTriviaDB - General Knowledge",
+      "originalCategory": "General Knowledge",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "Islam",
+      "clue": "The Quran is the holy book of which Abrahamic religion?",
+      "clue2": "The answer is 1 word(s) starting with \"I\"",
+      "source": "OpenTriviaDB - General Knowledge",
+      "originalCategory": "General Knowledge",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "Tommy Lee Jones",
+      "clue": "Who played Deputy Marshal Samuel Gerard in the 1993 film \"The Fugitive\"?",
+      "clue2": "The answer is 3 word(s) starting with \"T\"",
+      "source": "OpenTriviaDB - Entertainment: Film",
+      "originalCategory": "Entertainment: Film",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "2005",
+      "clue": "In what year does Jurassic World open in the \"Jurassic Park\" universe?",
+      "clue2": "The answer is 1 word(s) starting with \"2\"",
+      "source": "OpenTriviaDB - Entertainment: Film",
+      "originalCategory": "Entertainment: Film",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "The Muppets Take Manhattan",
+      "clue": "Ed Koch, the Mayor of New York in 1984, played himself in which Muppets movie?",
+      "clue2": "The answer is 4 word(s) starting with \"T\"",
+      "source": "OpenTriviaDB - Entertainment: Film",
+      "originalCategory": "Entertainment: Film",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "Dick Dastardly Richards",
+      "clue": "In Youtuber Jerma985's 2014 film \"Rat Movie: Mystery of the Mayan Treasure,\" who is the man who tries to steal the Mayan Treasure?",
+      "clue2": "The answer is 3 word(s) starting with \"D\"",
+      "source": "OpenTriviaDB - Entertainment: Film",
+      "originalCategory": "Entertainment: Film",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "Bombardier Billy Wells",
+      "clue": "Which boxer was famous for striking the gong in the introduction to J. Arthur Rank films?",
+      "clue2": "The answer is 3 word(s) starting with \"B\"",
+      "source": "OpenTriviaDB - Entertainment: Film",
+      "originalCategory": "Entertainment: Film",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "George Lucas",
+      "clue": "Who directed the 1973 film \"American Graffiti\"?",
+      "clue2": "The answer is 2 word(s) starting with \"G\"",
+      "source": "OpenTriviaDB - Entertainment: Film",
+      "originalCategory": "Entertainment: Film",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "Romani Ite Domum",
+      "clue": "What is the correct phrase for the Latin saying \"Romanes Eunt Domus\" in Monty Python's Life of Brian?",
+      "clue2": "The answer is 3 word(s) starting with \"R\"",
+      "source": "OpenTriviaDB - Entertainment: Film",
+      "originalCategory": "Entertainment: Film",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "Sean Connery",
+      "clue": "Who voiced the character Draco in the 1996 movie 'DragonHeart'?",
+      "clue2": "The answer is 2 word(s) starting with \"S\"",
+      "source": "OpenTriviaDB - Entertainment: Film",
+      "originalCategory": "Entertainment: Film",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "George Clooney",
+      "clue": "Who played Batman in the 1997 film \"Batman and Robin\"?",
+      "clue2": "The answer is 2 word(s) starting with \"G\"",
+      "source": "OpenTriviaDB - Entertainment: Film",
+      "originalCategory": "Entertainment: Film",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "50's",
+      "clue": "\"The Day the Music Died\" was a tragic plane crash that killed three musicians in which decade?",
+      "clue2": "The answer is 1 word(s) starting with \"5\"",
+      "source": "OpenTriviaDB - Entertainment: Music",
+      "originalCategory": "Entertainment: Music",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "The Naked and Famous",
+      "clue": "Which of these bands are NOT from Australia?",
+      "clue2": "The answer is 4 word(s) starting with \"T\"",
+      "source": "OpenTriviaDB - Entertainment: Music",
+      "originalCategory": "Entertainment: Music",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "Candles in the Wind",
+      "clue": "Which of the following songs did Elton John perform following Princess Diane's passing?",
+      "clue2": "The answer is 4 word(s) starting with \"C\"",
+      "source": "OpenTriviaDB - Entertainment: Music",
+      "originalCategory": "Entertainment: Music",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "Dog Blood",
+      "clue": "Electronic artists Boys Noize and Skrillex have collaborated and released tracks under what name?",
+      "clue2": "The answer is 2 word(s) starting with \"D\"",
+      "source": "OpenTriviaDB - Entertainment: Music",
+      "originalCategory": "Entertainment: Music",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "Sweden",
+      "clue": "Which country does the electronic music duo \"The Knife\" originate from?",
+      "clue2": "The answer is 1 word(s) starting with \"S\"",
+      "source": "OpenTriviaDB - Entertainment: Music",
+      "originalCategory": "Entertainment: Music",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "Syd Barrett",
+      "clue": "Who is the Pink Floyd song \"Shine On You Crazy Diamond\" written about?",
+      "clue2": "The answer is 2 word(s) starting with \"S\"",
+      "source": "OpenTriviaDB - Entertainment: Music",
+      "originalCategory": "Entertainment: Music",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "Vince Staples",
+      "clue": "Which of the following rappers were NOT part of the hip-hop group Odd Future?",
+      "clue2": "The answer is 2 word(s) starting with \"V\"",
+      "source": "OpenTriviaDB - Entertainment: Music",
+      "originalCategory": "Entertainment: Music",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "Elton John",
+      "clue": "Who recorded the 1975 album 'Captain Fantastic and the Brown Dirt Cowboy'?",
+      "clue2": "The answer is 2 word(s) starting with \"E\"",
+      "source": "OpenTriviaDB - Entertainment: Music",
+      "originalCategory": "Entertainment: Music",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "You'll Be In My Heart",
+      "clue": "Which of the following songs was not originally released by Sir Elton John? ",
+      "clue2": "The answer is 5 word(s) starting with \"Y\"",
+      "source": "OpenTriviaDB - Entertainment: Music",
+      "originalCategory": "Entertainment: Music",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "1928",
+      "clue": "Iconic cartoon character Mickey Mouse made his onscreen debut in what year?",
+      "clue2": "The answer is 1 word(s) starting with \"1\"",
+      "source": "OpenTriviaDB - Entertainment: Music",
+      "originalCategory": "Entertainment: Music",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "Pink Floyd",
+      "clue": "Which of these bands is the oldest?",
+      "clue2": "The answer is 2 word(s) starting with \"P\"",
+      "source": "OpenTriviaDB - Entertainment: Music",
+      "originalCategory": "Entertainment: Music",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "White Christmas",
+      "clue": "\"The Singing Cowboy\" Gene Autry is credited with the first recording for all but which classic Christmas jingle?",
+      "clue2": "The answer is 2 word(s) starting with \"W\"",
+      "source": "OpenTriviaDB - Entertainment: Music",
+      "originalCategory": "Entertainment: Music",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "Avicii",
+      "clue": "Swedish DJ Tim Bergling, who produced songs such as \"Levels\" and \"Wake Me Up\", is better known under what alias?",
+      "clue2": "The answer is 1 word(s) starting with \"A\"",
+      "source": "OpenTriviaDB - Entertainment: Music",
+      "originalCategory": "Entertainment: Music",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "Dr.Dre",
+      "clue": "Which one of these rappers is NOT a member of the rap group Wu-Tang Clan?",
+      "clue2": "The answer is 1 word(s) starting with \"D\"",
+      "source": "OpenTriviaDB - Entertainment: Music",
+      "originalCategory": "Entertainment: Music",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "The Police",
+      "clue": "What band featured Sting, Stewart Copeland and Andy Summers?",
+      "clue2": "The answer is 2 word(s) starting with \"T\"",
+      "source": "OpenTriviaDB - Entertainment: Music",
+      "originalCategory": "Entertainment: Music",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "Germany",
+      "clue": "Which country does the band Rammstein hail from?",
+      "clue2": "The answer is 1 word(s) starting with \"G\"",
+      "source": "OpenTriviaDB - Entertainment: Music",
+      "originalCategory": "Entertainment: Music",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "Jordan",
+      "clue": "With which team did Michael Schumacher make his Formula One debut at the 1991 Belgian Grand Prix?",
+      "clue2": "The answer is 1 word(s) starting with \"J\"",
+      "source": "OpenTriviaDB - Sports",
+      "originalCategory": "Sports",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "1961",
+      "clue": "What year was hockey legend Wayne Gretzky born?",
+      "clue2": "The answer is 1 word(s) starting with \"1\"",
+      "source": "OpenTriviaDB - Sports",
+      "originalCategory": "Sports",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "Jules Bianchi",
+      "clue": "In Formula 1, the Virtual Safety Car was introduced following the fatal crash of which driver?",
+      "clue2": "The answer is 2 word(s) starting with \"J\"",
+      "source": "OpenTriviaDB - Sports",
+      "originalCategory": "Sports",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "Madeira",
+      "clue": "Which portuguese island is soccer player Cristiano Ronaldo from?",
+      "clue2": "The answer is 1 word(s) starting with \"M\"",
+      "source": "OpenTriviaDB - Sports",
+      "originalCategory": "Sports",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "Toronto Marlies",
+      "clue": "What is the name of the AHL affiliate of the Toronto Maple Leafs?",
+      "clue2": "The answer is 2 word(s) starting with \"T\"",
+      "source": "OpenTriviaDB - Sports",
+      "originalCategory": "Sports",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "Philadelphia Flyers",
+      "clue": "Which of these teams isn't a member of the NHL's \"Original Six\" era?",
+      "clue2": "The answer is 2 word(s) starting with \"P\"",
+      "source": "OpenTriviaDB - Sports",
+      "originalCategory": "Sports",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "France",
+      "clue": "Which country won the 2018 FIFA World Cup hosted in Russia?",
+      "clue2": "The answer is 1 word(s) starting with \"F\"",
+      "source": "OpenTriviaDB - Sports",
+      "originalCategory": "Sports",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "2009",
+      "clue": "Which year did Jenson Button won his first ever Formula One World Drivers' Championship?",
+      "clue2": "The answer is 1 word(s) starting with \"2\"",
+      "source": "OpenTriviaDB - Sports",
+      "originalCategory": "Sports",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "To prevent viewing games from outside the park.",
+      "clue": "Why was The Green Monster at Fenway Park was originally built?",
+      "clue2": "The answer is 8 word(s) starting with \"T\"",
+      "source": "OpenTriviaDB - Sports",
+      "originalCategory": "Sports",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "Los Angeles Lakers",
+      "clue": "Which basketball team has attended the most NBA grand finals?",
+      "clue2": "The answer is 3 word(s) starting with \"L\"",
+      "source": "OpenTriviaDB - Sports",
+      "originalCategory": "Sports",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "Minneapolis",
+      "clue": "What city did the Lakers represent before relocating to Los Angeles?",
+      "clue2": "The answer is 1 word(s) starting with \"M\"",
+      "source": "OpenTriviaDB - Sports",
+      "originalCategory": "Sports",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "Liverpool",
+      "clue": "Who did Steven Gerrard win the Champions League with?",
+      "clue2": "The answer is 1 word(s) starting with \"L\"",
+      "source": "OpenTriviaDB - Sports",
+      "originalCategory": "Sports",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "Arizona Cardinals",
+      "clue": "What is the oldest team in the NFL?",
+      "clue2": "The answer is 2 word(s) starting with \"A\"",
+      "source": "OpenTriviaDB - Sports",
+      "originalCategory": "Sports",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "Leicester City",
+      "clue": "Which English football club has the nickname 'The Foxes'?",
+      "clue2": "The answer is 2 word(s) starting with \"L\"",
+      "source": "OpenTriviaDB - Sports",
+      "originalCategory": "Sports",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "Russia",
+      "clue": "Which country hosted the 2018 FIFA World Cup?",
+      "clue2": "The answer is 1 word(s) starting with \"R\"",
+      "source": "OpenTriviaDB - Sports",
+      "originalCategory": "Sports",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "Vladivostok",
+      "clue": "Which of these Russian cities did NOT contain a stadium that was used in the 2018 FIFA World Cup?",
+      "clue2": "The answer is 1 word(s) starting with \"V\"",
+      "source": "OpenTriviaDB - Sports",
+      "originalCategory": "Sports",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "Peter Fleming",
+      "clue": "With which doubles partner did John McEnroe have most success?",
+      "clue2": "The answer is 2 word(s) starting with \"P\"",
+      "source": "OpenTriviaDB - Sports",
+      "originalCategory": "Sports",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "Blue",
+      "clue": "What is considered the rarest form of color blindness?",
+      "clue2": "The answer is 1 word(s) starting with \"B\"",
+      "source": "OpenTriviaDB - Science &amp; Nature",
+      "originalCategory": "Science &amp; Nature",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "Hydrogen",
+      "clue": "Which is the most abundant element in the universe?",
+      "clue2": "The answer is 1 word(s) starting with \"H\"",
+      "source": "OpenTriviaDB - Science &amp; Nature",
+      "originalCategory": "Science &amp; Nature",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "Uranium",
+      "clue": "What element on the periodic table has 92 electrons?",
+      "clue2": "The answer is 1 word(s) starting with \"U\"",
+      "source": "OpenTriviaDB - Science &amp; Nature",
+      "originalCategory": "Science &amp; Nature",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "Carbon dioxide",
+      "clue": "Dry ice is the solid form of what substance?",
+      "clue2": "The answer is 2 word(s) starting with \"C\"",
+      "source": "OpenTriviaDB - Science &amp; Nature",
+      "originalCategory": "Science &amp; Nature",
+      "confidence": "medium"
+    },
+    {
+      "category": "things",
+      "answer": "Iron",
+      "clue": "Which element has the chemical symbol 'Fe'?",
+      "clue2": "The answer is 1 word(s) starting with \"I\"",
+      "source": "OpenTriviaDB - Science &amp; Nature",
+      "originalCategory": "Science &amp; Nature",
+      "confidence": "medium"
+    }
+  ]
+}

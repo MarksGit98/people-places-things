@@ -1,0 +1,3806 @@
+{
+  "generatedAt": "2026-01-11T23:56:28.128Z",
+  "totalEntries": 120,
+  "entries": [
+    {
+      "answer": "Albert Einstein",
+      "clue": "A physicist whose hair was as wild as his theories",
+      "clue2": "E=mc² was his claim to fame",
+      "mainCategory": "people",
+      "yAxisCategories": [
+        "Starts with A",
+        "Two-word answer",
+        "Ends in N"
+      ]
+    },
+    {
+      "answer": "Cleopatra",
+      "clue": "An Egyptian ruler whose romantic alliances shaped empires",
+      "clue2": "She captivated both Caesar and Mark Antony",
+      "mainCategory": "people",
+      "yAxisCategories": [
+        "Starts with C",
+        "One-word answer",
+        "Ends in A"
+      ]
+    },
+    {
+      "answer": "Leonardo da Vinci",
+      "clue": "A Renaissance genius who sketched helicopters centuries early",
+      "clue2": "The painter behind history's most mysterious smile",
+      "mainCategory": "people",
+      "yAxisCategories": [
+        "Starts with L",
+        "Three-word answer",
+        "Long answer (15+ chars)"
+      ]
+    },
+    {
+      "answer": "Frida Kahlo",
+      "clue": "An artist whose self-portraits never flinched from pain",
+      "clue2": "Her unibrow became as iconic as her Mexican heritage",
+      "mainCategory": "people",
+      "yAxisCategories": [
+        "Starts with F",
+        "Two-word answer"
+      ]
+    },
+    {
+      "answer": "Nelson Mandela",
+      "clue": "A prisoner who became president after 27 years behind bars",
+      "clue2": "He led South Africa from apartheid to democracy",
+      "mainCategory": "people",
+      "yAxisCategories": [
+        "Starts with N",
+        "Two-word answer",
+        "Ends in A"
+      ]
+    },
+    {
+      "answer": "Marie Curie",
+      "clue": "A scientist who won Nobel Prizes in two different fields",
+      "clue2": "She coined the term 'radioactivity' and discovered radium",
+      "mainCategory": "people",
+      "yAxisCategories": [
+        "Starts with M",
+        "Two-word answer"
+      ]
+    },
+    {
+      "answer": "Muhammad Ali",
+      "clue": "A boxer who floated like a butterfly and stung like a bee",
+      "clue2": "Born Cassius Clay, he became 'The Greatest'",
+      "mainCategory": "people",
+      "yAxisCategories": [
+        "Starts with M",
+        "Two-word answer",
+        "Contains double letters",
+        "Contains MM"
+      ]
+    },
+    {
+      "answer": "Oprah Winfrey",
+      "clue": "A talk show host whose book club could make any author famous",
+      "clue2": "'You get a car!' became her signature moment",
+      "mainCategory": "people",
+      "yAxisCategories": [
+        "Starts with O",
+        "Two-word answer",
+        "Ends in Y"
+      ]
+    },
+    {
+      "answer": "Vincent van Gogh",
+      "clue": "A painter who cut off part of his own ear",
+      "clue2": "Starry Night came from this troubled Dutch artist",
+      "mainCategory": "people",
+      "yAxisCategories": [
+        "Starts with V",
+        "Three-word answer"
+      ]
+    },
+    {
+      "answer": "Marilyn Monroe",
+      "clue": "A blonde icon whose white dress moment became legendary",
+      "clue2": "She sang 'Happy Birthday' to President Kennedy",
+      "mainCategory": "people",
+      "yAxisCategories": [
+        "Starts with M",
+        "Two-word answer",
+        "Alliterative answer"
+      ]
+    },
+    {
+      "answer": "Stephen Hawking",
+      "clue": "A physicist whose computerized voice explained black holes",
+      "clue2": "A Brief History of Time came from a wheelchair",
+      "mainCategory": "people",
+      "yAxisCategories": [
+        "Starts with S",
+        "Two-word answer",
+        "Ends in ING"
+      ]
+    },
+    {
+      "answer": "Serena Williams",
+      "clue": "A tennis legend who dominated courts for over two decades",
+      "clue2": "She won 23 Grand Slam singles titles, often facing her sister",
+      "mainCategory": "people",
+      "yAxisCategories": [
+        "Starts with S",
+        "Two-word answer",
+        "Ends in S",
+        "Contains double letters",
+        "Contains LL",
+        "Starts and ends with same letter"
+      ]
+    },
+    {
+      "answer": "Pablo Picasso",
+      "clue": "An artist who saw faces from multiple angles simultaneously",
+      "clue2": "He co-founded Cubism and painted Guernica",
+      "mainCategory": "people",
+      "yAxisCategories": [
+        "Starts with P",
+        "Two-word answer",
+        "Contains double letters",
+        "Contains SS",
+        "Alliterative answer"
+      ]
+    },
+    {
+      "answer": "Amelia Earhart",
+      "clue": "An aviator who vanished attempting to circle the globe",
+      "clue2": "She was the first woman to fly solo across the Atlantic",
+      "mainCategory": "people",
+      "yAxisCategories": [
+        "Starts with A",
+        "Two-word answer"
+      ]
+    },
+    {
+      "answer": "Wolfgang Amadeus Mozart",
+      "clue": "A child prodigy who composed symphonies before age 10",
+      "clue2": "This Austrian genius died mysteriously at 35",
+      "mainCategory": "people",
+      "yAxisCategories": [
+        "Starts with W",
+        "Three-word answer",
+        "Contains Z",
+        "Long answer (15+ chars)"
+      ]
+    },
+    {
+      "answer": "Rosa Parks",
+      "clue": "A seamstress whose refusal to stand sparked a movement",
+      "clue2": "Her bus seat became a symbol of civil rights",
+      "mainCategory": "people",
+      "yAxisCategories": [
+        "Starts with R",
+        "Two-word answer",
+        "Ends in S"
+      ]
+    },
+    {
+      "answer": "Nikola Tesla",
+      "clue": "An inventor whose name now adorns electric vehicles",
+      "clue2": "He championed AC power in the 'War of Currents'",
+      "mainCategory": "people",
+      "yAxisCategories": [
+        "Starts with N",
+        "Two-word answer",
+        "Ends in A"
+      ]
+    },
+    {
+      "answer": "Princess Diana",
+      "clue": "A royal whose warmth earned her the title 'People's Princess'",
+      "clue2": "Her death in 1997 mourned by millions worldwide",
+      "mainCategory": "people",
+      "yAxisCategories": [
+        "Starts with P",
+        "Two-word answer",
+        "Ends in A",
+        "Contains double letters",
+        "Contains SS",
+        "Contains common noun",
+        "Contains \"princess\""
+      ]
+    },
+    {
+      "answer": "Steve Jobs",
+      "clue": "A tech visionary who made a fruit synonymous with innovation",
+      "clue2": "He unveiled the iPhone in his signature black turtleneck",
+      "mainCategory": "people",
+      "yAxisCategories": [
+        "Starts with S",
+        "Two-word answer",
+        "Ends in S",
+        "Starts and ends with same letter"
+      ]
+    },
+    {
+      "answer": "Coco Chanel",
+      "clue": "A designer whose little black dress changed fashion forever",
+      "clue2": "Her No. 5 perfume remains iconic after a century",
+      "mainCategory": "people",
+      "yAxisCategories": [
+        "Starts with C",
+        "Two-word answer",
+        "Alliterative answer"
+      ]
+    },
+    {
+      "answer": "Bruce Lee",
+      "clue": "A martial artist whose kicks were too fast for film",
+      "clue2": "He starred in Enter the Dragon and founded Jeet Kune Do",
+      "mainCategory": "people",
+      "yAxisCategories": [
+        "Starts with B",
+        "Two-word answer",
+        "Contains double letters",
+        "Contains EE"
+      ]
+    },
+    {
+      "answer": "Jane Goodall",
+      "clue": "A primatologist who lived among chimps in Tanzania",
+      "clue2": "She proved tool use wasn't uniquely human",
+      "mainCategory": "people",
+      "yAxisCategories": [
+        "Starts with J",
+        "Two-word answer",
+        "Contains double letters",
+        "Contains LL",
+        "Contains OO"
+      ]
+    },
+    {
+      "answer": "David Bowie",
+      "clue": "A rock chameleon who fell to Earth as Ziggy Stardust",
+      "clue2": "His eyes were famously different colors",
+      "mainCategory": "people",
+      "yAxisCategories": [
+        "Starts with D",
+        "Two-word answer"
+      ]
+    },
+    {
+      "answer": "Malala Yousafzai",
+      "clue": "A teenager who survived being shot for advocating education",
+      "clue2": "The youngest Nobel Peace Prize laureate",
+      "mainCategory": "people",
+      "yAxisCategories": [
+        "Starts with M",
+        "Two-word answer",
+        "Contains Z",
+        "Long answer (15+ chars)"
+      ]
+    },
+    {
+      "answer": "Andy Warhol",
+      "clue": "An artist who turned soup cans into high art",
+      "clue2": "His silver Factory was the center of 60s counterculture",
+      "mainCategory": "people",
+      "yAxisCategories": [
+        "Starts with A",
+        "Two-word answer"
+      ]
+    },
+    {
+      "answer": "Usain Bolt",
+      "clue": "A sprinter whose lightning pose became iconic",
+      "clue2": "He holds the 100m world record at 9.58 seconds",
+      "mainCategory": "people",
+      "yAxisCategories": [
+        "Starts with U",
+        "Two-word answer",
+        "Contains common noun",
+        "Contains \"bolt\""
+      ]
+    },
+    {
+      "answer": "Audrey Hepburn",
+      "clue": "An actress who made breakfast stylish at Tiffany's",
+      "clue2": "She became a UNICEF Goodwill Ambassador",
+      "mainCategory": "people",
+      "yAxisCategories": [
+        "Starts with A",
+        "Two-word answer",
+        "Ends in N"
+      ]
+    },
+    {
+      "answer": "Elon Musk",
+      "clue": "A billionaire who wants to colonize Mars",
+      "clue2": "He founded Tesla, SpaceX, and acquired Twitter",
+      "mainCategory": "people",
+      "yAxisCategories": [
+        "Starts with E",
+        "Two-word answer"
+      ]
+    },
+    {
+      "answer": "Charles Darwin",
+      "clue": "A naturalist whose theory ruffled Victorian feathers",
+      "clue2": "His Galapagos voyage led to On the Origin of Species",
+      "mainCategory": "people",
+      "yAxisCategories": [
+        "Starts with C",
+        "Two-word answer",
+        "Ends in N"
+      ]
+    },
+    {
+      "answer": "Freddie Mercury",
+      "clue": "A frontman whose operatic voice defied rock conventions",
+      "clue2": "He wrote Bohemian Rhapsody and led Queen",
+      "mainCategory": "people",
+      "yAxisCategories": [
+        "Starts with F",
+        "Two-word answer",
+        "Ends in Y",
+        "Contains double letters",
+        "Contains DD",
+        "Contains a color",
+        "Contains \"red\""
+      ]
+    },
+    {
+      "answer": "Harriet Tubman",
+      "clue": "A conductor who never lost a passenger on her railroad",
+      "clue2": "She led hundreds to freedom via the Underground Railroad",
+      "mainCategory": "people",
+      "yAxisCategories": [
+        "Starts with H",
+        "Two-word answer",
+        "Ends in N",
+        "Contains double letters",
+        "Contains RR"
+      ]
+    },
+    {
+      "answer": "Cristiano Ronaldo",
+      "clue": "A footballer whose celebration shout is 'SIUUU'",
+      "clue2": "He's scored over 800 career goals",
+      "mainCategory": "people",
+      "yAxisCategories": [
+        "Starts with C",
+        "Two-word answer",
+        "Long answer (15+ chars)"
+      ]
+    },
+    {
+      "answer": "Ruth Bader Ginsburg",
+      "clue": "A justice who became a pop culture icon in her 80s",
+      "clue2": "The 'Notorious RBG' served on the Supreme Court",
+      "mainCategory": "people",
+      "yAxisCategories": [
+        "Starts with R",
+        "Three-word answer",
+        "Long answer (15+ chars)"
+      ]
+    },
+    {
+      "answer": "Salvador Dalí",
+      "clue": "A surrealist whose mustache was as melted as his clocks",
+      "clue2": "He painted The Persistence of Memory",
+      "mainCategory": "people",
+      "yAxisCategories": [
+        "Starts with S",
+        "Two-word answer"
+      ]
+    },
+    {
+      "answer": "Gordon Ramsay",
+      "clue": "A chef whose vocabulary is as colorful as his cooking",
+      "clue2": "He screams at contestants on Hell's Kitchen",
+      "mainCategory": "people",
+      "yAxisCategories": [
+        "Starts with G",
+        "Two-word answer",
+        "Ends in Y"
+      ]
+    },
+    {
+      "answer": "Helen Keller",
+      "clue": "A woman who proved disability couldn't limit achievement",
+      "clue2": "Despite being deaf and blind, she became an author and activist",
+      "mainCategory": "people",
+      "yAxisCategories": [
+        "Starts with H",
+        "Two-word answer",
+        "Ends in ER",
+        "Contains double letters",
+        "Contains LL"
+      ]
+    },
+    {
+      "answer": "Jeff Bezos",
+      "clue": "A mogul whose empire started with books",
+      "clue2": "He founded Amazon and briefly visited space",
+      "mainCategory": "people",
+      "yAxisCategories": [
+        "Starts with J",
+        "Two-word answer",
+        "Ends in S",
+        "Contains Z",
+        "Contains double letters",
+        "Contains FF"
+      ]
+    },
+    {
+      "answer": "Simone Biles",
+      "clue": "A gymnast who has moves named after her",
+      "clue2": "The most decorated American gymnast in history",
+      "mainCategory": "people",
+      "yAxisCategories": [
+        "Starts with S",
+        "Two-word answer",
+        "Ends in S",
+        "Starts and ends with same letter"
+      ]
+    },
+    {
+      "answer": "Winston Churchill",
+      "clue": "A leader who offered nothing but blood, toil, tears, and sweat",
+      "clue2": "He led Britain through World War II",
+      "mainCategory": "people",
+      "yAxisCategories": [
+        "Starts with W",
+        "Two-word answer",
+        "Contains double letters",
+        "Contains LL",
+        "Long answer (15+ chars)"
+      ]
+    },
+    {
+      "answer": "Lady Gaga",
+      "clue": "A pop star who wore meat to an awards show",
+      "clue2": "She was born this way and ruled the Bad Romance era",
+      "mainCategory": "people",
+      "yAxisCategories": [
+        "Starts with L",
+        "Two-word answer",
+        "Ends in A"
+      ]
+    },
+    {
+      "answer": "Machu Picchu",
+      "clue": "An ancient city hidden from conquistadors for centuries",
+      "clue2": "This Incan citadel sits 8,000 feet up in the Andes",
+      "mainCategory": "places",
+      "yAxisCategories": [
+        "Starts with M",
+        "Two-word answer",
+        "Contains double letters",
+        "Contains CC"
+      ]
+    },
+    {
+      "answer": "Great Barrier Reef",
+      "clue": "A living structure visible from space",
+      "clue2": "This coral system stretches 1,400 miles off Australia",
+      "mainCategory": "places",
+      "yAxisCategories": [
+        "Starts with G",
+        "Three-word answer",
+        "Contains double letters",
+        "Contains EE",
+        "Contains RR",
+        "Contains common noun",
+        "Contains \"reef\"",
+        "Long answer (15+ chars)"
+      ]
+    },
+    {
+      "answer": "Venice",
+      "clue": "A city where parking means tying a rope to a pole",
+      "clue2": "Gondoliers navigate its 150+ canals",
+      "mainCategory": "places",
+      "yAxisCategories": [
+        "Starts with V",
+        "One-word answer"
+      ]
+    },
+    {
+      "answer": "Mount Everest",
+      "clue": "A peak that challenges climbers with its 'death zone'",
+      "clue2": "At 29,032 feet, it's Earth's highest point",
+      "mainCategory": "places",
+      "yAxisCategories": [
+        "Starts with M",
+        "Two-word answer"
+      ]
+    },
+    {
+      "answer": "Sahara Desert",
+      "clue": "A sandy expanse that could swallow most of Europe",
+      "clue2": "This African desert's name means 'Greatest Desert'",
+      "mainCategory": "places",
+      "yAxisCategories": [
+        "Starts with S",
+        "Two-word answer",
+        "Contains common noun",
+        "Contains \"desert\""
+      ]
+    },
+    {
+      "answer": "Amazon Rainforest",
+      "clue": "A jungle that produces 20% of Earth's oxygen",
+      "clue2": "It spans nine countries in South America",
+      "mainCategory": "places",
+      "yAxisCategories": [
+        "Starts with A",
+        "Two-word answer",
+        "Contains Z",
+        "Long answer (15+ chars)"
+      ]
+    },
+    {
+      "answer": "Grand Canyon",
+      "clue": "A gorge carved by patience and the Colorado River",
+      "clue2": "Its layered rocks reveal 2 billion years of history",
+      "mainCategory": "places",
+      "yAxisCategories": [
+        "Starts with G",
+        "Two-word answer",
+        "Ends in N",
+        "Contains common noun",
+        "Contains \"canyon\""
+      ]
+    },
+    {
+      "answer": "Iceland",
+      "clue": "A country where fire and ice coexist dramatically",
+      "clue2": "Despite its name, it's greener than its neighbor Greenland",
+      "mainCategory": "places",
+      "yAxisCategories": [
+        "Starts with I",
+        "One-word answer"
+      ]
+    },
+    {
+      "answer": "Taj Mahal",
+      "clue": "A mausoleum that proves love can be architectural",
+      "clue2": "Built by a Mughal emperor for his late wife",
+      "mainCategory": "places",
+      "yAxisCategories": [
+        "Starts with T",
+        "Two-word answer"
+      ]
+    },
+    {
+      "answer": "Serengeti",
+      "clue": "A plain where millions of animals follow ancient paths",
+      "clue2": "Its annual migration is nature's greatest show",
+      "mainCategory": "places",
+      "yAxisCategories": [
+        "Starts with S",
+        "One-word answer"
+      ]
+    },
+    {
+      "answer": "Petra",
+      "clue": "A rose-red city half as old as time",
+      "clue2": "Indiana Jones found the Holy Grail here",
+      "mainCategory": "places",
+      "yAxisCategories": [
+        "Starts with P",
+        "One-word answer",
+        "Ends in A",
+        "Short answer (≤5 chars)"
+      ]
+    },
+    {
+      "answer": "Great Wall of China",
+      "clue": "A barrier that couldn't keep out Genghis Khan",
+      "clue2": "It stretches over 13,000 miles across Asia",
+      "mainCategory": "places",
+      "yAxisCategories": [
+        "Starts with G",
+        "Four+ word answer",
+        "Ends in A",
+        "Contains double letters",
+        "Contains LL",
+        "Contains common noun",
+        "Contains \"wall\"",
+        "Long answer (15+ chars)"
+      ]
+    },
+    {
+      "answer": "Niagara Falls",
+      "clue": "A cascade that honeymooners have admired for centuries",
+      "clue2": "It straddles the US-Canada border",
+      "mainCategory": "places",
+      "yAxisCategories": [
+        "Starts with N",
+        "Two-word answer",
+        "Ends in S",
+        "Contains double letters",
+        "Contains LL",
+        "Contains common noun",
+        "Contains \"falls\""
+      ]
+    },
+    {
+      "answer": "Silicon Valley",
+      "clue": "A region where garage startups become global giants",
+      "clue2": "Apple, Google, and Facebook call this California area home",
+      "mainCategory": "places",
+      "yAxisCategories": [
+        "Starts with S",
+        "Two-word answer",
+        "Ends in Y",
+        "Contains double letters",
+        "Contains LL",
+        "Contains common noun",
+        "Contains \"valley\""
+      ]
+    },
+    {
+      "answer": "Antarctica",
+      "clue": "A continent with no permanent human residents",
+      "clue2": "It holds 70% of Earth's fresh water as ice",
+      "mainCategory": "places",
+      "yAxisCategories": [
+        "Starts with A",
+        "One-word answer",
+        "Ends in A",
+        "Starts and ends with same letter"
+      ]
+    },
+    {
+      "answer": "Galápagos Islands",
+      "clue": "An archipelago where tortoises inspired a theory",
+      "clue2": "Darwin's observations here changed biology",
+      "mainCategory": "places",
+      "yAxisCategories": [
+        "Starts with G",
+        "Two-word answer",
+        "Ends in S",
+        "Long answer (15+ chars)"
+      ]
+    },
+    {
+      "answer": "Vatican City",
+      "clue": "A nation smaller than most golf courses",
+      "clue2": "The Pope leads this tiny state within Rome",
+      "mainCategory": "places",
+      "yAxisCategories": [
+        "Starts with V",
+        "Two-word answer",
+        "Ends in Y"
+      ]
+    },
+    {
+      "answer": "Mariana Trench",
+      "clue": "A chasm deeper than Everest is tall",
+      "clue2": "The deepest known point in Earth's oceans",
+      "mainCategory": "places",
+      "yAxisCategories": [
+        "Starts with M",
+        "Two-word answer"
+      ]
+    },
+    {
+      "answer": "Stonehenge",
+      "clue": "A circle of rocks that still mystifies archaeologists",
+      "clue2": "These standing stones align with summer solstice",
+      "mainCategory": "places",
+      "yAxisCategories": [
+        "Starts with S",
+        "One-word answer"
+      ]
+    },
+    {
+      "answer": "Hong Kong",
+      "clue": "A city where skyscrapers crowd against mountains and sea",
+      "clue2": "This former British territory returned to China in 1997",
+      "mainCategory": "places",
+      "yAxisCategories": [
+        "Starts with H",
+        "Two-word answer"
+      ]
+    },
+    {
+      "answer": "Yellowstone",
+      "clue": "A park sitting atop a supervolcano",
+      "clue2": "Old Faithful erupts here every 90 minutes",
+      "mainCategory": "places",
+      "yAxisCategories": [
+        "Starts with Y",
+        "One-word answer",
+        "Contains double letters",
+        "Contains LL",
+        "Contains a color",
+        "Contains \"yellow\""
+      ]
+    },
+    {
+      "answer": "Dubai",
+      "clue": "A city that treats 'world's tallest' as a personal challenge",
+      "clue2": "The Burj Khalifa rises from this desert metropolis",
+      "mainCategory": "places",
+      "yAxisCategories": [
+        "Starts with D",
+        "One-word answer",
+        "Short answer (≤5 chars)"
+      ]
+    },
+    {
+      "answer": "Chernobyl",
+      "clue": "A city evacuated after a nuclear nightmare",
+      "clue2": "Nature has reclaimed this Ukrainian ghost town",
+      "mainCategory": "places",
+      "yAxisCategories": [
+        "Starts with C",
+        "One-word answer"
+      ]
+    },
+    {
+      "answer": "Bermuda Triangle",
+      "clue": "A region where ships allegedly vanish mysteriously",
+      "clue2": "This Atlantic zone spans Miami, Puerto Rico, and Bermuda",
+      "mainCategory": "places",
+      "yAxisCategories": [
+        "Starts with B",
+        "Two-word answer",
+        "Contains common noun",
+        "Contains \"triangle\"",
+        "Long answer (15+ chars)"
+      ]
+    },
+    {
+      "answer": "Route 66",
+      "clue": "A highway that got its kicks before interstates existed",
+      "clue2": "The 'Mother Road' connected Chicago to Santa Monica",
+      "mainCategory": "places",
+      "yAxisCategories": [
+        "Starts with R",
+        "Two-word answer"
+      ]
+    },
+    {
+      "answer": "Dead Sea",
+      "clue": "A body of water where sinking is scientifically impossible",
+      "clue2": "Its salt content is 10 times higher than ocean water",
+      "mainCategory": "places",
+      "yAxisCategories": [
+        "Starts with D",
+        "Two-word answer",
+        "Ends in A",
+        "Contains common noun",
+        "Contains \"sea\""
+      ]
+    },
+    {
+      "answer": "Angkor Wat",
+      "clue": "A temple complex that the jungle nearly swallowed",
+      "clue2": "The largest religious monument in the world",
+      "mainCategory": "places",
+      "yAxisCategories": [
+        "Starts with A",
+        "Two-word answer"
+      ]
+    },
+    {
+      "answer": "Easter Island",
+      "clue": "An island watched over by giant stone faces",
+      "clue2": "These moai statues remain a mystery of the Pacific",
+      "mainCategory": "places",
+      "yAxisCategories": [
+        "Starts with E",
+        "Two-word answer",
+        "Contains common noun",
+        "Contains \"island\""
+      ]
+    },
+    {
+      "answer": "Wall Street",
+      "clue": "A street where bulls and bears battle daily",
+      "clue2": "The New York Stock Exchange calls this address home",
+      "mainCategory": "places",
+      "yAxisCategories": [
+        "Starts with W",
+        "Two-word answer",
+        "Contains double letters",
+        "Contains EE",
+        "Contains LL",
+        "Contains common noun",
+        "Contains \"wall\""
+      ]
+    },
+    {
+      "answer": "Area 51",
+      "clue": "A military base that spawned countless alien theories",
+      "clue2": "This Nevada site's secrecy fuels conspiracy theories",
+      "mainCategory": "places",
+      "yAxisCategories": [
+        "Starts with A",
+        "Two-word answer"
+      ]
+    },
+    {
+      "answer": "Mount Rushmore",
+      "clue": "A mountain where presidents stare eternally",
+      "clue2": "Four faces were carved into South Dakota's Black Hills",
+      "mainCategory": "places",
+      "yAxisCategories": [
+        "Starts with M",
+        "Two-word answer"
+      ]
+    },
+    {
+      "answer": "Timbuktu",
+      "clue": "A city whose name became synonymous with 'nowhere'",
+      "clue2": "This Mali city was once a center of Islamic learning",
+      "mainCategory": "places",
+      "yAxisCategories": [
+        "Starts with T",
+        "One-word answer"
+      ]
+    },
+    {
+      "answer": "Aurora Borealis",
+      "clue": "A light show requiring darkness and high latitude",
+      "clue2": "Solar particles create these dancing northern lights",
+      "mainCategory": "places",
+      "yAxisCategories": [
+        "Starts with A",
+        "Two-word answer",
+        "Ends in S"
+      ]
+    },
+    {
+      "answer": "Alcatraz",
+      "clue": "A rock where America's worst criminals did time",
+      "clue2": "No one officially escaped this San Francisco prison",
+      "mainCategory": "places",
+      "yAxisCategories": [
+        "Starts with A",
+        "One-word answer",
+        "Contains Z"
+      ]
+    },
+    {
+      "answer": "Panama Canal",
+      "clue": "A waterway that saved ships 8,000 miles of sailing",
+      "clue2": "It connects the Atlantic and Pacific Oceans",
+      "mainCategory": "places",
+      "yAxisCategories": [
+        "Starts with P",
+        "Two-word answer"
+      ]
+    },
+    {
+      "answer": "K2",
+      "clue": "A peak more deadly than Everest despite being shorter",
+      "clue2": "The 'Savage Mountain' on the China-Pakistan border",
+      "mainCategory": "places",
+      "yAxisCategories": [
+        "Starts with K",
+        "One-word answer",
+        "Short answer (≤5 chars)"
+      ]
+    },
+    {
+      "answer": "Las Vegas Strip",
+      "clue": "A boulevard where fortunes change with each spin",
+      "clue2": "Casinos and chapels line this Nevada road",
+      "mainCategory": "places",
+      "yAxisCategories": [
+        "Starts with L",
+        "Three-word answer"
+      ]
+    },
+    {
+      "answer": "Pompeii",
+      "clue": "A city frozen in volcanic ash since 79 AD",
+      "clue2": "Vesuvius buried this Roman town in a single day",
+      "mainCategory": "places",
+      "yAxisCategories": [
+        "Starts with P",
+        "One-word answer",
+        "Contains double letters",
+        "Contains II"
+      ]
+    },
+    {
+      "answer": "Silicon Beach",
+      "clue": "A stretch where tech companies chase California sun",
+      "clue2": "LA's answer to Silicon Valley",
+      "mainCategory": "places",
+      "yAxisCategories": [
+        "Starts with S",
+        "Two-word answer",
+        "Contains common noun",
+        "Contains \"beach\""
+      ]
+    },
+    {
+      "answer": "Transylvania",
+      "clue": "A region whose name conjures vampires and castles",
+      "clue2": "Bram Stoker set Dracula's home here in Romania",
+      "mainCategory": "places",
+      "yAxisCategories": [
+        "Starts with T",
+        "One-word answer",
+        "Ends in A"
+      ]
+    },
+    {
+      "answer": "Mona Lisa",
+      "clue": "A painting whose smile still sparks debate",
+      "clue2": "Behind bulletproof glass at the Louvre",
+      "mainCategory": "things",
+      "yAxisCategories": [
+        "Starts with M",
+        "Two-word answer",
+        "Ends in A"
+      ]
+    },
+    {
+      "answer": "Bitcoin",
+      "clue": "A currency that exists only as code",
+      "clue2": "Created by the mysterious Satoshi Nakamoto",
+      "mainCategory": "things",
+      "yAxisCategories": [
+        "Starts with B",
+        "One-word answer",
+        "Ends in N"
+      ]
+    },
+    {
+      "answer": "DNA",
+      "clue": "A molecule shaped like a twisted ladder",
+      "clue2": "Watson and Crick revealed its double helix",
+      "mainCategory": "things",
+      "yAxisCategories": [
+        "Starts with D",
+        "One-word answer",
+        "Ends in A",
+        "Short answer (≤5 chars)"
+      ]
+    },
+    {
+      "answer": "Titanic",
+      "clue": "A ship whose first voyage became its last",
+      "clue2": "It hit an iceberg on April 15, 1912",
+      "mainCategory": "things",
+      "yAxisCategories": [
+        "Starts with T",
+        "One-word answer"
+      ]
+    },
+    {
+      "answer": "Penicillin",
+      "clue": "A medicine discovered by accident in moldy petri dishes",
+      "clue2": "Alexander Fleming's fortunate contamination",
+      "mainCategory": "things",
+      "yAxisCategories": [
+        "Starts with P",
+        "One-word answer",
+        "Ends in N",
+        "Contains double letters",
+        "Contains LL"
+      ]
+    },
+    {
+      "answer": "iPhone",
+      "clue": "A device that made pay phones extinct",
+      "clue2": "Steve Jobs unveiled it in 2007",
+      "mainCategory": "things",
+      "yAxisCategories": [
+        "Starts with I",
+        "One-word answer"
+      ]
+    },
+    {
+      "answer": "Rubik's Cube",
+      "clue": "A puzzle with 43 quintillion possible combinations",
+      "clue2": "This colorful Hungarian invention frustrated the 80s",
+      "mainCategory": "things",
+      "yAxisCategories": [
+        "Starts with R",
+        "Two-word answer",
+        "Contains common noun",
+        "Contains \"cube\"",
+        "Contains apostrophe"
+      ]
+    },
+    {
+      "answer": "Champagne",
+      "clue": "A drink that pops at celebrations worldwide",
+      "clue2": "Only bubbly from a specific French region earns this name",
+      "mainCategory": "things",
+      "yAxisCategories": [
+        "Starts with C",
+        "One-word answer"
+      ]
+    },
+    {
+      "answer": "Theory of Relativity",
+      "clue": "An idea that bent space, time, and minds",
+      "clue2": "Einstein's E=mc² came from this framework",
+      "mainCategory": "things",
+      "yAxisCategories": [
+        "Starts with T",
+        "Three-word answer",
+        "Ends in Y",
+        "Long answer (15+ chars)"
+      ]
+    },
+    {
+      "answer": "Kindle",
+      "clue": "A device that put thousands of books in your pocket",
+      "clue2": "Amazon's e-reader launched in 2007",
+      "mainCategory": "things",
+      "yAxisCategories": [
+        "Starts with K",
+        "One-word answer"
+      ]
+    },
+    {
+      "answer": "Sushi",
+      "clue": "A cuisine that turned raw fish into global obsession",
+      "clue2": "Japan exported this rice-and-fish combination worldwide",
+      "mainCategory": "things",
+      "yAxisCategories": [
+        "Starts with S",
+        "One-word answer",
+        "Short answer (≤5 chars)"
+      ]
+    },
+    {
+      "answer": "Yoga",
+      "clue": "An ancient practice now found in every gym",
+      "clue2": "Downward dog and namaste are its vocabulary",
+      "mainCategory": "things",
+      "yAxisCategories": [
+        "Starts with Y",
+        "One-word answer",
+        "Ends in A",
+        "Short answer (≤5 chars)"
+      ]
+    },
+    {
+      "answer": "Vaccination",
+      "clue": "A medical intervention that eliminated smallpox",
+      "clue2": "Edward Jenner pioneered this disease prevention method",
+      "mainCategory": "things",
+      "yAxisCategories": [
+        "Starts with V",
+        "One-word answer",
+        "Ends in N",
+        "Ends in TION",
+        "Contains double letters",
+        "Contains CC"
+      ]
+    },
+    {
+      "answer": "WiFi",
+      "clue": "An invisible force that connects billions",
+      "clue2": "Those little bars determine modern contentment",
+      "mainCategory": "things",
+      "yAxisCategories": [
+        "Starts with W",
+        "One-word answer",
+        "Short answer (≤5 chars)"
+      ]
+    },
+    {
+      "answer": "Blue Jeans",
+      "clue": "Pants that went from workwear to runway",
+      "clue2": "Levi Strauss invented this denim staple",
+      "mainCategory": "things",
+      "yAxisCategories": [
+        "Starts with B",
+        "Two-word answer",
+        "Ends in S",
+        "Contains a color",
+        "Contains \"blue\""
+      ]
+    },
+    {
+      "answer": "Emoji",
+      "clue": "A language that transcended words",
+      "clue2": "Japanese origins, now universal communication",
+      "mainCategory": "things",
+      "yAxisCategories": [
+        "Starts with E",
+        "One-word answer",
+        "Short answer (≤5 chars)"
+      ]
+    },
+    {
+      "answer": "Monopoly",
+      "clue": "A board game that has ended friendships since 1935",
+      "clue2": "Pass Go, collect $200, flip the table",
+      "mainCategory": "things",
+      "yAxisCategories": [
+        "Starts with M",
+        "One-word answer",
+        "Ends in Y"
+      ]
+    },
+    {
+      "answer": "Espresso",
+      "clue": "A concentrated beverage that fuels productivity",
+      "clue2": "Italians invented this pressurized coffee method",
+      "mainCategory": "things",
+      "yAxisCategories": [
+        "Starts with E",
+        "One-word answer",
+        "Contains double letters",
+        "Contains SS"
+      ]
+    },
+    {
+      "answer": "Black Hole",
+      "clue": "A cosmic vacuum from which nothing escapes",
+      "clue2": "Stephen Hawking made these gravitational monsters famous",
+      "mainCategory": "things",
+      "yAxisCategories": [
+        "Starts with B",
+        "Two-word answer",
+        "Contains a color",
+        "Contains \"black\"",
+        "Contains common noun",
+        "Contains \"hole\""
+      ]
+    },
+    {
+      "answer": "Croissant",
+      "clue": "A pastry whose layers require patience to perfect",
+      "clue2": "This buttery crescent is synonymous with Parisian breakfasts",
+      "mainCategory": "things",
+      "yAxisCategories": [
+        "Starts with C",
+        "One-word answer",
+        "Contains double letters",
+        "Contains SS"
+      ]
+    },
+    {
+      "answer": "Karaoke",
+      "clue": "An activity that turns anyone into a star, briefly",
+      "clue2": "This Japanese invention means 'empty orchestra'",
+      "mainCategory": "things",
+      "yAxisCategories": [
+        "Starts with K",
+        "One-word answer"
+      ]
+    },
+    {
+      "answer": "Cryptocurrency",
+      "clue": "A currency that exists only in digital wallets",
+      "clue2": "Bitcoin started this blockchain revolution",
+      "mainCategory": "things",
+      "yAxisCategories": [
+        "Starts with C",
+        "One-word answer",
+        "Ends in Y",
+        "Contains double letters",
+        "Contains RR"
+      ]
+    },
+    {
+      "answer": "Selfie",
+      "clue": "A photograph that changed how we document ourselves",
+      "clue2": "Oxford named this the Word of the Year in 2013",
+      "mainCategory": "things",
+      "yAxisCategories": [
+        "Starts with S",
+        "One-word answer"
+      ]
+    },
+    {
+      "answer": "Sudoku",
+      "clue": "A puzzle where numbers can't repeat in any direction",
+      "clue2": "This logic game swept newspapers in the 2000s",
+      "mainCategory": "things",
+      "yAxisCategories": [
+        "Starts with S",
+        "One-word answer"
+      ]
+    },
+    {
+      "answer": "Botox",
+      "clue": "A toxin that freezes time on foreheads",
+      "clue2": "Originally used to treat muscle spasms",
+      "mainCategory": "things",
+      "yAxisCategories": [
+        "Starts with B",
+        "One-word answer",
+        "Contains X",
+        "Short answer (≤5 chars)"
+      ]
+    },
+    {
+      "answer": "Lasagna",
+      "clue": "A dish built in delicious layers",
+      "clue2": "Garfield's favorite Italian comfort food",
+      "mainCategory": "things",
+      "yAxisCategories": [
+        "Starts with L",
+        "One-word answer",
+        "Ends in A"
+      ]
+    },
+    {
+      "answer": "Hashtag",
+      "clue": "A symbol that went from phone key to trending topic",
+      "clue2": "Twitter transformed the pound sign into this",
+      "mainCategory": "things",
+      "yAxisCategories": [
+        "Starts with H",
+        "One-word answer"
+      ]
+    },
+    {
+      "answer": "Sourdough",
+      "clue": "A bread that requires a living starter",
+      "clue2": "Pandemic baking made this fermented loaf trendy",
+      "mainCategory": "things",
+      "yAxisCategories": [
+        "Starts with S",
+        "One-word answer"
+      ]
+    },
+    {
+      "answer": "Podcast",
+      "clue": "A medium that made everyone a radio host",
+      "clue2": "iPod + broadcast created this term",
+      "mainCategory": "things",
+      "yAxisCategories": [
+        "Starts with P",
+        "One-word answer"
+      ]
+    },
+    {
+      "answer": "Tattoo",
+      "clue": "Body art that's permanent unless you have laser money",
+      "clue2": "Sailors and celebrities alike collect these ink designs",
+      "mainCategory": "things",
+      "yAxisCategories": [
+        "Starts with T",
+        "One-word answer",
+        "Contains double letters",
+        "Contains OO",
+        "Contains TT"
+      ]
+    },
+    {
+      "answer": "Velcro",
+      "clue": "A fastener inspired by nature's clingy side",
+      "clue2": "Burrs on a dog led to this hook-and-loop invention",
+      "mainCategory": "things",
+      "yAxisCategories": [
+        "Starts with V",
+        "One-word answer"
+      ]
+    },
+    {
+      "answer": "Photoshop",
+      "clue": "Software that makes reality negotiable",
+      "clue2": "Adobe's tool that became a verb",
+      "mainCategory": "things",
+      "yAxisCategories": [
+        "Starts with P",
+        "One-word answer",
+        "Starts and ends with same letter"
+      ]
+    },
+    {
+      "answer": "Avocado Toast",
+      "clue": "A food item blamed for millennials not buying houses",
+      "clue2": "This brunch staple costs too much, allegedly",
+      "mainCategory": "things",
+      "yAxisCategories": [
+        "Starts with A",
+        "Two-word answer"
+      ]
+    },
+    {
+      "answer": "Cryptocurrency Mining",
+      "clue": "A process that turns electricity into digital gold",
+      "clue2": "Bitcoin miners solve complex puzzles for rewards",
+      "mainCategory": "things",
+      "yAxisCategories": [
+        "Starts with C",
+        "Two-word answer",
+        "Ends in ING",
+        "Contains double letters",
+        "Contains RR",
+        "Long answer (15+ chars)"
+      ]
+    },
+    {
+      "answer": "Sriracha",
+      "clue": "A sauce whose rooster bottle is everywhere",
+      "clue2": "This Thai-American hot sauce has a cult following",
+      "mainCategory": "things",
+      "yAxisCategories": [
+        "Starts with S",
+        "One-word answer",
+        "Ends in A"
+      ]
+    },
+    {
+      "answer": "Lightsaber",
+      "clue": "A weapon from cinema that made humming noises cool",
+      "clue2": "Jedi and Sith duel with these plasma blades",
+      "mainCategory": "things",
+      "yAxisCategories": [
+        "Starts with L",
+        "One-word answer",
+        "Ends in ER"
+      ]
+    },
+    {
+      "answer": "Kombucha",
+      "clue": "A drink that's basically tea that went bad in a good way",
+      "clue2": "This fermented beverage promises gut health",
+      "mainCategory": "things",
+      "yAxisCategories": [
+        "Starts with K",
+        "One-word answer",
+        "Ends in A"
+      ]
+    },
+    {
+      "answer": "Spam",
+      "clue": "A meat that became email's worst nightmare",
+      "clue2": "Monty Python's sketch gave unwanted emails their name",
+      "mainCategory": "things",
+      "yAxisCategories": [
+        "Starts with S",
+        "One-word answer",
+        "Short answer (≤5 chars)"
+      ]
+    },
+    {
+      "answer": "Bluetooth",
+      "clue": "A technology named after a medieval Viking king",
+      "clue2": "This wireless standard replaced tangled headphone cords",
+      "mainCategory": "things",
+      "yAxisCategories": [
+        "Starts with B",
+        "One-word answer",
+        "Contains double letters",
+        "Contains OO",
+        "Contains a color",
+        "Contains \"blue\""
+      ]
+    },
+    {
+      "answer": "Matcha",
+      "clue": "A powder that turned lattes green",
+      "clue2": "This Japanese green tea variety is whisked, not steeped",
+      "mainCategory": "things",
+      "yAxisCategories": [
+        "Starts with M",
+        "One-word answer",
+        "Ends in A"
+      ]
+    }
+  ],
+  "yAxisIndex": {
+    "Two-word answer": [
+      {
+        "answer": "Albert Einstein",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Frida Kahlo",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Nelson Mandela",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Marie Curie",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Muhammad Ali",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Oprah Winfrey",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Marilyn Monroe",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Stephen Hawking",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Serena Williams",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Pablo Picasso",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Amelia Earhart",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Rosa Parks",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Nikola Tesla",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Princess Diana",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Steve Jobs",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Coco Chanel",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Bruce Lee",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Jane Goodall",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "David Bowie",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Malala Yousafzai",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Andy Warhol",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Usain Bolt",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Audrey Hepburn",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Elon Musk",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Charles Darwin",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Freddie Mercury",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Harriet Tubman",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Cristiano Ronaldo",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Salvador Dalí",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Gordon Ramsay",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Helen Keller",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Jeff Bezos",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Simone Biles",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Winston Churchill",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Lady Gaga",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Machu Picchu",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Mount Everest",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Sahara Desert",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Amazon Rainforest",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Grand Canyon",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Taj Mahal",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Niagara Falls",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Silicon Valley",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Galápagos Islands",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Vatican City",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Mariana Trench",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Hong Kong",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Bermuda Triangle",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Route 66",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Dead Sea",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Angkor Wat",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Easter Island",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Wall Street",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Area 51",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Mount Rushmore",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Aurora Borealis",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Panama Canal",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Silicon Beach",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Mona Lisa",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Rubik's Cube",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Blue Jeans",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Black Hole",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Avocado Toast",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Cryptocurrency Mining",
+        "mainCategory": "things"
+      }
+    ],
+    "One-word answer": [
+      {
+        "answer": "Cleopatra",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Venice",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Iceland",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Serengeti",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Petra",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Antarctica",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Stonehenge",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Yellowstone",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Dubai",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Chernobyl",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Timbuktu",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Alcatraz",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "K2",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Pompeii",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Transylvania",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Bitcoin",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "DNA",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Titanic",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Penicillin",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "iPhone",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Champagne",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Kindle",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Sushi",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Yoga",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Vaccination",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "WiFi",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Emoji",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Monopoly",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Espresso",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Croissant",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Karaoke",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Cryptocurrency",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Selfie",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Sudoku",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Botox",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Lasagna",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Hashtag",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Sourdough",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Podcast",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Tattoo",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Velcro",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Photoshop",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Sriracha",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Lightsaber",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Kombucha",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Spam",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Bluetooth",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Matcha",
+        "mainCategory": "things"
+      }
+    ],
+    "Contains double letters": [
+      {
+        "answer": "Muhammad Ali",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Serena Williams",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Pablo Picasso",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Princess Diana",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Bruce Lee",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Jane Goodall",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Freddie Mercury",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Harriet Tubman",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Helen Keller",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Jeff Bezos",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Winston Churchill",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Machu Picchu",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Great Barrier Reef",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Great Wall of China",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Niagara Falls",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Silicon Valley",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Yellowstone",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Wall Street",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Pompeii",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Penicillin",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Vaccination",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Espresso",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Croissant",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Cryptocurrency",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Tattoo",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Cryptocurrency Mining",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Bluetooth",
+        "mainCategory": "things"
+      }
+    ],
+    "Ends in A": [
+      {
+        "answer": "Cleopatra",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Nelson Mandela",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Nikola Tesla",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Princess Diana",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Lady Gaga",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Petra",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Great Wall of China",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Antarctica",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Dead Sea",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Transylvania",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Mona Lisa",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "DNA",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Yoga",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Lasagna",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Sriracha",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Kombucha",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Matcha",
+        "mainCategory": "things"
+      }
+    ],
+    "Starts with S": [
+      {
+        "answer": "Stephen Hawking",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Serena Williams",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Steve Jobs",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Salvador Dalí",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Simone Biles",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Sahara Desert",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Serengeti",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Silicon Valley",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Stonehenge",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Silicon Beach",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Sushi",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Selfie",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Sudoku",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Sourdough",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Sriracha",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Spam",
+        "mainCategory": "things"
+      }
+    ],
+    "Contains common noun": [
+      {
+        "answer": "Princess Diana",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Usain Bolt",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Great Barrier Reef",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Sahara Desert",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Grand Canyon",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Great Wall of China",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Niagara Falls",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Silicon Valley",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Bermuda Triangle",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Dead Sea",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Easter Island",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Wall Street",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Silicon Beach",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Rubik's Cube",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Black Hole",
+        "mainCategory": "things"
+      }
+    ],
+    "Long answer (15+ chars)": [
+      {
+        "answer": "Leonardo da Vinci",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Wolfgang Amadeus Mozart",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Malala Yousafzai",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Cristiano Ronaldo",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Ruth Bader Ginsburg",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Winston Churchill",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Great Barrier Reef",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Amazon Rainforest",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Great Wall of China",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Galápagos Islands",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Bermuda Triangle",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Theory of Relativity",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Cryptocurrency Mining",
+        "mainCategory": "things"
+      }
+    ],
+    "Starts with A": [
+      {
+        "answer": "Albert Einstein",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Amelia Earhart",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Andy Warhol",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Audrey Hepburn",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Amazon Rainforest",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Antarctica",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Angkor Wat",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Area 51",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Aurora Borealis",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Alcatraz",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Avocado Toast",
+        "mainCategory": "things"
+      }
+    ],
+    "Starts with M": [
+      {
+        "answer": "Marie Curie",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Muhammad Ali",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Marilyn Monroe",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Malala Yousafzai",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Machu Picchu",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Mount Everest",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Mariana Trench",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Mount Rushmore",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Mona Lisa",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Monopoly",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Matcha",
+        "mainCategory": "things"
+      }
+    ],
+    "Contains LL": [
+      {
+        "answer": "Serena Williams",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Jane Goodall",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Helen Keller",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Winston Churchill",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Great Wall of China",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Niagara Falls",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Silicon Valley",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Yellowstone",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Wall Street",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Penicillin",
+        "mainCategory": "things"
+      }
+    ],
+    "Short answer (≤5 chars)": [
+      {
+        "answer": "Petra",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Dubai",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "K2",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "DNA",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Sushi",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Yoga",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "WiFi",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Emoji",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Botox",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Spam",
+        "mainCategory": "things"
+      }
+    ],
+    "Starts with C": [
+      {
+        "answer": "Cleopatra",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Coco Chanel",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Charles Darwin",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Cristiano Ronaldo",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Chernobyl",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Champagne",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Croissant",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Cryptocurrency",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Cryptocurrency Mining",
+        "mainCategory": "things"
+      }
+    ],
+    "Ends in S": [
+      {
+        "answer": "Serena Williams",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Rosa Parks",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Steve Jobs",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Jeff Bezos",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Simone Biles",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Niagara Falls",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Galápagos Islands",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Aurora Borealis",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Blue Jeans",
+        "mainCategory": "things"
+      }
+    ],
+    "Ends in N": [
+      {
+        "answer": "Albert Einstein",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Audrey Hepburn",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Charles Darwin",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Harriet Tubman",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Grand Canyon",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Bitcoin",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Penicillin",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Vaccination",
+        "mainCategory": "things"
+      }
+    ],
+    "Ends in Y": [
+      {
+        "answer": "Oprah Winfrey",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Freddie Mercury",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Gordon Ramsay",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Silicon Valley",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Vatican City",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Theory of Relativity",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Monopoly",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Cryptocurrency",
+        "mainCategory": "things"
+      }
+    ],
+    "Starts with P": [
+      {
+        "answer": "Pablo Picasso",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Princess Diana",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Petra",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Panama Canal",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Pompeii",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Penicillin",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Podcast",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Photoshop",
+        "mainCategory": "things"
+      }
+    ],
+    "Three-word answer": [
+      {
+        "answer": "Leonardo da Vinci",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Vincent van Gogh",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Wolfgang Amadeus Mozart",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Ruth Bader Ginsburg",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Great Barrier Reef",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Las Vegas Strip",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Theory of Relativity",
+        "mainCategory": "things"
+      }
+    ],
+    "Starts with B": [
+      {
+        "answer": "Bruce Lee",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Bermuda Triangle",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Bitcoin",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Blue Jeans",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Black Hole",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Botox",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Bluetooth",
+        "mainCategory": "things"
+      }
+    ],
+    "Starts with T": [
+      {
+        "answer": "Taj Mahal",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Timbuktu",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Transylvania",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Titanic",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Theory of Relativity",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Tattoo",
+        "mainCategory": "things"
+      }
+    ],
+    "Starts with L": [
+      {
+        "answer": "Leonardo da Vinci",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Lady Gaga",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Las Vegas Strip",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Lasagna",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Lightsaber",
+        "mainCategory": "things"
+      }
+    ],
+    "Starts with V": [
+      {
+        "answer": "Vincent van Gogh",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Venice",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Vatican City",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Vaccination",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Velcro",
+        "mainCategory": "things"
+      }
+    ],
+    "Starts and ends with same letter": [
+      {
+        "answer": "Serena Williams",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Steve Jobs",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Simone Biles",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Antarctica",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Photoshop",
+        "mainCategory": "things"
+      }
+    ],
+    "Contains Z": [
+      {
+        "answer": "Wolfgang Amadeus Mozart",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Malala Yousafzai",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Jeff Bezos",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Amazon Rainforest",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Alcatraz",
+        "mainCategory": "places"
+      }
+    ],
+    "Contains a color": [
+      {
+        "answer": "Freddie Mercury",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Yellowstone",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Blue Jeans",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Black Hole",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Bluetooth",
+        "mainCategory": "things"
+      }
+    ],
+    "Starts with G": [
+      {
+        "answer": "Gordon Ramsay",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Great Barrier Reef",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Grand Canyon",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Great Wall of China",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Galápagos Islands",
+        "mainCategory": "places"
+      }
+    ],
+    "Contains SS": [
+      {
+        "answer": "Pablo Picasso",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Princess Diana",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Espresso",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Croissant",
+        "mainCategory": "things"
+      }
+    ],
+    "Starts with W": [
+      {
+        "answer": "Wolfgang Amadeus Mozart",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Winston Churchill",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Wall Street",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "WiFi",
+        "mainCategory": "things"
+      }
+    ],
+    "Starts with R": [
+      {
+        "answer": "Rosa Parks",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Ruth Bader Ginsburg",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Route 66",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Rubik's Cube",
+        "mainCategory": "things"
+      }
+    ],
+    "Starts with D": [
+      {
+        "answer": "David Bowie",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Dubai",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Dead Sea",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "DNA",
+        "mainCategory": "things"
+      }
+    ],
+    "Starts with E": [
+      {
+        "answer": "Elon Musk",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Easter Island",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Emoji",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Espresso",
+        "mainCategory": "things"
+      }
+    ],
+    "Starts with H": [
+      {
+        "answer": "Harriet Tubman",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Helen Keller",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Hong Kong",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Hashtag",
+        "mainCategory": "things"
+      }
+    ],
+    "Contains RR": [
+      {
+        "answer": "Harriet Tubman",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Great Barrier Reef",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Cryptocurrency",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Cryptocurrency Mining",
+        "mainCategory": "things"
+      }
+    ],
+    "Starts with K": [
+      {
+        "answer": "K2",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Kindle",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Karaoke",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Kombucha",
+        "mainCategory": "things"
+      }
+    ],
+    "Starts with N": [
+      {
+        "answer": "Nelson Mandela",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Nikola Tesla",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Niagara Falls",
+        "mainCategory": "places"
+      }
+    ],
+    "Alliterative answer": [
+      {
+        "answer": "Marilyn Monroe",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Pablo Picasso",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Coco Chanel",
+        "mainCategory": "people"
+      }
+    ],
+    "Contains EE": [
+      {
+        "answer": "Bruce Lee",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Great Barrier Reef",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Wall Street",
+        "mainCategory": "places"
+      }
+    ],
+    "Contains OO": [
+      {
+        "answer": "Jane Goodall",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Tattoo",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Bluetooth",
+        "mainCategory": "things"
+      }
+    ],
+    "Starts with F": [
+      {
+        "answer": "Frida Kahlo",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Freddie Mercury",
+        "mainCategory": "people"
+      }
+    ],
+    "Ends in ING": [
+      {
+        "answer": "Stephen Hawking",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Cryptocurrency Mining",
+        "mainCategory": "things"
+      }
+    ],
+    "Starts with J": [
+      {
+        "answer": "Jane Goodall",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Jeff Bezos",
+        "mainCategory": "people"
+      }
+    ],
+    "Ends in ER": [
+      {
+        "answer": "Helen Keller",
+        "mainCategory": "people"
+      },
+      {
+        "answer": "Lightsaber",
+        "mainCategory": "things"
+      }
+    ],
+    "Contains CC": [
+      {
+        "answer": "Machu Picchu",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Vaccination",
+        "mainCategory": "things"
+      }
+    ],
+    "Starts with I": [
+      {
+        "answer": "Iceland",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "iPhone",
+        "mainCategory": "things"
+      }
+    ],
+    "Contains \"wall\"": [
+      {
+        "answer": "Great Wall of China",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Wall Street",
+        "mainCategory": "places"
+      }
+    ],
+    "Starts with Y": [
+      {
+        "answer": "Yellowstone",
+        "mainCategory": "places"
+      },
+      {
+        "answer": "Yoga",
+        "mainCategory": "things"
+      }
+    ],
+    "Contains \"blue\"": [
+      {
+        "answer": "Blue Jeans",
+        "mainCategory": "things"
+      },
+      {
+        "answer": "Bluetooth",
+        "mainCategory": "things"
+      }
+    ],
+    "Contains MM": [
+      {
+        "answer": "Muhammad Ali",
+        "mainCategory": "people"
+      }
+    ],
+    "Starts with O": [
+      {
+        "answer": "Oprah Winfrey",
+        "mainCategory": "people"
+      }
+    ],
+    "Contains \"princess\"": [
+      {
+        "answer": "Princess Diana",
+        "mainCategory": "people"
+      }
+    ],
+    "Starts with U": [
+      {
+        "answer": "Usain Bolt",
+        "mainCategory": "people"
+      }
+    ],
+    "Contains \"bolt\"": [
+      {
+        "answer": "Usain Bolt",
+        "mainCategory": "people"
+      }
+    ],
+    "Contains DD": [
+      {
+        "answer": "Freddie Mercury",
+        "mainCategory": "people"
+      }
+    ],
+    "Contains \"red\"": [
+      {
+        "answer": "Freddie Mercury",
+        "mainCategory": "people"
+      }
+    ],
+    "Contains FF": [
+      {
+        "answer": "Jeff Bezos",
+        "mainCategory": "people"
+      }
+    ],
+    "Contains \"reef\"": [
+      {
+        "answer": "Great Barrier Reef",
+        "mainCategory": "places"
+      }
+    ],
+    "Contains \"desert\"": [
+      {
+        "answer": "Sahara Desert",
+        "mainCategory": "places"
+      }
+    ],
+    "Contains \"canyon\"": [
+      {
+        "answer": "Grand Canyon",
+        "mainCategory": "places"
+      }
+    ],
+    "Four+ word answer": [
+      {
+        "answer": "Great Wall of China",
+        "mainCategory": "places"
+      }
+    ],
+    "Contains \"falls\"": [
+      {
+        "answer": "Niagara Falls",
+        "mainCategory": "places"
+      }
+    ],
+    "Contains \"valley\"": [
+      {
+        "answer": "Silicon Valley",
+        "mainCategory": "places"
+      }
+    ],
+    "Contains \"yellow\"": [
+      {
+        "answer": "Yellowstone",
+        "mainCategory": "places"
+      }
+    ],
+    "Contains \"triangle\"": [
+      {
+        "answer": "Bermuda Triangle",
+        "mainCategory": "places"
+      }
+    ],
+    "Contains \"sea\"": [
+      {
+        "answer": "Dead Sea",
+        "mainCategory": "places"
+      }
+    ],
+    "Contains \"island\"": [
+      {
+        "answer": "Easter Island",
+        "mainCategory": "places"
+      }
+    ],
+    "Contains II": [
+      {
+        "answer": "Pompeii",
+        "mainCategory": "places"
+      }
+    ],
+    "Contains \"beach\"": [
+      {
+        "answer": "Silicon Beach",
+        "mainCategory": "places"
+      }
+    ],
+    "Contains \"cube\"": [
+      {
+        "answer": "Rubik's Cube",
+        "mainCategory": "things"
+      }
+    ],
+    "Contains apostrophe": [
+      {
+        "answer": "Rubik's Cube",
+        "mainCategory": "things"
+      }
+    ],
+    "Ends in TION": [
+      {
+        "answer": "Vaccination",
+        "mainCategory": "things"
+      }
+    ],
+    "Contains \"black\"": [
+      {
+        "answer": "Black Hole",
+        "mainCategory": "things"
+      }
+    ],
+    "Contains \"hole\"": [
+      {
+        "answer": "Black Hole",
+        "mainCategory": "things"
+      }
+    ],
+    "Contains X": [
+      {
+        "answer": "Botox",
+        "mainCategory": "things"
+      }
+    ],
+    "Contains TT": [
+      {
+        "answer": "Tattoo",
+        "mainCategory": "things"
+      }
+    ]
+  },
+  "puzzleReadyCombinations": [
+    {
+      "yAxisClue": "Two-word answer",
+      "people": [
+        "Albert Einstein",
+        "Frida Kahlo",
+        "Nelson Mandela",
+        "Marie Curie",
+        "Muhammad Ali",
+        "Oprah Winfrey",
+        "Marilyn Monroe",
+        "Stephen Hawking",
+        "Serena Williams",
+        "Pablo Picasso",
+        "Amelia Earhart",
+        "Rosa Parks",
+        "Nikola Tesla",
+        "Princess Diana",
+        "Steve Jobs",
+        "Coco Chanel",
+        "Bruce Lee",
+        "Jane Goodall",
+        "David Bowie",
+        "Malala Yousafzai",
+        "Andy Warhol",
+        "Usain Bolt",
+        "Audrey Hepburn",
+        "Elon Musk",
+        "Charles Darwin",
+        "Freddie Mercury",
+        "Harriet Tubman",
+        "Cristiano Ronaldo",
+        "Salvador Dalí",
+        "Gordon Ramsay",
+        "Helen Keller",
+        "Jeff Bezos",
+        "Simone Biles",
+        "Winston Churchill",
+        "Lady Gaga"
+      ],
+      "places": [
+        "Machu Picchu",
+        "Mount Everest",
+        "Sahara Desert",
+        "Amazon Rainforest",
+        "Grand Canyon",
+        "Taj Mahal",
+        "Niagara Falls",
+        "Silicon Valley",
+        "Galápagos Islands",
+        "Vatican City",
+        "Mariana Trench",
+        "Hong Kong",
+        "Bermuda Triangle",
+        "Route 66",
+        "Dead Sea",
+        "Angkor Wat",
+        "Easter Island",
+        "Wall Street",
+        "Area 51",
+        "Mount Rushmore",
+        "Aurora Borealis",
+        "Panama Canal",
+        "Silicon Beach"
+      ],
+      "things": [
+        "Mona Lisa",
+        "Rubik's Cube",
+        "Blue Jeans",
+        "Black Hole",
+        "Avocado Toast",
+        "Cryptocurrency Mining"
+      ]
+    },
+    {
+      "yAxisClue": "One-word answer",
+      "people": [
+        "Cleopatra"
+      ],
+      "places": [
+        "Venice",
+        "Iceland",
+        "Serengeti",
+        "Petra",
+        "Antarctica",
+        "Stonehenge",
+        "Yellowstone",
+        "Dubai",
+        "Chernobyl",
+        "Timbuktu",
+        "Alcatraz",
+        "K2",
+        "Pompeii",
+        "Transylvania"
+      ],
+      "things": [
+        "Bitcoin",
+        "DNA",
+        "Titanic",
+        "Penicillin",
+        "iPhone",
+        "Champagne",
+        "Kindle",
+        "Sushi",
+        "Yoga",
+        "Vaccination",
+        "WiFi",
+        "Emoji",
+        "Monopoly",
+        "Espresso",
+        "Croissant",
+        "Karaoke",
+        "Cryptocurrency",
+        "Selfie",
+        "Sudoku",
+        "Botox",
+        "Lasagna",
+        "Hashtag",
+        "Sourdough",
+        "Podcast",
+        "Tattoo",
+        "Velcro",
+        "Photoshop",
+        "Sriracha",
+        "Lightsaber",
+        "Kombucha",
+        "Spam",
+        "Bluetooth",
+        "Matcha"
+      ]
+    },
+    {
+      "yAxisClue": "Contains double letters",
+      "people": [
+        "Muhammad Ali",
+        "Serena Williams",
+        "Pablo Picasso",
+        "Princess Diana",
+        "Bruce Lee",
+        "Jane Goodall",
+        "Freddie Mercury",
+        "Harriet Tubman",
+        "Helen Keller",
+        "Jeff Bezos",
+        "Winston Churchill"
+      ],
+      "places": [
+        "Machu Picchu",
+        "Great Barrier Reef",
+        "Great Wall of China",
+        "Niagara Falls",
+        "Silicon Valley",
+        "Yellowstone",
+        "Wall Street",
+        "Pompeii"
+      ],
+      "things": [
+        "Penicillin",
+        "Vaccination",
+        "Espresso",
+        "Croissant",
+        "Cryptocurrency",
+        "Tattoo",
+        "Cryptocurrency Mining",
+        "Bluetooth"
+      ]
+    },
+    {
+      "yAxisClue": "Ends in A",
+      "people": [
+        "Cleopatra",
+        "Nelson Mandela",
+        "Nikola Tesla",
+        "Princess Diana",
+        "Lady Gaga"
+      ],
+      "places": [
+        "Petra",
+        "Great Wall of China",
+        "Antarctica",
+        "Dead Sea",
+        "Transylvania"
+      ],
+      "things": [
+        "Mona Lisa",
+        "DNA",
+        "Yoga",
+        "Lasagna",
+        "Sriracha",
+        "Kombucha",
+        "Matcha"
+      ]
+    },
+    {
+      "yAxisClue": "Starts with S",
+      "people": [
+        "Stephen Hawking",
+        "Serena Williams",
+        "Steve Jobs",
+        "Salvador Dalí",
+        "Simone Biles"
+      ],
+      "places": [
+        "Sahara Desert",
+        "Serengeti",
+        "Silicon Valley",
+        "Stonehenge",
+        "Silicon Beach"
+      ],
+      "things": [
+        "Sushi",
+        "Selfie",
+        "Sudoku",
+        "Sourdough",
+        "Sriracha",
+        "Spam"
+      ]
+    },
+    {
+      "yAxisClue": "Contains common noun",
+      "people": [
+        "Princess Diana",
+        "Usain Bolt"
+      ],
+      "places": [
+        "Great Barrier Reef",
+        "Sahara Desert",
+        "Grand Canyon",
+        "Great Wall of China",
+        "Niagara Falls",
+        "Silicon Valley",
+        "Bermuda Triangle",
+        "Dead Sea",
+        "Easter Island",
+        "Wall Street",
+        "Silicon Beach"
+      ],
+      "things": [
+        "Rubik's Cube",
+        "Black Hole"
+      ]
+    },
+    {
+      "yAxisClue": "Long answer (15+ chars)",
+      "people": [
+        "Leonardo da Vinci",
+        "Wolfgang Amadeus Mozart",
+        "Malala Yousafzai",
+        "Cristiano Ronaldo",
+        "Ruth Bader Ginsburg",
+        "Winston Churchill"
+      ],
+      "places": [
+        "Great Barrier Reef",
+        "Amazon Rainforest",
+        "Great Wall of China",
+        "Galápagos Islands",
+        "Bermuda Triangle"
+      ],
+      "things": [
+        "Theory of Relativity",
+        "Cryptocurrency Mining"
+      ]
+    },
+    {
+      "yAxisClue": "Starts with A",
+      "people": [
+        "Albert Einstein",
+        "Amelia Earhart",
+        "Andy Warhol",
+        "Audrey Hepburn"
+      ],
+      "places": [
+        "Amazon Rainforest",
+        "Antarctica",
+        "Angkor Wat",
+        "Area 51",
+        "Aurora Borealis",
+        "Alcatraz"
+      ],
+      "things": [
+        "Avocado Toast"
+      ]
+    },
+    {
+      "yAxisClue": "Starts with M",
+      "people": [
+        "Marie Curie",
+        "Muhammad Ali",
+        "Marilyn Monroe",
+        "Malala Yousafzai"
+      ],
+      "places": [
+        "Machu Picchu",
+        "Mount Everest",
+        "Mariana Trench",
+        "Mount Rushmore"
+      ],
+      "things": [
+        "Mona Lisa",
+        "Monopoly",
+        "Matcha"
+      ]
+    },
+    {
+      "yAxisClue": "Contains LL",
+      "people": [
+        "Serena Williams",
+        "Jane Goodall",
+        "Helen Keller",
+        "Winston Churchill"
+      ],
+      "places": [
+        "Great Wall of China",
+        "Niagara Falls",
+        "Silicon Valley",
+        "Yellowstone",
+        "Wall Street"
+      ],
+      "things": [
+        "Penicillin"
+      ]
+    },
+    {
+      "yAxisClue": "Starts with C",
+      "people": [
+        "Cleopatra",
+        "Coco Chanel",
+        "Charles Darwin",
+        "Cristiano Ronaldo"
+      ],
+      "places": [
+        "Chernobyl"
+      ],
+      "things": [
+        "Champagne",
+        "Croissant",
+        "Cryptocurrency",
+        "Cryptocurrency Mining"
+      ]
+    },
+    {
+      "yAxisClue": "Ends in S",
+      "people": [
+        "Serena Williams",
+        "Rosa Parks",
+        "Steve Jobs",
+        "Jeff Bezos",
+        "Simone Biles"
+      ],
+      "places": [
+        "Niagara Falls",
+        "Galápagos Islands",
+        "Aurora Borealis"
+      ],
+      "things": [
+        "Blue Jeans"
+      ]
+    },
+    {
+      "yAxisClue": "Ends in N",
+      "people": [
+        "Albert Einstein",
+        "Audrey Hepburn",
+        "Charles Darwin",
+        "Harriet Tubman"
+      ],
+      "places": [
+        "Grand Canyon"
+      ],
+      "things": [
+        "Bitcoin",
+        "Penicillin",
+        "Vaccination"
+      ]
+    },
+    {
+      "yAxisClue": "Ends in Y",
+      "people": [
+        "Oprah Winfrey",
+        "Freddie Mercury",
+        "Gordon Ramsay"
+      ],
+      "places": [
+        "Silicon Valley",
+        "Vatican City"
+      ],
+      "things": [
+        "Theory of Relativity",
+        "Monopoly",
+        "Cryptocurrency"
+      ]
+    },
+    {
+      "yAxisClue": "Starts with P",
+      "people": [
+        "Pablo Picasso",
+        "Princess Diana"
+      ],
+      "places": [
+        "Petra",
+        "Panama Canal",
+        "Pompeii"
+      ],
+      "things": [
+        "Penicillin",
+        "Podcast",
+        "Photoshop"
+      ]
+    },
+    {
+      "yAxisClue": "Three-word answer",
+      "people": [
+        "Leonardo da Vinci",
+        "Vincent van Gogh",
+        "Wolfgang Amadeus Mozart",
+        "Ruth Bader Ginsburg"
+      ],
+      "places": [
+        "Great Barrier Reef",
+        "Las Vegas Strip"
+      ],
+      "things": [
+        "Theory of Relativity"
+      ]
+    },
+    {
+      "yAxisClue": "Starts with B",
+      "people": [
+        "Bruce Lee"
+      ],
+      "places": [
+        "Bermuda Triangle"
+      ],
+      "things": [
+        "Bitcoin",
+        "Blue Jeans",
+        "Black Hole",
+        "Botox",
+        "Bluetooth"
+      ]
+    },
+    {
+      "yAxisClue": "Starts with L",
+      "people": [
+        "Leonardo da Vinci",
+        "Lady Gaga"
+      ],
+      "places": [
+        "Las Vegas Strip"
+      ],
+      "things": [
+        "Lasagna",
+        "Lightsaber"
+      ]
+    },
+    {
+      "yAxisClue": "Starts with V",
+      "people": [
+        "Vincent van Gogh"
+      ],
+      "places": [
+        "Venice",
+        "Vatican City"
+      ],
+      "things": [
+        "Vaccination",
+        "Velcro"
+      ]
+    },
+    {
+      "yAxisClue": "Starts and ends with same letter",
+      "people": [
+        "Serena Williams",
+        "Steve Jobs",
+        "Simone Biles"
+      ],
+      "places": [
+        "Antarctica"
+      ],
+      "things": [
+        "Photoshop"
+      ]
+    },
+    {
+      "yAxisClue": "Contains a color",
+      "people": [
+        "Freddie Mercury"
+      ],
+      "places": [
+        "Yellowstone"
+      ],
+      "things": [
+        "Blue Jeans",
+        "Black Hole",
+        "Bluetooth"
+      ]
+    },
+    {
+      "yAxisClue": "Starts with W",
+      "people": [
+        "Wolfgang Amadeus Mozart",
+        "Winston Churchill"
+      ],
+      "places": [
+        "Wall Street"
+      ],
+      "things": [
+        "WiFi"
+      ]
+    },
+    {
+      "yAxisClue": "Starts with R",
+      "people": [
+        "Rosa Parks",
+        "Ruth Bader Ginsburg"
+      ],
+      "places": [
+        "Route 66"
+      ],
+      "things": [
+        "Rubik's Cube"
+      ]
+    },
+    {
+      "yAxisClue": "Starts with D",
+      "people": [
+        "David Bowie"
+      ],
+      "places": [
+        "Dubai",
+        "Dead Sea"
+      ],
+      "things": [
+        "DNA"
+      ]
+    },
+    {
+      "yAxisClue": "Starts with E",
+      "people": [
+        "Elon Musk"
+      ],
+      "places": [
+        "Easter Island"
+      ],
+      "things": [
+        "Emoji",
+        "Espresso"
+      ]
+    },
+    {
+      "yAxisClue": "Starts with H",
+      "people": [
+        "Harriet Tubman",
+        "Helen Keller"
+      ],
+      "places": [
+        "Hong Kong"
+      ],
+      "things": [
+        "Hashtag"
+      ]
+    },
+    {
+      "yAxisClue": "Contains RR",
+      "people": [
+        "Harriet Tubman"
+      ],
+      "places": [
+        "Great Barrier Reef"
+      ],
+      "things": [
+        "Cryptocurrency",
+        "Cryptocurrency Mining"
+      ]
+    }
+  ]
+}

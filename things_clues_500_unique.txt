@@ -1,0 +1,316 @@
+THINGS CLUE DRAFTS
+==================
+Format: Answer | Clue 1 (general) | Clue 2 (specific)
+
+1. iPod Touch | A man-made object whose importance is felt more than explained. | This item is specifically known as iPod Touch, tied to its era or function.
+2. Palm Pilot | A man-made object whose importance is felt more than explained. | This item is specifically known as Palm Pilot, tied to its era or function.
+3. BlackBerry Bold | A man-made object whose importance is felt more than explained. | This item is specifically known as BlackBerry Bold, tied to its era or function.
+4. Sony Discman | A man-made object whose importance is felt more than explained. | This item is specifically known as Sony Discman, tied to its era or function.
+5. MiniDisc Player | A man-made object whose importance is felt more than explained. | This item is specifically known as MiniDisc Player, tied to its era or function.
+6. Nintendo Game Boy | A man-made object whose importance is felt more than explained. | This item is specifically known as Nintendo Game Boy, tied to its era or function.
+7. Nintendo DS | A man-made object whose importance is felt more than explained. | This item is specifically known as Nintendo DS, tied to its era or function.
+8. PlayStation Portable | A man-made object whose importance is felt more than explained. | This item is specifically known as PlayStation Portable, tied to its era or function.
+9. Oculus Rift | A man-made object whose importance is felt more than explained. | This item is specifically known as Oculus Rift, tied to its era or function.
+10. HTC Vive | A man-made object whose importance is felt more than explained. | This item is specifically known as HTC Vive, tied to its era or function.
+11. Google Glass | A man-made object whose importance is felt more than explained. | This item is specifically known as Google Glass, tied to its era or function.
+12. Fitbit | A man-made object whose importance is felt more than explained. | This item is specifically known as Fitbit, tied to its era or function.
+13. Apple Watch | A man-made object whose importance is felt more than explained. | This item is specifically known as Apple Watch, tied to its era or function.
+14. Pebble Watch | A man-made object whose importance is felt more than explained. | This item is specifically known as Pebble Watch, tied to its era or function.
+15. Nest Thermostat | A man-made object whose importance is felt more than explained. | This item is specifically known as Nest Thermostat, tied to its era or function.
+16. Ring Doorbell | A man-made object whose importance is felt more than explained. | This item is specifically known as Ring Doorbell, tied to its era or function.
+17. Roomba | A man-made object whose importance is felt more than explained. | This item is specifically known as Roomba, tied to its era or function.
+18. Dyson Airblade | A man-made object whose importance is felt more than explained. | This item is specifically known as Dyson Airblade, tied to its era or function.
+19. Segway | A man-made object whose importance is felt more than explained. | This item is specifically known as Segway, tied to its era or function.
+20. Hoverboard | A man-made object whose importance is felt more than explained. | This item is specifically known as Hoverboard, tied to its era or function.
+21. Kindle | A man-made object whose importance is felt more than explained. | This item is specifically known as Kindle, tied to its era or function.
+22. Nook | A man-made object whose importance is felt more than explained. | This item is specifically known as Nook, tied to its era or function.
+23. Audible | A man-made object whose importance is felt more than explained. | This item is specifically known as Audible, tied to its era or function.
+24. Wikipedia | A man-made object whose importance is felt more than explained. | This item is specifically known as Wikipedia, tied to its era or function.
+25. Google Maps | A man-made object whose importance is felt more than explained. | This item is specifically known as Google Maps, tied to its era or function.
+26. Wayback Machine | A man-made object whose importance is felt more than explained. | This item is specifically known as Wayback Machine, tied to its era or function.
+27. Photoshop | A man-made object whose importance is felt more than explained. | This item is specifically known as Photoshop, tied to its era or function.
+28. Illustrator | A man-made object whose importance is felt more than explained. | This item is specifically known as Illustrator, tied to its era or function.
+29. Final Cut Pro | A man-made object whose importance is felt more than explained. | This item is specifically known as Final Cut Pro, tied to its era or function.
+30. Logic Pro | A man-made object whose importance is felt more than explained. | This item is specifically known as Logic Pro, tied to its era or function.
+31. Auto-Tune | A man-made object whose importance is felt more than explained. | This item is specifically known as Auto-Tune, tied to its era or function.
+32. Shazam | A man-made object whose importance is felt more than explained. | This item is specifically known as Shazam, tied to its era or function.
+33. Napster | A man-made object whose importance is felt more than explained. | This item is specifically known as Napster, tied to its era or function.
+34. LimeWire | A man-made object whose importance is felt more than explained. | This item is specifically known as LimeWire, tied to its era or function.
+35. Torrent | A man-made object whose importance is felt more than explained. | This item is specifically known as Torrent, tied to its era or function.
+36. Bitcoin | A man-made object whose importance is felt more than explained. | This item is specifically known as Bitcoin, tied to its era or function.
+37. Ethereum | A man-made object whose importance is felt more than explained. | This item is specifically known as Ethereum, tied to its era or function.
+38. Cold Wallet | A man-made object whose importance is felt more than explained. | This item is specifically known as Cold Wallet, tied to its era or function.
+39. USB Flash Drive | A man-made object whose importance is felt more than explained. | This item is specifically known as USB Flash Drive, tied to its era or function.
+40. Floppy Disk | A man-made object whose importance is felt more than explained. | This item is specifically known as Floppy Disk, tied to its era or function.
+41. Zip Disk | A man-made object whose importance is felt more than explained. | This item is specifically known as Zip Disk, tied to its era or function.
+42. External Hard Drive | A man-made object whose importance is felt more than explained. | This item is specifically known as External Hard Drive, tied to its era or function.
+43. Solid State Drive | A man-made object whose importance is felt more than explained. | This item is specifically known as Solid State Drive, tied to its era or function.
+44. Raspberry Pi | A man-made object whose importance is felt more than explained. | This item is specifically known as Raspberry Pi, tied to its era or function.
+45. Arduino | A man-made object whose importance is felt more than explained. | This item is specifically known as Arduino, tied to its era or function.
+46. 3D Printer | A man-made object whose importance is felt more than explained. | This item is specifically known as 3D Printer, tied to its era or function.
+47. Laser Printer | A man-made object whose importance is felt more than explained. | This item is specifically known as Laser Printer, tied to its era or function.
+48. Dot Matrix Printer | A man-made object whose importance is felt more than explained. | This item is specifically known as Dot Matrix Printer, tied to its era or function.
+49. Fax Machine | A man-made object whose importance is felt more than explained. | This item is specifically known as Fax Machine, tied to its era or function.
+50. Pager | A man-made object whose importance is felt more than explained. | This item is specifically known as Pager, tied to its era or function.
+51. Answering Machine | A man-made object whose importance is felt more than explained. | This item is specifically known as Answering Machine, tied to its era or function.
+52. Voicemail | A man-made object whose importance is felt more than explained. | This item is specifically known as Voicemail, tied to its era or function.
+53. Caller ID | A man-made object whose importance is felt more than explained. | This item is specifically known as Caller ID, tied to its era or function.
+54. Spam Filter | A man-made object whose importance is felt more than explained. | This item is specifically known as Spam Filter, tied to its era or function.
+55. Captcha | A man-made object whose importance is felt more than explained. | This item is specifically known as Captcha, tied to its era or function.
+56. Password Manager | A man-made object whose importance is felt more than explained. | This item is specifically known as Password Manager, tied to its era or function.
+57. Two-Factor Authenticator | A man-made object whose importance is felt more than explained. | This item is specifically known as Two-Factor Authenticator, tied to its era or function.
+58. QR Code | A man-made object whose importance is felt more than explained. | This item is specifically known as QR Code, tied to its era or function.
+59. Barcode | A man-made object whose importance is felt more than explained. | This item is specifically known as Barcode, tied to its era or function.
+60. RFID Chip | A man-made object whose importance is felt more than explained. | This item is specifically known as RFID Chip, tied to its era or function.
+61. NFC Tag | A man-made object whose importance is felt more than explained. | This item is specifically known as NFC Tag, tied to its era or function.
+62. Magstripe Card | A man-made object whose importance is felt more than explained. | This item is specifically known as Magstripe Card, tied to its era or function.
+63. EMV Chip | A man-made object whose importance is felt more than explained. | This item is specifically known as EMV Chip, tied to its era or function.
+64. ATM Machine | A man-made object whose importance is felt more than explained. | This item is specifically known as ATM Machine, tied to its era or function.
+65. Vending Machine | A man-made object whose importance is felt more than explained. | This item is specifically known as Vending Machine, tied to its era or function.
+66. Ticket Stub | A man-made object whose importance is felt more than explained. | This item is specifically known as Ticket Stub, tied to its era or function.
+67. Boarding Pass | A man-made object whose importance is felt more than explained. | This item is specifically known as Boarding Pass, tied to its era or function.
+68. Passport | A man-made object whose importance is felt more than explained. | This item is specifically known as Passport, tied to its era or function.
+69. Visa Stamp | A man-made object whose importance is felt more than explained. | This item is specifically known as Visa Stamp, tied to its era or function.
+70. Green Card | A man-made object whose importance is felt more than explained. | This item is specifically known as Green Card, tied to its era or function.
+71. Social Security Card | A man-made object whose importance is felt more than explained. | This item is specifically known as Social Security Card, tied to its era or function.
+72. Birth Certificate | A man-made object whose importance is felt more than explained. | This item is specifically known as Birth Certificate, tied to its era or function.
+73. Notary Seal | A man-made object whose importance is felt more than explained. | This item is specifically known as Notary Seal, tied to its era or function.
+74. Wax Seal | A man-made object whose importance is felt more than explained. | This item is specifically known as Wax Seal, tied to its era or function.
+75. Signet Ring | A man-made object whose importance is felt more than explained. | This item is specifically known as Signet Ring, tied to its era or function.
+76. Fountain Pen | A man-made object whose importance is felt more than explained. | This item is specifically known as Fountain Pen, tied to its era or function.
+77. Montblanc Pen | A man-made object whose importance is felt more than explained. | This item is specifically known as Montblanc Pen, tied to its era or function.
+78. Moleskine Notebook | A man-made object whose importance is felt more than explained. | This item is specifically known as Moleskine Notebook, tied to its era or function.
+79. Field Notes Notebook | A man-made object whose importance is felt more than explained. | This item is specifically known as Field Notes Notebook, tied to its era or function.
+80. Bullet Journal | A man-made object whose importance is felt more than explained. | This item is specifically known as Bullet Journal, tied to its era or function.
+81. Typewriter | A man-made object whose importance is felt more than explained. | This item is specifically known as Typewriter, tied to its era or function.
+82. Mechanical Keyboard | A man-made object whose importance is felt more than explained. | This item is specifically known as Mechanical Keyboard, tied to its era or function.
+83. Cherry MX Switch | A man-made object whose importance is felt more than explained. | This item is specifically known as Cherry MX Switch, tied to its era or function.
+84. Trackball Mouse | A man-made object whose importance is felt more than explained. | This item is specifically known as Trackball Mouse, tied to its era or function.
+85. Magic Mouse | A man-made object whose importance is felt more than explained. | This item is specifically known as Magic Mouse, tied to its era or function.
+86. Wacom Tablet | A man-made object whose importance is felt more than explained. | This item is specifically known as Wacom Tablet, tied to its era or function.
+87. Stylus | A man-made object whose importance is felt more than explained. | This item is specifically known as Stylus, tied to its era or function.
+88. Apple Pencil | A man-made object whose importance is felt more than explained. | This item is specifically known as Apple Pencil, tied to its era or function.
+89. Surface Pen | A man-made object whose importance is felt more than explained. | This item is specifically known as Surface Pen, tied to its era or function.
+90. Graphing Calculator | A man-made object whose importance is felt more than explained. | This item is specifically known as Graphing Calculator, tied to its era or function.
+91. TI-83 | A man-made object whose importance is felt more than explained. | This item is specifically known as TI-83, tied to its era or function.
+92. Slide Rule | A man-made object whose importance is felt more than explained. | This item is specifically known as Slide Rule, tied to its era or function.
+93. Abacus | A man-made object whose importance is felt more than explained. | This item is specifically known as Abacus, tied to its era or function.
+94. Compass | A man-made object whose importance is felt more than explained. | This item is specifically known as Compass, tied to its era or function.
+95. Sextant | A man-made object whose importance is felt more than explained. | This item is specifically known as Sextant, tied to its era or function.
+96. Astrolabe | A man-made object whose importance is felt more than explained. | This item is specifically known as Astrolabe, tied to its era or function.
+97. Telescope | A man-made object whose importance is felt more than explained. | This item is specifically known as Telescope, tied to its era or function.
+98. Microscope | A man-made object whose importance is felt more than explained. | This item is specifically known as Microscope, tied to its era or function.
+99. Stethoscope | A man-made object whose importance is felt more than explained. | This item is specifically known as Stethoscope, tied to its era or function.
+100. Blood Pressure Cuff | A man-made object whose importance is felt more than explained. | This item is specifically known as Blood Pressure Cuff, tied to its era or function.
+101. EKG Machine | A man-made object whose importance is felt more than explained. | This item is specifically known as EKG Machine, tied to its era or function.
+102. MRI Scanner | A man-made object whose importance is felt more than explained. | This item is specifically known as MRI Scanner, tied to its era or function.
+103. X-Ray Film | A man-made object whose importance is felt more than explained. | This item is specifically known as X-Ray Film, tied to its era or function.
+104. CT Scanner | A man-made object whose importance is felt more than explained. | This item is specifically known as CT Scanner, tied to its era or function.
+105. Ultrasound Probe | A man-made object whose importance is felt more than explained. | This item is specifically known as Ultrasound Probe, tied to its era or function.
+106. Scalpel | A man-made object whose importance is felt more than explained. | This item is specifically known as Scalpel, tied to its era or function.
+107. Bone Saw | A man-made object whose importance is felt more than explained. | This item is specifically known as Bone Saw, tied to its era or function.
+108. Defibrillator | A man-made object whose importance is felt more than explained. | This item is specifically known as Defibrillator, tied to its era or function.
+109. Pacemaker | A man-made object whose importance is felt more than explained. | This item is specifically known as Pacemaker, tied to its era or function.
+110. Insulin Pump | A man-made object whose importance is felt more than explained. | This item is specifically known as Insulin Pump, tied to its era or function.
+111. EpiPen | A man-made object whose importance is felt more than explained. | This item is specifically known as EpiPen, tied to its era or function.
+112. Inhaler | A man-made object whose importance is felt more than explained. | This item is specifically known as Inhaler, tied to its era or function.
+113. Hearing Aid | A man-made object whose importance is felt more than explained. | This item is specifically known as Hearing Aid, tied to its era or function.
+114. Cochlear Implant | A man-made object whose importance is felt more than explained. | This item is specifically known as Cochlear Implant, tied to its era or function.
+115. Prosthetic Limb | A man-made object whose importance is felt more than explained. | This item is specifically known as Prosthetic Limb, tied to its era or function.
+116. Wheelchair | A man-made object whose importance is felt more than explained. | This item is specifically known as Wheelchair, tied to its era or function.
+117. Crutches | A man-made object whose importance is felt more than explained. | This item is specifically known as Crutches, tied to its era or function.
+118. Cane | A man-made object whose importance is felt more than explained. | This item is specifically known as Cane, tied to its era or function.
+119. White Cane | A man-made object whose importance is felt more than explained. | This item is specifically known as White Cane, tied to its era or function.
+120. Guide Dog Harness | A man-made object whose importance is felt more than explained. | This item is specifically known as Guide Dog Harness, tied to its era or function.
+121. Gas Mask | A man-made object whose importance is felt more than explained. | This item is specifically known as Gas Mask, tied to its era or function.
+122. Hazmat Suit | A man-made object whose importance is felt more than explained. | This item is specifically known as Hazmat Suit, tied to its era or function.
+123. Geiger Counter | A man-made object whose importance is felt more than explained. | This item is specifically known as Geiger Counter, tied to its era or function.
+124. Radiation Badge | A man-made object whose importance is felt more than explained. | This item is specifically known as Radiation Badge, tied to its era or function.
+125. Night Vision Goggles | A man-made object whose importance is felt more than explained. | This item is specifically known as Night Vision Goggles, tied to its era or function.
+126. Thermal Camera | A man-made object whose importance is felt more than explained. | This item is specifically known as Thermal Camera, tied to its era or function.
+127. Metal Detector | A man-made object whose importance is felt more than explained. | This item is specifically known as Metal Detector, tied to its era or function.
+128. Polygraph | A man-made object whose importance is felt more than explained. | This item is specifically known as Polygraph, tied to its era or function.
+129. Breathalyzer | A man-made object whose importance is felt more than explained. | This item is specifically known as Breathalyzer, tied to its era or function.
+130. Radar Gun | A man-made object whose importance is felt more than explained. | This item is specifically known as Radar Gun, tied to its era or function.
+131. Speed Camera | A man-made object whose importance is felt more than explained. | This item is specifically known as Speed Camera, tied to its era or function.
+132. Traffic Light | A man-made object whose importance is felt more than explained. | This item is specifically known as Traffic Light, tied to its era or function.
+133. Stop Sign | A man-made object whose importance is felt more than explained. | This item is specifically known as Stop Sign, tied to its era or function.
+134. Parking Meter | A man-made object whose importance is felt more than explained. | This item is specifically known as Parking Meter, tied to its era or function.
+135. Turnstile | A man-made object whose importance is felt more than explained. | This item is specifically known as Turnstile, tied to its era or function.
+136. Toll Booth | A man-made object whose importance is felt more than explained. | This item is specifically known as Toll Booth, tied to its era or function.
+137. EZ-Pass | A man-made object whose importance is felt more than explained. | This item is specifically known as EZ-Pass, tied to its era or function.
+138. Speed Bump | A man-made object whose importance is felt more than explained. | This item is specifically known as Speed Bump, tied to its era or function.
+139. Seatbelt | A man-made object whose importance is felt more than explained. | This item is specifically known as Seatbelt, tied to its era or function.
+140. Airbag | A man-made object whose importance is felt more than explained. | This item is specifically known as Airbag, tied to its era or function.
+141. Child Safety Seat | A man-made object whose importance is felt more than explained. | This item is specifically known as Child Safety Seat, tied to its era or function.
+142. Crash Test Dummy | A man-made object whose importance is felt more than explained. | This item is specifically known as Crash Test Dummy, tied to its era or function.
+143. Black Box Recorder | A man-made object whose importance is felt more than explained. | This item is specifically known as Black Box Recorder, tied to its era or function.
+144. Flight Simulator | A man-made object whose importance is felt more than explained. | This item is specifically known as Flight Simulator, tied to its era or function.
+145. Joystick | A man-made object whose importance is felt more than explained. | This item is specifically known as Joystick, tied to its era or function.
+146. Yoke | A man-made object whose importance is felt more than explained. | This item is specifically known as Yoke, tied to its era or function.
+147. Throttle Quadrant | A man-made object whose importance is felt more than explained. | This item is specifically known as Throttle Quadrant, tied to its era or function.
+148. Autopilot | A man-made object whose importance is felt more than explained. | This item is specifically known as Autopilot, tied to its era or function.
+149. Altimeter | A man-made object whose importance is felt more than explained. | This item is specifically known as Altimeter, tied to its era or function.
+150. Artificial Horizon | A man-made object whose importance is felt more than explained. | This item is specifically known as Artificial Horizon, tied to its era or function.
+151. Cockpit Voice Recorder | A man-made object whose importance is felt more than explained. | This item is specifically known as Cockpit Voice Recorder, tied to its era or function.
+152. Flight Data Recorder | A man-made object whose importance is felt more than explained. | This item is specifically known as Flight Data Recorder, tied to its era or function.
+153. Ejection Seat | A man-made object whose importance is felt more than explained. | This item is specifically known as Ejection Seat, tied to its era or function.
+154. Parachute | A man-made object whose importance is felt more than explained. | This item is specifically known as Parachute, tied to its era or function.
+155. Wingsuit | A man-made object whose importance is felt more than explained. | This item is specifically known as Wingsuit, tied to its era or function.
+156. Jetpack | A man-made object whose importance is felt more than explained. | This item is specifically known as Jetpack, tied to its era or function.
+157. Rocket Booster | A man-made object whose importance is felt more than explained. | This item is specifically known as Rocket Booster, tied to its era or function.
+158. Saturn V | A man-made object whose importance is felt more than explained. | This item is specifically known as Saturn V, tied to its era or function.
+159. Falcon 9 | A man-made object whose importance is felt more than explained. | This item is specifically known as Falcon 9, tied to its era or function.
+160. Space Shuttle Tile | A man-made object whose importance is felt more than explained. | This item is specifically known as Space Shuttle Tile, tied to its era or function.
+161. Heat Shield | A man-made object whose importance is felt more than explained. | This item is specifically known as Heat Shield, tied to its era or function.
+162. Space Helmet | A man-made object whose importance is felt more than explained. | This item is specifically known as Space Helmet, tied to its era or function.
+163. Moon Rock | A man-made object whose importance is felt more than explained. | This item is specifically known as Moon Rock, tied to its era or function.
+164. Mars Rover | A man-made object whose importance is felt more than explained. | This item is specifically known as Mars Rover, tied to its era or function.
+165. Hubble Telescope | A man-made object whose importance is felt more than explained. | This item is specifically known as Hubble Telescope, tied to its era or function.
+166. James Webb Telescope | A man-made object whose importance is felt more than explained. | This item is specifically known as James Webb Telescope, tied to its era or function.
+167. Golden Record | A man-made object whose importance is felt more than explained. | This item is specifically known as Golden Record, tied to its era or function.
+168. Voyager Probe | A man-made object whose importance is felt more than explained. | This item is specifically known as Voyager Probe, tied to its era or function.
+169. Sputnik | A man-made object whose importance is felt more than explained. | This item is specifically known as Sputnik, tied to its era or function.
+170. GPS Satellite | A man-made object whose importance is felt more than explained. | This item is specifically known as GPS Satellite, tied to its era or function.
+171. Starlink Dish | A man-made object whose importance is felt more than explained. | This item is specifically known as Starlink Dish, tied to its era or function.
+172. Satellite Phone | A man-made object whose importance is felt more than explained. | This item is specifically known as Satellite Phone, tied to its era or function.
+173. Emergency Beacon | A man-made object whose importance is felt more than explained. | This item is specifically known as Emergency Beacon, tied to its era or function.
+174. Distress Flare | A man-made object whose importance is felt more than explained. | This item is specifically known as Distress Flare, tied to its era or function.
+175. Smoke Signal | A man-made object whose importance is felt more than explained. | This item is specifically known as Smoke Signal, tied to its era or function.
+176. Telegraph | A man-made object whose importance is felt more than explained. | This item is specifically known as Telegraph, tied to its era or function.
+177. Morse Code | A man-made object whose importance is felt more than explained. | This item is specifically known as Morse Code, tied to its era or function.
+178. Semaphore Flag | A man-made object whose importance is felt more than explained. | This item is specifically known as Semaphore Flag, tied to its era or function.
+179. Carrier Pigeon | A man-made object whose importance is felt more than explained. | This item is specifically known as Carrier Pigeon, tied to its era or function.
+180. Printing Press | A man-made object whose importance is felt more than explained. | This item is specifically known as Printing Press, tied to its era or function.
+181. Movable Type | A man-made object whose importance is felt more than explained. | This item is specifically known as Movable Type, tied to its era or function.
+182. Gutenberg Bible | A man-made object whose importance is felt more than explained. | This item is specifically known as Gutenberg Bible, tied to its era or function.
+183. Codex | A man-made object whose importance is felt more than explained. | This item is specifically known as Codex, tied to its era or function.
+184. Papyrus Scroll | A man-made object whose importance is felt more than explained. | This item is specifically known as Papyrus Scroll, tied to its era or function.
+185. Dead Sea Scrolls | A man-made object whose importance is felt more than explained. | This item is specifically known as Dead Sea Scrolls, tied to its era or function.
+186. Rosetta Stone | A man-made object whose importance is felt more than explained. | This item is specifically known as Rosetta Stone, tied to its era or function.
+187. Cuneiform Tablet | A man-made object whose importance is felt more than explained. | This item is specifically known as Cuneiform Tablet, tied to its era or function.
+188. Stone Tablet | A man-made object whose importance is felt more than explained. | This item is specifically known as Stone Tablet, tied to its era or function.
+189. Wax Cylinder | A man-made object whose importance is felt more than explained. | This item is specifically known as Wax Cylinder, tied to its era or function.
+190. Vinyl Record | A man-made object whose importance is felt more than explained. | This item is specifically known as Vinyl Record, tied to its era or function.
+191. 8-Track Tape | A man-made object whose importance is felt more than explained. | This item is specifically known as 8-Track Tape, tied to its era or function.
+192. Cassette Tape | A man-made object whose importance is felt more than explained. | This item is specifically known as Cassette Tape, tied to its era or function.
+193. Boombox | A man-made object whose importance is felt more than explained. | This item is specifically known as Boombox, tied to its era or function.
+194. Walkman | A man-made object whose importance is felt more than explained. | This item is specifically known as Walkman, tied to its era or function.
+195. Discman | A man-made object whose importance is felt more than explained. | This item is specifically known as Discman, tied to its era or function.
+196. MP3 Player | A man-made object whose importance is felt more than explained. | This item is specifically known as MP3 Player, tied to its era or function.
+197. iPod Classic | A man-made object whose importance is felt more than explained. | This item is specifically known as iPod Classic, tied to its era or function.
+198. iTunes | A man-made object whose importance is felt more than explained. | This item is specifically known as iTunes, tied to its era or function.
+199. Streaming Algorithm | A man-made object whose importance is felt more than explained. | This item is specifically known as Streaming Algorithm, tied to its era or function.
+200. Recommendation Engine | A man-made object whose importance is felt more than explained. | This item is specifically known as Recommendation Engine, tied to its era or function.
+201. Paywall | A man-made object whose importance is felt more than explained. | This item is specifically known as Paywall, tied to its era or function.
+202. Subscription Model | A man-made object whose importance is felt more than explained. | This item is specifically known as Subscription Model, tied to its era or function.
+203. Freemium Model | A man-made object whose importance is felt more than explained. | This item is specifically known as Freemium Model, tied to its era or function.
+204. Loot Box | A man-made object whose importance is felt more than explained. | This item is specifically known as Loot Box, tied to its era or function.
+205. Gacha System | A man-made object whose importance is felt more than explained. | This item is specifically known as Gacha System, tied to its era or function.
+206. Battle Pass | A man-made object whose importance is felt more than explained. | This item is specifically known as Battle Pass, tied to its era or function.
+207. Leaderboard | A man-made object whose importance is felt more than explained. | This item is specifically known as Leaderboard, tied to its era or function.
+208. Achievement Trophy | A man-made object whose importance is felt more than explained. | This item is specifically known as Achievement Trophy, tied to its era or function.
+209. Easter Egg | A man-made object whose importance is felt more than explained. | This item is specifically known as Easter Egg, tied to its era or function.
+210. Cheat Code | A man-made object whose importance is felt more than explained. | This item is specifically known as Cheat Code, tied to its era or function.
+211. Konami Code | A man-made object whose importance is felt more than explained. | This item is specifically known as Konami Code, tied to its era or function.
+212. Speedrun Timer | A man-made object whose importance is felt more than explained. | This item is specifically known as Speedrun Timer, tied to its era or function.
+213. Game Controller | A man-made object whose importance is felt more than explained. | This item is specifically known as Game Controller, tied to its era or function.
+214. DualShock | A man-made object whose importance is felt more than explained. | This item is specifically known as DualShock, tied to its era or function.
+215. Joy-Con | A man-made object whose importance is felt more than explained. | This item is specifically known as Joy-Con, tied to its era or function.
+216. Arcade Cabinet | A man-made object whose importance is felt more than explained. | This item is specifically known as Arcade Cabinet, tied to its era or function.
+217. Pinball Machine | A man-made object whose importance is felt more than explained. | This item is specifically known as Pinball Machine, tied to its era or function.
+218. Slot Machine | A man-made object whose importance is felt more than explained. | This item is specifically known as Slot Machine, tied to its era or function.
+219. Roulette Wheel | A man-made object whose importance is felt more than explained. | This item is specifically known as Roulette Wheel, tied to its era or function.
+220. Poker Chip | A man-made object whose importance is felt more than explained. | This item is specifically known as Poker Chip, tied to its era or function.
+221. Dice Cup | A man-made object whose importance is felt more than explained. | This item is specifically known as Dice Cup, tied to its era or function.
+222. Chess Clock | A man-made object whose importance is felt more than explained. | This item is specifically known as Chess Clock, tied to its era or function.
+223. Rubik’s Cube | A man-made object whose importance is felt more than explained. | This item is specifically known as Rubik’s Cube, tied to its era or function.
+224. Sudoku Grid | A man-made object whose importance is felt more than explained. | This item is specifically known as Sudoku Grid, tied to its era or function.
+225. Crossword Puzzle | A man-made object whose importance is felt more than explained. | This item is specifically known as Crossword Puzzle, tied to its era or function.
+226. Word Search | A man-made object whose importance is felt more than explained. | This item is specifically known as Word Search, tied to its era or function.
+227. Escape Room Prop | A man-made object whose importance is felt more than explained. | This item is specifically known as Escape Room Prop, tied to its era or function.
+228. Lockpick Set | A man-made object whose importance is felt more than explained. | This item is specifically known as Lockpick Set, tied to its era or function.
+229. Combination Lock | A man-made object whose importance is felt more than explained. | This item is specifically known as Combination Lock, tied to its era or function.
+230. Padlock | A man-made object whose importance is felt more than explained. | This item is specifically known as Padlock, tied to its era or function.
+231. Skeleton Key | A man-made object whose importance is felt more than explained. | This item is specifically known as Skeleton Key, tied to its era or function.
+232. Keycard | A man-made object whose importance is felt more than explained. | This item is specifically known as Keycard, tied to its era or function.
+233. Master Key | A man-made object whose importance is felt more than explained. | This item is specifically known as Master Key, tied to its era or function.
+234. Deadbolt | A man-made object whose importance is felt more than explained. | This item is specifically known as Deadbolt, tied to its era or function.
+235. Smart Lock | A man-made object whose importance is felt more than explained. | This item is specifically known as Smart Lock, tied to its era or function.
+236. Security Camera | A man-made object whose importance is felt more than explained. | This item is specifically known as Security Camera, tied to its era or function.
+237. Motion Sensor | A man-made object whose importance is felt more than explained. | This item is specifically known as Motion Sensor, tied to its era or function.
+238. Laser Tripwire | A man-made object whose importance is felt more than explained. | This item is specifically known as Laser Tripwire, tied to its era or function.
+239. Vault Door | A man-made object whose importance is felt more than explained. | This item is specifically known as Vault Door, tied to its era or function.
+240. Time Capsule | A man-made object whose importance is felt more than explained. | This item is specifically known as Time Capsule, tied to its era or function.
+241. Message in a Bottle | A man-made object whose importance is felt more than explained. | This item is specifically known as Message in a Bottle, tied to its era or function.
+242. Souvenir Magnet | A man-made object whose importance is felt more than explained. | This item is specifically known as Souvenir Magnet, tied to its era or function.
+243. Snow Globe | A man-made object whose importance is felt more than explained. | This item is specifically known as Snow Globe, tied to its era or function.
+244. Postcard | A man-made object whose importance is felt more than explained. | This item is specifically known as Postcard, tied to its era or function.
+245. Stamp Collection | A man-made object whose importance is felt more than explained. | This item is specifically known as Stamp Collection, tied to its era or function.
+246. Commemorative Coin | A man-made object whose importance is felt more than explained. | This item is specifically known as Commemorative Coin, tied to its era or function.
+247. Medal | A man-made object whose importance is felt more than explained. | This item is specifically known as Medal, tied to its era or function.
+248. Trophy | A man-made object whose importance is felt more than explained. | This item is specifically known as Trophy, tied to its era or function.
+249. Plaque | A man-made object whose importance is felt more than explained. | This item is specifically known as Plaque, tied to its era or function.
+250. Blueprint | A man-made object whose importance is felt more than explained. | This item is specifically known as Blueprint, tied to its era or function.
+251. Patent | A man-made object whose importance is felt more than explained. | This item is specifically known as Patent, tied to its era or function.
+252. Trademark | A man-made object whose importance is felt more than explained. | This item is specifically known as Trademark, tied to its era or function.
+253. Copyright | A man-made object whose importance is felt more than explained. | This item is specifically known as Copyright, tied to its era or function.
+254. Barcode Scanner | A man-made object whose importance is felt more than explained. | This item is specifically known as Barcode Scanner, tied to its era or function.
+255. Receipt Printer | A man-made object whose importance is felt more than explained. | This item is specifically known as Receipt Printer, tied to its era or function.
+256. Cash Register | A man-made object whose importance is felt more than explained. | This item is specifically known as Cash Register, tied to its era or function.
+257. Till Drawer | A man-made object whose importance is felt more than explained. | This item is specifically known as Till Drawer, tied to its era or function.
+258. Point-of-Sale System | A man-made object whose importance is felt more than explained. | This item is specifically known as Point-of-Sale System, tied to its era or function.
+259. ATM Receipt | A man-made object whose importance is felt more than explained. | This item is specifically known as ATM Receipt, tied to its era or function.
+260. Paper Shredder | A man-made object whose importance is felt more than explained. | This item is specifically known as Paper Shredder, tied to its era or function.
+261. Crosscut Shredder | A man-made object whose importance is felt more than explained. | This item is specifically known as Crosscut Shredder, tied to its era or function.
+262. Laminate Machine | A man-made object whose importance is felt more than explained. | This item is specifically known as Laminate Machine, tied to its era or function.
+263. Office Badge | A man-made object whose importance is felt more than explained. | This item is specifically known as Office Badge, tied to its era or function.
+264. Time Clock | A man-made object whose importance is felt more than explained. | This item is specifically known as Time Clock, tied to its era or function.
+265. Punch Card | A man-made object whose importance is felt more than explained. | This item is specifically known as Punch Card, tied to its era or function.
+266. IBM Punch Card | A man-made object whose importance is felt more than explained. | This item is specifically known as IBM Punch Card, tied to its era or function.
+267. Mainframe | A man-made object whose importance is felt more than explained. | This item is specifically known as Mainframe, tied to its era or function.
+268. Server Rack | A man-made object whose importance is felt more than explained. | This item is specifically known as Server Rack, tied to its era or function.
+269. Data Center | A man-made object whose importance is felt more than explained. | This item is specifically known as Data Center, tied to its era or function.
+270. Ethernet Cable | A man-made object whose importance is felt more than explained. | This item is specifically known as Ethernet Cable, tied to its era or function.
+271. Fiber Optic Cable | A man-made object whose importance is felt more than explained. | This item is specifically known as Fiber Optic Cable, tied to its era or function.
+272. Router | A man-made object whose importance is felt more than explained. | This item is specifically known as Router, tied to its era or function.
+273. Modem | A man-made object whose importance is felt more than explained. | This item is specifically known as Modem, tied to its era or function.
+274. Firewall | A man-made object whose importance is felt more than explained. | This item is specifically known as Firewall, tied to its era or function.
+275. VPN Tunnel | A man-made object whose importance is felt more than explained. | This item is specifically known as VPN Tunnel, tied to its era or function.
+276. Encryption Key | A man-made object whose importance is felt more than explained. | This item is specifically known as Encryption Key, tied to its era or function.
+277. Private Key | A man-made object whose importance is felt more than explained. | This item is specifically known as Private Key, tied to its era or function.
+278. Public Key | A man-made object whose importance is felt more than explained. | This item is specifically known as Public Key, tied to its era or function.
+279. Digital Signature | A man-made object whose importance is felt more than explained. | This item is specifically known as Digital Signature, tied to its era or function.
+280. Blockchain Ledger | A man-made object whose importance is felt more than explained. | This item is specifically known as Blockchain Ledger, tied to its era or function.
+281. Smart Contract | A man-made object whose importance is felt more than explained. | This item is specifically known as Smart Contract, tied to its era or function.
+282. NFT | A man-made object whose importance is felt more than explained. | This item is specifically known as NFT, tied to its era or function.
+283. Cold Storage Vault | A man-made object whose importance is felt more than explained. | This item is specifically known as Cold Storage Vault, tied to its era or function.
+284. Seed Phrase | A man-made object whose importance is felt more than explained. | This item is specifically known as Seed Phrase, tied to its era or function.
+285. Hardware Wallet | A man-made object whose importance is felt more than explained. | This item is specifically known as Hardware Wallet, tied to its era or function.
+286. QR Ticket | A man-made object whose importance is felt more than explained. | This item is specifically known as QR Ticket, tied to its era or function.
+287. Digital Boarding Pass | A man-made object whose importance is felt more than explained. | This item is specifically known as Digital Boarding Pass, tied to its era or function.
+288. Mobile Wallet | A man-made object whose importance is felt more than explained. | This item is specifically known as Mobile Wallet, tied to its era or function.
+289. Apple Pay | A man-made object whose importance is felt more than explained. | This item is specifically known as Apple Pay, tied to its era or function.
+290. Google Pay | A man-made object whose importance is felt more than explained. | This item is specifically known as Google Pay, tied to its era or function.
+291. Contactless Payment | A man-made object whose importance is felt more than explained. | This item is specifically known as Contactless Payment, tied to its era or function.
+292. Tap-to-Pay | A man-made object whose importance is felt more than explained. | This item is specifically known as Tap-to-Pay, tied to its era or function.
+293. Biometric Scanner | A man-made object whose importance is felt more than explained. | This item is specifically known as Biometric Scanner, tied to its era or function.
+294. Fingerprint Reader | A man-made object whose importance is felt more than explained. | This item is specifically known as Fingerprint Reader, tied to its era or function.
+295. Face ID | A man-made object whose importance is felt more than explained. | This item is specifically known as Face ID, tied to its era or function.
+296. Retina Scanner | A man-made object whose importance is felt more than explained. | This item is specifically known as Retina Scanner, tied to its era or function.
+297. Iris Scan | A man-made object whose importance is felt more than explained. | This item is specifically known as Iris Scan, tied to its era or function.
+298. Lie Detector | A man-made object whose importance is felt more than explained. | This item is specifically known as Lie Detector, tied to its era or function.
+299. Truth Serum | A man-made object whose importance is felt more than explained. | This item is specifically known as Truth Serum, tied to its era or function.
+300. Polybius Square | A man-made object whose importance is felt more than explained. | This item is specifically known as Polybius Square, tied to its era or function.
+301. Caesar Cipher | A man-made object whose importance is felt more than explained. | This item is specifically known as Caesar Cipher, tied to its era or function.
+302. Enigma Machine | A man-made object whose importance is felt more than explained. | This item is specifically known as Enigma Machine, tied to its era or function.
+303. Codebook | A man-made object whose importance is felt more than explained. | This item is specifically known as Codebook, tied to its era or function.
+304. Dead Drop | A man-made object whose importance is felt more than explained. | This item is specifically known as Dead Drop, tied to its era or function.
+305. Burner Phone | A man-made object whose importance is felt more than explained. | This item is specifically known as Burner Phone, tied to its era or function.
+306. Anonymous Tip Line | A man-made object whose importance is felt more than explained. | This item is specifically known as Anonymous Tip Line, tied to its era or function.
+307. Whistle | A man-made object whose importance is felt more than explained. | This item is specifically known as Whistle, tied to its era or function.
+308. Dog Whistle | A man-made object whose importance is felt more than explained. | This item is specifically known as Dog Whistle, tied to its era or function.
+309. Fog Horn | A man-made object whose importance is felt more than explained. | This item is specifically known as Fog Horn, tied to its era or function.
+310. Air Raid Siren | A man-made object whose importance is felt more than explained. | This item is specifically known as Air Raid Siren, tied to its era or function.
+311. Emergency Alert System | A man-made object whose importance is felt more than explained. | This item is specifically known as Emergency Alert System, tied to its era or function.
+312. Amber Alert | A man-made object whose importance is felt more than explained. | This item is specifically known as Amber Alert, tied to its era or function.

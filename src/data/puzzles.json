@@ -7,7 +7,7 @@
           "constraint": "Two words both beginning with the same letter",
           "cells": [
             { "category": "people", "clue": "Chilean-American actor known for playing a masked character in a hit Disney+ show", "clue2": "Known for his portrayal of Oberyn Martell in the HBO series Game of Thrones", "answer": "Pedro Pascal", "imageUrl": "" },
-            { "category": "places", "clue": "Iconic landmark in England", "clue2": "Features a giant clock", "answer": "Big Ben", "imageUrl": "" },
+            { "category": "places", "clue": "Iconic landmark near the River Thames", "clue2": "Features a giant clock that chimes on the hour", "answer": "Big Ben", "imageUrl": "" },
             { "category": "things", "clue": "This edible treat is composed almost entirely of sugar", "clue2": "Likely found at carnivals or the county fair", "answer": "Cotton Candy", "imageUrl": "" }
           ]
         },
@@ -22,9 +22,121 @@
         {
           "constraint": "Starts with the letter 'K'",
           "cells": [
-            { "category": "people", "clue": "The first rapper to win a Pulitzer Prize in music", "clue2": "Famously headlined the Superbowl", "answer": "Kendrick Lamar", "imageUrl": "" },
+            { "category": "people", "clue": "The first rapper to win a Pulitzer Prize in music", "clue2": "Famously headlined the Superbowl", "answer": "Kendrick Lamar", "acceptableAnswers": ["Kendrick", "Kdot"], "imageUrl": "" },
             { "category": "places", "clue": "Famous for its cherry blossoms", "clue2": "Was once the imperial capital of a modern nation but no longer", "answer": "Kyoto", "imageUrl": "" },
-            { "category": "things", "clue": "Device invented by Amazon and introduced in 2007", "clue2": "This invention transformed the way people read", "answer": "Kindle", "imageUrl": "" }
+            { "category": "things", "clue": "Device invented by Amazon and introduced in 2007", "clue2": "This device was once thought to be the end for print media", "answer": "Kindle", "imageUrl": "" }
+          ]
+        }
+      ]
+    },
+    {
+      "rows": [
+        {
+          "constraint": "Starts with the letter 'A'",
+          "cells": [
+            { "category": "people", "clue": "This person is the best-selling novelist of all time, with over 2 billion copies sold", "clue2": "Through her class murder mystery novels she has earned her reputation as the 'Queen of Crime'", "answer": "Agatha Christie", "imageUrl": "" },
+            { "category": "places", "clue": "A city where bicycles outnumber residents", "clue2": "A tourist destination famous for its canals and museums", "answer": "Amsterdam", "imageUrl": "" },
+            { "category": "things", "clue": "A food item often ridiculed by boomers as superfluous spending", "clue2": "A delightful combination of fruit and grain product", "answer": "Avocado Toast", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Contains a color",
+          "cells": [
+            { "category": "people", "clue": "A Russian spy but only on the big screen", "clue2": "The voice behind Joaquin Phoenix's AI love interest in Her", "answer": "Scarlett Johansson", "imageUrl": "" },
+            { "category": "places", "clue": "Lenin's resting place", "clue2": "Frequently visited geometric shape", "answer": "Red Square", "imageUrl": "" },
+            { "category": "things", "clue": "Structure that gets a lot of sun", "clue2": "A botanical hotel", "answer": "Greenhouse", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Contains two 'L's in a row",
+          "cells": [
+            { "category": "people", "clue": "A young artist who prefers baggy clothes", "clue2": "She's the bad guy", "answer": "Billie Eilish", "acceptableAnswers": ["Billie", "Eilish"], "imageUrl": "" },
+            { "category": "places", "clue": "Home to a famous palace whose excesses sparked a revolution", "clue2": "A famous treaty was signed here formally ending a world war", "answer": "Versailles", "imageUrl": "" },
+            { "category": "things", "clue": "An accessory often mocked for its poor structural integrity", "clue2": "A portable roof for one", "answer": "Umbrella", "imageUrl": "" }
+          ]
+        }
+      ]
+    },
+    {
+      "rows": [
+        {
+          "constraint": "Contains the letter 'Z'",
+          "cells": [
+            { "category": "people", "clue": "A Disney Channel graduate who swung into A-list territory", "clue2": "Spider-Man's love interest", "answer": "Zendaya", "imageUrl": "" },
+            { "category": "places", "clue": "Home to the Serengeti", "clue2": "Nation that is home to the highest peak on its continent", "answer": "Tanzania", "imageUrl": "" },
+            { "category": "things", "clue": "Often stored in a small orange tube", "clue2": "Class of drugs that come with dependence risk", "answer": "Benzodiazepine", "acceptableAnswers": ["Benzo", "Benzos"], "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Ends in 'Y'",
+          "cells": [
+            { "category": "people", "clue": "A superstar from the Carribbean", "clue2": "The King of Reggae", "answer": "Bob Marley", "imageUrl": "" },
+            { "category": "places", "clue": "Known for its boot shape on the map", "clue2": "Birthplace of the Renaissance", "answer": "Italy", "imageUrl": "" },
+            { "category": "things", "clue": "Magical garment canonically used to sneak past a giant three-headed dog", "clue2": "Granted Harry and his friends stealth throughout their journey", "answer": "Cloak of Invisibility", "acceptableAnswers": ["Invisibility Cloak", "The Invisibility Cloak"], "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Contains an animal",
+          "cells": [
+            { "category": "people", "clue": "Notorious for his accolades on the green", "clue2": "An athlete who redefined what was possible in his sport", "answer": "Tiger Woods", "imageUrl": "" },
+            { "category": "places", "clue": "An archipelago owened by Spain", "clue2": "Now a travel destination but once a stopover for transatlantic exploration", "answer": "Canary Islands", "imageUrl": "" },
+            { "category": "things", "clue": "Handheld tool that comes with a learning curve", "clue2": "A sharp object used for flashy tricks", "answer": "Butterfly knife", "imageUrl": "" }
+          ]
+        }
+      ]
+    },
+    {
+      "rows": [
+        {
+          "constraint": "Starts with the letter 'M'",
+          "cells": [
+            { "category": "people", "clue": "Formerly a member of a 5 brother band", "clue2": "Famously pioneered an iconic dance move that involves stepping backwards", "answer": "Michael Jackson", "imageUrl": "" },
+            { "category": "places", "clue": "Once controlled by the Bolsheviks", "clue2": "City architecturally distinguished by its onion-shaped domes", "answer": "Moscow", "imageUrl": "" },
+            { "category": "things", "clue": "Crown jewel of the Louvre", "clue2": "A masterpiece featuring an enigmatic smile", "answer": "The Mona Lisa", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Contains two 'E's in a row",
+          "cells": [
+            { "category": "people", "clue": "You do not want to mess with his dog on the big screen", "clue2": "Made a consequential choice between two pills", "answer": "Keanu Reeves", "imageUrl": "" },
+            { "category": "places", "clue": "Birthplace of the Olympics", "clue2": "Known for its olives and feta cheese", "answer": "Greece", "imageUrl": "" },
+            { "category": "things", "clue": "A workplace essential", "clue2": "A product of beans", "answer": "Coffee", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Exactly four letters",
+          "cells": [
+            { "category": "people", "clue": "An entertainer who's outlasted every trend they witnessed", "clue2": "She is the recipient of an Oscar, Grammy, and Emmy", "answer": "Cher", "imageUrl": "" },
+            { "category": "places", "clue": "The Dnieper River flows through here", "clue2": "City whose origins predate its Cyrillic script", "answer": "Kyiv", "imageUrl": "" },
+            { "category": "things", "clue": "An ancient practice from India that has endured the test of time", "clue2": "You can find a class for it in every major city today", "answer": "Yoga", "imageUrl": "" }
+          ]
+        }
+      ]
+    },
+    {
+      "rows": [
+        {
+          "constraint": "Ends in 'ER'",
+          "cells": [
+            { "category": "people", "clue": "A professional server who never worked at a restaurant", "clue2": "This athlete won 20 Grand Slams", "answer": "Roger Federer", "imageUrl": "" },
+            { "category": "places", "clue": "This mountanous urban hub is often referred to as \"Hollywood North\"", "clue2": "This Pacific city hosted the Winter Olympics in 2010", "answer": "Vancouver", "imageUrl": "" },
+            { "category": "things", "clue": "Sci-fi weapon that hums", "clue2": "A weapon wielded by practioners of the Force", "answer": "Lightsaber", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Contains an animal",
+          "cells": [
+            { "category": "people", "clue": "The very first man to land a \"900\"", "clue2": "This athlete spawned a video game franchise empire bearing his name", "answer": "Tony Hawk", "imageUrl": "" },
+            { "category": "places", "clue": "Franco repressed this revolutionary region's freedoms and culture", "clue2": "This autonomous community is part of a larger Western nation", "answer": "Catalonia", "imageUrl": "" },
+            { "category": "things", "clue": "An alternative way to browse", "clue2": "A thorn in Google's side for a time", "answer": "Firefox", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Ends in 'A'",
+          "cells": [
+            { "category": "people", "clue": "No last name required", "clue2": "The Material Girl is arguably pop's most sacred queen", "answer": "Madonna", "imageUrl": "" },
+            { "category": "places", "clue": "Where Indianna Jones found the Holy Grail", "clue2": "This UNESCO site is iconic for its red rock-cut architecture", "answer": "Petra", "imageUrl": "" },
+            { "category": "things", "clue": "Features an iconic rooster on the bottle", "clue2": "This condiment was named after a Thai town", "answer": "Sriracha", "imageUrl": "" }
           ]
         }
       ]
@@ -34,81 +146,689 @@
         {
           "constraint": "Starts with the letter 'B'",
           "cells": [
-            { "category": "people", "clue": "Fight Club and Ocean's Eleven actor", "clue2": "[Second hint]", "answer": "Brad Pitt", "imageUrl": "" },
-            { "category": "places", "clue": "Capital of Germany", "clue2": "[Second hint]", "answer": "Berlin", "imageUrl": "" },
-            { "category": "things", "clue": "Yellow curved fruit", "clue2": "[Second hint]", "answer": "Banana", "imageUrl": "" }
-          ]
-        },
-        {
-          "constraint": "Two words",
-          "cells": [
-            { "category": "people", "clue": "Starred in Forrest Gump", "clue2": "[Second hint]", "answer": "Tom Hanks", "imageUrl": "" },
-            { "category": "places", "clue": "City that never sleeps", "clue2": "[Second hint]", "answer": "New York", "imageUrl": "" },
-            { "category": "things", "clue": "Device for telling time on your wrist", "clue2": "[Second hint]", "answer": "Wrist Watch", "imageUrl": "" }
-          ]
-        },
-        {
-          "constraint": "Contains double letters",
-          "cells": [
-            { "category": "people", "clue": "Wrote Harry Potter", "clue2": "[Second hint]", "answer": "J.K. Rowling", "imageUrl": "" },
-            { "category": "places", "clue": "State named after a famous river", "clue2": "[Second hint]", "answer": "Mississippi", "imageUrl": "" },
-            { "category": "things", "clue": "Hot air transportation", "clue2": "[Second hint]", "answer": "Balloon", "imageUrl": "" }
-          ]
-        }
-      ]
-    },
-    {
-      "rows": [
-        {
-          "constraint": "Ends with the letter 'A'",
-          "cells": [
-            { "category": "people", "clue": "Star of Wednesday on Netflix", "clue2": "[Second hint]", "answer": "Jenna Ortega", "imageUrl": "" },
-            { "category": "places", "clue": "Home of the Colosseum", "clue2": "[Second hint]", "answer": "Roma", "imageUrl": "" },
-            { "category": "things", "clue": "Device for taking photos", "clue2": "[Second hint]", "answer": "Camera", "imageUrl": "" }
-          ]
-        },
-        {
-          "constraint": "Contains the letter 'A'",
-          "cells": [
-            { "category": "people", "clue": "Talk show host and media mogul", "clue2": "[Second hint]", "answer": "Oprah Winfrey", "imageUrl": "" },
-            { "category": "places", "clue": "Country famous for baguettes", "clue2": "[Second hint]", "answer": "France", "imageUrl": "" },
-            { "category": "things", "clue": "Cooking vessel for frying", "clue2": "[Second hint]", "answer": "Pan", "imageUrl": "" }
-          ]
-        },
-        {
-          "constraint": "Rhymes with 'night'",
-          "cells": [
-            { "category": "people", "clue": "First to achieve powered flight at Kitty Hawk", "clue2": "[Second hint]", "answer": "Orville Wright", "imageUrl": "" },
-            { "category": "places", "clue": "English island in the Channel", "clue2": "[Second hint]", "answer": "Wight", "imageUrl": "" },
-            { "category": "things", "clue": "Illumination source", "clue2": "[Second hint]", "answer": "Light", "imageUrl": "" }
-          ]
-        }
-      ]
-    },
-    {
-      "rows": [
-        {
-          "constraint": "Five-letter word (first word for names)",
-          "cells": [
-            { "category": "people", "clue": "Tennis champion, Serena's sister", "clue2": "[Second hint]", "answer": "Venus Williams", "imageUrl": "" },
-            { "category": "places", "clue": "City of Love", "clue2": "[Second hint]", "answer": "Paris", "imageUrl": "" },
-            { "category": "things", "clue": "Computer pointing device", "clue2": "[Second hint]", "answer": "Mouse", "imageUrl": "" }
-          ]
-        },
-        {
-          "constraint": "Starts and ends with same letter",
-          "cells": [
-            { "category": "people", "clue": "Oscar winner for La La Land", "clue2": "[Second hint]", "answer": "Emma Stone", "imageUrl": "" },
-            { "category": "places", "clue": "Buckeye State", "clue2": "[Second hint]", "answer": "Ohio", "imageUrl": "" },
-            { "category": "things", "clue": "Paddled watercraft", "clue2": "[Second hint]", "answer": "Kayak", "imageUrl": "" }
+            { "category": "people", "clue": "She has a hive, but isn't a beekeeper", "clue2": "From girl group to solo superstar", "answer": "Beyonce", "imageUrl": "" },
+            { "category": "places", "clue": "Their famous cathedral has been in construction for over 140 years", "clue2": "The largest city in an autonomous community with its own language", "answer": "Barcelona", "imageUrl": "" },
+            { "category": "things", "clue": "Once regrettably exchanged for 2 large pizzas", "clue2": "Created by the mysterious Satoshi Nakamoto", "answer": "Bitcoin", "imageUrl": "" }
           ]
         },
         {
           "constraint": "Contains the letter 'X'",
           "cells": [
-            { "category": "people", "clue": "Legendary 'Purple Haze' guitarist", "clue2": "[Second hint]", "answer": "Jimi Hendrix", "imageUrl": "" },
-            { "category": "places", "clue": "Lone Star State", "clue2": "[Second hint]", "answer": "Texas", "imageUrl": "" },
-            { "category": "things", "clue": "Musical instrument with keys", "clue2": "[Second hint]", "answer": "Saxophone", "imageUrl": "" }
+            { "category": "people", "clue": "Popularized the phrase \"By any means necessary\"", "clue2": "He was born Little and died a revolutionary hero", "answer": "Malcolm X", "imageUrl": "" },
+            { "category": "places", "clue": "Where a famous Poker style had its start", "clue2": "Everything's bigger here", "answer": "Texas", "imageUrl": "" },
+            { "category": "things", "clue": "Bill Clinton and Lisa Simpson share this talent", "clue2": "Smooth jazz staple", "answer": "Saxophone", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Ends in 'N'",
+          "cells": [
+            { "category": "people", "clue": "This revolutionary united industrial laborers and farmers", "clue2": "He sealed the Romanov's fate", "answer": "Vladimir Lenin", "acceptableAnswers": ["Lenin"], "imageUrl": "" },
+            { "category": "places", "clue": "Where you can get a chopped cheese at 4 in the morning", "clue2": "Where Biggie and Jay-Z are from", "answer": "Brooklyn", "imageUrl": "" },
+            { "category": "things", "clue": "DuPont introduced this in 1938 and you might be wearing it", "clue2": "This moisture-wicking and flexible material keeps athletes comfortable", "answer": "Nylon", "imageUrl": "" }
+          ]
+        }
+      ]
+    },
+    {
+      "rows": [
+        {
+          "constraint": "Contains the letter 'Q'",
+          "cells": [
+            { "category": "people", "clue": "A director with a penchant for feet shots", "clue2": "He loves working with Samuel L. Jackson and Uma Thurman", "answer": "Quentin Tarantino", "acceptableAnswers": ["Tarantino"], "imageUrl": "" },
+            { "category": "places", "clue": "A peninsula nation often accused of \"Sportswashing\" its image", "clue2": "Host of the most expensive sporting event in history", "answer": "Qatar", "imageUrl": "" },
+            { "category": "things", "clue": "A spirit that's responsible for great nights and troublesome mornings", "clue2": "Mezcal's famous cousin", "answer": "Tequila", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Contains two 'O's in a row",
+          "cells": [
+            { "category": "people", "clue": "An artist whose noteriety is tied partly to a plant", "clue2": "The MC who made '-izzle' a thing", "answer": "Snoop Dogg", "acceptableAnswers": ["Snoop", "Snoop Dog"], "imageUrl": "" },
+            { "category": "places", "clue": "The neighborhood that birthed your favorite stories", "clue2": "Its sign on a hill is instantly recognizable", "answer": "Hollywood", "imageUrl": "" },
+            { "category": "things", "clue": "Captain Ahab's infamous instrument", "clue2": "A sort of javelin on a fishing boat", "answer": "Harpoon", "imageUrl": "" }
+          ]
+        }, 
+        {
+          "constraint": "Three-word answer",
+          "cells": [
+            { "category": "people", "clue": "A British physician better known for his short stories", "clue2": "The originator of Dr. Watson and his sleuth friend", "answer": "Arthur Conan Doyle", "acceptableAnswers": ["Sir Arthur Conan Doyle"], "imageUrl": "" },
+            { "category": "places", "clue": "The city that welcomes you with enormous stone open arms", "clue2": "Home to Carnival and world famous beaches", "answer": "Rio de Janeiro", "acceptableAnswers": ["Rio"], "imageUrl": "" },
+            { "category": "things", "clue": "A pocketable solution for problems you didn't know you'd have", "clue2": "This red multi-tool features a white cross", "answer": "Swiss Army Knife", "imageUrl": "" }
+          ]
+        }
+      ]
+    },
+    {
+      "rows": [
+        {
+          "constraint": "Starts with the letter 'C'",
+          "cells": [
+            { "category": "people", "clue": "A ruler whose romantic alliances shaped empires", "clue2": "The last Hellenistic Pharaoh", "answer": "Cleopatra", "acceptableAnswers": ["Cleo"], "imageUrl": "" },
+            { "category": "places", "clue": "This nation famously complained to the UN about Romania allegedly copying its flag", "clue2": "Country and also the guy in every frat", "answer": "Chad", "imageUrl": "" },
+            { "category": "things", "clue": "Magellan's pocket guide", "clue2": "A device with a magnet and a needle", "answer": "Compass", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Starts with the letter 'R'",
+          "cells": [
+            { "category": "people", "clue": "Barbados's biggest export since sugar", "clue2": "She put the \"ella\" in \"umbrella\"", "answer": "Rihanna", "imageUrl": "" },
+            { "category": "places", "clue": "The land of a thousand hills", "clue2": "Where Belgium fostered ethnic animus between the Hutus and Tutsis", "answer": "Rwanda", "imageUrl": "" },
+            { "category": "things", "clue": "Delectable short tube", "clue2": "Comes from the Italian word for \"lined\" or \"striped\"", "answer": "Rigatoni", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Contains a number",
+          "cells": [
+            { "category": "people", "clue": "She took power following her Uncle Edward's abdication", "clue2": "Her reign of over 70 years was the longest in this nation's monarchial history", "answer": "Queen Elizabeth II", "acceptableAnswers": ["Queen Elizabeth", "Elizabeth II", "Queen Elizabeth the Second"], "imageUrl": "" },
+            { "category": "places", "clue": "Millions once RSVPed to perform the \"Naturo Run\" here. Dozens attended", "clue2": "The muse of many a conspiracy theorist", "answer": "Area 51", "imageUrl": "" },
+            { "category": "things", "clue": "A Christmas 1996 must-have", "clue2": "Where James Bond and Super Mario coexisted", "answer": "Nintendo 64", "imageUrl": "" }
+          ]
+        }
+      ]
+    },
+    {
+      "rows": [
+        {
+          "constraint": "Two words both beginning with the same letter",
+          "cells": [
+            { "category": "people", "clue": "This director was blamed for the tourist slump in beaches across the nation", "clue2": "His filmography stretches from World War II to Extra-Terrestrials", "answer": "Steven Spielberg", "acceptableAnswers": ["Spielberg"], "imageUrl": "" },
+            { "category": "places", "clue": "Polynesian honeymoon hotspot", "clue2": "An island so nice they named it twice", "answer": "Bora Bora", "imageUrl": "" },
+            { "category": "things", "clue": "Onomatopoeic Olympic event", "clue2": "Marty Mauser's obsession in a 2025 Oscar bid", "answer": "Ping Pong", "acceptableAnswers": ["Table Tennis"], "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Contains two 'S's in a row",
+          "cells": [
+            { "category": "people", "clue": "From Disney musical sensation to major Broadway star", "clue2": "Zac Efron's duet partner in the 00s", "answer": "Vanessa Hudgens", "imageUrl": "" },
+            { "category": "places", "clue": "A state where revolutionary history meets academic prestige", "clue2": "Home to Martha's famous Vineyard", "answer": "Massachusetts", "imageUrl": "" },
+            { "category": "things", "clue": "A beverage with its own theme song", "clue2": "A highly concentrated productivity booster and anxiety-inducer", "answer": "Espresso", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Contains a direction",
+          "cells": [
+            { "category": "people", "clue": "This artist brought back the pink polo", "clue2": "Kim Kardashian's most famous ex", "answer": "Kanye West", "acceptableAnswers": ["Kanye", "Ye"], "imageUrl": "" },
+            { "category": "places", "clue": "Where Desmond Tutu helped to right a wrong", "clue2": "A nation with a rather literal name", "answer": "South Africa", "imageUrl": "" },
+            { "category": "things", "clue": "The likely culprit behind much tomfoolery at Mardi Gras", "clue2": "Bourbon's sweeter cousin", "answer": "Southern Comfort", "imageUrl": "" }
+          ]
+        }
+      ]
+    },
+    {
+      "rows": [
+        {
+          "constraint": "Contains the word 'LAND'",
+          "cells": [
+            { "category": "people", "clue": "From X-rated podcast host to Youtube talkshow sensation", "clue2": "Actors, rappers, and politicians have all sat in his Dick Cavett-inspired studio", "answer": "Adam Friedland", "acceptableAnswers": ["Friedland"], "imageUrl": "" },
+            { "category": "places", "clue": "Where all of the castles were built in the 20th century", "clue2": "Happiest place on earth, trademarked", "answer": "Disneyland", "imageUrl": "" },
+            { "category": "things", "clue": "Fashion item once synonymous with the 5 boroughs", "clue2": "Protecting your feet from the elements since 1973", "answer": "Timberland Boots", "acceptableAnswers": ["Timbs", "Timberlands"], "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Contains an animal",
+          "cells": [
+            { "category": "people", "clue": "From humble Soundcloud beginnings she <i>Mooo!</i>-ed her way to stardom", "clue2": "Regarded by many as the \"Queen of Pop-Rap\"", "answer": "Doja Cat", "acceptableAnswers": ["Doja"], "imageUrl": "" },
+            { "category": "places", "clue": "Boarding school where one's fate is determined by a magical hat", "clue2": "A so-called <i>Chamber of Secrets</i> sits beneath this building", "answer": "Hogwarts", "imageUrl": "" },
+            { "category": "things", "clue": "A toddler's 401k", "clue2": "Smash in case of a rainy day", "answer": "Piggy Bank", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Exactly five letters",
+          "cells": [
+            { "category": "people", "clue": "A vocalist whose age can be tracked through her discography", "clue2": "She set fire to the rain and the charts", "answer": "Adele", "imageUrl": "" },
+            { "category": "places", "clue": "A \"union territory\" that features both Old and New", "clue2": "This capital on the Yamuna River is where the 2010 Commonwealth Games were held", "answer": "Delhi", "imageUrl": "" },
+            { "category": "things", "clue": "The tasty subject matter of Jiro's dreams", "clue2": "This delicacy is traditionally rolled in a bamboo matt", "answer": "Sushi", "imageUrl": "" }
+          ]
+        }
+      ]
+    },
+    {
+      "rows": [
+        {
+          "constraint": "Contains silent letters",
+          "cells": [
+            { "category": "people", "clue": "A physicist whose computerized voice explained the cosmos", "clue2": "A Brief History of Time came from a wheelchair", "answer": "Stephen Hawking", "imageUrl": "" },
+            { "category": "places", "clue": "A palace whose excess helped spark revolution", "clue2": "The Hall of Mirrors reflects Louis XIV's extravagance", "answer": "Versailles", "imageUrl": "" },
+            { "category": "things", "clue": "A kitchen essential with a mysteriously silent start", "clue2": "Swiss Army versions fold into pockets", "answer": "Knife", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Two-word answer",
+          "cells": [
+            { "category": "people", "clue": "An actor America would trust to narrate its life story", "clue2": "He ran across the country as Forrest and befriended a volleyball as Chuck", "answer": "Tom Hanks", "imageUrl": "" },
+            { "category": "places", "clue": "A metropolis whose nickname suggests sleeplessness", "clue2": "The Statue of Liberty welcomes visitors to this Big Apple", "answer": "New York", "imageUrl": "" },
+            { "category": "things", "clue": "A stadium staple that sparks debates about sandwich classification", "clue2": "Nathan's hosts a famous eating contest for this tubular food", "answer": "Hot Dog", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Rhymes with 'day'",
+          "cells": [
+            { "category": "people", "clue": "A rock star whose sunglasses are as famous as his activism", "clue2": "U2's frontman campaigns to end poverty", "answer": "Bono", "imageUrl": "" },
+            { "category": "places", "clue": "A city whose film industry rivals Hollywood in output", "clue2": "Bollywood creates dreams in this former colonial-named city", "answer": "Bombay", "imageUrl": "" },
+            { "category": "things", "clue": "Medical imaging that sees through skin but not lead", "clue2": "Wilhelm Rontgen accidentally discovered this radiation", "answer": "X-Ray", "imageUrl": "" }
+          ]
+        }
+      ]
+    },
+    {
+      "rows": [
+        {
+          "constraint": "Palindrome or starts and ends with same letter",
+          "cells": [
+            { "category": "people", "clue": "An artist whose self-portraits never flinched from pain", "clue2": "Her unibrow became as iconic as her Mexican heritage", "answer": "Frida Kahlo", "imageUrl": "" },
+            { "category": "places", "clue": "A nation whose musical legacy outweighs its current influence", "clue2": "Mozart, Freud, and the Alps define this former empire's remnant", "answer": "Austria", "imageUrl": "" },
+            { "category": "things", "clue": "A vessel that requires balance and a willingness to get wet", "clue2": "Inuit peoples developed this narrow paddling craft", "answer": "Kayak", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Contains all five vowels",
+          "cells": [
+            { "category": "people", "clue": "A naturalist whose theory ruffled Victorian feathers", "clue2": "His Galapagos voyage led to On the Origin of Species", "answer": "Charles Darwin", "imageUrl": "" },
+            { "category": "places", "clue": "An African nation with Portuguese colonial history", "clue2": "This Southeast African country has an AK-47 on its flag", "answer": "Mozambique", "imageUrl": "" },
+            { "category": "things", "clue": "Transportation that redefined American sprawl", "clue2": "Henry Ford made this vehicle affordable for the masses", "answer": "Automobile", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Ends in 'TION'",
+          "cells": [
+            { "category": "people", "clue": "A founder whose experiments involved lightning and keys", "clue2": "He flew a kite in a storm and appears on the $100 bill", "answer": "Benjamin Franklin", "imageUrl": "" },
+            { "category": "places", "clue": "A desert city where what happens supposedly stays", "clue2": "The Strip glitters with casinos in this Nevada oasis", "answer": "Las Vegas", "imageUrl": "" },
+            { "category": "things", "clue": "A device that brought the world into living rooms", "clue2": "The boob tube evolved from black-and-white to streaming", "answer": "Television", "imageUrl": "" }
+          ]
+        }
+      ]
+    },
+    {
+      "rows": [
+        {
+          "constraint": "Contains no letter 'E'",
+          "cells": [
+            { "category": "people", "clue": "A songwriter who works 9 to 5 on philanthropy these days", "clue2": "She'll always love you and funded a vaccine", "answer": "Dolly Parton", "imageUrl": "" },
+            { "category": "places", "clue": "A city whose tower defined its skyline for decades", "clue2": "The CN Tower rises above this multicultural metropolis", "answer": "Toronto", "imageUrl": "" },
+            { "category": "things", "clue": "A device that put 1,000 songs in your pocket", "clue2": "Apple's music player preceded the iPhone era", "answer": "iPod", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Starts with the letter 'P'",
+          "cells": [
+            { "category": "people", "clue": "A musical genius who once changed his name to a symbol", "clue2": "Purple rain and Paisley Park defined this Minneapolis legend", "answer": "Prince", "imageUrl": "" },
+            { "category": "places", "clue": "A nation hiding ancient cities in the clouds", "clue2": "Machu Picchu and ceviche define this Andean nation", "answer": "Peru", "imageUrl": "" },
+            { "category": "things", "clue": "An activity that tests patience and relationships on rainy days", "clue2": "During lockdown, 1000-piece versions sold out everywhere", "answer": "Puzzle", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Contains the letters 'ING'",
+          "cells": [
+            { "category": "people", "clue": "A conqueror who ran out of world to conquer by 30", "clue2": "He wept for there were no more lands to subjugate", "answer": "Alexander the Great", "imageUrl": "" },
+            { "category": "places", "clue": "A city-state where chewing gum met its legislative match", "clue2": "This garden city bans gum and serves as Asia's business hub", "answer": "Singapore", "imageUrl": "" },
+            { "category": "things", "clue": "A car component that's either at 10-and-2 or wherever feels right", "clue2": "Tesla controversially replaced this with a yoke", "answer": "Steering Wheel", "imageUrl": "" }
+          ]
+        }
+      ]
+    },
+    {
+      "rows": [
+        {
+          "constraint": "Starts with the letter 'R'",
+          "cells": [
+            { "category": "people", "clue": "An actor whose social media persona rivals his filmography", "clue2": "He's Deadpool and a gin entrepreneur with sharp wit", "answer": "Ryan Reynolds", "imageUrl": "" },
+            { "category": "places", "clue": "A nation whose size spans eleven time zones", "clue2": "Vodka, matryoshkas, and the Kremlin define this largest country", "answer": "Russia", "imageUrl": "" },
+            { "category": "things", "clue": "A grooming tool whose blade count has become absurdly competitive", "clue2": "Gillette promised the best a man can get with this device", "answer": "Razor", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Named after a person",
+          "cells": [
+            { "category": "people", "clue": "A scientist who won top honors in two different fields", "clue2": "She coined radioactivity and discovered radium", "answer": "Marie Curie", "acceptableAnswers": ["Curie", "Madame Curie"], "imageUrl": "" },
+            { "category": "places", "clue": "A city named after a saint who never visited", "clue2": "The Golden Gate Bridge spans the bay of this foggy metropolis", "answer": "San Francisco", "imageUrl": "" },
+            { "category": "things", "clue": "A stuffed companion named after a president who refused to shoot", "clue2": "Theodore Roosevelt inspired this cuddly toy", "answer": "Teddy Bear", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Ends in 'S'",
+          "cells": [
+            { "category": "people", "clue": "An athlete who paved the way for her younger sibling", "clue2": "She won Wimbledon five times before her sister's rise", "answer": "Venus Williams", "imageUrl": "" },
+            { "category": "places", "clue": "A city whose ancient ruins invented democracy", "clue2": "The Parthenon still crowns the Acropolis here", "answer": "Athens", "imageUrl": "" },
+            { "category": "things", "clue": "Pants that went from workwear to fashion staple", "clue2": "Levi Strauss invented this denim wardrobe essential", "answer": "Jeans", "imageUrl": "" }
+          ]
+        }
+      ]
+    },
+    {
+      "rows": [
+        {
+          "constraint": "Starts with the letter 'J'",
+          "cells": [
+            { "category": "people", "clue": "A rapper who turned 99 problems into a billion-dollar empire", "clue2": "He went from Marcy Projects to owning a piece of the Nets", "answer": "Jay-Z", "acceptableAnswers": ["Jay Z", "JayZ"], "imageUrl": "" },
+            { "category": "places", "clue": "A nation where ancient tradition and futurism coexist seamlessly", "clue2": "Cherry blossoms and bullet trains define this island nation", "answer": "Japan", "imageUrl": "" },
+            { "category": "things", "clue": "A music genre that's either soothing or chaotic, never in between", "clue2": "New Orleans birthed this improvisational American art form", "answer": "Jazz", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Contains 'TH'",
+          "cells": [
+            { "category": "people", "clue": "A comedian whose rock education was quite school-like", "clue2": "He formed Tenacious D and voiced a kung fu panda", "answer": "Jack Black", "imageUrl": "" },
+            { "category": "places", "clue": "A nation that was never colonized in its region", "clue2": "Street food, temples, and smiles define the Land of Smiles", "answer": "Thailand", "imageUrl": "" },
+            { "category": "things", "clue": "Cosmetics that outlasted every makeup trend", "clue2": "Red versions became a symbol of wartime morale", "answer": "Lipstick", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Four or more words in answer",
+          "cells": [
+            { "category": "people", "clue": "A leader who served longer than anyone else allowed to now", "clue2": "He led through Depression and war from a wheelchair", "answer": "Franklin D Roosevelt", "acceptableAnswers": ["FDR", "Roosevelt", "Franklin Roosevelt"], "imageUrl": "" },
+            { "category": "places", "clue": "A structure built to keep outsiders out across centuries", "clue2": "This 13,000-mile barrier snakes across Asia", "answer": "Great Wall of China", "acceptableAnswers": ["The Great Wall", "Great Wall"], "imageUrl": "" },
+            { "category": "things", "clue": "Transportation that rises by heating what's already around us", "clue2": "The Montgolfier brothers first flew one of these in 1783", "answer": "Hot Air Balloon", "imageUrl": "" }
+          ]
+        }
+      ]
+    },
+    {
+      "rows": [
+        {
+          "constraint": "Starts with the letter 'L'",
+          "cells": [
+            { "category": "people", "clue": "A polymath whose notebooks read like science fiction", "clue2": "The painter behind history's most mysterious smile", "answer": "Leonardo da Vinci", "acceptableAnswers": ["Da Vinci", "Leonardo"], "imageUrl": "" },
+            { "category": "places", "clue": "A city where everyone seems to be working on a screenplay", "clue2": "Hollywood dreams are manufactured in this sprawling basin", "answer": "Los Angeles", "acceptableAnswers": ["LA", "L.A."], "imageUrl": "" },
+            { "category": "things", "clue": "Building blocks that have ambushed bare feet for decades", "clue2": "These Danish bricks spawned movies, games, and adult obsessions", "answer": "Lego", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Contains 'CH'",
+          "cells": [
+            { "category": "people", "clue": "The mind behind a relatively famous equation", "clue2": "This physicist's untamed hair matched his wild theories", "answer": "Albert Einstein", "acceptableAnswers": ["Einstein"], "imageUrl": "" },
+            { "category": "places", "clue": "A nation that stays out of conflicts but dominates slopes", "clue2": "Neutrality, chocolate, and precision define this alpine country", "answer": "Switzerland", "imageUrl": "" },
+            { "category": "things", "clue": "Lighting that signals you've made it or inherited it", "clue2": "Sia swung from one in her music video", "answer": "Chandelier", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Related to water or ocean",
+          "cells": [
+            { "category": "people", "clue": "A dominant force who made tennis courts feel small", "clue2": "She collected 23 Grand Slam titles, often across the net from her sister", "answer": "Serena Williams", "imageUrl": "" },
+            { "category": "places", "clue": "A sea whose name means middle of the earth", "clue2": "Ancient civilizations thrived around this nearly enclosed sea", "answer": "Mediterranean Sea", "imageUrl": "" },
+            { "category": "things", "clue": "A creature where males carry the babies", "clue2": "This fish swims upright and pairs bond for life", "answer": "Seahorse", "imageUrl": "" }
+          ]
+        }
+      ]
+    },
+    {
+      "rows": [
+        {
+          "constraint": "Starts with the letter 'G'",
+          "cells": [
+            { "category": "people", "clue": "A general who couldn't tell a lie about cherry trees", "clue2": "He crossed the Delaware and refused a crown", "answer": "George Washington", "acceptableAnswers": ["Washington"], "imageUrl": "" },
+            { "category": "places", "clue": "A nation whose efficiency is stereotyped but not inaccurate", "clue2": "Beer, cars, and reunification define modern identity here", "answer": "Germany", "imageUrl": "" },
+            { "category": "things", "clue": "A garden decoration with a silent beginning", "clue2": "These bearded statues watch over flowerbeds", "answer": "Gnome", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Contains 'EE' or 'OO'",
+          "cells": [
+            { "category": "people", "clue": "An entertainer who made it cool to be a Golden Girl", "clue2": "She lived to nearly 100 and never lost her comedic timing", "answer": "Betty White", "imageUrl": "" },
+            { "category": "places", "clue": "A state whose music district celebrates twang", "clue2": "Nashville and the Grand Ole Opry define the Volunteer State", "answer": "Tennessee", "imageUrl": "" },
+            { "category": "things", "clue": "A plant that pandas monopolized and furniture makers discovered", "clue2": "This grass can grow up to 35 inches per day", "answer": "Bamboo", "imageUrl": "" }
+          ]
+        }
+      ]
+    },
+    {
+      "rows": [
+        {
+          "constraint": "Starts with the letter 'D'",
+          "cells": [
+            { "category": "people", "clue": "A villain from cinema whose paternal reveal became iconic", "clue2": "This heavy breather once went by Anakin", "answer": "Darth Vader", "imageUrl": "" },
+            { "category": "places", "clue": "A city that treats world's tallest as a personal challenge", "clue2": "The Burj Khalifa rises from this desert metropolis", "answer": "Dubai", "imageUrl": "" },
+            { "category": "things", "clue": "An explosive that funded peace prizes", "clue2": "Alfred Nobel invented this and felt guilty about it", "answer": "Dynamite", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Famous for food or drink",
+          "cells": [
+            { "category": "people", "clue": "A designer whose little black dress became eternal", "clue2": "Her No. 5 perfume is as iconic as her controversial past", "answer": "Coco Chanel", "imageUrl": "" },
+            { "category": "places", "clue": "A nation whose pyramids rival those further east", "clue2": "Aztec and Mayan ruins dot this nation of tacos and tequila", "answer": "Mexico", "imageUrl": "" },
+            { "category": "things", "clue": "A pastry whose layers require patience to perfect", "clue2": "This buttery crescent became synonymous with Parisian breakfasts", "answer": "Croissant", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Rhymes with 'night'",
+          "cells": [
+            { "category": "people", "clue": "A mogul who traded software monopoly for philanthropy", "clue2": "He founded Microsoft and now focuses on malaria", "answer": "Bill Gates", "imageUrl": "" },
+            { "category": "places", "clue": "A nation frozen in automotive time", "clue2": "Cigars, Che, and classic American cars define this island", "answer": "Cuba", "imageUrl": "" },
+            { "category": "things", "clue": "An orbiting object that enables global communication", "clue2": "Sputnik was the first artificial one launched", "answer": "Satellite", "imageUrl": "" }
+          ]
+        }
+      ]
+    },
+    {
+      "rows": [
+        {
+          "constraint": "Starts with the letter 'W'",
+          "cells": [
+            { "category": "people", "clue": "A rapper-turned-actor whose Oscar night became infamous", "clue2": "The Fresh Prince eventually won for playing Venus and Serena's father", "answer": "Will Smith", "imageUrl": "" },
+            { "category": "places", "clue": "A state that split from its parent during civil war", "clue2": "John Denver sang about country roads leading here", "answer": "West Virginia", "imageUrl": "" },
+            { "category": "things", "clue": "A tool for tightening with a silent first letter", "clue2": "Plumbers and mechanics reach for these", "answer": "Wrench", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Related to royalty or nobility",
+          "cells": [
+            { "category": "people", "clue": "A leader asked not what your country could do", "clue2": "Camelot ended in Dallas on a November day", "answer": "John F Kennedy", "acceptableAnswers": ["JFK", "Kennedy", "John Kennedy"], "imageUrl": "" },
+            { "category": "places", "clue": "A church where royalty is crowned, married, and buried", "clue2": "British monarchs have been coronated here for nearly 1,000 years", "answer": "Westminster Abbey", "imageUrl": "" },
+            { "category": "things", "clue": "Headwear that separates pageant queens from regular attendees", "clue2": "Princess Diana's Spencer family version became iconic", "answer": "Tiara", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Compound word",
+          "cells": [
+            { "category": "people", "clue": "An astronaut who broke a space ceiling for American women", "clue2": "She was the first American woman in space", "answer": "Sally Ride", "imageUrl": "" },
+            { "category": "places", "clue": "A river that Twain made literarily immortal", "clue2": "Huckleberry Finn floated down this American waterway", "answer": "Mississippi River", "imageUrl": "" },
+            { "category": "things", "clue": "Portable illumination that's never where you need it", "clue2": "Phone apps have largely replaced this handheld device", "answer": "Flashlight", "imageUrl": "" }
+          ]
+        }
+      ]
+    },
+    {
+      "rows": [
+        {
+          "constraint": "Starts with the letter 'H'",
+          "cells": [
+            { "category": "people", "clue": "An orphan whose forehead tells a survival story", "clue2": "This literary boy who lived received mail by owl", "answer": "Harry Potter", "imageUrl": "" },
+            { "category": "places", "clue": "A city where skyscrapers crowd against mountains and sea", "clue2": "This former British territory returned to China in 1997", "answer": "Hong Kong", "imageUrl": "" },
+            { "category": "things", "clue": "An aircraft that can hover, which airplanes find very annoying", "clue2": "News channels and rescue teams rely on these vertical flyers", "answer": "Helicopter", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Contains 'IA' or 'IO'",
+          "cells": [
+            { "category": "people", "clue": "An actor from a famous family who walked his own dark path", "clue2": "He danced down stairs as a clown prince of crime", "answer": "Joaquin Phoenix", "imageUrl": "" },
+            { "category": "places", "clue": "A state that would be the world's fifth largest economy alone", "clue2": "Hollywood, Silicon Valley, and wine country define this Pacific state", "answer": "California", "imageUrl": "" },
+            { "category": "things", "clue": "An instrument whose mastery requires starting before you remember", "clue2": "Stradivarius crafted the most valuable versions centuries ago", "answer": "Violin", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Related to technology",
+          "cells": [
+            { "category": "people", "clue": "A mogul whose company started with books and conquered everything", "clue2": "He founded Amazon and briefly visited space", "answer": "Jeff Bezos", "acceptableAnswers": ["Bezos"], "imageUrl": "" },
+            { "category": "places", "clue": "A capital whose old town looks frozen in the medieval era", "clue2": "This Estonian city is now Europe's tech startup hub", "answer": "Tallinn", "imageUrl": "" },
+            { "category": "things", "clue": "Wireless technology named after a medieval Scandinavian ruler", "clue2": "This connectivity standard replaced tangled headphone cords", "answer": "Bluetooth", "imageUrl": "" }
+          ]
+        }
+      ]
+    },
+    {
+      "rows": [
+        {
+          "constraint": "Starts with the letter 'T'",
+          "cells": [
+            { "category": "people", "clue": "A former talk show host whose empire spans media and weight loss", "clue2": "You get a car! she famously declared to her entire audience", "answer": "Oprah Winfrey", "acceptableAnswers": ["Oprah"], "imageUrl": "" },
+            { "category": "places", "clue": "A city named after a saint who guards this gateway", "clue2": "The iconic Golden Gate Bridge greets visitors to this California city", "answer": "San Francisco", "imageUrl": "" },
+            { "category": "things", "clue": "A machine that made writers sound productive from across the room", "clue2": "QWERTY was designed to slow typists down on this device", "answer": "Typewriter", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Contains 'AN'",
+          "cells": [
+            { "category": "people", "clue": "A screen icon whose candle burned out far too soon", "clue2": "She sang Happy Birthday to a president and defined glamour", "answer": "Marilyn Monroe", "imageUrl": "" },
+            { "category": "places", "clue": "A continent with no permanent human population", "clue2": "Research stations and penguins are this ice sheet's only residents", "answer": "Antarctica", "imageUrl": "" },
+            { "category": "things", "clue": "An instrument that expands and contracts like breathing", "clue2": "Polka bands and Weird Al rely on this squeezebox", "answer": "Accordion", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Ends in 'E'",
+          "cells": [
+            { "category": "people", "clue": "A poet who went electric and never stopped changing", "clue2": "He blew in the wind and won an unexpected Nobel Prize", "answer": "Bob Dylan", "imageUrl": "" },
+            { "category": "places", "clue": "A place where parking means tying a rope to a pole", "clue2": "Gondoliers navigate canals in this slowly sinking city", "answer": "Venice", "imageUrl": "" },
+            { "category": "things", "clue": "A fastener inspired by nature's clingy side", "clue2": "Burrs on a dog's fur led to this hook-and-loop invention", "answer": "Velcro", "imageUrl": "" }
+          ]
+        }
+      ]
+    },
+    {
+      "rows": [
+        {
+          "constraint": "Contains 'OU'",
+          "cells": [
+            { "category": "people", "clue": "An explorer who found the wrong place and never admitted it", "clue2": "He sailed for India in 1492 and hit the Caribbean", "answer": "Christopher Columbus", "acceptableAnswers": ["Columbus"], "imageUrl": "" },
+            { "category": "places", "clue": "A city that created the tango in its streets", "clue2": "Eva Peron still captivates this Paris of South America", "answer": "Buenos Aires", "imageUrl": "" },
+            { "category": "things", "clue": "A puzzle that humbled overconfident gift recipients since 1974", "clue2": "This colorful Hungarian invention has 43 quintillion combinations", "answer": "Rubiks Cube", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Sports-related",
+          "cells": [
+            { "category": "people", "clue": "A footballer who made beautiful game synonymous with Brazil", "clue2": "He won three World Cups and scored over a thousand goals", "answer": "Pele", "imageUrl": "" },
+            { "category": "places", "clue": "A stadium that hosted eight World Cup finals", "clue2": "Brazil's iconic arena sits in Rio de Janeiro", "answer": "Maracana Stadium", "imageUrl": "" },
+            { "category": "things", "clue": "A sport small enough for basements but intense enough for Olympics", "clue2": "Forrest Gump played his way through China with this game", "answer": "Ping Pong", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Exactly six letters",
+          "cells": [
+            { "category": "people", "clue": "A billionaire who revolutionized electric cars and space travel", "clue2": "He founded Tesla and SpaceX, then acquired Twitter", "answer": "Elon Musk", "imageUrl": "" },
+            { "category": "places", "clue": "A European capital known for its canals and diamonds", "clue2": "This Belgian city is a major port and fashion hub", "answer": "Antwerp", "imageUrl": "" },
+            { "category": "things", "clue": "A hygiene product that rinse and repeat made profitable", "clue2": "Head and Shoulders targeted dandruff with this hair cleanser", "answer": "Shampoo", "imageUrl": "" }
+          ]
+        }
+      ]
+    },
+    {
+      "rows": [
+        {
+          "constraint": "Starts with the letter 'E'",
+          "cells": [
+            { "category": "people", "clue": "A rocker known for flamboyant costumes and timeless ballads", "clue2": "Rocket Man and Tiny Dancer came from this British knight", "answer": "Elton John", "imageUrl": "" },
+            { "category": "places", "clue": "A nation whose pharaohs built monuments that still mystify", "clue2": "The Sphinx guards pyramids along the Nile here", "answer": "Egypt", "imageUrl": "" },
+            { "category": "things", "clue": "An accessory that requires a hole to work properly", "clue2": "Vermeer painted a girl with a pearl version", "answer": "Earring", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Contains 'ST'",
+          "cells": [
+            { "category": "people", "clue": "An astronaut who's still angry about being second", "clue2": "He walked on the moon just after Neil and punched a denier", "answer": "Buzz Aldrin", "imageUrl": "" },
+            { "category": "places", "clue": "A mosque whose interior color scheme gave it its nickname", "clue2": "Over 20,000 tiles decorate this Istanbul landmark", "answer": "Blue Mosque", "imageUrl": "" },
+            { "category": "things", "clue": "A breakfast cereal shaped like tiny life preservers", "clue2": "These oat Os claim to be heart-healthy", "answer": "Cheerios", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Related to music",
+          "cells": [
+            { "category": "people", "clue": "A vocalist who spelled out exactly what she wanted", "clue2": "The Queen of Soul demanded R-E-S-P-E-C-T", "answer": "Aretha Franklin", "imageUrl": "" },
+            { "category": "places", "clue": "A city where country music found its permanent home", "clue2": "The Grand Ole Opry still hosts shows in this Tennessee city", "answer": "Nashville", "imageUrl": "" },
+            { "category": "things", "clue": "A percussion instrument that requires rhythm and enthusiasm", "clue2": "Band members who can't play anything else often shake this", "answer": "Tambourine", "imageUrl": "" }
+          ]
+        }
+      ]
+    },
+    {
+      "rows": [
+        {
+          "constraint": "Starts with the letter 'F'",
+          "cells": [
+            { "category": "people", "clue": "An actor known for playing rugged action heroes", "clue2": "He's Indiana Jones and Han Solo across decades", "answer": "Harrison Ford", "imageUrl": "" },
+            { "category": "places", "clue": "A nation known for champagne, fashion, and revolutions", "clue2": "The Eiffel Tower and Louvre call this country home", "answer": "France", "imageUrl": "" },
+            { "category": "things", "clue": "A pattern that makes everyone's touch unique", "clue2": "iPhones use these for Touch ID security", "answer": "Fingerprint", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Contains 'AR'",
+          "cells": [
+            { "category": "people", "clue": "A bodybuilder who governed and terminated", "clue2": "I'll be back became his catchphrase across careers", "answer": "Arnold Schwarzenegger", "acceptableAnswers": ["Schwarzenegger", "Arnold"], "imageUrl": "" },
+            { "category": "places", "clue": "A nation whose passion for football borders on religious", "clue2": "Tango, Messi, and Patagonia define this South American giant", "answer": "Argentina", "imageUrl": "" },
+            { "category": "things", "clue": "A tool that's either Phillips or flathead when you need the other", "clue2": "This turning tool is also a vodka and orange juice cocktail", "answer": "Screwdriver", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Ancient or historical",
+          "cells": [
+            { "category": "people", "clue": "An artist who painted ceilings and sculpted perfection", "clue2": "He lay on his back to give Adam divine touch", "answer": "Michelangelo", "imageUrl": "" },
+            { "category": "places", "clue": "An ancient city hidden from conquistadors for centuries", "clue2": "This Incan citadel sits 8,000 feet up in the Andes", "answer": "Machu Picchu", "imageUrl": "" },
+            { "category": "things", "clue": "A word and a video game that both involve building empires", "clue2": "Sid Meier created a strategy game with this name", "answer": "Civilization", "imageUrl": "" }
+          ]
+        }
+      ]
+    },
+    {
+      "rows": [
+        {
+          "constraint": "Contains 'ICE' or 'ACE'",
+          "cells": [
+            { "category": "people", "clue": "An actor whose career spans comedy to drama seamlessly", "clue2": "He was the Genie in Aladdin and Mrs. Doubtfire", "answer": "Robin Williams", "imageUrl": "" },
+            { "category": "places", "clue": "A country whose name was intentionally misleading by Vikings", "clue2": "Geysers, volcanoes, and sagas define this North Atlantic island", "answer": "Iceland", "imageUrl": "" },
+            { "category": "things", "clue": "Instructions that grandmothers never actually follow", "clue2": "A pinch of this, a dash of that - cooking guidance", "answer": "Recipe", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Related to food",
+          "cells": [
+            { "category": "people", "clue": "A TV personality who made cooking competitive", "clue2": "He's known for his fiery temper and Michelin-starred restaurants", "answer": "Gordon Ramsay", "imageUrl": "" },
+            { "category": "places", "clue": "A region whose islands share pirates, rum, and hurricanes", "clue2": "From Jamaica to Barbados, these islands dot the sea", "answer": "Caribbean", "imageUrl": "" },
+            { "category": "things", "clue": "A breakfast beverage that Florida built an industry around", "clue2": "Tropicana and Minute Maid compete in this citrus market", "answer": "Orange Juice", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Ends in 'ER'",
+          "cells": [
+            { "category": "people", "clue": "An actor who redefined the villain in modern cinema", "clue2": "His Joker won a posthumous Oscar in The Dark Knight", "answer": "Heath Ledger", "imageUrl": "" },
+            { "category": "places", "clue": "A river that flows through the heart of London", "clue2": "Tower Bridge and Parliament line this English waterway", "answer": "River Thames", "imageUrl": "" },
+            { "category": "things", "clue": "A cleaning device that evolved from broom to robot", "clue2": "Roomba automated this household chore", "answer": "Vacuum Cleaner", "imageUrl": "" }
+          ]
+        }
+      ]
+    },
+    {
+      "rows": [
+        {
+          "constraint": "Starts with the letter 'O'",
+          "cells": [
+            { "category": "people", "clue": "A leader whose campaign ran on a single-word slogan", "clue2": "Yes we can elected the 44th president", "answer": "Barack Obama", "acceptableAnswers": ["Obama"], "imageUrl": "" },
+            { "category": "places", "clue": "A capital where the Nobel Peace Prize finds its home", "clue2": "Edvard Munch's scream echoes through this Nordic city's museums", "answer": "Oslo", "imageUrl": "" },
+            { "category": "things", "clue": "A musical instrument with black and white keys", "clue2": "Steinway makes some of the finest versions of this instrument", "answer": "Piano", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Contains 'AIN' or 'EIN'",
+          "cells": [
+            { "category": "people", "clue": "An actor who played a wizard and a mutant leader", "clue2": "Gandalf and Magneto share this British knight", "answer": "Ian McKellen", "imageUrl": "" },
+            { "category": "places", "clue": "A nation whose royal family still commands global attention", "clue2": "Fish and chips, the Beatles, and the Crown define this island", "answer": "Great Britain", "imageUrl": "" },
+            { "category": "things", "clue": "Backyard equipment that doubled homeowners' insurance rates", "clue2": "This bouncing surface became an Olympic event", "answer": "Trampoline", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Landmark or monument",
+          "cells": [
+            { "category": "people", "clue": "A sculptor whose presidents watch from a mountain", "clue2": "He carved faces into South Dakota's Black Hills", "answer": "Gutzon Borglum", "imageUrl": "" },
+            { "category": "places", "clue": "A gift that became a national symbol of welcome", "clue2": "France gave this copper lady to America in 1886", "answer": "Statue of Liberty", "acceptableAnswers": ["Lady Liberty", "The Statue of Liberty"], "imageUrl": "" },
+            { "category": "things", "clue": "A floor covering that signals importance is walking over it", "clue2": "Award shows roll out this crimson pathway for celebrities", "answer": "Red Carpet", "imageUrl": "" }
+          ]
+        }
+      ]
+    },
+    {
+      "rows": [
+        {
+          "constraint": "Contains 'IGHT'",
+          "cells": [
+            { "category": "people", "clue": "Brothers whose invention at Kitty Hawk changed everything", "clue2": "Orville and Wilbur achieved powered flight in 1903", "answer": "Wright Brothers", "imageUrl": "" },
+            { "category": "places", "clue": "A light show that requires darkness and high latitude", "clue2": "Solar particles create these dancing Arctic skies", "answer": "Northern Lights", "imageUrl": "" },
+            { "category": "things", "clue": "Free energy that powers plants and tans", "clue2": "Solar panels convert this radiation into electricity", "answer": "Sunlight", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Related to art",
+          "cells": [
+            { "category": "people", "clue": "An artist whose self-portraits tracked his own aging", "clue2": "This Dutch master's Night Watch became his most famous work", "answer": "Rembrandt", "imageUrl": "" },
+            { "category": "places", "clue": "A museum that houses the Mona Lisa", "clue2": "Glass pyramids mark the entrance to this Parisian institution", "answer": "The Louvre", "imageUrl": "" },
+            { "category": "things", "clue": "A surface that artists have used for millennia", "clue2": "Oil paintings typically appear on stretched versions of this", "answer": "Canvas", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Starts with the letter 'U'",
+          "cells": [
+            { "category": "people", "clue": "A golfer who dominated with a signature fist pump", "clue2": "His Masters comeback in 2019 defined sports redemption", "answer": "Tiger Woods", "imageUrl": "" },
+            { "category": "places", "clue": "A nation that hosted the first World Cup", "clue2": "This small South American country borders Brazil and Argentina", "answer": "Uruguay", "imageUrl": "" },
+            { "category": "things", "clue": "Musical instrument with strings and a distinctive shape", "clue2": "Hawaii made this small four-stringed instrument famous", "answer": "Ukulele", "imageUrl": "" }
+          ]
+        }
+      ]
+    },
+    {
+      "rows": [
+        {
+          "constraint": "Contains double consonants",
+          "cells": [
+            { "category": "people", "clue": "A tennis legend who dominated with graceful play", "clue2": "He won 20 Grand Slam titles with elegance", "answer": "Roger Federer", "imageUrl": "" },
+            { "category": "places", "clue": "A city where a tiny mermaid draws enormous crowds", "clue2": "Hans Christian Andersen's inspiration watches the harbor here", "answer": "Copenhagen", "imageUrl": "" },
+            { "category": "things", "clue": "A sport where touching the ground is the enemy", "clue2": "Wilson became Tom Hanks' best friend in this sport's equipment form", "answer": "Volleyball", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Transportation-related",
+          "cells": [
+            { "category": "people", "clue": "An inventor whose name became synonymous with innovation", "clue2": "He electrified the world with AC power and wireless ideas", "answer": "Nikola Tesla", "acceptableAnswers": ["Tesla"], "imageUrl": "" },
+            { "category": "places", "clue": "A highway that got its kicks before interstates", "clue2": "The Mother Road connected Chicago to Santa Monica", "answer": "Route 66", "imageUrl": "" },
+            { "category": "things", "clue": "Formal attire that signals either elegance or prom night", "clue2": "James Bond made this black-tie look internationally iconic", "answer": "Tuxedo", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Literature-related",
+          "cells": [
+            { "category": "people", "clue": "An author whose boy wizard became a global phenomenon", "clue2": "She wrote Harry Potter in Edinburgh cafes", "answer": "JK Rowling", "acceptableAnswers": ["J.K. Rowling", "Rowling", "J K Rowling"], "imageUrl": "" },
+            { "category": "places", "clue": "A city where literary giants like Joyce and Wilde were born", "clue2": "Temple Bar and Guinness define this Irish capital", "answer": "Dublin", "imageUrl": "" },
+            { "category": "things", "clue": "A literary accessory with serious attachment issues", "clue2": "My precious refers to this corrupting band of gold", "answer": "The One Ring", "imageUrl": "" }
+          ]
+        }
+      ]
+    },
+    {
+      "rows": [
+        {
+          "constraint": "Contains 'PH'",
+          "cells": [
+            { "category": "people", "clue": "A philosopher who tutored a future conqueror", "clue2": "He taught Alexander and founded the Lyceum", "answer": "Aristotle", "imageUrl": "" },
+            { "category": "places", "clue": "A city known as the birthplace of American democracy", "clue2": "The Liberty Bell and Independence Hall define this Pennsylvania city", "answer": "Philadelphia", "imageUrl": "" },
+            { "category": "things", "clue": "A device that went from luxury to necessity in one generation", "clue2": "Smartphones evolved from these mobile communication devices", "answer": "Cell Phone", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Nature-related",
+          "cells": [
+            { "category": "people", "clue": "A naturalist whose documentaries brought nature into homes", "clue2": "This British knight narrated Planet Earth", "answer": "David Attenborough", "acceptableAnswers": ["Attenborough", "Sir David Attenborough"], "imageUrl": "" },
+            { "category": "places", "clue": "A waterway that shares its name with a retail behemoth", "clue2": "This South American artery feeds the world's largest rainforest", "answer": "Amazon River", "imageUrl": "" },
+            { "category": "things", "clue": "An insect whose aerial abilities predate dinosaurs", "clue2": "These hovering predators catch mosquitoes mid-flight", "answer": "Dragonfly", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Gaming-related",
+          "cells": [
+            { "category": "people", "clue": "A character whose ears became the world's most recognizable silhouette", "clue2": "He started as Steamboat Willie and built an empire", "answer": "Mickey Mouse", "imageUrl": "" },
+            { "category": "places", "clue": "A Marvel nation hiding advanced tech behind a humble facade", "clue2": "Vibranium from a meteorite powers this secret kingdom", "answer": "Wakanda", "imageUrl": "" },
+            { "category": "things", "clue": "Gaming hardware that brought Microsoft into living rooms", "clue2": "Halo launched on this console's original green box", "answer": "Xbox", "imageUrl": "" }
+          ]
+        }
+      ]
+    },
+    {
+      "rows": [
+        {
+          "constraint": "Contains 'EW' or 'AW'",
+          "cells": [
+            { "category": "people", "clue": "A director who created suburban fantasies and nightmares", "clue2": "Edward Scissorhands and Batman came from this imaginative mind", "answer": "Tim Burton", "imageUrl": "" },
+            { "category": "places", "clue": "A nation where sheep outnumber people significantly", "clue2": "Hobbits and All Blacks define this island nation", "answer": "New Zealand", "imageUrl": "" },
+            { "category": "things", "clue": "Adornment that can cost nothing or everything", "clue2": "Tiffany's blue box signals this luxury accessory", "answer": "Jewelry", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Film-related",
+          "cells": [
+            { "category": "people", "clue": "An actor who became the definitive James Bond for many", "clue2": "He played 007 seven times and never looked back", "answer": "Sean Connery", "imageUrl": "" },
+            { "category": "places", "clue": "A comic book metropolis whose nights belong to a winged vigilante", "clue2": "Arkham Asylum can't seem to hold this city's villains", "answer": "Gotham City", "imageUrl": "" },
+            { "category": "things", "clue": "A vehicle from film that required 1.21 gigawatts to impress", "clue2": "Doc Brown converted this gull-winged car into a time machine", "answer": "DeLorean", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Starts with 'V'",
+          "cells": [
+            { "category": "people", "clue": "A painter who cut off part of his own ear", "clue2": "Starry Night came from this troubled Dutch artist", "answer": "Vincent van Gogh", "acceptableAnswers": ["Van Gogh", "VanGogh"], "imageUrl": "" },
+            { "category": "places", "clue": "A city-state surrounded entirely by Rome", "clue2": "The Pope resides in this tiny independent nation", "answer": "Vatican City", "acceptableAnswers": ["The Vatican", "Vatican"], "imageUrl": "" },
+            { "category": "things", "clue": "A medical intervention that became politically divisive", "clue2": "Edward Jenner pioneered this disease prevention method", "answer": "Vaccination", "imageUrl": "" }
           ]
         }
       ]

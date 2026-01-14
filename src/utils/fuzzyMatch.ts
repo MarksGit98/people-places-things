@@ -46,11 +46,44 @@ function levenshteinDistance(a: string, b: string): number {
 }
 
 /**
- * Checks if a guess matches the correct answer using fuzzy matching
- * Returns true if the guess is close enough to the answer
+ * Gets singular/plural variants of a word for flexible matching
  */
-export function isCorrectAnswer(guess: string, answer: string): boolean {
-  const normalizedGuess = normalizeString(guess);
+function getPluralVariants(word: string): string[] {
+  const variants = [word];
+
+  // If word ends in 's', add the singular form (remove 's')
+  if (word.endsWith('ies')) {
+    // e.g., "batteries" -> "battery"
+    variants.push(word.slice(0, -3) + 'y');
+  } else if (word.endsWith('es')) {
+    // e.g., "watches" -> "watch", "boxes" -> "box"
+    variants.push(word.slice(0, -2));
+    variants.push(word.slice(0, -1)); // also try just removing 's'
+  } else if (word.endsWith('s') && !word.endsWith('ss')) {
+    // e.g., "cars" -> "car"
+    variants.push(word.slice(0, -1));
+  }
+
+  // If word doesn't end in 's', add plural forms
+  if (!word.endsWith('s')) {
+    variants.push(word + 's'); // e.g., "car" -> "cars"
+    if (word.endsWith('y') && !/[aeiou]y$/.test(word)) {
+      // e.g., "battery" -> "batteries"
+      variants.push(word.slice(0, -1) + 'ies');
+    }
+    if (word.endsWith('ch') || word.endsWith('sh') || word.endsWith('x') || word.endsWith('o')) {
+      // e.g., "watch" -> "watches"
+      variants.push(word + 'es');
+    }
+  }
+
+  return variants;
+}
+
+/**
+ * Checks if a guess matches a single answer using fuzzy matching
+ */
+function matchesSingleAnswer(normalizedGuess: string, answer: string, checkPlurals: boolean = false): boolean {
   const normalizedAnswer = normalizeString(answer);
 
   // Exact match after normalization
@@ -58,9 +91,19 @@ export function isCorrectAnswer(guess: string, answer: string): boolean {
     return true;
   }
 
-  // Empty guess
-  if (!normalizedGuess) {
-    return false;
+  // Check plural variants if enabled (for "things" category)
+  if (checkPlurals) {
+    const guessVariants = getPluralVariants(normalizedGuess);
+    const answerVariants = getPluralVariants(normalizedAnswer);
+
+    // Check if any variant of the guess matches any variant of the answer
+    for (const guessVariant of guessVariants) {
+      for (const answerVariant of answerVariants) {
+        if (guessVariant === answerVariant) {
+          return true;
+        }
+      }
+    }
   }
 
   // Use Fuse.js for fuzzy matching
@@ -85,6 +128,45 @@ export function isCorrectAnswer(guess: string, answer: string): boolean {
 
   if (distance <= maxDistance) {
     return true;
+  }
+
+  return false;
+}
+
+/**
+ * Checks if a guess matches the correct answer using fuzzy matching
+ * Also checks against any acceptable alternative answers
+ * For "things" category, also accepts plural/singular variants
+ * Returns true if the guess is close enough to the answer or any acceptable answer
+ */
+export function isCorrectAnswer(
+  guess: string,
+  answer: string,
+  acceptableAnswers?: string[],
+  category?: 'people' | 'places' | 'things'
+): boolean {
+  const normalizedGuess = normalizeString(guess);
+
+  // Empty guess
+  if (!normalizedGuess) {
+    return false;
+  }
+
+  // Enable plural checking for "things" category
+  const checkPlurals = category === 'things';
+
+  // Check against primary answer
+  if (matchesSingleAnswer(normalizedGuess, answer, checkPlurals)) {
+    return true;
+  }
+
+  // Check against acceptable alternatives
+  if (acceptableAnswers && acceptableAnswers.length > 0) {
+    for (const altAnswer of acceptableAnswers) {
+      if (matchesSingleAnswer(normalizedGuess, altAnswer, checkPlurals)) {
+        return true;
+      }
+    }
   }
 
   return false;

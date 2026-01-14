@@ -77,7 +77,7 @@ export function useGameState(puzzle: Puzzle) {
   const handleGuess = useCallback(
     (rowIndex: number, colIndex: number, guess: string) => {
       const cell = puzzle.rows[rowIndex].cells[colIndex];
-      const correct = isCorrectAnswer(guess, cell.answer);
+      const correct = isCorrectAnswer(guess, cell.answer, cell.acceptableAnswers, cell.category);
 
       setGameState((prev) => {
         const newCells = prev.cells.map((row, rIdx) =>

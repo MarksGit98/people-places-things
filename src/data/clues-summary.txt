@@ -1,0 +1,704 @@
+PEOPLE, PLACES & THINGS - Sourced Clues Summary
+Generated: 2026-01-11T23:47:35.079Z
+============================================================
+
+
+########################################
+# PEOPLE (37 entries)
+########################################
+
+1. ANSWER: Woodrow Wilson
+   Clue 1: The Panama Canal was finished under the administration of which U.S. president?
+   Clue 2: This person's name has 2 words
+   Source: OpenTriviaDB - History | Confidence: high
+
+2. ANSWER:  December 2nd 1804
+   Clue 1: When was Napoleon Bonaparte crowned emperor of the French? 
+   Clue 2: This person's name has 4 words
+   Source: OpenTriviaDB - History | Confidence: high
+
+3. ANSWER: 55
+   Clue 1: How old was Lyndon B. Johnson when he assumed the role of President of the United States?
+   Clue 2: Starts with the letter "5"
+   Source: OpenTriviaDB - History | Confidence: high
+
+4. ANSWER: Marie Antoinette
+   Clue 1: Which famous world leader is famed for the saying, "Let them eat cake", yet is rumored that he/she never said it at all?
+   Clue 2: This person's name has 2 words
+   Source: OpenTriviaDB - History | Confidence: high
+
+5. ANSWER: Gus Grissom
+   Clue 1: Who was the first man to travel into outer space twice?
+   Clue 2: This person's name has 2 words
+   Source: OpenTriviaDB - History | Confidence: high
+
+6. ANSWER: Vespasian
+   Clue 1: Who was the last Roman emperor in the Year of Four Emperors (69 AD)?
+   Clue 2: Starts with the letter "V"
+   Source: OpenTriviaDB - History | Confidence: high
+
+7. ANSWER: The Napoleonic Wars
+   Clue 1: What historical event was Tchaikovsky's 1812 Overture referencing?
+   Clue 2: This person's name has 3 words
+   Source: OpenTriviaDB - History | Confidence: high
+
+8. ANSWER: Jimmy Carter
+   Clue 1: Which U.S. President was famously 'attacked' by a swimming rabbit?
+   Clue 2: This person's name has 2 words
+   Source: OpenTriviaDB - History | Confidence: high
+
+9. ANSWER: The Prince
+   Clue 1: In "Katamari Damacy", you control a character known as:
+   Clue 2: This person's name has 2 words
+   Source: OpenTriviaDB - General Knowledge | Confidence: high
+
+10. ANSWER: Leader of the Ukrainian Cossacks
+   Clue 1: Bohdan Khmelnytsky was which of the following?
+   Clue 2: This person's name has 5 words
+   Source: OpenTriviaDB - History | Confidence: medium
+
+11. ANSWER: Homer
+   Clue 1: Who is attributed credit for recording the epic poem The Odyssey?
+   Clue 2: Starts with the letter "H"
+   Source: OpenTriviaDB - History | Confidence: medium
+
+12. ANSWER: Kurt Knispel
+   Clue 1: Which WWII tank ace is credited with having destroyed the most tanks?
+   Clue 2: This person's name has 2 words
+   Source: OpenTriviaDB - History | Confidence: medium
+
+13. ANSWER: Cold War
+   Clue 1: During what war did the "Cuban Missile Crisis" occur?
+   Clue 2: This person's name has 2 words
+   Source: OpenTriviaDB - History | Confidence: medium
+
+14. ANSWER: Richard III
+   Clue 1: Which king was killed at the Battle of Bosworth Field in 1485? 
+   Clue 2: This person's name has 2 words
+   Source: OpenTriviaDB - History | Confidence: medium
+
+15. ANSWER: Romantic
+   Clue 1: Pianist Frédéric Chopin was a composer of which musical era?
+   Clue 2: Starts with the letter "R"
+   Source: OpenTriviaDB - History | Confidence: medium
+
+16. ANSWER: José Rizal
+   Clue 1: What was the name of the national hero of the Philippines who inspired and lead the Philippine Revolution against colonial Spain?
+   Clue 2: This person's name has 2 words
+   Source: OpenTriviaDB - History | Confidence: medium
+
+17. ANSWER: Making jams and jellies
+   Clue 1: In addition to his career as an astrologer and "prophet", Nostradamus published a 1555 treatise that included a section on what?
+   Clue 2: This person's name has 4 words
+   Source: OpenTriviaDB - History | Confidence: medium
+
+18. ANSWER: Socrates
+   Clue 1: With which Greek philosopher would you associate the phrase, "I know that I know nothing"?
+   Clue 2: Starts with the letter "S"
+   Source: OpenTriviaDB - History | Confidence: medium
+
+19. ANSWER: Charles Alderton
+   Clue 1: Who is the creator of the soft drink, Dr. Pepper?
+   Clue 2: This person's name has 2 words
+   Source: OpenTriviaDB - History | Confidence: medium
+
+20. ANSWER: St. Helena
+   Clue 1: After his loss at the Battle of Waterloo, Napoleon Bonaparte was exiled to which island?
+   Clue 2: This person's name has 2 words
+   Source: OpenTriviaDB - History | Confidence: medium
+
+21. ANSWER: The Mayans
+   Clue 1: Which American civilization is the source of the belief that the world would end or drastically change on December 21st, 2012?
+   Clue 2: This person's name has 2 words
+   Source: OpenTriviaDB - History | Confidence: medium
+
+22. ANSWER: Josh DeSeno
+   Clue 1: Whose greyscale face is on the kappa emoticon on Twitch?
+   Clue 2: This person's name has 2 words
+   Source: OpenTriviaDB - General Knowledge | Confidence: medium
+
+23. ANSWER: Traffic Collision Avoidance System
+   Clue 1: In flight systems, what does the initialism "TCAS" stand for?
+   Clue 2: This person's name has 4 words
+   Source: OpenTriviaDB - General Knowledge | Confidence: medium
+
+24. ANSWER: Almond Joy
+   Clue 1: Which candy is NOT made by Mars?
+   Clue 2: This person's name has 2 words
+   Source: OpenTriviaDB - General Knowledge | Confidence: medium
+
+25. ANSWER: Star City
+   Clue 1: In DC comics where does the Green Arrow (Oliver Queen) live?
+   Clue 2: This person's name has 2 words
+   Source: OpenTriviaDB - General Knowledge | Confidence: medium
+
+26. ANSWER: Peace
+   Clue 1: Linus Pauling, one of the only winners of multiple Nobel Prizes, earned his Nobel Prizes in Chemistry and what?
+   Clue 2: Starts with the letter "P"
+   Source: OpenTriviaDB - General Knowledge | Confidence: medium
+
+27. ANSWER: The Shatter's
+   Clue 1: In the MMO RPG "Realm of the Mad God", what dungeon is widely considered to be the most difficult?
+   Clue 2: This person's name has 2 words
+   Source: OpenTriviaDB - General Knowledge | Confidence: medium
+
+28. ANSWER: Plum
+   Clue 1: According to the nursery rhyme, what fruit did Little Jack Horner pull out of his Christmas pie?
+   Clue 2: Starts with the letter "P"
+   Source: OpenTriviaDB - General Knowledge | Confidence: medium
+
+29. ANSWER: The Fox and the Hound
+   Clue 1: Which of the following is NOT one of Aesop's fables?
+   Clue 2: This person's name has 5 words
+   Source: OpenTriviaDB - General Knowledge | Confidence: medium
+
+30. ANSWER: Emperor
+   Clue 1: What is the largest living species of penguin?
+   Clue 2: Starts with the letter "E"
+   Source: OpenTriviaDB - General Knowledge | Confidence: medium
+
+31. ANSWER: Shan Yu
+   Clue 1: In Mulan (1998), who is the leader of the Huns?
+   Clue 2: This person's name has 2 words
+   Source: OpenTriviaDB - Entertainment: Film | Confidence: medium
+
+32. ANSWER: Billy Corgan
+   Clue 1: Who is the lead singer of the Smashing Pumpkins?
+   Clue 2: This person's name has 2 words
+   Source: OpenTriviaDB - Entertainment: Music | Confidence: medium
+
+33. ANSWER: Alex Turner
+   Clue 1: Who is the lead singer of Arctic Monkeys?
+   Clue 2: This person's name has 2 words
+   Source: OpenTriviaDB - Entertainment: Music | Confidence: medium
+
+34. ANSWER: Patrick Stump
+   Clue 1: Who is the singer for Fall Out Boy?
+   Clue 2: This person's name has 2 words
+   Source: OpenTriviaDB - Entertainment: Music | Confidence: medium
+
+35. ANSWER: Deoxyribonucleic Acid
+   Clue 1: What does DNA stand for?
+   Clue 2: This person's name has 2 words
+   Source: OpenTriviaDB - Science &amp; Nature | Confidence: medium
+
+36. ANSWER: Cognitive Dissonance
+   Clue 1: Which psychological term refers to the stress of holding contrasting beliefs?
+   Clue 2: This person's name has 2 words
+   Source: OpenTriviaDB - Science &amp; Nature | Confidence: medium
+
+37. ANSWER: Convergent Plate Boundaries/Oceanic Crust
+   Clue 1: Which of these two plates are best know for forming earthquakes and tsunami's? 
+   Clue 2: This person's name has 4 words
+   Source: OpenTriviaDB - Science &amp; Nature | Confidence: medium
+
+
+########################################
+# PLACES (65 entries)
+########################################
+
+1. ANSWER: Switzerland
+   Clue 1: The World Health Organization headquarters is located in which European country?
+   Clue 2: This location has 11 letters in its name
+   Source: OpenTriviaDB - Geography | Confidence: high
+
+2. ANSWER: Michigan
+   Clue 1: Frankenmuth, a US city nicknamed "Little Bavaria", is located in what state?
+   Clue 2: This location has 8 letters in its name
+   Source: OpenTriviaDB - Geography | Confidence: high
+
+3. ANSWER: Afghanistan and Pakistan
+   Clue 1: The mountainous Khyber Pass connects which of the two following countries?
+   Clue 2: This location has 24 letters in its name
+   Source: OpenTriviaDB - Geography | Confidence: high
+
+4. ANSWER: Dubai
+   Clue 1: Which of these is NOT a city in Saudi Arabia?
+   Clue 2: Begins with "D"
+   Source: OpenTriviaDB - Geography | Confidence: high
+
+5. ANSWER: Samoyedic
+   Clue 1: All of the following are classified as Finno-Ugric languages EXCEPT:
+   Clue 2: This location has 9 letters in its name
+   Source: OpenTriviaDB - Geography | Confidence: high
+
+6. ANSWER: Seoul
+   Clue 1: What is the capital of South Korea?
+   Clue 2: Begins with "S"
+   Source: OpenTriviaDB - Geography | Confidence: high
+
+7. ANSWER: Dakar
+   Clue 1: What is the capital of Senegal?
+   Clue 2: Begins with "D"
+   Source: OpenTriviaDB - Geography | Confidence: high
+
+8. ANSWER: Egypt and Sudan
+   Clue 1: Bir Tawil, an uninhabited track of land claimed by no country, is located along the border of which two countries?
+   Clue 2: This location has 15 letters in its name
+   Source: OpenTriviaDB - Geography | Confidence: high
+
+9. ANSWER: Europe and Africa
+   Clue 1: On which continent/s is the entire country of Spain specifically located when taking into account all of its territory?
+   Clue 2: This location has 17 letters in its name
+   Source: OpenTriviaDB - Geography | Confidence: high
+
+10. ANSWER: 0
+   Clue 1: How many rivers are in Saudi Arabia?
+   Clue 2: Begins with "0"
+   Source: OpenTriviaDB - Geography | Confidence: high
+
+11. ANSWER: Colombo
+   Clue 1: What is the largest city and commercial capital of Sri Lanka?
+   Clue 2: This location has 7 letters in its name
+   Source: OpenTriviaDB - Geography | Confidence: high
+
+12. ANSWER: Kaunas
+   Clue 1: What is the second-largest city in Lithuania?
+   Clue 2: Begins with "K"
+   Source: OpenTriviaDB - Geography | Confidence: high
+
+13. ANSWER: Santiago
+   Clue 1: What is the capital of Chile?
+   Clue 2: This location has 8 letters in its name
+   Source: OpenTriviaDB - Geography | Confidence: high
+
+14. ANSWER: Georgian
+   Clue 1: Which of the following languages does NOT use the Latin alphabet?
+   Clue 2: This location has 8 letters in its name
+   Source: OpenTriviaDB - Geography | Confidence: high
+
+15. ANSWER: Bratislava
+   Clue 1: What is the capital of Slovakia?
+   Clue 2: This location has 10 letters in its name
+   Source: OpenTriviaDB - Geography | Confidence: high
+
+16. ANSWER: Guyana
+   Clue 1: Which is not a country in Africa?
+   Clue 2: Begins with "G"
+   Source: OpenTriviaDB - Geography | Confidence: high
+
+17. ANSWER: 1
+   Clue 1: How many time zones does China have?
+   Clue 2: Begins with "1"
+   Source: OpenTriviaDB - Geography | Confidence: high
+
+18. ANSWER: Indonesia
+   Clue 1: What is the largest Muslim country in the world?
+   Clue 2: This location has 9 letters in its name
+   Source: OpenTriviaDB - Geography | Confidence: high
+
+19. ANSWER: Denmark
+   Clue 1: Greenland is a part of which kingdom?
+   Clue 2: This location has 7 letters in its name
+   Source: OpenTriviaDB - Geography | Confidence: high
+
+20. ANSWER: Africa
+   Clue 1: The Gambia is a nation found on which continent?
+   Clue 2: Begins with "A"
+   Source: OpenTriviaDB - Geography | Confidence: high
+
+21. ANSWER: 1,776 ft
+   Clue 1: How tall is One World Trade Center in New York City?
+   Clue 2: This location has 8 letters in its name
+   Source: OpenTriviaDB - Geography | Confidence: high
+
+22. ANSWER: Omicron (&Omicron;)
+   Clue 1: What is the 15th letter of the Greek alphabet?
+   Clue 2: This location has 19 letters in its name
+   Source: OpenTriviaDB - Geography | Confidence: high
+
+23. ANSWER: Murcia
+   Clue 1: The following Spanish provinces are located in the northern area of Spain except:
+   Clue 2: Begins with "M"
+   Source: OpenTriviaDB - Geography | Confidence: high
+
+24. ANSWER: Indonesia
+   Clue 1: What is the most populous Muslim-majority nation in 2010?
+   Clue 2: This location has 9 letters in its name
+   Source: OpenTriviaDB - Geography | Confidence: high
+
+25. ANSWER: Rome, Italy
+   Clue 1: Where would you find the "Spanish Steps"?
+   Clue 2: This location has 11 letters in its name
+   Source: OpenTriviaDB - Geography | Confidence: high
+
+26. ANSWER: Basque
+   Clue 1: Which of the following European languages is classified as a "language isolate?"
+   Clue 2: Begins with "B"
+   Source: OpenTriviaDB - Geography | Confidence: high
+
+27. ANSWER: Andorra
+   Clue 1: What tiny principality lies between Spain and France?
+   Clue 2: This location has 7 letters in its name
+   Source: OpenTriviaDB - Geography | Confidence: high
+
+28. ANSWER: Peru
+   Clue 1: Where are the Nazca Lines located?
+   Clue 2: Begins with "P"
+   Source: OpenTriviaDB - Geography | Confidence: high
+
+29. ANSWER: Brazil
+   Clue 1: In which country is the city of Rio de Janeiro?
+   Clue 2: Begins with "B"
+   Source: OpenTriviaDB - Geography | Confidence: high
+
+30. ANSWER: India
+   Clue 1: The Andaman and Nicobar Islands in South East Asia are controlled by which country?
+   Clue 2: Begins with "I"
+   Source: OpenTriviaDB - Geography | Confidence: high
+
+31. ANSWER: Western Australia
+   Clue 1: Broome is a town in which state of Australia?
+   Clue 2: This location has 17 letters in its name
+   Source: OpenTriviaDB - Geography | Confidence: high
+
+32. ANSWER: Canada
+   Clue 1: What country is the second largest in the world by area?
+   Clue 2: Begins with "C"
+   Source: OpenTriviaDB - Geography | Confidence: high
+
+33. ANSWER: December 6th
+   Clue 1: When does Finland celebrate their independence day?
+   Clue 2: This location has 12 letters in its name
+   Source: OpenTriviaDB - Geography | Confidence: high
+
+34. ANSWER: Copenhagen
+   Clue 1: What is the capital of Denmark?
+   Clue 2: This location has 10 letters in its name
+   Source: OpenTriviaDB - Geography | Confidence: high
+
+35. ANSWER: Maori
+   Clue 1: What is the name of New Zealand's indigenous people?
+   Clue 2: Begins with "M"
+   Source: OpenTriviaDB - Geography | Confidence: high
+
+36. ANSWER: 5
+   Clue 1: How many countries are larger than Australia?
+   Clue 2: Begins with "5"
+   Source: OpenTriviaDB - Geography | Confidence: high
+
+37. ANSWER: Fairfax County, Virginia
+   Clue 1: Colchester Overpass, otherwise known as "Bunny Man Bridge", is located where?
+   Clue 2: This location has 24 letters in its name
+   Source: OpenTriviaDB - Geography | Confidence: high
+
+38. ANSWER: Quebec
+   Clue 1: Montreal is in which Canadian province?
+   Clue 2: Begins with "Q"
+   Source: OpenTriviaDB - Geography | Confidence: high
+
+39. ANSWER: 3
+   Clue 1: How many countries share a land border with Luxembourg?
+   Clue 2: Begins with "3"
+   Source: OpenTriviaDB - Geography | Confidence: high
+
+40. ANSWER: 36,600
+   Clue 1: In 2012 the German-speaking microstate "Liechtenstein" in Central Europe had a population of how many inhabitants?
+   Clue 2: Begins with "3"
+   Source: OpenTriviaDB - Geography | Confidence: high
+
+41. ANSWER: Monaco
+   Clue 1: What country has a horizontal bicolor red and white flag?
+   Clue 2: Begins with "M"
+   Source: OpenTriviaDB - Geography | Confidence: high
+
+42. ANSWER: Sudbury, Ontario
+   Clue 1: In which city is the Big Nickel located in Canada?
+   Clue 2: This location has 16 letters in its name
+   Source: OpenTriviaDB - Geography | Confidence: high
+
+43. ANSWER: Transylvania
+   Clue 1: Which area of Eastern Europe is famous for its association with vampires?
+   Clue 2: This location has 12 letters in its name
+   Source: OpenTriviaDB - Geography | Confidence: high
+
+44. ANSWER: Uzbekistan
+   Clue 1: Which of these countries is "doubly landlocked" (surrounded entirely by one or more landlocked countries)?
+   Clue 2: This location has 10 letters in its name
+   Source: OpenTriviaDB - Geography | Confidence: high
+
+45. ANSWER: Albany
+   Clue 1: What is the capital of the US State of New York?
+   Clue 2: Begins with "A"
+   Source: OpenTriviaDB - Geography | Confidence: high
+
+46. ANSWER: Minsk
+   Clue 1: What is the capital of Belarus?
+   Clue 2: Begins with "M"
+   Source: OpenTriviaDB - Geography | Confidence: high
+
+47. ANSWER: Barbados
+   Clue 1: Bridgetown is the capital of which island country in the Carribean?
+   Clue 2: This location has 8 letters in its name
+   Source: OpenTriviaDB - Geography | Confidence: high
+
+48. ANSWER: Edinburgh
+   Clue 1: What is the capital of Scotland?
+   Clue 2: This location has 9 letters in its name
+   Source: OpenTriviaDB - Geography | Confidence: high
+
+49. ANSWER: India
+   Clue 1: The words "bungalow" and "shampoo" originate from the languages of which country?
+   Clue 2: Begins with "I"
+   Source: OpenTriviaDB - General Knowledge | Confidence: high
+
+50. ANSWER: San Francisco, California
+   Clue 1: Which of these American cities has fewer than 1,000,000 people?
+   Clue 2: This location has 25 letters in its name
+   Source: OpenTriviaDB - Geography | Confidence: medium
+
+
+########################################
+# THINGS (134 entries)
+########################################
+
+1. ANSWER: Watches
+   Clue 1: Rolex is a company that specializes in what type of product?
+   Clue 2: The answer is 1 word(s) starting with "W"
+   Source: OpenTriviaDB - General Knowledge | Confidence: high
+
+2. ANSWER: LV-426
+   Clue 1: What was the name of the planet in "Aliens"?
+   Clue 2: The answer is 1 word(s) starting with "L"
+   Source: OpenTriviaDB - Entertainment: Film | Confidence: high
+
+3. ANSWER: Hogarth Hughes
+   Clue 1: In the movie &ldquo;The Iron Giant,&rdquo; this character is the protagonist.
+   Clue 2: The answer is 2 word(s) starting with "H"
+   Source: OpenTriviaDB - Entertainment: Film | Confidence: high
+
+4. ANSWER: Green Arrow
+   Clue 1: Which DC superhero was NOT included in the 2017 movie "Justice League"?
+   Clue 2: The answer is 2 word(s) starting with "G"
+   Source: OpenTriviaDB - Entertainment: Film | Confidence: high
+
+5. ANSWER: Tron
+   Clue 1: In what Disney movie can you spot the character "Pac-Man" in if you look closely enough in some scenes?
+   Clue 2: The answer is 1 word(s) starting with "T"
+   Source: OpenTriviaDB - Entertainment: Film | Confidence: high
+
+6. ANSWER: RoboCop
+   Clue 1: Which of these films is NOT set in Los Angeles?
+   Clue 2: The answer is 1 word(s) starting with "R"
+   Source: OpenTriviaDB - Entertainment: Film | Confidence: high
+
+7. ANSWER: Benjamin Franklin Gates
+   Clue 1: What is the name of the character Nicolas Cage plays in the movie "National Treasure?"
+   Clue 2: The answer is 3 word(s) starting with "B"
+   Source: OpenTriviaDB - Entertainment: Film | Confidence: high
+
+8. ANSWER: Verdi
+   Clue 1: The film Mad Max: Fury Road features the Dies Irae  from which composer's requiem?
+   Clue 2: The answer is 1 word(s) starting with "V"
+   Source: OpenTriviaDB - Entertainment: Film | Confidence: high
+
+9. ANSWER: Titanic
+   Clue 1: What film did James Cameron's Avatar dethrone as the highest-grossing film ever?
+   Clue 2: The answer is 1 word(s) starting with "T"
+   Source: OpenTriviaDB - Entertainment: Film | Confidence: high
+
+10. ANSWER: Wilson
+   Clue 1: What name did Tom Hanks give to his volleyball companion in the film `Cast Away`?
+   Clue 2: The answer is 1 word(s) starting with "W"
+   Source: OpenTriviaDB - Entertainment: Film | Confidence: high
+
+11. ANSWER: Toy Story 2
+   Clue 1: Which movie sequel had improved box office results compared to its original film?
+   Clue 2: The answer is 3 word(s) starting with "T"
+   Source: OpenTriviaDB - Entertainment: Film | Confidence: high
+
+12. ANSWER: a lawnmower
+   Clue 1: Before getting the shotgun, what did the titular hobo in 'Hobo with a Shotgun' want to purchase?
+   Clue 2: The answer is 2 word(s) starting with "a"
+   Source: OpenTriviaDB - Entertainment: Film | Confidence: high
+
+13. ANSWER: Drums
+   Clue 1: In the 2014 film "Birdman", what is the primary instrument in the score?
+   Clue 2: The answer is 1 word(s) starting with "D"
+   Source: OpenTriviaDB - Entertainment: Film | Confidence: high
+
+14. ANSWER: 1986
+   Clue 1: In what year was the first Transformers movie released?
+   Clue 2: The answer is 1 word(s) starting with "1"
+   Source: OpenTriviaDB - Entertainment: Film | Confidence: high
+
+15. ANSWER: Sugar
+   Clue 1: What was Marilyn Monroe`s character's first name in the film "Some Like It Hot"?
+   Clue 2: The answer is 1 word(s) starting with "S"
+   Source: OpenTriviaDB - Entertainment: Film | Confidence: high
+
+16. ANSWER: 1957
+   Clue 1: In the Friday The 13th series, what year did Jason drown in?
+   Clue 2: The answer is 1 word(s) starting with "1"
+   Source: OpenTriviaDB - Entertainment: Film | Confidence: high
+
+17. ANSWER: 1997
+   Clue 1: What year did the James Cameron film "Titanic" come out in theaters?
+   Clue 2: The answer is 1 word(s) starting with "1"
+   Source: OpenTriviaDB - Entertainment: Film | Confidence: high
+
+18. ANSWER: Beer
+   Clue 1: In order to cut costs, what were most of the extras of Mad Max (1979) paid with?
+   Clue 2: The answer is 1 word(s) starting with "B"
+   Source: OpenTriviaDB - Entertainment: Film | Confidence: high
+
+19. ANSWER: Boomstick
+   Clue 1: In the 1992 film "Army of Darkness", what name does Ash give to his double-barreled shotgun?
+   Clue 2: The answer is 1 word(s) starting with "B"
+   Source: OpenTriviaDB - Entertainment: Film | Confidence: high
+
+20. ANSWER: Distant Drums
+   Clue 1: What was the first movie to ever use a Wilhelm Scream?
+   Clue 2: The answer is 2 word(s) starting with "D"
+   Source: OpenTriviaDB - Entertainment: Film | Confidence: high
+
+21. ANSWER: Jimmy Cooper
+   Clue 1: In the 1979 British film "Quadrophenia" what is the name of the main protagonist?
+   Clue 2: The answer is 2 word(s) starting with "J"
+   Source: OpenTriviaDB - Entertainment: Film | Confidence: high
+
+22. ANSWER: A New Hope
+   Clue 1: What is the name of the first "Star Wars" film by release order?
+   Clue 2: The answer is 3 word(s) starting with "A"
+   Source: OpenTriviaDB - Entertainment: Film | Confidence: high
+
+23. ANSWER: Keegan-Michael Key
+   Clue 1: In the Super Mario Bros. Movie (2023), who plays Toad?
+   Clue 2: The answer is 2 word(s) starting with "K"
+   Source: OpenTriviaDB - Entertainment: Film | Confidence: high
+
+24. ANSWER: Camp Crystal Lake
+   Clue 1: Where does the original Friday The 13th movie take place?
+   Clue 2: The answer is 3 word(s) starting with "C"
+   Source: OpenTriviaDB - Entertainment: Film | Confidence: high
+
+25. ANSWER: The Simpsons Movie
+   Clue 1: 7-Eleven stores were temporarily converted into Kwik E-marts to promote the release of what movie?
+   Clue 2: The answer is 3 word(s) starting with "T"
+   Source: OpenTriviaDB - Entertainment: Film | Confidence: high
+
+26. ANSWER: 2010
+   Clue 1: Which year was the first official Youtube Rewind released?
+   Clue 2: The answer is 1 word(s) starting with "2"
+   Source: OpenTriviaDB - Entertainment: Film | Confidence: high
+
+27. ANSWER: Yautja
+   Clue 1: What is the species of the "Predator" in the 1987 movie "Predator"?
+   Clue 2: The answer is 1 word(s) starting with "Y"
+   Source: OpenTriviaDB - Entertainment: Film | Confidence: high
+
+28. ANSWER: Mining gear
+   Clue 1: The killer in the 1981 film 'My Bloody Valentine' wears what sort of outfit?
+   Clue 2: The answer is 2 word(s) starting with "M"
+   Source: OpenTriviaDB - Entertainment: Film | Confidence: high
+
+29. ANSWER: Scarface
+   Clue 1: Which movie contains the quote, "Say hello to my little friend!"?
+   Clue 2: The answer is 1 word(s) starting with "S"
+   Source: OpenTriviaDB - Entertainment: Film | Confidence: high
+
+30. ANSWER: Men of Harlech
+   Clue 1: In the 1964 film "Zulu", what song does the British Army company sing before the final battle?
+   Clue 2: The answer is 3 word(s) starting with "M"
+   Source: OpenTriviaDB - Entertainment: Film | Confidence: high
+
+31. ANSWER: His puppy is killed and his car was stolen
+   Clue 1: In the film "John Wick" why does John Wick get out of retirement?
+   Clue 2: The answer is 9 word(s) starting with "H"
+   Source: OpenTriviaDB - Entertainment: Film | Confidence: high
+
+32. ANSWER: Victoria
+   Clue 1: Which one of these action movies are shot entirely in one take?
+   Clue 2: The answer is 1 word(s) starting with "V"
+   Source: OpenTriviaDB - Entertainment: Film | Confidence: high
+
+33. ANSWER: Spanish Inquisition
+   Clue 1: What historical time period was the center of the Assassin&rsquo;s Creed movie (2016)?
+   Clue 2: The answer is 2 word(s) starting with "S"
+   Source: OpenTriviaDB - Entertainment: Film | Confidence: high
+
+34. ANSWER: Unknown Pleasures
+   Clue 1: Which iconic album cover features the pulsar waves of CP 1919 placed in the center of the cover?
+   Clue 2: The answer is 2 word(s) starting with "U"
+   Source: OpenTriviaDB - Entertainment: Music | Confidence: high
+
+35. ANSWER: Blonde
+   Clue 1: What was the name of singer Frank Ocean's second studio album, which was released on August 20, 2016?
+   Clue 2: The answer is 1 word(s) starting with "B"
+   Source: OpenTriviaDB - Entertainment: Music | Confidence: high
+
+36. ANSWER: Adele, 25
+   Clue 1: What was the best selling album of 2015?
+   Clue 2: The answer is 2 word(s) starting with "A"
+   Source: OpenTriviaDB - Entertainment: Music | Confidence: high
+
+37. ANSWER: -
+   Clue 1: Which of these is not an Ed Sheeran album?
+   Clue 2: The answer is 1 word(s) starting with "-"
+   Source: OpenTriviaDB - Entertainment: Music | Confidence: high
+
+38. ANSWER: John
+   Clue 1: Which Beatle led the way across the zebra crossing on the Abbey Road album cover?
+   Clue 2: The answer is 1 word(s) starting with "J"
+   Source: OpenTriviaDB - Entertainment: Music | Confidence: high
+
+39. ANSWER: Dave Navarro
+   Clue 1: Which of the following guitarists recorded an album as a member of the Red Hot Chili Peppers?
+   Clue 2: The answer is 2 word(s) starting with "D"
+   Source: OpenTriviaDB - Entertainment: Music | Confidence: high
+
+40. ANSWER: Masta Killa
+   Clue 1: Which member of the Wu-Tang Clan had only one verse in their debut album Enter the Wu-Tang (36 Chambers)?
+   Clue 2: The answer is 2 word(s) starting with "M"
+   Source: OpenTriviaDB - Entertainment: Music | Confidence: high
+
+41. ANSWER: Foo Fighters
+   Clue 1: Which band released the album "Sonic Highways" in 2014?
+   Clue 2: The answer is 2 word(s) starting with "F"
+   Source: OpenTriviaDB - Entertainment: Music | Confidence: high
+
+42. ANSWER: Snow
+   Clue 1: Which Canadian reggae musician had a 1993 hit with the song 'Informer'?
+   Clue 2: The answer is 1 word(s) starting with "S"
+   Source: OpenTriviaDB - Entertainment: Music | Confidence: high
+
+43. ANSWER: Hurt
+   Clue 1: Johnny Cash did a cover of this song written by lead singer of Nine Inch Nails, Trent Reznor.
+   Clue 2: The answer is 1 word(s) starting with "H"
+   Source: OpenTriviaDB - Entertainment: Music | Confidence: high
+
+44. ANSWER: WiFi Tears
+   Clue 1: Which of these is NOT a song by Pegboard Nerds?
+   Clue 2: The answer is 2 word(s) starting with "W"
+   Source: OpenTriviaDB - Entertainment: Music | Confidence: high
+
+45. ANSWER: We Don't Need Another Hero
+   Clue 1: What song by Tina Turner is the theme for Mad Max Beyond Thunderdome?
+   Clue 2: The answer is 5 word(s) starting with "W"
+   Source: OpenTriviaDB - Entertainment: Music | Confidence: high
+
+46. ANSWER: The Velvet Underground and Nico
+   Clue 1: This album, now considered to be one of the greatest of all time, was a commercial failure when it was released.
+   Clue 2: The answer is 5 word(s) starting with "T"
+   Source: OpenTriviaDB - Entertainment: Music | Confidence: high
+
+47. ANSWER: 20.5
+   Clue 1: How many copies have Metallica album "Metallica" (A.K.A The Black Album) sold worldwide (in Millions of Copies)?
+   Clue 2: The answer is 1 word(s) starting with "2"
+   Source: OpenTriviaDB - Entertainment: Music | Confidence: high
+
+48. ANSWER: Adventure
+   Clue 1: What is the name of French electronic music producer Madeon's 2015 debut studio album?
+   Clue 2: The answer is 1 word(s) starting with "A"
+   Source: OpenTriviaDB - Entertainment: Music | Confidence: high
+
+49. ANSWER: Mr. Rogers
+   Clue 1: In the song &ldquo;The Ultimate Showdown of Ultimate Destiny,&rdquo; who is the only one to survive the battle?
+   Clue 2: The answer is 2 word(s) starting with "M"
+   Source: OpenTriviaDB - Entertainment: Music | Confidence: high
+
+50. ANSWER: Homework
+   Clue 1: What was Daft Punk's first studio album?
+   Clue 2: The answer is 1 word(s) starting with "H"
+   Source: OpenTriviaDB - Entertainment: Music | Confidence: high
+

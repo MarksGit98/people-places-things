@@ -1,0 +1,612 @@
+{
+  "generatedAt": "2026-01-11",
+  "description": "High-quality curated clues for People, Places & Things puzzle game",
+  "clues": {
+    "people": [
+      {
+        "answer": "Albert Einstein",
+        "clue": "A physicist whose hair was as wild as his theories",
+        "clue2": "E=mc² was his claim to fame"
+      },
+      {
+        "answer": "Cleopatra",
+        "clue": "An Egyptian ruler whose romantic alliances shaped empires",
+        "clue2": "She captivated both Caesar and Mark Antony"
+      },
+      {
+        "answer": "Leonardo da Vinci",
+        "clue": "A Renaissance genius who sketched helicopters centuries early",
+        "clue2": "The painter behind history's most mysterious smile"
+      },
+      {
+        "answer": "Frida Kahlo",
+        "clue": "An artist whose self-portraits never flinched from pain",
+        "clue2": "Her unibrow became as iconic as her Mexican heritage"
+      },
+      {
+        "answer": "Nelson Mandela",
+        "clue": "A prisoner who became president after 27 years behind bars",
+        "clue2": "He led South Africa from apartheid to democracy"
+      },
+      {
+        "answer": "Marie Curie",
+        "clue": "A scientist who won Nobel Prizes in two different fields",
+        "clue2": "She coined the term 'radioactivity' and discovered radium"
+      },
+      {
+        "answer": "Muhammad Ali",
+        "clue": "A boxer who floated like a butterfly and stung like a bee",
+        "clue2": "Born Cassius Clay, he became 'The Greatest'"
+      },
+      {
+        "answer": "Oprah Winfrey",
+        "clue": "A talk show host whose book club could make any author famous",
+        "clue2": "'You get a car!' became her signature moment"
+      },
+      {
+        "answer": "Vincent van Gogh",
+        "clue": "A painter who cut off part of his own ear",
+        "clue2": "Starry Night came from this troubled Dutch artist"
+      },
+      {
+        "answer": "Marilyn Monroe",
+        "clue": "A blonde icon whose white dress moment became legendary",
+        "clue2": "She sang 'Happy Birthday' to President Kennedy"
+      },
+      {
+        "answer": "Stephen Hawking",
+        "clue": "A physicist whose computerized voice explained black holes",
+        "clue2": "A Brief History of Time came from a wheelchair"
+      },
+      {
+        "answer": "Serena Williams",
+        "clue": "A tennis legend who dominated courts for over two decades",
+        "clue2": "She won 23 Grand Slam singles titles, often facing her sister"
+      },
+      {
+        "answer": "Pablo Picasso",
+        "clue": "An artist who saw faces from multiple angles simultaneously",
+        "clue2": "He co-founded Cubism and painted Guernica"
+      },
+      {
+        "answer": "Amelia Earhart",
+        "clue": "An aviator who vanished attempting to circle the globe",
+        "clue2": "She was the first woman to fly solo across the Atlantic"
+      },
+      {
+        "answer": "Wolfgang Amadeus Mozart",
+        "clue": "A child prodigy who composed symphonies before age 10",
+        "clue2": "This Austrian genius died mysteriously at 35"
+      },
+      {
+        "answer": "Rosa Parks",
+        "clue": "A seamstress whose refusal to stand sparked a movement",
+        "clue2": "Her bus seat became a symbol of civil rights"
+      },
+      {
+        "answer": "Nikola Tesla",
+        "clue": "An inventor whose name now adorns electric vehicles",
+        "clue2": "He championed AC power in the 'War of Currents'"
+      },
+      {
+        "answer": "Princess Diana",
+        "clue": "A royal whose warmth earned her the title 'People's Princess'",
+        "clue2": "Her death in 1997 mourned by millions worldwide"
+      },
+      {
+        "answer": "Steve Jobs",
+        "clue": "A tech visionary who made a fruit synonymous with innovation",
+        "clue2": "He unveiled the iPhone in his signature black turtleneck"
+      },
+      {
+        "answer": "Coco Chanel",
+        "clue": "A designer whose little black dress changed fashion forever",
+        "clue2": "Her No. 5 perfume remains iconic after a century"
+      },
+      {
+        "answer": "Bruce Lee",
+        "clue": "A martial artist whose kicks were too fast for film",
+        "clue2": "He starred in Enter the Dragon and founded Jeet Kune Do"
+      },
+      {
+        "answer": "Jane Goodall",
+        "clue": "A primatologist who lived among chimps in Tanzania",
+        "clue2": "She proved tool use wasn't uniquely human"
+      },
+      {
+        "answer": "David Bowie",
+        "clue": "A rock chameleon who fell to Earth as Ziggy Stardust",
+        "clue2": "His eyes were famously different colors"
+      },
+      {
+        "answer": "Malala Yousafzai",
+        "clue": "A teenager who survived being shot for advocating education",
+        "clue2": "The youngest Nobel Peace Prize laureate"
+      },
+      {
+        "answer": "Andy Warhol",
+        "clue": "An artist who turned soup cans into high art",
+        "clue2": "His silver Factory was the center of 60s counterculture"
+      },
+      {
+        "answer": "Usain Bolt",
+        "clue": "A sprinter whose lightning pose became iconic",
+        "clue2": "He holds the 100m world record at 9.58 seconds"
+      },
+      {
+        "answer": "Audrey Hepburn",
+        "clue": "An actress who made breakfast stylish at Tiffany's",
+        "clue2": "She became a UNICEF Goodwill Ambassador"
+      },
+      {
+        "answer": "Elon Musk",
+        "clue": "A billionaire who wants to colonize Mars",
+        "clue2": "He founded Tesla, SpaceX, and acquired Twitter"
+      },
+      {
+        "answer": "Charles Darwin",
+        "clue": "A naturalist whose theory ruffled Victorian feathers",
+        "clue2": "His Galapagos voyage led to On the Origin of Species"
+      },
+      {
+        "answer": "Freddie Mercury",
+        "clue": "A frontman whose operatic voice defied rock conventions",
+        "clue2": "He wrote Bohemian Rhapsody and led Queen"
+      },
+      {
+        "answer": "Harriet Tubman",
+        "clue": "A conductor who never lost a passenger on her railroad",
+        "clue2": "She led hundreds to freedom via the Underground Railroad"
+      },
+      {
+        "answer": "Cristiano Ronaldo",
+        "clue": "A footballer whose celebration shout is 'SIUUU'",
+        "clue2": "He's scored over 800 career goals"
+      },
+      {
+        "answer": "Ruth Bader Ginsburg",
+        "clue": "A justice who became a pop culture icon in her 80s",
+        "clue2": "The 'Notorious RBG' served on the Supreme Court"
+      },
+      {
+        "answer": "Salvador Dalí",
+        "clue": "A surrealist whose mustache was as melted as his clocks",
+        "clue2": "He painted The Persistence of Memory"
+      },
+      {
+        "answer": "Gordon Ramsay",
+        "clue": "A chef whose vocabulary is as colorful as his cooking",
+        "clue2": "He screams at contestants on Hell's Kitchen"
+      },
+      {
+        "answer": "Helen Keller",
+        "clue": "A woman who proved disability couldn't limit achievement",
+        "clue2": "Despite being deaf and blind, she became an author and activist"
+      },
+      {
+        "answer": "Jeff Bezos",
+        "clue": "A mogul whose empire started with books",
+        "clue2": "He founded Amazon and briefly visited space"
+      },
+      {
+        "answer": "Simone Biles",
+        "clue": "A gymnast who has moves named after her",
+        "clue2": "The most decorated American gymnast in history"
+      },
+      {
+        "answer": "Winston Churchill",
+        "clue": "A leader who offered nothing but blood, toil, tears, and sweat",
+        "clue2": "He led Britain through World War II"
+      },
+      {
+        "answer": "Lady Gaga",
+        "clue": "A pop star who wore meat to an awards show",
+        "clue2": "She was born this way and ruled the Bad Romance era"
+      }
+    ],
+    "places": [
+      {
+        "answer": "Machu Picchu",
+        "clue": "An ancient city hidden from conquistadors for centuries",
+        "clue2": "This Incan citadel sits 8,000 feet up in the Andes"
+      },
+      {
+        "answer": "Great Barrier Reef",
+        "clue": "A living structure visible from space",
+        "clue2": "This coral system stretches 1,400 miles off Australia"
+      },
+      {
+        "answer": "Venice",
+        "clue": "A city where parking means tying a rope to a pole",
+        "clue2": "Gondoliers navigate its 150+ canals"
+      },
+      {
+        "answer": "Mount Everest",
+        "clue": "A peak that challenges climbers with its 'death zone'",
+        "clue2": "At 29,032 feet, it's Earth's highest point"
+      },
+      {
+        "answer": "Sahara Desert",
+        "clue": "A sandy expanse that could swallow most of Europe",
+        "clue2": "This African desert's name means 'Greatest Desert'"
+      },
+      {
+        "answer": "Amazon Rainforest",
+        "clue": "A jungle that produces 20% of Earth's oxygen",
+        "clue2": "It spans nine countries in South America"
+      },
+      {
+        "answer": "Grand Canyon",
+        "clue": "A gorge carved by patience and the Colorado River",
+        "clue2": "Its layered rocks reveal 2 billion years of history"
+      },
+      {
+        "answer": "Iceland",
+        "clue": "A country where fire and ice coexist dramatically",
+        "clue2": "Despite its name, it's greener than its neighbor Greenland"
+      },
+      {
+        "answer": "Taj Mahal",
+        "clue": "A mausoleum that proves love can be architectural",
+        "clue2": "Built by a Mughal emperor for his late wife"
+      },
+      {
+        "answer": "Serengeti",
+        "clue": "A plain where millions of animals follow ancient paths",
+        "clue2": "Its annual migration is nature's greatest show"
+      },
+      {
+        "answer": "Petra",
+        "clue": "A rose-red city half as old as time",
+        "clue2": "Indiana Jones found the Holy Grail here"
+      },
+      {
+        "answer": "Great Wall of China",
+        "clue": "A barrier that couldn't keep out Genghis Khan",
+        "clue2": "It stretches over 13,000 miles across Asia"
+      },
+      {
+        "answer": "Niagara Falls",
+        "clue": "A cascade that honeymooners have admired for centuries",
+        "clue2": "It straddles the US-Canada border"
+      },
+      {
+        "answer": "Silicon Valley",
+        "clue": "A region where garage startups become global giants",
+        "clue2": "Apple, Google, and Facebook call this California area home"
+      },
+      {
+        "answer": "Antarctica",
+        "clue": "A continent with no permanent human residents",
+        "clue2": "It holds 70% of Earth's fresh water as ice"
+      },
+      {
+        "answer": "Galápagos Islands",
+        "clue": "An archipelago where tortoises inspired a theory",
+        "clue2": "Darwin's observations here changed biology"
+      },
+      {
+        "answer": "Vatican City",
+        "clue": "A nation smaller than most golf courses",
+        "clue2": "The Pope leads this tiny state within Rome"
+      },
+      {
+        "answer": "Mariana Trench",
+        "clue": "A chasm deeper than Everest is tall",
+        "clue2": "The deepest known point in Earth's oceans"
+      },
+      {
+        "answer": "Stonehenge",
+        "clue": "A circle of rocks that still mystifies archaeologists",
+        "clue2": "These standing stones align with summer solstice"
+      },
+      {
+        "answer": "Hong Kong",
+        "clue": "A city where skyscrapers crowd against mountains and sea",
+        "clue2": "This former British territory returned to China in 1997"
+      },
+      {
+        "answer": "Yellowstone",
+        "clue": "A park sitting atop a supervolcano",
+        "clue2": "Old Faithful erupts here every 90 minutes"
+      },
+      {
+        "answer": "Dubai",
+        "clue": "A city that treats 'world's tallest' as a personal challenge",
+        "clue2": "The Burj Khalifa rises from this desert metropolis"
+      },
+      {
+        "answer": "Chernobyl",
+        "clue": "A city evacuated after a nuclear nightmare",
+        "clue2": "Nature has reclaimed this Ukrainian ghost town"
+      },
+      {
+        "answer": "Bermuda Triangle",
+        "clue": "A region where ships allegedly vanish mysteriously",
+        "clue2": "This Atlantic zone spans Miami, Puerto Rico, and Bermuda"
+      },
+      {
+        "answer": "Route 66",
+        "clue": "A highway that got its kicks before interstates existed",
+        "clue2": "The 'Mother Road' connected Chicago to Santa Monica"
+      },
+      {
+        "answer": "Dead Sea",
+        "clue": "A body of water where sinking is scientifically impossible",
+        "clue2": "Its salt content is 10 times higher than ocean water"
+      },
+      {
+        "answer": "Angkor Wat",
+        "clue": "A temple complex that the jungle nearly swallowed",
+        "clue2": "The largest religious monument in the world"
+      },
+      {
+        "answer": "Easter Island",
+        "clue": "An island watched over by giant stone faces",
+        "clue2": "These moai statues remain a mystery of the Pacific"
+      },
+      {
+        "answer": "Wall Street",
+        "clue": "A street where bulls and bears battle daily",
+        "clue2": "The New York Stock Exchange calls this address home"
+      },
+      {
+        "answer": "Area 51",
+        "clue": "A military base that spawned countless alien theories",
+        "clue2": "This Nevada site's secrecy fuels conspiracy theories"
+      },
+      {
+        "answer": "Mount Rushmore",
+        "clue": "A mountain where presidents stare eternally",
+        "clue2": "Four faces were carved into South Dakota's Black Hills"
+      },
+      {
+        "answer": "Timbuktu",
+        "clue": "A city whose name became synonymous with 'nowhere'",
+        "clue2": "This Mali city was once a center of Islamic learning"
+      },
+      {
+        "answer": "Aurora Borealis",
+        "clue": "A light show requiring darkness and high latitude",
+        "clue2": "Solar particles create these dancing northern lights"
+      },
+      {
+        "answer": "Alcatraz",
+        "clue": "A rock where America's worst criminals did time",
+        "clue2": "No one officially escaped this San Francisco prison"
+      },
+      {
+        "answer": "Panama Canal",
+        "clue": "A waterway that saved ships 8,000 miles of sailing",
+        "clue2": "It connects the Atlantic and Pacific Oceans"
+      },
+      {
+        "answer": "K2",
+        "clue": "A peak more deadly than Everest despite being shorter",
+        "clue2": "The 'Savage Mountain' on the China-Pakistan border"
+      },
+      {
+        "answer": "Las Vegas Strip",
+        "clue": "A boulevard where fortunes change with each spin",
+        "clue2": "Casinos and chapels line this Nevada road"
+      },
+      {
+        "answer": "Pompeii",
+        "clue": "A city frozen in volcanic ash since 79 AD",
+        "clue2": "Vesuvius buried this Roman town in a single day"
+      },
+      {
+        "answer": "Silicon Beach",
+        "clue": "A stretch where tech companies chase California sun",
+        "clue2": "LA's answer to Silicon Valley"
+      },
+      {
+        "answer": "Transylvania",
+        "clue": "A region whose name conjures vampires and castles",
+        "clue2": "Bram Stoker set Dracula's home here in Romania"
+      }
+    ],
+    "things": [
+      {
+        "answer": "Mona Lisa",
+        "clue": "A painting whose smile still sparks debate",
+        "clue2": "Behind bulletproof glass at the Louvre"
+      },
+      {
+        "answer": "Bitcoin",
+        "clue": "A currency that exists only as code",
+        "clue2": "Created by the mysterious Satoshi Nakamoto"
+      },
+      {
+        "answer": "DNA",
+        "clue": "A molecule shaped like a twisted ladder",
+        "clue2": "Watson and Crick revealed its double helix"
+      },
+      {
+        "answer": "Titanic",
+        "clue": "A ship whose first voyage became its last",
+        "clue2": "It hit an iceberg on April 15, 1912"
+      },
+      {
+        "answer": "Penicillin",
+        "clue": "A medicine discovered by accident in moldy petri dishes",
+        "clue2": "Alexander Fleming's fortunate contamination"
+      },
+      {
+        "answer": "iPhone",
+        "clue": "A device that made pay phones extinct",
+        "clue2": "Steve Jobs unveiled it in 2007"
+      },
+      {
+        "answer": "Rubik's Cube",
+        "clue": "A puzzle with 43 quintillion possible combinations",
+        "clue2": "This colorful Hungarian invention frustrated the 80s"
+      },
+      {
+        "answer": "Champagne",
+        "clue": "A drink that pops at celebrations worldwide",
+        "clue2": "Only bubbly from a specific French region earns this name"
+      },
+      {
+        "answer": "Theory of Relativity",
+        "clue": "An idea that bent space, time, and minds",
+        "clue2": "Einstein's E=mc² came from this framework"
+      },
+      {
+        "answer": "Kindle",
+        "clue": "A device that put thousands of books in your pocket",
+        "clue2": "Amazon's e-reader launched in 2007"
+      },
+      {
+        "answer": "Sushi",
+        "clue": "A cuisine that turned raw fish into global obsession",
+        "clue2": "Japan exported this rice-and-fish combination worldwide"
+      },
+      {
+        "answer": "Yoga",
+        "clue": "An ancient practice now found in every gym",
+        "clue2": "Downward dog and namaste are its vocabulary"
+      },
+      {
+        "answer": "Vaccination",
+        "clue": "A medical intervention that eliminated smallpox",
+        "clue2": "Edward Jenner pioneered this disease prevention method"
+      },
+      {
+        "answer": "WiFi",
+        "clue": "An invisible force that connects billions",
+        "clue2": "Those little bars determine modern contentment"
+      },
+      {
+        "answer": "Blue Jeans",
+        "clue": "Pants that went from workwear to runway",
+        "clue2": "Levi Strauss invented this denim staple"
+      },
+      {
+        "answer": "Emoji",
+        "clue": "A language that transcended words",
+        "clue2": "Japanese origins, now universal communication"
+      },
+      {
+        "answer": "Monopoly",
+        "clue": "A board game that has ended friendships since 1935",
+        "clue2": "Pass Go, collect $200, flip the table"
+      },
+      {
+        "answer": "Espresso",
+        "clue": "A concentrated beverage that fuels productivity",
+        "clue2": "Italians invented this pressurized coffee method"
+      },
+      {
+        "answer": "Black Hole",
+        "clue": "A cosmic vacuum from which nothing escapes",
+        "clue2": "Stephen Hawking made these gravitational monsters famous"
+      },
+      {
+        "answer": "Croissant",
+        "clue": "A pastry whose layers require patience to perfect",
+        "clue2": "This buttery crescent is synonymous with Parisian breakfasts"
+      },
+      {
+        "answer": "Karaoke",
+        "clue": "An activity that turns anyone into a star, briefly",
+        "clue2": "This Japanese invention means 'empty orchestra'"
+      },
+      {
+        "answer": "Cryptocurrency",
+        "clue": "A currency that exists only in digital wallets",
+        "clue2": "Bitcoin started this blockchain revolution"
+      },
+      {
+        "answer": "Selfie",
+        "clue": "A photograph that changed how we document ourselves",
+        "clue2": "Oxford named this the Word of the Year in 2013"
+      },
+      {
+        "answer": "Sudoku",
+        "clue": "A puzzle where numbers can't repeat in any direction",
+        "clue2": "This logic game swept newspapers in the 2000s"
+      },
+      {
+        "answer": "Botox",
+        "clue": "A toxin that freezes time on foreheads",
+        "clue2": "Originally used to treat muscle spasms"
+      },
+      {
+        "answer": "Lasagna",
+        "clue": "A dish built in delicious layers",
+        "clue2": "Garfield's favorite Italian comfort food"
+      },
+      {
+        "answer": "Hashtag",
+        "clue": "A symbol that went from phone key to trending topic",
+        "clue2": "Twitter transformed the pound sign into this"
+      },
+      {
+        "answer": "Sourdough",
+        "clue": "A bread that requires a living starter",
+        "clue2": "Pandemic baking made this fermented loaf trendy"
+      },
+      {
+        "answer": "Podcast",
+        "clue": "A medium that made everyone a radio host",
+        "clue2": "iPod + broadcast created this term"
+      },
+      {
+        "answer": "Tattoo",
+        "clue": "Body art that's permanent unless you have laser money",
+        "clue2": "Sailors and celebrities alike collect these ink designs"
+      },
+      {
+        "answer": "Velcro",
+        "clue": "A fastener inspired by nature's clingy side",
+        "clue2": "Burrs on a dog led to this hook-and-loop invention"
+      },
+      {
+        "answer": "Photoshop",
+        "clue": "Software that makes reality negotiable",
+        "clue2": "Adobe's tool that became a verb"
+      },
+      {
+        "answer": "Avocado Toast",
+        "clue": "A food item blamed for millennials not buying houses",
+        "clue2": "This brunch staple costs too much, allegedly"
+      },
+      {
+        "answer": "Cryptocurrency Mining",
+        "clue": "A process that turns electricity into digital gold",
+        "clue2": "Bitcoin miners solve complex puzzles for rewards"
+      },
+      {
+        "answer": "Sriracha",
+        "clue": "A sauce whose rooster bottle is everywhere",
+        "clue2": "This Thai-American hot sauce has a cult following"
+      },
+      {
+        "answer": "Lightsaber",
+        "clue": "A weapon from cinema that made humming noises cool",
+        "clue2": "Jedi and Sith duel with these plasma blades"
+      },
+      {
+        "answer": "Kombucha",
+        "clue": "A drink that's basically tea that went bad in a good way",
+        "clue2": "This fermented beverage promises gut health"
+      },
+      {
+        "answer": "Spam",
+        "clue": "A meat that became email's worst nightmare",
+        "clue2": "Monty Python's sketch gave unwanted emails their name"
+      },
+      {
+        "answer": "Bluetooth",
+        "clue": "A technology named after a medieval Viking king",
+        "clue2": "This wireless standard replaced tangled headphone cords"
+      },
+      {
+        "answer": "Matcha",
+        "clue": "A powder that turned lattes green",
+        "clue2": "This Japanese green tea variety is whisked, not steeped"
+      }
+    ]
+  }
+}

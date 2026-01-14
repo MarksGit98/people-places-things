@@ -5,6 +5,7 @@ export interface Cell {
   clue: string;
   clue2: string;
   answer: string;
+  acceptableAnswers?: string[];
   imageUrl?: string;
 }
 

@@ -41,6 +41,8 @@
   justify-content: space-between;
   padding: var(--spacing-sm);
   box-shadow: var(--shadow-md);
+  user-select: none;
+  cursor: default;
 }
 
 .grid-cell__front {
@@ -152,6 +154,7 @@
 }
 
 .grid-cell__clue {
+  font-family: 'Noto Sans', sans-serif;
   font-size: 10px;
   color: var(--color-text-primary);
   text-align: left;
@@ -160,8 +163,7 @@
 }
 
 .grid-cell__clue--second {
-  color: var(--color-text-secondary);
-  font-style: italic;
+  color: var(--color-text-primary);
 }
 
 .grid-cell__clue--placeholder {

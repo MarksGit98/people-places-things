@@ -1,0 +1,520 @@
+================================================================================
+PEOPLE, PLACES & THINGS - CURATED CLUE DATABASE
+================================================================================
+Generated: January 11, 2026
+Total Entries: 120 (40 People, 40 Places, 40 Things)
+
+Each entry includes two clues of varying difficulty - use clue 1 first,
+reveal clue 2 after an incorrect guess.
+
+================================================================================
+                                   PEOPLE (40)
+================================================================================
+
+ 1. Albert Einstein
+    Clue 1: A physicist whose hair was as wild as his theories
+    Clue 2: E=mc² was his claim to fame
+
+ 2. Cleopatra
+    Clue 1: An Egyptian ruler whose romantic alliances shaped empires
+    Clue 2: She captivated both Caesar and Mark Antony
+
+ 3. Leonardo da Vinci
+    Clue 1: A Renaissance genius who sketched helicopters centuries early
+    Clue 2: The painter behind history's most mysterious smile
+
+ 4. Frida Kahlo
+    Clue 1: An artist whose self-portraits never flinched from pain
+    Clue 2: Her unibrow became as iconic as her Mexican heritage
+
+ 5. Nelson Mandela
+    Clue 1: A prisoner who became president after 27 years behind bars
+    Clue 2: He led South Africa from apartheid to democracy
+
+ 6. Marie Curie
+    Clue 1: A scientist who won Nobel Prizes in two different fields
+    Clue 2: She coined the term 'radioactivity' and discovered radium
+
+ 7. Muhammad Ali
+    Clue 1: A boxer who floated like a butterfly and stung like a bee
+    Clue 2: Born Cassius Clay, he became 'The Greatest'
+
+ 8. Oprah Winfrey
+    Clue 1: A talk show host whose book club could make any author famous
+    Clue 2: 'You get a car!' became her signature moment
+
+ 9. Vincent van Gogh
+    Clue 1: A painter who cut off part of his own ear
+    Clue 2: Starry Night came from this troubled Dutch artist
+
+10. Marilyn Monroe
+    Clue 1: A blonde icon whose white dress moment became legendary
+    Clue 2: She sang 'Happy Birthday' to President Kennedy
+
+11. Stephen Hawking
+    Clue 1: A physicist whose computerized voice explained black holes
+    Clue 2: A Brief History of Time came from a wheelchair
+
+12. Serena Williams
+    Clue 1: A tennis legend who dominated courts for over two decades
+    Clue 2: She won 23 Grand Slam singles titles, often facing her sister
+
+13. Pablo Picasso
+    Clue 1: An artist who saw faces from multiple angles simultaneously
+    Clue 2: He co-founded Cubism and painted Guernica
+
+14. Amelia Earhart
+    Clue 1: An aviator who vanished attempting to circle the globe
+    Clue 2: She was the first woman to fly solo across the Atlantic
+
+15. Wolfgang Amadeus Mozart
+    Clue 1: A child prodigy who composed symphonies before age 10
+    Clue 2: This Austrian genius died mysteriously at 35
+
+16. Rosa Parks
+    Clue 1: A seamstress whose refusal to stand sparked a movement
+    Clue 2: Her bus seat became a symbol of civil rights
+
+17. Nikola Tesla
+    Clue 1: An inventor whose name now adorns electric vehicles
+    Clue 2: He championed AC power in the 'War of Currents'
+
+18. Princess Diana
+    Clue 1: A royal whose warmth earned her the title 'People's Princess'
+    Clue 2: Her death in 1997 mourned by millions worldwide
+
+19. Steve Jobs
+    Clue 1: A tech visionary who made a fruit synonymous with innovation
+    Clue 2: He unveiled the iPhone in his signature black turtleneck
+
+20. Coco Chanel
+    Clue 1: A designer whose little black dress changed fashion forever
+    Clue 2: Her No. 5 perfume remains iconic after a century
+
+21. Bruce Lee
+    Clue 1: A martial artist whose kicks were too fast for film
+    Clue 2: He starred in Enter the Dragon and founded Jeet Kune Do
+
+22. Jane Goodall
+    Clue 1: A primatologist who lived among chimps in Tanzania
+    Clue 2: She proved tool use wasn't uniquely human
+
+23. David Bowie
+    Clue 1: A rock chameleon who fell to Earth as Ziggy Stardust
+    Clue 2: His eyes were famously different colors
+
+24. Malala Yousafzai
+    Clue 1: A teenager who survived being shot for advocating education
+    Clue 2: The youngest Nobel Peace Prize laureate
+
+25. Andy Warhol
+    Clue 1: An artist who turned soup cans into high art
+    Clue 2: His silver Factory was the center of 60s counterculture
+
+26. Usain Bolt
+    Clue 1: A sprinter whose lightning pose became iconic
+    Clue 2: He holds the 100m world record at 9.58 seconds
+
+27. Audrey Hepburn
+    Clue 1: An actress who made breakfast stylish at Tiffany's
+    Clue 2: She became a UNICEF Goodwill Ambassador
+
+28. Elon Musk
+    Clue 1: A billionaire who wants to colonize Mars
+    Clue 2: He founded Tesla, SpaceX, and acquired Twitter
+
+29. Charles Darwin
+    Clue 1: A naturalist whose theory ruffled Victorian feathers
+    Clue 2: His Galapagos voyage led to On the Origin of Species
+
+30. Freddie Mercury
+    Clue 1: A frontman whose operatic voice defied rock conventions
+    Clue 2: He wrote Bohemian Rhapsody and led Queen
+
+31. Harriet Tubman
+    Clue 1: A conductor who never lost a passenger on her railroad
+    Clue 2: She led hundreds to freedom via the Underground Railroad
+
+32. Cristiano Ronaldo
+    Clue 1: A footballer whose celebration shout is 'SIUUU'
+    Clue 2: He's scored over 800 career goals
+
+33. Ruth Bader Ginsburg
+    Clue 1: A justice who became a pop culture icon in her 80s
+    Clue 2: The 'Notorious RBG' served on the Supreme Court
+
+34. Salvador Dalí
+    Clue 1: A surrealist whose mustache was as melted as his clocks
+    Clue 2: He painted The Persistence of Memory
+
+35. Gordon Ramsay
+    Clue 1: A chef whose vocabulary is as colorful as his cooking
+    Clue 2: He screams at contestants on Hell's Kitchen
+
+36. Helen Keller
+    Clue 1: A woman who proved disability couldn't limit achievement
+    Clue 2: Despite being deaf and blind, she became an author and activist
+
+37. Jeff Bezos
+    Clue 1: A mogul whose empire started with books
+    Clue 2: He founded Amazon and briefly visited space
+
+38. Simone Biles
+    Clue 1: A gymnast who has moves named after her
+    Clue 2: The most decorated American gymnast in history
+
+39. Winston Churchill
+    Clue 1: A leader who offered nothing but blood, toil, tears, and sweat
+    Clue 2: He led Britain through World War II
+
+40. Lady Gaga
+    Clue 1: A pop star who wore meat to an awards show
+    Clue 2: She was born this way and ruled the Bad Romance era
+
+
+================================================================================
+                                   PLACES (40)
+================================================================================
+
+ 1. Machu Picchu
+    Clue 1: An ancient city hidden from conquistadors for centuries
+    Clue 2: This Incan citadel sits 8,000 feet up in the Andes
+
+ 2. Great Barrier Reef
+    Clue 1: A living structure visible from space
+    Clue 2: This coral system stretches 1,400 miles off Australia
+
+ 3. Venice
+    Clue 1: A city where parking means tying a rope to a pole
+    Clue 2: Gondoliers navigate its 150+ canals
+
+ 4. Mount Everest
+    Clue 1: A peak that challenges climbers with its 'death zone'
+    Clue 2: At 29,032 feet, it's Earth's highest point
+
+ 5. Sahara Desert
+    Clue 1: A sandy expanse that could swallow most of Europe
+    Clue 2: This African desert's name means 'Greatest Desert'
+
+ 6. Amazon Rainforest
+    Clue 1: A jungle that produces 20% of Earth's oxygen
+    Clue 2: It spans nine countries in South America
+
+ 7. Grand Canyon
+    Clue 1: A gorge carved by patience and the Colorado River
+    Clue 2: Its layered rocks reveal 2 billion years of history
+
+ 8. Iceland
+    Clue 1: A country where fire and ice coexist dramatically
+    Clue 2: Despite its name, it's greener than its neighbor Greenland
+
+ 9. Taj Mahal
+    Clue 1: A mausoleum that proves love can be architectural
+    Clue 2: Built by a Mughal emperor for his late wife
+
+10. Serengeti
+    Clue 1: A plain where millions of animals follow ancient paths
+    Clue 2: Its annual migration is nature's greatest show
+
+11. Petra
+    Clue 1: A rose-red city half as old as time
+    Clue 2: Indiana Jones found the Holy Grail here
+
+12. Great Wall of China
+    Clue 1: A barrier that couldn't keep out Genghis Khan
+    Clue 2: It stretches over 13,000 miles across Asia
+
+13. Niagara Falls
+    Clue 1: A cascade that honeymooners have admired for centuries
+    Clue 2: It straddles the US-Canada border
+
+14. Silicon Valley
+    Clue 1: A region where garage startups become global giants
+    Clue 2: Apple, Google, and Facebook call this California area home
+
+15. Antarctica
+    Clue 1: A continent with no permanent human residents
+    Clue 2: It holds 70% of Earth's fresh water as ice
+
+16. Galápagos Islands
+    Clue 1: An archipelago where tortoises inspired a theory
+    Clue 2: Darwin's observations here changed biology
+
+17. Vatican City
+    Clue 1: A nation smaller than most golf courses
+    Clue 2: The Pope leads this tiny state within Rome
+
+18. Mariana Trench
+    Clue 1: A chasm deeper than Everest is tall
+    Clue 2: The deepest known point in Earth's oceans
+
+19. Stonehenge
+    Clue 1: A circle of rocks that still mystifies archaeologists
+    Clue 2: These standing stones align with summer solstice
+
+20. Hong Kong
+    Clue 1: A city where skyscrapers crowd against mountains and sea
+    Clue 2: This former British territory returned to China in 1997
+
+21. Yellowstone
+    Clue 1: A park sitting atop a supervolcano
+    Clue 2: Old Faithful erupts here every 90 minutes
+
+22. Dubai
+    Clue 1: A city that treats 'world's tallest' as a personal challenge
+    Clue 2: The Burj Khalifa rises from this desert metropolis
+
+23. Chernobyl
+    Clue 1: A city evacuated after a nuclear nightmare
+    Clue 2: Nature has reclaimed this Ukrainian ghost town
+
+24. Bermuda Triangle
+    Clue 1: A region where ships allegedly vanish mysteriously
+    Clue 2: This Atlantic zone spans Miami, Puerto Rico, and Bermuda
+
+25. Route 66
+    Clue 1: A highway that got its kicks before interstates existed
+    Clue 2: The 'Mother Road' connected Chicago to Santa Monica
+
+26. Dead Sea
+    Clue 1: A body of water where sinking is scientifically impossible
+    Clue 2: Its salt content is 10 times higher than ocean water
+
+27. Angkor Wat
+    Clue 1: A temple complex that the jungle nearly swallowed
+    Clue 2: The largest religious monument in the world
+
+28. Easter Island
+    Clue 1: An island watched over by giant stone faces
+    Clue 2: These moai statues remain a mystery of the Pacific
+
+29. Wall Street
+    Clue 1: A street where bulls and bears battle daily
+    Clue 2: The New York Stock Exchange calls this address home
+
+30. Area 51
+    Clue 1: A military base that spawned countless alien theories
+    Clue 2: This Nevada site's secrecy fuels conspiracy theories
+
+31. Mount Rushmore
+    Clue 1: A mountain where presidents stare eternally
+    Clue 2: Four faces were carved into South Dakota's Black Hills
+
+32. Timbuktu
+    Clue 1: A city whose name became synonymous with 'nowhere'
+    Clue 2: This Mali city was once a center of Islamic learning
+
+33. Aurora Borealis
+    Clue 1: A light show requiring darkness and high latitude
+    Clue 2: Solar particles create these dancing northern lights
+
+34. Alcatraz
+    Clue 1: A rock where America's worst criminals did time
+    Clue 2: No one officially escaped this San Francisco prison
+
+35. Panama Canal
+    Clue 1: A waterway that saved ships 8,000 miles of sailing
+    Clue 2: It connects the Atlantic and Pacific Oceans
+
+36. K2
+    Clue 1: A peak more deadly than Everest despite being shorter
+    Clue 2: The 'Savage Mountain' on the China-Pakistan border
+
+37. Las Vegas Strip
+    Clue 1: A boulevard where fortunes change with each spin
+    Clue 2: Casinos and chapels line this Nevada road
+
+38. Pompeii
+    Clue 1: A city frozen in volcanic ash since 79 AD
+    Clue 2: Vesuvius buried this Roman town in a single day
+
+39. Silicon Beach
+    Clue 1: A stretch where tech companies chase California sun
+    Clue 2: LA's answer to Silicon Valley
+
+40. Transylvania
+    Clue 1: A region whose name conjures vampires and castles
+    Clue 2: Bram Stoker set Dracula's home here in Romania
+
+
+================================================================================
+                                   THINGS (40)
+================================================================================
+
+ 1. Mona Lisa
+    Clue 1: A painting whose smile still sparks debate
+    Clue 2: Behind bulletproof glass at the Louvre
+
+ 2. Bitcoin
+    Clue 1: A currency that exists only as code
+    Clue 2: Created by the mysterious Satoshi Nakamoto
+
+ 3. DNA
+    Clue 1: A molecule shaped like a twisted ladder
+    Clue 2: Watson and Crick revealed its double helix
+
+ 4. Titanic
+    Clue 1: A ship whose first voyage became its last
+    Clue 2: It hit an iceberg on April 15, 1912
+
+ 5. Penicillin
+    Clue 1: A medicine discovered by accident in moldy petri dishes
+    Clue 2: Alexander Fleming's fortunate contamination
+
+ 6. iPhone
+    Clue 1: A device that made pay phones extinct
+    Clue 2: Steve Jobs unveiled it in 2007
+
+ 7. Rubik's Cube
+    Clue 1: A puzzle with 43 quintillion possible combinations
+    Clue 2: This colorful Hungarian invention frustrated the 80s
+
+ 8. Champagne
+    Clue 1: A drink that pops at celebrations worldwide
+    Clue 2: Only bubbly from a specific French region earns this name
+
+ 9. Theory of Relativity
+    Clue 1: An idea that bent space, time, and minds
+    Clue 2: Einstein's E=mc² came from this framework
+
+10. Kindle
+    Clue 1: A device that put thousands of books in your pocket
+    Clue 2: Amazon's e-reader launched in 2007
+
+11. Sushi
+    Clue 1: A cuisine that turned raw fish into global obsession
+    Clue 2: Japan exported this rice-and-fish combination worldwide
+
+12. Yoga
+    Clue 1: An ancient practice now found in every gym
+    Clue 2: Downward dog and namaste are its vocabulary
+
+13. Vaccination
+    Clue 1: A medical intervention that eliminated smallpox
+    Clue 2: Edward Jenner pioneered this disease prevention method
+
+14. WiFi
+    Clue 1: An invisible force that connects billions
+    Clue 2: Those little bars determine modern contentment
+
+15. Blue Jeans
+    Clue 1: Pants that went from workwear to runway
+    Clue 2: Levi Strauss invented this denim staple
+
+16. Emoji
+    Clue 1: A language that transcended words
+    Clue 2: Japanese origins, now universal communication
+
+17. Monopoly
+    Clue 1: A board game that has ended friendships since 1935
+    Clue 2: Pass Go, collect $200, flip the table
+
+18. Espresso
+    Clue 1: A concentrated beverage that fuels productivity
+    Clue 2: Italians invented this pressurized coffee method
+
+19. Black Hole
+    Clue 1: A cosmic vacuum from which nothing escapes
+    Clue 2: Stephen Hawking made these gravitational monsters famous
+
+20. Croissant
+    Clue 1: A pastry whose layers require patience to perfect
+    Clue 2: This buttery crescent is synonymous with Parisian breakfasts
+
+21. Karaoke
+    Clue 1: An activity that turns anyone into a star, briefly
+    Clue 2: This Japanese invention means 'empty orchestra'
+
+22. Cryptocurrency
+    Clue 1: A currency that exists only in digital wallets
+    Clue 2: Bitcoin started this blockchain revolution
+
+23. Selfie
+    Clue 1: A photograph that changed how we document ourselves
+    Clue 2: Oxford named this the Word of the Year in 2013
+
+24. Sudoku
+    Clue 1: A puzzle where numbers can't repeat in any direction
+    Clue 2: This logic game swept newspapers in the 2000s
+
+25. Botox
+    Clue 1: A toxin that freezes time on foreheads
+    Clue 2: Originally used to treat muscle spasms
+
+26. Lasagna
+    Clue 1: A dish built in delicious layers
+    Clue 2: Garfield's favorite Italian comfort food
+
+27. Hashtag
+    Clue 1: A symbol that went from phone key to trending topic
+    Clue 2: Twitter transformed the pound sign into this
+
+28. Sourdough
+    Clue 1: A bread that requires a living starter
+    Clue 2: Pandemic baking made this fermented loaf trendy
+
+29. Podcast
+    Clue 1: A medium that made everyone a radio host
+    Clue 2: iPod + broadcast created this term
+
+30. Tattoo
+    Clue 1: Body art that's permanent unless you have laser money
+    Clue 2: Sailors and celebrities alike collect these ink designs
+
+31. Velcro
+    Clue 1: A fastener inspired by nature's clingy side
+    Clue 2: Burrs on a dog led to this hook-and-loop invention
+
+32. Photoshop
+    Clue 1: Software that makes reality negotiable
+    Clue 2: Adobe's tool that became a verb
+
+33. Avocado Toast
+    Clue 1: A food item blamed for millennials not buying houses
+    Clue 2: This brunch staple costs too much, allegedly
+
+34. Cryptocurrency Mining
+    Clue 1: A process that turns electricity into digital gold
+    Clue 2: Bitcoin miners solve complex puzzles for rewards
+
+35. Sriracha
+    Clue 1: A sauce whose rooster bottle is everywhere
+    Clue 2: This Thai-American hot sauce has a cult following
+
+36. Lightsaber
+    Clue 1: A weapon from cinema that made humming noises cool
+    Clue 2: Jedi and Sith duel with these plasma blades
+
+37. Kombucha
+    Clue 1: A drink that's basically tea that went bad in a good way
+    Clue 2: This fermented beverage promises gut health
+
+38. Spam
+    Clue 1: A meat that became email's worst nightmare
+    Clue 2: Monty Python's sketch gave unwanted emails their name
+
+39. Bluetooth
+    Clue 1: A technology named after a medieval Viking king
+    Clue 2: This wireless standard replaced tangled headphone cords
+
+40. Matcha
+    Clue 1: A powder that turned lattes green
+    Clue 2: This Japanese green tea variety is whisked, not steeped
+
+
+================================================================================
+                              END OF CURATED CLUES
+================================================================================
+
+USAGE NOTES:
+- Each entry is designed to work with any y-axis constraint you create
+- Clue 1 is intentionally more cryptic/playful
+- Clue 2 provides more direct hints
+- Answers are formatted to match your existing puzzle structure
+- Review and adjust clues as needed for difficulty balance
+
+FILES GENERATED:
+- curated-clues.json (JSON format for programmatic use)
+- curated-clues-summary.txt (this file, human-readable)
+- sourced-clues.json (API-sourced data, lower quality)
+- clues-summary.txt (API-sourced summary)

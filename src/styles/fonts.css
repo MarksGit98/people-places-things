@@ -1,0 +1,97 @@
+/* Custom Font Declarations */
+
+@font-face {
+  font-family: 'Gladolia';
+  src: url('../fonts/GladoliaDEMO-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Buhun Retro One';
+  src: url('../fonts/Buhun Retro One FREE.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Early Quake';
+  src: url('../fonts/Early Quake DEMO.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Retro Pinch';
+  src: url('../fonts/RetroPinch-Bold.otf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Cendolia';
+  src: url('../fonts/Cendolia DEMO.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Changa One';
+  src: url('../fonts/ChangaOne-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Changa One';
+  src: url('../fonts/ChangaOne-Italic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Cooper Black';
+  src: url('../fonts/COOPBL.TTF') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Funky Smile';
+  src: url('../fonts/FunkySmile-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Thunky';
+  src: url('../fonts/Thunky DEMO.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Adelia';
+  src: url('../fonts/ADELIA.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Vignettic';
+  src: url('../fonts/Vignettic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}

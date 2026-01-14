@@ -1,0 +1,2092 @@
+PLACES CLUES - 500 ENTRIES
+==========================
+Format: Answer | Clue 1 (general) | Clue 2 (specific)
+
+MAJOR CITIES
+------------
+
+1. Paris
+   Clue 1: A destination that rhymes with marry for good reason.
+   Clue 2: An iron lady has towered here since 1889.
+
+2. Tokyo
+   Clue 1: A capital where vending machines seem to outnumber people.
+   Clue 2: Shibuya's chaotic crossing pulses in this megacity.
+
+3. New York City
+   Clue 1: A metropolis whose nickname suggests sleeplessness.
+   Clue 2: The Statue of Liberty welcomes visitors to this Big Apple.
+
+4. London
+   Clue 1: A capital where royalty and rain are equally expected.
+   Clue 2: Big Ben chimes over the Thames in this city.
+
+5. Los Angeles
+   Clue 1: A city where everyone seems to be working on a screenplay.
+   Clue 2: Hollywood dreams are manufactured in this sprawling basin.
+
+6. Rome
+   Clue 1: A city where all roads allegedly lead.
+   Clue 2: The Colosseum and Vatican reside in this eternal city.
+
+7. Dubai
+   Clue 1: A city that treats "world's tallest" as a personal challenge.
+   Clue 2: The Burj Khalifa rises from this desert metropolis.
+
+8. Sydney
+   Clue 1: A harbor city whose opera house resembles sailing ships.
+   Clue 2: This city's bridge is nicknamed "the Coathanger."
+
+9. Hong Kong
+   Clue 1: A city where skyscrapers crowd against mountains and sea.
+   Clue 2: This former British territory returned to China in 1997.
+
+10. Singapore
+    Clue 1: A city-state where chewing gum met its legislative match.
+    Clue 2: This garden city bans gum and serves as Asia's business hub.
+
+11. Berlin
+    Clue 1: A city whose wall became history's most famous barrier.
+    Clue 2: The Brandenburg Gate now symbolizes reunification here.
+
+12. Barcelona
+    Clue 1: A city whose most famous church remains unfinished.
+    Clue 2: Gaudí's Sagrada Família still rises in this Catalan capital.
+
+13. Amsterdam
+    Clue 1: A city where bicycles outnumber residents.
+    Clue 2: Canals, tulips, and Anne Frank's house define this city.
+
+14. Venice
+    Clue 1: A place where parking means tying a rope to a pole.
+    Clue 2: Gondoliers navigate canals in this slowly sinking city.
+
+15. Vienna
+    Clue 1: A city whose coffeehouses hosted empires and intellectuals.
+    Clue 2: Mozart, Freud, and Sachertorte all found fame here.
+
+16. Prague
+    Clue 1: A city whose astronomical clock still draws crowds after 600 years.
+    Clue 2: Charles Bridge spans the Vltava in this "City of a Hundred Spires."
+
+17. Istanbul
+    Clue 1: A city that straddles two continents.
+    Clue 2: The Hagia Sophia stands where Europe meets Asia.
+
+18. Cairo
+    Clue 1: A city whose suburbs include ancient wonders.
+    Clue 2: The pyramids of Giza are practically in this city's backyard.
+
+19. Mumbai
+    Clue 1: A city whose film industry rivals Hollywood in output.
+    Clue 2: Bollywood creates dreams in this former Bombay.
+
+20. Bangkok
+    Clue 1: A city whose full ceremonial name is the world's longest.
+    Clue 2: Temples and tuk-tuks define this Thai capital.
+
+21. Seoul
+    Clue 1: A city where K-pop and tech giants collide.
+    Clue 2: Gangnam Style originated in a district of this capital.
+
+22. Beijing
+    Clue 1: A capital where forbidden palaces meet forbidden internet.
+    Clue 2: The Great Wall is a day trip from this city.
+
+23. Shanghai
+    Clue 1: A city whose skyline looks ripped from science fiction.
+    Clue 2: The Oriental Pearl Tower dominates this financial hub.
+
+24. Moscow
+    Clue 1: A capital where colorful domes resemble candy.
+    Clue 2: St. Basil's Cathedral watches over Red Square here.
+
+25. St. Petersburg
+    Clue 1: A city built on a swamp to force modernization.
+    Clue 2: Peter the Great's "window to Europe" hosts the Hermitage.
+
+26. Buenos Aires
+    Clue 1: A capital where tango was born in the streets.
+    Clue 2: Eva Perón still captivates this "Paris of South America."
+
+27. Rio de Janeiro
+    Clue 1: A city where a statue with open arms overlooks beaches.
+    Clue 2: Christ the Redeemer watches over Copacabana from Corcovado.
+
+28. Mexico City
+    Clue 1: A capital built on the ruins of an Aztec empire.
+    Clue 2: Tenochtitlan's bones lie beneath this megalopolis.
+
+29. Toronto
+    Clue 1: A city whose tower defined its skyline for decades.
+    Clue 2: The CN Tower rises above this multicultural metropolis.
+
+30. Vancouver
+    Clue 1: A city where mountains meet ocean meets Hollywood North.
+    Clue 2: Stanley Park and film productions define this Pacific city.
+
+31. San Francisco
+    Clue 1: A city whose famous bridge isn't actually its stated color.
+    Clue 2: The Golden Gate is actually painted International Orange.
+
+32. Chicago
+    Clue 1: A city whose winds are more political than meteorological.
+    Clue 2: The Windy City's deep-dish pizza sparks debates.
+
+33. Miami
+    Clue 1: A city where Art Deco meets Latin rhythm.
+    Clue 2: South Beach and Little Havana define this Florida hub.
+
+34. New Orleans
+    Clue 1: A city that throws a famous party before giving things up.
+    Clue 2: Jazz was born in this crescent-shaped cultural hub.
+
+35. Las Vegas
+    Clue 1: A desert city where what happens supposedly stays.
+    Clue 2: The Strip glitters with casinos in this Nevada oasis.
+
+36. Nashville
+    Clue 1: A city whose music district celebrates twang.
+    Clue 2: The Grand Ole Opry made this Music City famous.
+
+37. Austin
+    Clue 1: A city whose residents insist on keeping it weird.
+    Clue 2: This Texas capital hosts SXSW and state politics.
+
+38. Seattle
+    Clue 1: A city whose coffee culture predates the mermaid logo.
+    Clue 2: The Space Needle rises above Starbucks' birthplace.
+
+39. Boston
+    Clue 1: A city whose tea party wasn't exactly social.
+    Clue 2: Revolutionary history and Harvard define this hub.
+
+40. Philadelphia
+    Clue 1: A city where a bell's crack became its claim to fame.
+    Clue 2: The Liberty Bell and cheesesteaks define this founding city.
+
+41. Washington D.C.
+    Clue 1: A capital designed with monuments in mind.
+    Clue 2: The National Mall connects Capitol to Lincoln here.
+
+42. Athens
+    Clue 1: A city whose ancient ruins invented democracy.
+    Clue 2: The Parthenon still crowns the Acropolis here.
+
+43. Lisbon
+    Clue 1: A city of seven hills and melancholic music.
+    Clue 2: Fado echoes through this Portuguese capital's cobblestones.
+
+44. Madrid
+    Clue 1: A capital whose art museum is worth the trip alone.
+    Clue 2: The Prado and late dinners define this Spanish hub.
+
+45. Dublin
+    Clue 1: A city whose pubs serve as unofficial living rooms.
+    Clue 2: Guinness flows and Joyce walked in this Irish capital.
+
+46. Edinburgh
+    Clue 1: A city whose castle overlooks summer festivals.
+    Clue 2: The Royal Mile and Hogmanay celebrations define this Scottish capital.
+
+47. Copenhagen
+    Clue 1: A city where a tiny mermaid draws enormous crowds.
+    Clue 2: Hans Christian Andersen's inspiration watches the harbor here.
+
+48. Stockholm
+    Clue 1: A capital built on fourteen islands.
+    Clue 2: Nobel Prizes are awarded in this Scandinavian archipelago city.
+
+49. Oslo
+    Clue 1: A capital where the Nobel Peace Prize finds its home.
+    Clue 2: Edvard Munch's scream echoes through this Nordic city's museums.
+
+50. Helsinki
+    Clue 1: A capital whose design aesthetics are famously minimalist.
+    Clue 2: Saunas and Nokia define this Finnish city.
+
+LESSER-KNOWN CITIES
+-------------------
+
+51. Chengdu
+    Clue 1: A city famous for spicy cuisine and cuddly bears.
+    Clue 2: Giant pandas call this Sichuan capital their sanctuary.
+
+52. Jakarta
+    Clue 1: A capital so congested it's being replaced by a new one.
+    Clue 2: This Southeast Asian megacity is slowly sinking.
+
+53. Marrakech
+    Clue 1: A city where snake charmers and spice markets collide.
+    Clue 2: The Jemaa el-Fnaa square buzzes in this "Red City."
+
+54. Reykjavik
+    Clue 1: A capital where geothermal pools are social spaces.
+    Clue 2: Northern lights dance above this world's northernmost capital.
+
+55. Hanoi
+    Clue 1: A city where motorbikes move like a coordinated swarm.
+    Clue 2: This Vietnamese capital serves pho in ancient quarters.
+
+56. Casablanca
+    Clue 1: A city whose name evokes a classic film's romance.
+    Clue 2: Rick's Café may be fictional, but this Moroccan port is real.
+
+57. Cartagena
+    Clue 1: A walled city whose colonial past is now its charm.
+    Clue 2: This Colombian port was once a Spanish treasure hub.
+
+58. Zanzibar
+    Clue 1: An island city whose name sounds like a magic word.
+    Clue 2: Spice trade and Freddie Mercury's birthplace define this Tanzanian gem.
+
+59. Dubrovnik
+    Clue 1: A walled city that doubled as a fantasy capital on TV.
+    Clue 2: King's Landing was filmed in this Croatian pearl.
+
+60. Cusco
+    Clue 1: A city whose altitude matches its historical significance.
+    Clue 2: This former Incan capital is the gateway to Machu Picchu.
+
+61. Kyoto
+    Clue 1: A city that escaped wartime bombing to preserve tradition.
+    Clue 2: Geishas and temples define this former imperial capital.
+
+62. Fez
+    Clue 1: A city whose medina is the world's largest car-free zone.
+    Clue 2: Leather tanneries and ancient universities define this Moroccan city.
+
+63. Bruges
+    Clue 1: A city whose canals earned it a Venice comparison.
+    Clue 2: Belgian chocolate and medieval towers define this fairy-tale town.
+
+64. Salzburg
+    Clue 1: A city where a composer's legacy meets mountain music.
+    Clue 2: Mozart and "The Sound of Music" both originated here.
+
+65. Havana
+    Clue 1: A city where vintage cars aren't a hobby but necessity.
+    Clue 2: 1950s automobiles cruise along this Cuban capital's Malecón.
+
+66. Nairobi
+    Clue 1: A capital where safari wildlife occasionally visits.
+    Clue 2: This Kenyan hub is the only city with a national park inside it.
+
+67. Cape Town
+    Clue 1: A city where a flat-topped mountain dominates the view.
+    Clue 2: Table Mountain watches over this South African beauty.
+
+68. Petra
+    Clue 1: An ancient city carved entirely into rose-red cliffs.
+    Clue 2: Indiana Jones sought the grail in this Jordanian treasure.
+
+69. Kathmandu
+    Clue 1: A city where prayer flags flutter at altitude.
+    Clue 2: This Nepalese capital is the gateway to Everest.
+
+70. Varanasi
+    Clue 1: A city where death is considered a blessing.
+    Clue 2: Hindus come to this Ganges city for their final rites.
+
+71. Jaipur
+    Clue 1: A city whose color palette is architecturally enforced.
+    Clue 2: This "Pink City" was painted to welcome a prince.
+
+72. Samarkand
+    Clue 1: A city whose name sounds like silk road poetry.
+    Clue 2: Turquoise domes mark this ancient Uzbek trading post.
+
+73. Luang Prabang
+    Clue 1: A city where monks collect alms at dawn.
+    Clue 2: This Laotian UNESCO site blends French and Buddhist heritage.
+
+74. Queenstown
+    Clue 1: A town that invented bungy jumping as entertainment.
+    Clue 2: Adrenaline seekers flock to this New Zealand adventure capital.
+
+75. Tallinn
+    Clue 1: A capital whose old town looks frozen in the medieval era.
+    Clue 2: This Estonian city is now Europe's tech startup hub.
+
+76. Riga
+    Clue 1: A capital whose Art Nouveau architecture rivals any.
+    Clue 2: This Latvian city boasts more Jugendstil buildings than Vienna.
+
+77. Seville
+    Clue 1: A city where flamenco and orange blossoms define spring.
+    Clue 2: This Andalusian capital hosted Expo 92.
+
+78. Porto
+    Clue 1: A city that lent its name to a fortified wine.
+    Clue 2: Port wine cellars line the Douro River here.
+
+79. Ghent
+    Clue 1: A city whose medieval belfry rings over student revelry.
+    Clue 2: This Belgian gem rivals Bruges with fewer tourists.
+
+80. Ljubljana
+    Clue 1: A capital whose dragon guards its bridge.
+    Clue 2: This Slovenian city is impossibly charming and hard to spell.
+
+81. Bratislava
+    Clue 1: A capital you can nearly walk to from Vienna.
+    Clue 2: This Slovak city sits just an hour from the Austrian capital.
+
+82. Krakow
+    Clue 1: A city whose central square is Europe's largest medieval plaza.
+    Clue 2: Auschwitz's memorial lies near this Polish cultural capital.
+
+83. Gdansk
+    Clue 1: A city where WWII's first shots were fired.
+    Clue 2: Solidarity was born in this Polish Baltic port.
+
+84. Split
+    Clue 1: A city built inside a Roman emperor's retirement palace.
+    Clue 2: Diocletian's Palace forms the core of this Croatian coast city.
+
+85. Kotor
+    Clue 1: A city whose bay could hide an entire navy.
+    Clue 2: This Montenegrin fjord town is walled and car-free.
+
+86. Tbilisi
+    Clue 1: A capital whose wine tradition predates most civilizations.
+    Clue 2: This Georgian city claims 8,000 years of winemaking.
+
+87. Yerevan
+    Clue 1: A capital painted in pink volcanic stone.
+    Clue 2: Mount Ararat looms over this Armenian city from across the border.
+
+88. Baku
+    Clue 1: A capital where ancient fire temples met oil wealth.
+    Clue 2: This Azerbaijani city blends Zoroastrian history with modern towers.
+
+89. Muscat
+    Clue 1: A capital whose traditional architecture resists modern temptation.
+    Clue 2: This Omani city limits building heights to preserve its character.
+
+90. Amman
+    Clue 1: A capital built on seven hills like its ancient predecessor.
+    Clue 2: Roman ruins and refugees coexist in this Jordanian city.
+
+91. Beirut
+    Clue 1: A city repeatedly rebuilt from rubble and resilience.
+    Clue 2: The "Paris of the Middle East" keeps rising despite tragedy.
+
+92. Tel Aviv
+    Clue 1: A city whose Bauhaus buildings earned UNESCO status.
+    Clue 2: The "White City" hums with startups and nightlife.
+
+93. Accra
+    Clue 1: A capital where fantasy coffins celebrate the departed.
+    Clue 2: This Ghanaian city buries people in fish and airplane-shaped caskets.
+
+94. Lagos
+    Clue 1: A megacity whose traffic could be measured in days.
+    Clue 2: This Nigerian hub is Africa's largest city.
+
+95. Addis Ababa
+    Clue 1: A capital whose name means "new flower" in Amharic.
+    Clue 2: This Ethiopian city is Africa's diplomatic capital.
+
+96. Dakar
+    Clue 1: A city that once ended a famous rally race.
+    Clue 2: This Senegalese capital sits at Africa's westernmost point.
+
+97. Bogotá
+    Clue 1: A capital whose altitude leaves visitors breathless.
+    Clue 2: This Colombian city sits at 8,600 feet in the Andes.
+
+98. Lima
+    Clue 1: A capital whose culinary scene now draws global attention.
+    Clue 2: Ceviche and Pisco Sours define this Peruvian coastal city.
+
+99. Santiago
+    Clue 1: A capital squeezed between mountains and ocean.
+    Clue 2: The Andes rise dramatically behind this Chilean city.
+
+100. Montevideo
+     Clue 1: A capital whose pace feels distinctly unhurried.
+     Clue 2: This Uruguayan city borders the Rio de la Plata estuary.
+
+COUNTRIES
+---------
+
+101. Japan
+     Clue 1: A nation where ancient tradition and futurism coexist seamlessly.
+     Clue 2: Cherry blossoms and bullet trains define this island nation.
+
+102. Italy
+     Clue 1: A nation shaped like footwear on a map.
+     Clue 2: This boot-shaped country gave us Renaissance and pizza.
+
+103. France
+     Clue 1: A nation that considers cuisine a UNESCO heritage.
+     Clue 2: Wine, cheese, and revolution define this republic.
+
+104. Australia
+     Clue 1: A land where "down under" is a literal direction.
+     Clue 2: Kangaroos roam freely across this island continent.
+
+105. Brazil
+     Clue 1: A nation with five World Cup trophies and counting.
+     Clue 2: A statue with open arms overlooks Rio here.
+
+106. India
+     Clue 1: A nation where a billion people speak hundreds of languages.
+     Clue 2: The Taj Mahal stands as a monument to love here.
+
+107. China
+     Clue 1: A nation whose wall is visible in satellite images.
+     Clue 2: The Great Wall and Forbidden City define this ancient power.
+
+108. Egypt
+     Clue 1: A nation that perfected the art of preservation.
+     Clue 2: Pharaohs built triangular tombs along the Nile here.
+
+109. Greece
+     Clue 1: A nation whose mythology still dominates popular culture.
+     Clue 2: Democracy and the Olympics both originated here.
+
+110. Mexico
+     Clue 1: A nation whose pyramids rival those further east.
+     Clue 2: Aztec and Mayan ruins dot this nation of tacos and tequila.
+
+111. Spain
+     Clue 1: A nation where dinner starts after most countries sleep.
+     Clue 2: Flamenco, siestas, and running with bulls define this kingdom.
+
+112. Germany
+     Clue 1: A nation whose efficiency is stereotyped but not inaccurate.
+     Clue 2: Beer, cars, and reunification define modern identity here.
+
+113. United Kingdom
+     Clue 1: A nation where the sun once never set on its empire.
+     Clue 2: Tea time and royalty define this island nation.
+
+114. Russia
+     Clue 1: A nation whose size spans eleven time zones.
+     Clue 2: Vodka, matryoshkas, and the Kremlin define this largest country.
+
+115. Canada
+     Clue 1: A nation whose politeness is internationally stereotyped.
+     Clue 2: Maple syrup, hockey, and vast wilderness define this northern land.
+
+116. Argentina
+     Clue 1: A nation whose passion for football borders on religious.
+     Clue 2: Tango, Messi, and Patagonia define this South American giant.
+
+117. South Africa
+     Clue 1: A nation described as a world in one country.
+     Clue 2: Apartheid's end and Mandela's rise defined this rainbow nation.
+
+118. Kenya
+     Clue 1: A nation whose runners dominate marathons worldwide.
+     Clue 2: Safari and the Maasai Mara define this East African gem.
+
+119. Morocco
+     Clue 1: A nation where desert meets Atlantic and Mediterranean.
+     Clue 2: Tagine and medinas define this North African kingdom.
+
+120. Thailand
+     Clue 1: A nation that was never colonized in its region.
+     Clue 2: Street food, temples, and smiles define the Land of Smiles.
+
+121. Vietnam
+     Clue 1: A nation whose cuisine conquered the world after the war.
+     Clue 2: Pho, motorbikes, and Ha Long Bay define this S-shaped country.
+
+122. Indonesia
+     Clue 1: A nation spread across more islands than most can count.
+     Clue 2: Bali and 17,000 other islands make up this archipelago.
+
+123. Philippines
+     Clue 1: A nation named after a Spanish king who never visited.
+     Clue 2: Over 7,000 islands and American influence define this archipelago.
+
+124. New Zealand
+     Clue 1: A nation where sheep outnumber people significantly.
+     Clue 2: Hobbits and All Blacks define this island nation.
+
+125. Ireland
+     Clue 1: A nation whose diaspora dwarfs its actual population.
+     Clue 2: Guinness, green hills, and literary giants define this island.
+
+126. Portugal
+     Clue 1: A nation whose explorers drew the first global map.
+     Clue 2: Pastel de nata and fado define this Iberian nation.
+
+127. Netherlands
+     Clue 1: A nation that literally built itself from the sea.
+     Clue 2: Windmills, tulips, and dikes define this low country.
+
+128. Belgium
+     Clue 1: A nation whose capital hosts the EU but identity is divided.
+     Clue 2: Chocolate, waffles, and bureaucrats define this small kingdom.
+
+129. Switzerland
+     Clue 1: A nation that stays out of conflicts but dominates slopes.
+     Clue 2: Neutrality, chocolate, and precision define this alpine country.
+
+130. Austria
+     Clue 1: A nation whose musical legacy outweighs its current influence.
+     Clue 2: Mozart, Freud, and the Alps define this former empire's remnant.
+
+131. Sweden
+     Clue 1: A nation whose furniture instructions frustrate millions.
+     Clue 2: IKEA, ABBA, and social democracy define this Scandinavian kingdom.
+
+132. Norway
+     Clue 1: A nation whose oil wealth funds future generations.
+     Clue 2: Fjords and the Northern Lights define this prosperous kingdom.
+
+133. Denmark
+     Clue 1: A nation consistently ranked as the world's happiest.
+     Clue 2: Vikings, hygge, and Lego originated here.
+
+134. Finland
+     Clue 1: A nation where saunas are nearly mandatory.
+     Clue 2: Nokia, Santa Claus village, and education excellence define this nation.
+
+135. Poland
+     Clue 1: A nation that has been invaded and rebuilt repeatedly.
+     Clue 2: Pierogi, Chopin, and Solidarity define this resilient country.
+
+136. Czech Republic
+     Clue 1: A nation whose beer consumption per capita leads the world.
+     Clue 2: Prague's beauty and Pilsner define this central European gem.
+
+137. Hungary
+     Clue 1: A nation whose language has no relatives nearby.
+     Clue 2: Goulash, thermal baths, and the Danube define this unique country.
+
+138. Croatia
+     Clue 1: A nation whose coastline reads like a fantasy novel's map.
+     Clue 2: The Dalmatian coast and Game of Thrones locations define this nation.
+
+139. Iceland
+     Clue 1: A country whose name is meteorologically misleading.
+     Clue 2: Geysers, volcanoes, and sagas define this North Atlantic island.
+
+140. Cuba
+     Clue 1: A nation frozen in automotive time.
+     Clue 2: Cigars, Che, and classic American cars define this island.
+
+141. Jamaica
+     Clue 1: A nation whose musical export conquered the world.
+     Clue 2: Reggae, Bolt, and Blue Mountain coffee define this Caribbean island.
+
+142. Peru
+     Clue 1: A nation hiding ancient cities in the clouds.
+     Clue 2: Machu Picchu and ceviche define this Andean nation.
+
+143. Chile
+     Clue 1: A nation stretched impossibly thin along a coast.
+     Clue 2: This ribbon of land spans desert to glacier.
+
+144. Colombia
+     Clue 1: A nation whose reputation finally matches its reality.
+     Clue 2: Coffee, Shakira, and Medellín's transformation define this country.
+
+145. Ecuador
+     Clue 1: A nation named after an imaginary line.
+     Clue 2: The equator and Galápagos Islands define this country.
+
+146. Costa Rica
+     Clue 1: A nation that disbanded its military for conservation.
+     Clue 2: "Pura vida" and rainforest define this peaceful Central American nation.
+
+147. Panama
+     Clue 1: A nation whose most famous feature is a shortcut.
+     Clue 2: The canal connecting two oceans defines this isthmus nation.
+
+148. Turkey
+     Clue 1: A nation whose cuisine conquered continents.
+     Clue 2: Kebabs, bazaars, and two continents define this transcontinental country.
+
+149. Israel
+     Clue 1: A nation whose ancient texts shaped modern religions.
+     Clue 2: Jerusalem and the Dead Sea define this holy land.
+
+150. Saudi Arabia
+     Clue 1: A nation sitting atop the world's oil reserves.
+     Clue 2: Mecca, petroleum, and the House of Saud define this kingdom.
+
+U.S. STATES
+-----------
+
+151. California
+     Clue 1: A state that would be the world's fifth largest economy alone.
+     Clue 2: Hollywood, Silicon Valley, and wine country define this Pacific state.
+
+152. Texas
+     Clue 1: A state whose pride is as large as its territory.
+     Clue 2: Cowboys, oil, and "everything's bigger" define the Lone Star State.
+
+153. New York (State)
+     Clue 1: A state whose southern city overshadows the rest.
+     Clue 2: Niagara Falls and the Adirondacks exist beyond the City.
+
+154. Florida
+     Clue 1: A state whose headline antics spawned a meme.
+     Clue 2: "Florida Man" stories and theme parks define the Sunshine State.
+
+155. Hawaii
+     Clue 1: A state whose isolation is measured in ocean.
+     Clue 2: Volcanos and the Aloha spirit define this island chain.
+
+156. Alaska
+     Clue 1: A state whose size dwarfs Texas despite fewer residents.
+     Clue 2: The Northern Lights and the Last Frontier define this giant.
+
+157. Colorado
+     Clue 1: A state whose altitude attracts both skiers and stoners.
+     Clue 2: Rocky Mountain highs are legal here.
+
+158. Nevada
+     Clue 1: A state where gambling is a significant revenue source.
+     Clue 2: What happens in Vegas drives this desert state's economy.
+
+159. Arizona
+     Clue 1: A state whose natural wonder needs no introduction.
+     Clue 2: The Grand Canyon and saguaro cacti define this desert state.
+
+160. Louisiana
+     Clue 1: A state whose cuisine blends French, African, and Cajun.
+     Clue 2: Gumbo, jazz, and Mardi Gras define the Pelican State.
+
+161. Massachusetts
+     Clue 1: A state where revolutionary history meets academic prestige.
+     Clue 2: Harvard, MIT, and the Tea Party define this New England state.
+
+162. Oregon
+     Clue 1: A state whose residents can't pump their own gas.
+     Clue 2: Portlandia, forests, and keeping it weird define the Beaver State.
+
+163. Washington (State)
+     Clue 1: A state that isn't the capital despite sharing its name.
+     Clue 2: Seattle, tech giants, and rain define the Evergreen State.
+
+164. Vermont
+     Clue 1: A state whose maple syrup production is serious business.
+     Clue 2: Ben & Jerry's and Bernie Sanders call this small state home.
+
+165. Montana
+     Clue 1: A state whose sky really does seem bigger.
+     Clue 2: Big Sky Country offers Glacier National Park and solitude.
+
+LANDMARKS & MONUMENTS
+---------------------
+
+166. Eiffel Tower
+     Clue 1: A structure initially derided as a metal monstrosity.
+     Clue 2: This iron lattice celebrated its 1889 World's Fair debut.
+
+167. Statue of Liberty
+     Clue 1: A gift that became a national symbol of welcome.
+     Clue 2: France gave this copper lady to America in 1886.
+
+168. Great Wall of China
+     Clue 1: A structure built to keep outsiders out across centuries.
+     Clue 2: This 13,000-mile barrier snakes across Asia.
+
+169. Taj Mahal
+     Clue 1: A monument to love that took 22 years to complete.
+     Clue 2: A Mughal emperor built this marble mausoleum for his wife.
+
+170. Machu Picchu
+     Clue 1: An ancient city hidden from conquistadors for centuries.
+     Clue 2: This Incan citadel sits 8,000 feet up in the Andes.
+
+171. Colosseum
+     Clue 1: An arena where entertainment was often fatal.
+     Clue 2: Gladiators fought here for Roman crowds.
+
+172. Stonehenge
+     Clue 1: A Neolithic arrangement that predates explanations.
+     Clue 2: These megaliths have puzzled visitors to Wiltshire for millennia.
+
+173. Pyramids of Giza
+     Clue 1: Tombs whose construction methods still spark debate.
+     Clue 2: The only ancient wonder still standing guards the desert.
+
+174. Christ the Redeemer
+     Clue 1: A statue with open arms overlooking a harbor city.
+     Clue 2: This Art Deco Jesus watches over Rio from Corcovado.
+
+175. Big Ben
+     Clue 1: A clock whose name actually refers to its bell.
+     Clue 2: This tower chimes over Westminster and Parliament.
+
+176. Sydney Opera House
+     Clue 1: A performance venue whose roof resembles sailing ships.
+     Clue 2: This UNESCO site's shells define its harbor city's skyline.
+
+177. Burj Khalifa
+     Clue 1: A tower that redefined what "tallest" means.
+     Clue 2: At 2,717 feet, this Dubai spire pierces the clouds.
+
+178. Golden Gate Bridge
+     Clue 1: A span whose famous color isn't technically golden.
+     Clue 2: International Orange coats this San Francisco landmark.
+
+179. Leaning Tower of Pisa
+     Clue 1: A bell tower whose construction error became its fame.
+     Clue 2: Tourists pretend to hold up this Italian architectural failure.
+
+180. Mount Rushmore
+     Clue 1: A mountain whose granite faces watch over the Dakotas.
+     Clue 2: Four presidents were carved into this Black Hills monument.
+
+181. Petra
+     Clue 1: An ancient city carved entirely into rose-red cliffs.
+     Clue 2: Indiana Jones sought the grail in this Jordanian treasury.
+
+182. Angkor Wat
+     Clue 1: A temple complex that was once the world's largest city.
+     Clue 2: This Cambodian monument adorns the national flag.
+
+183. Parthenon
+     Clue 1: A temple to a goddess of wisdom now missing most of its marbles.
+     Clue 2: Athena's temple crowns the Acropolis despite British removal.
+
+184. Notre-Dame Cathedral
+     Clue 1: A cathedral whose fire sparked global grief and donations.
+     Clue 2: A hunchback literary character lived in this Parisian landmark.
+
+185. Westminster Abbey
+     Clue 1: A church where royalty is crowned, married, and buried.
+     Clue 2: British monarchs have been coronated here for nearly 1,000 years.
+
+186. St. Peter's Basilica
+     Clue 1: A church whose dome dominates the world's smallest country.
+     Clue 2: The Pope addresses crowds from this Vatican centerpiece.
+
+187. Sagrada Família
+     Clue 1: A church that's been under construction for over 140 years.
+     Clue 2: Gaudí's unfinished Barcelona masterpiece defies architecture.
+
+188. Hagia Sophia
+     Clue 1: A building that's been cathedral, mosque, museum, and mosque again.
+     Clue 2: This Istanbul landmark has served multiple faiths.
+
+189. Blue Mosque
+     Clue 1: A mosque whose interior color scheme gave it its nickname.
+     Clue 2: Over 20,000 tiles decorate this Istanbul landmark.
+
+190. Brandenburg Gate
+     Clue 1: A gate that once symbolized division, now unity.
+     Clue 2: This Berlin landmark witnessed the wall's fall.
+
+191. Kremlin
+     Clue 1: A fortress that's been the seat of power for centuries.
+     Clue 2: This Moscow citadel houses Russian government and treasures.
+
+192. Forbidden City
+     Clue 1: A palace complex that was off-limits for five centuries.
+     Clue 2: Chinese emperors ruled from this Beijing compound.
+
+193. Tower of London
+     Clue 1: A fortress famous for its ravens and prisoners.
+     Clue 2: Crown jewels and beheadings define this Thames landmark.
+
+194. Buckingham Palace
+     Clue 1: A residence whose guards are famous for not reacting.
+     Clue 2: The British monarch's official London home.
+
+195. Palace of Versailles
+     Clue 1: A palace whose excess helped spark revolution.
+     Clue 2: The Hall of Mirrors reflects Louis XIV's extravagance.
+
+NATURAL WONDERS
+---------------
+
+196. Grand Canyon
+     Clue 1: A chasm carved by patience and a persistent river.
+     Clue 2: The Colorado River sculpted this mile-deep Arizona wonder.
+
+197. Victoria Falls
+     Clue 1: A waterfall whose mist can be seen from miles away.
+     Clue 2: "The Smoke that Thunders" borders Zambia and Zimbabwe.
+
+198. Great Barrier Reef
+     Clue 1: A living structure visible from space, now struggling.
+     Clue 2: This Australian coral system faces climate-driven bleaching.
+
+199. Mount Everest
+     Clue 1: A destination where the air gets too thin to think clearly.
+     Clue 2: At 29,032 feet, this Himalayan peak is Earth's highest.
+
+200. Niagara Falls
+     Clue 1: A waterfall that honeymooners and daredevils both love.
+     Clue 2: Barrels have gone over this American-Canadian border attraction.
+
+201. Northern Lights (Aurora Borealis)
+     Clue 1: A light show that requires darkness and high latitude.
+     Clue 2: Solar particles create these dancing Arctic skies.
+
+202. Amazon Rainforest
+     Clue 1: A forest that produces a significant share of Earth's oxygen.
+     Clue 2: This "lungs of the Earth" spans nine South American countries.
+
+203. Sahara Desert
+     Clue 1: A desert whose size rivals the continental United States.
+     Clue 2: This African expanse is the world's largest hot desert.
+
+204. Galápagos Islands
+     Clue 1: Islands whose species inspired evolutionary theory.
+     Clue 2: Darwin's finches and giant tortoises live in this Ecuadorian archipelago.
+
+205. Mount Fuji
+     Clue 1: A peak whose symmetry is almost artificially perfect.
+     Clue 2: This dormant volcano is Japan's highest and most sacred.
+
+206. Uluru (Ayers Rock)
+     Clue 1: A monolith sacred to its indigenous people, not climbers.
+     Clue 2: This Australian red rock is closed to climbing out of respect.
+
+207. Dead Sea
+     Clue 1: A body of water where drowning requires effort.
+     Clue 2: This salty lake between Israel and Jordan floats everyone.
+
+208. Yellowstone
+     Clue 1: A park sitting atop a supervolcano's simmering power.
+     Clue 2: Old Faithful erupts predictably in this Wyoming wonderland.
+
+209. Yosemite
+     Clue 1: A valley whose granite cliffs attract the world's best climbers.
+     Clue 2: El Capitan and Half Dome define this California park.
+
+210. Serengeti
+     Clue 1: A plain where the great migration crosses yearly.
+     Clue 2: Wildebeest and zebra traverse this Tanzanian savanna.
+
+211. Ha Long Bay
+     Clue 1: A bay where limestone pillars rise from emerald waters.
+     Clue 2: Nearly 2,000 islands dot this Vietnamese UNESCO site.
+
+212. Matterhorn
+     Clue 1: A peak whose pyramidal shape inspired a Disneyland ride.
+     Clue 2: This Swiss-Italian mountain is the Alps' most photographed.
+
+213. Giant's Causeway
+     Clue 1: A coastal formation that looks artificially geometric.
+     Clue 2: 40,000 basalt columns line this Northern Irish coast.
+
+214. Cliffs of Moher
+     Clue 1: Sea cliffs that drop dramatically into the Atlantic.
+     Clue 2: These Irish cliffs rise 700 feet above crashing waves.
+
+215. Plitvice Lakes
+     Clue 1: A park where waterfalls connect turquoise pools.
+     Clue 2: Sixteen terraced lakes cascade in this Croatian national park.
+
+216. Zhangjiajie
+     Clue 1: Sandstone pillars that inspired a floating film world.
+     Clue 2: Avatar's Pandora was modeled after these Chinese mountains.
+
+217. Iguazu Falls
+     Clue 1: A waterfall system straddling two South American nations.
+     Clue 2: 275 waterfalls span the Brazil-Argentina border here.
+
+218. Santorini
+     Clue 1: An island whose caldera was shaped by ancient eruption.
+     Clue 2: White buildings and blue domes define this Greek island.
+
+219. Cappadocia
+     Clue 1: A landscape shaped by eruption, erosion, and ancient dwellers.
+     Clue 2: Hot air balloons float over fairy chimneys here.
+
+220. Patagonia
+     Clue 1: A region whose glaciers and peaks straddle two nations.
+     Clue 2: Torres del Paine and Perito Moreno define this southern wilderness.
+
+221. Banff
+     Clue 1: A park whose turquoise lakes look artificially enhanced.
+     Clue 2: Lake Louise's color comes from glacial rock flour.
+
+222. Zion National Park
+     Clue 1: A canyon whose narrow walls glow red at sunset.
+     Clue 2: Angels Landing tests hikers' nerves in this Utah park.
+
+223. Bora Bora
+     Clue 1: An island whose overwater bungalows define luxury.
+     Clue 2: This French Polynesian lagoon is honeymoon central.
+
+224. Maldives
+     Clue 1: An island nation that may disappear within a century.
+     Clue 2: Rising seas threaten this Indian Ocean paradise.
+
+225. Komodo Island
+     Clue 1: An island where the largest lizards still roam.
+     Clue 2: Dragons named after this Indonesian island can grow to 10 feet.
+
+RIVERS, LAKES & OCEANS
+----------------------
+
+226. Amazon River
+     Clue 1: A waterway that shares its name with a retail behemoth.
+     Clue 2: This South American artery feeds the world's largest rainforest.
+
+227. Nile River
+     Clue 1: A river whose length is debated but historically unmatched.
+     Clue 2: Ancient Egypt rose along this African lifeline.
+
+228. Mississippi River
+     Clue 1: A river that Twain made literarily immortal.
+     Clue 2: Huckleberry Finn floated down this American waterway.
+
+229. Danube River
+     Clue 1: A river that connects more capitals than any other.
+     Clue 2: A Strauss waltz celebrated this "Blue" European waterway.
+
+230. Ganges River
+     Clue 1: A river considered holy despite its pollution.
+     Clue 2: Hindus bathe in this sacred Indian waterway.
+
+231. Yangtze River
+     Clue 1: A river that now powers the world's largest dam.
+     Clue 2: The Three Gorges Dam spans this Chinese waterway.
+
+232. Thames River
+     Clue 1: A river that defined an empire's capital.
+     Clue 2: Tower Bridge spans this London waterway.
+
+233. Seine River
+     Clue 1: A river that artists have painted countless times.
+     Clue 2: Lovers stroll along this Paris waterway.
+
+234. Lake Baikal
+     Clue 1: A lake that holds more freshwater than any other.
+     Clue 2: This Siberian lake is the world's deepest.
+
+235. Lake Victoria
+     Clue 1: A lake named after a British queen who never saw it.
+     Clue 2: Africa's largest lake borders three East African nations.
+
+236. Lake Titicaca
+     Clue 1: A lake whose name makes children giggle.
+     Clue 2: This Peru-Bolivia lake is the highest navigable in the world.
+
+237. Great Lakes
+     Clue 1: A lake system that holds 20% of the world's fresh surface water.
+     Clue 2: HOMES helps remember Superior, Michigan, Huron, Erie, Ontario.
+
+238. Mediterranean Sea
+     Clue 1: A sea whose name means "middle of the earth."
+     Clue 2: Ancient civilizations thrived around this nearly enclosed sea.
+
+239. Caribbean Sea
+     Clue 1: A sea whose islands became synonymous with pirates.
+     Clue 2: Cruise ships and Jack Sparrow frequent these waters.
+
+240. Pacific Ocean
+     Clue 1: An ocean whose name means "peaceful" despite tsunamis.
+     Clue 2: This largest ocean covers more area than all land combined.
+
+MOUNTAINS & RANGES
+------------------
+
+241. Himalayas
+     Clue 1: A range where the world's roof continues rising.
+     Clue 2: Everest and K2 are just two peaks in this Asian chain.
+
+242. Alps
+     Clue 1: A range that lends its name to a style of cabin.
+     Clue 2: This European chain spans eight countries.
+
+243. Andes
+     Clue 1: The longest continental mountain range on Earth.
+     Clue 2: This South American spine runs 4,500 miles.
+
+244. Rocky Mountains
+     Clue 1: A range whose name accurately describes its character.
+     Clue 2: This North American chain spans from Canada to New Mexico.
+
+245. Kilimanjaro
+     Clue 1: An African peak rising dramatically from surrounding plains.
+     Clue 2: This Tanzanian summit is Africa's highest at 19,341 feet.
+
+246. K2
+     Clue 1: A peak more dangerous to climb than its taller neighbor.
+     Clue 2: The world's second highest mountain has a higher fatality rate.
+
+247. Denali
+     Clue 1: A peak whose name was McKinley until recently.
+     Clue 2: North America's highest mountain was renamed to honor native peoples.
+
+248. Mount Kilimanjaro
+     Clue 1: A snow-capped peak that sits near the equator.
+     Clue 2: Africa's highest summit is losing its glacier.
+
+249. Table Mountain
+     Clue 1: A peak whose flat top earned its furniture name.
+     Clue 2: A cable car ascends this Cape Town landmark.
+
+250. Mont Blanc
+     Clue 1: A peak whose name means white mountain in French.
+     Clue 2: The Alps' highest summit straddles France and Italy.
+
+ISLANDS
+-------
+
+251. Madagascar
+     Clue 1: An island whose isolation created unique species.
+     Clue 2: Lemurs exist only on this African island nation.
+
+252. Sicily
+     Clue 1: An island whose volcano remains active and dramatic.
+     Clue 2: Mount Etna overlooks this Italian island's Mafia history.
+
+253. Greenland
+     Clue 1: An island whose name was intentionally misleading.
+     Clue 2: Vikings named this icy landmass to attract settlers.
+
+254. Crete
+     Clue 1: An island where the labyrinth myth originated.
+     Clue 2: The Minotaur lived in this Greek island's mythology.
+
+255. Sardinia
+     Clue 1: An island whose ancient towers still puzzle archaeologists.
+     Clue 2: Nuraghi structures dot this Italian island's landscape.
+
+256. Cyprus
+     Clue 1: An island divided by a buffer zone since 1974.
+     Clue 2: Greek and Turkish communities split this Mediterranean island.
+
+257. Mauritius
+     Clue 1: An island whose most famous bird couldn't fly or survive.
+     Clue 2: The dodo went extinct on this Indian Ocean island.
+
+258. Fiji
+     Clue 1: An island nation whose water bottles went global.
+     Clue 2: Over 300 islands make up this South Pacific paradise.
+
+259. Tahiti
+     Clue 1: An island that captivated Gauguin's artistic eye.
+     Clue 2: This French Polynesian island inspired post-Impressionist paintings.
+
+260. Easter Island
+     Clue 1: An island whose stone heads face away from the sea.
+     Clue 2: Moai statues watch over this remote Pacific island.
+
+261. Ibiza
+     Clue 1: An island whose nightclubs are internationally infamous.
+     Clue 2: Electronic music draws crowds to this Spanish island.
+
+262. Mykonos
+     Clue 1: An island whose windmills and nightlife both attract tourists.
+     Clue 2: This Greek island is the Cyclades' party capital.
+
+263. Santorini
+     Clue 1: An island shaped by volcanic catastrophe millennia ago.
+     Clue 2: White and blue buildings line this Greek caldera.
+
+264. Capri
+     Clue 1: An island whose blue grotto glows impossibly.
+     Clue 2: This Italian island's sea cave has drawn tourists for centuries.
+
+265. Malta
+     Clue 1: An island nation whose knights defended Christianity.
+     Clue 2: The Knights of St. John ruled this Mediterranean archipelago.
+
+DESERTS
+-------
+
+266. Sahara
+     Clue 1: A desert whose name simply means "desert" in Arabic.
+     Clue 2: This African expanse is larger than the continental United States.
+
+267. Gobi
+     Clue 1: A desert where dinosaur fossils emerge from the sand.
+     Clue 2: This Asian desert spans Mongolia and China.
+
+268. Atacama
+     Clue 1: A desert so dry that NASA uses it as a Mars analog.
+     Clue 2: Parts of this Chilean desert have never recorded rain.
+
+269. Kalahari
+     Clue 1: A desert whose name means "great thirst."
+     Clue 2: The San people call this Southern African expanse home.
+
+270. Mojave
+     Clue 1: A desert that hosts both Joshua trees and spacecraft.
+     Clue 2: SpaceX and Death Valley are neighbors in this California desert.
+
+REGIONS & TERRITORIES
+---------------------
+
+271. Antarctica
+     Clue 1: A continent with no permanent population or sovereignty.
+     Clue 2: Research stations and penguins are this frozen land's only residents.
+
+272. Arctic
+     Clue 1: A region whose name comes from the Greek word for bear.
+     Clue 2: Polar bears and shrinking ice define this northern region.
+
+273. Amazon Basin
+     Clue 1: A region that produces much of Earth's oxygen.
+     Clue 2: The world's largest tropical rainforest spans this watershed.
+
+274. Siberia
+     Clue 1: A region whose name became synonymous with exile.
+     Clue 2: This Russian expanse is larger than any country except Russia itself.
+
+275. Patagonia
+     Clue 1: A region shared by two nations at the world's end.
+     Clue 2: Argentina and Chile split this windswept southern wilderness.
+
+276. Tibet
+     Clue 1: A region known as the roof of the world.
+     Clue 2: The Dalai Lama's homeland remains under Chinese control.
+
+277. Kashmir
+     Clue 1: A region whose ownership remains violently disputed.
+     Clue 2: India, Pakistan, and China all claim parts of this Himalayan territory.
+
+278. Tuscany
+     Clue 1: A region whose rolling hills define romantic Italy.
+     Clue 2: Chianti wine and cypress trees define this Italian landscape.
+
+279. Provence
+     Clue 1: A region whose lavender fields paint summer purple.
+     Clue 2: Van Gogh found inspiration in this southern French countryside.
+
+280. Bavaria
+     Clue 1: A region whose castles inspired Disney architecture.
+     Clue 2: Neuschwanstein and Oktoberfest define this German state.
+
+FICTIONAL PLACES - LITERATURE
+-----------------------------
+
+281. Hogwarts
+     Clue 1: A literary school where the curriculum includes spellwork.
+     Clue 2: Acceptance letters here arrive by owl post.
+
+282. Narnia
+     Clue 1: A fantasy realm one might stumble into through furniture.
+     Clue 2: C.S. Lewis invented this land ruled by a noble lion.
+
+283. Middle-earth
+     Clue 1: A literary world where an unassuming ring holds great power.
+     Clue 2: Tolkien created this realm of hobbits, elves, and dark lords.
+
+284. Wonderland
+     Clue 1: A literary realm accessed via rabbit-chasing.
+     Clue 2: Alice fell down a hole to reach this nonsensical world.
+
+285. Neverland
+     Clue 1: A literary island where growing up is optional.
+     Clue 2: Peter Pan refuses to age in this J.M. Barrie creation.
+
+286. Oz
+     Clue 1: A literary land accessed via extreme weather.
+     Clue 2: Dorothy followed a yellow brick road through this Baum creation.
+
+287. Westeros
+     Clue 1: A literary continent where winter has political significance.
+     Clue 2: The Iron Throne rules this George R.R. Martin creation.
+
+288. Mordor
+     Clue 1: A literary realm where one does not simply walk.
+     Clue 2: Mount Doom rises in this Tolkien shadow land.
+
+289. Diagon Alley
+     Clue 1: A literary street hidden behind a pub's brick wall.
+     Clue 2: Wizards shop for wands and owls in this magical London street.
+
+290. Shire
+     Clue 1: A literary region where comfort trumps adventure.
+     Clue 2: Hobbits enjoy second breakfast in this pastoral Tolkien land.
+
+291. Hundred Acre Wood
+     Clue 1: A literary forest where stuffed animals philosophize.
+     Clue 2: Pooh, Piglet, and Eeyore live in this A.A. Milne woodland.
+
+292. Panem
+     Clue 1: A literary dystopia where children fight for entertainment.
+     Clue 2: The Hunger Games take place in this Collins creation.
+
+293. District 12
+     Clue 1: A literary coal mining community in dystopian America.
+     Clue 2: Katniss Everdeen called this impoverished district home.
+
+294. Oceania
+     Clue 1: A literary superstate where Big Brother watches all.
+     Clue 2: Orwell's 1984 takes place in this totalitarian nation.
+
+295. Earthsea
+     Clue 1: A literary archipelago where true names hold power.
+     Clue 2: Ursula K. Le Guin created this world of wizards and dragons.
+
+FICTIONAL PLACES - FILM & TV
+----------------------------
+
+296. Gotham City
+     Clue 1: A comic book metropolis whose nights belong to a winged vigilante.
+     Clue 2: Arkham Asylum can't seem to hold this city's villains.
+
+297. Wakanda
+     Clue 1: A Marvel nation hiding advanced tech behind a humble facade.
+     Clue 2: Vibranium from a meteorite powers this secret kingdom.
+
+298. Asgard
+     Clue 1: A mythological realm connected to Earth by a rainbow bridge.
+     Clue 2: Norse gods and Marvel heroes call this celestial palace home.
+
+299. Metropolis
+     Clue 1: A comic book city protected by its flying alien resident.
+     Clue 2: Superman defends this DC universe city from villains.
+
+300. Springfield
+     Clue 1: A TV town whose state remains deliberately unclear.
+     Clue 2: The Simpsons have lived here for over 30 seasons.
+
+301. Bikini Bottom
+     Clue 1: A TV town located beneath the Marshall Islands.
+     Clue 2: SpongeBob flips Krabby Patties in this underwater city.
+
+302. Hawkins
+     Clue 1: A TV town plagued by supernatural government experiments.
+     Clue 2: The Upside Down opened in this Indiana town.
+
+303. Stars Hollow
+     Clue 1: A TV town whose quirky residents rival its coffee consumption.
+     Clue 2: The Gilmore Girls caffeinated through this Connecticut town.
+
+304. Pawnee
+     Clue 1: A TV town whose parks department became surprisingly beloved.
+     Clue 2: Leslie Knope served this Indiana town enthusiastically.
+
+305. Sunnydale
+     Clue 1: A TV town whose high school sat on a hellmouth.
+     Clue 2: Buffy slayed vampires in this California town.
+
+306. Hill Valley
+     Clue 1: A film town whose clock tower stopped at a specific moment.
+     Clue 2: Marty McFly traveled through time from this California town.
+
+307. Winterfell
+     Clue 1: A TV castle whose family words proved prophetic.
+     Clue 2: The Starks knew winter was coming to this northern seat.
+
+308. King's Landing
+     Clue 1: A TV capital whose throne was forged from swords.
+     Clue 2: The Iron Throne ruled the Seven Kingdoms from this city.
+
+309. Dunder Mifflin
+     Clue 1: A TV workplace whose paper sales were secondary to pranks.
+     Clue 2: Michael Scott managed this Scranton paper company branch.
+
+310. Wisteria Lane
+     Clue 1: A TV street where suburban facades hid dark secrets.
+     Clue 2: Desperate housewives lived on this fictional cul-de-sac.
+
+FICTIONAL PLACES - VIDEO GAMES
+------------------------------
+
+311. Hyrule
+     Clue 1: A gaming kingdom perpetually in need of saving.
+     Clue 2: Link rescues Zelda repeatedly in this Nintendo realm.
+
+312. Mushroom Kingdom
+     Clue 1: A gaming realm where royalty is frequently kidnapped.
+     Clue 2: Princess Peach rules this Nintendo world of pipes and coins.
+
+313. Tamriel
+     Clue 1: A gaming continent whose provinces host Elder Scrolls.
+     Clue 2: Skyrim and Morrowind are regions of this Bethesda world.
+
+314. Azeroth
+     Clue 1: A gaming world where millions play together online.
+     Clue 2: World of Warcraft takes place on this Blizzard planet.
+
+315. Raccoon City
+     Clue 1: A gaming city whose pharmaceutical company caused problems.
+     Clue 2: The T-virus outbreak decimated this Resident Evil metropolis.
+
+316. Rapture
+     Clue 1: A gaming city built underwater to escape society's constraints.
+     Clue 2: Would you kindly visit this failed BioShock utopia?
+
+317. Silent Hill
+     Clue 1: A gaming town whose fog hides psychological terrors.
+     Clue 2: Pyramid Head lurks in this Konami horror location.
+
+318. Vice City
+     Clue 1: A gaming city modeled after 1980s Miami excess.
+     Clue 2: Rockstar's neon-soaked GTA setting features pastel suits.
+
+319. Liberty City
+     Clue 1: A gaming metropolis that satirizes New York.
+     Clue 2: GTA IV's protagonist explored this East Coast satire.
+
+320. Los Santos
+     Clue 1: A gaming city mocking Los Angeles culture.
+     Clue 2: GTA V's heists take place in this California parody.
+
+ANCIENT & HISTORICAL PLACES
+---------------------------
+
+321. Pompeii
+     Clue 1: A city frozen in volcanic time since AD 79.
+     Clue 2: Vesuvius preserved this Roman city in ash.
+
+322. Babylon
+     Clue 1: An ancient city whose hanging gardens may be myth.
+     Clue 2: Nebuchadnezzar ruled this Mesopotamian capital.
+
+323. Troy
+     Clue 1: An ancient city besieged for a wooden horse.
+     Clue 2: Homer's Iliad tells of this city's fall.
+
+324. Alexandria
+     Clue 1: An ancient city whose library's loss still stings scholars.
+     Clue 2: Alexander founded and Cleopatra ruled this Egyptian port.
+
+325. Constantinople
+     Clue 1: A city whose name changed when its empire fell.
+     Clue 2: Istanbul was this Byzantine capital before 1453.
+
+326. Carthage
+     Clue 1: An ancient city whose destruction was thorough and salted.
+     Clue 2: Rome destroyed this Tunisian rival after the Punic Wars.
+
+327. Thebes
+     Clue 1: An ancient city whose temples line the Nile.
+     Clue 2: The Valley of the Kings lies near this Egyptian capital.
+
+328. Athens
+     Clue 1: An ancient city that invented democracy and philosophy.
+     Clue 2: Socrates and Plato walked this Greek capital's agora.
+
+329. Sparta
+     Clue 1: An ancient city whose military training began at birth.
+     Clue 2: 300 warriors from this Greek city fought at Thermopylae.
+
+330. Rome
+     Clue 1: An ancient city whose empire shaped Western civilization.
+     Clue 2: All roads led to this city on the Tiber.
+
+331. Jerusalem
+     Clue 1: A city sacred to three religions simultaneously.
+     Clue 2: The Western Wall and Dome of the Rock share this holy city.
+
+332. Mecca
+     Clue 1: A city that Muslims face during prayer worldwide.
+     Clue 2: The Kaaba sits in this holiest Islamic city.
+
+333. Timbuktu
+     Clue 1: A city whose name became synonymous with remoteness.
+     Clue 2: This Mali city was once a center of learning and trade.
+
+334. Machu Picchu
+     Clue 1: An ancient city that Spanish conquerors never found.
+     Clue 2: This Incan citadel hid in the Andes until 1911.
+
+335. Angkor
+     Clue 1: An ancient city whose temple complex was swallowed by jungle.
+     Clue 2: Wat was just one temple in this Cambodian capital.
+
+THEME PARKS & ATTRACTIONS
+-------------------------
+
+336. Disneyland
+     Clue 1: A park whose magic kingdom created the theme park industry.
+     Clue 2: Walt's original California dream opened in 1955.
+
+337. Disney World
+     Clue 1: A resort whose size rivals small cities.
+     Clue 2: EPCOT and Magic Kingdom share this Florida property.
+
+338. Universal Studios
+     Clue 1: A park where movies became rides before Marvel moved in.
+     Clue 2: Jurassic Park and Harry Potter worlds collide here.
+
+339. Las Vegas Strip
+     Clue 1: A boulevard where themed excess replaced desert.
+     Clue 2: Casinos recreate Venice, Paris, and ancient Rome here.
+
+340. Times Square
+     Clue 1: A plaza where advertising is the architecture.
+     Clue 2: The ball drops here every New Year's Eve.
+
+341. Hollywood Walk of Fame
+     Clue 1: A sidewalk where stars commemorate stars.
+     Clue 2: Celebrities' names line this Los Angeles boulevard.
+
+342. Bourbon Street
+     Clue 1: A street where open containers and jazz coexist.
+     Clue 2: This New Orleans strip never seems to close.
+
+343. Abbey Road
+     Clue 1: A crosswalk that tourists recreate daily.
+     Clue 2: The Beatles walked across this London street for an album cover.
+
+344. Central Park
+     Clue 1: An urban park that occupies prime Manhattan real estate.
+     Clue 2: 843 acres of green in the middle of New York City.
+
+345. Golden Gate Park
+     Clue 1: A park larger than its famous neighboring bridge.
+     Clue 2: This San Francisco park contains a bison paddock.
+
+STADIUMS & ARENAS
+-----------------
+
+346. Madison Square Garden
+     Clue 1: An arena called "the world's most famous" unironically.
+     Clue 2: The Knicks and Rangers call this NYC venue home.
+
+347. Wembley Stadium
+     Clue 1: A stadium whose twin towers were replaced by an arch.
+     Clue 2: English football's home was rebuilt for the modern era.
+
+348. Camp Nou
+     Clue 1: A stadium whose capacity exceeds 99,000.
+     Clue 2: Barcelona's home is Europe's largest football stadium.
+
+349. Fenway Park
+     Clue 1: A ballpark whose wall is as famous as its team.
+     Clue 2: The Green Monster looms in this Boston landmark.
+
+350. Yankee Stadium
+     Clue 1: A ballpark in "the house that Ruth built" territory.
+     Clue 2: The new version still hosts the Bronx Bombers.
+
+MUSEUMS & CULTURAL INSTITUTIONS
+-------------------------------
+
+351. Louvre
+     Clue 1: A museum whose most famous resident smiles mysteriously.
+     Clue 2: Mona Lisa watches crowds through bulletproof glass here.
+
+352. British Museum
+     Clue 1: A museum whose collection raises repatriation debates.
+     Clue 2: The Elgin Marbles and Rosetta Stone reside here controversially.
+
+353. Metropolitan Museum of Art
+     Clue 1: A museum whose steps serve as Manhattan's living room.
+     Clue 2: The Met's collection spans 5,000 years of art.
+
+354. Smithsonian
+     Clue 1: A museum complex that's both free and priceless.
+     Clue 2: 19 museums line the National Mall in Washington.
+
+355. Vatican Museums
+     Clue 1: A museum whose ceiling is the main attraction.
+     Clue 2: Michelangelo's Sistine Chapel draws pilgrims and tourists alike.
+
+356. Hermitage
+     Clue 1: A museum housed in former imperial palaces.
+     Clue 2: Three million items fill this St. Petersburg collection.
+
+357. Uffizi Gallery
+     Clue 1: A museum where Renaissance masters fill every room.
+     Clue 2: Botticelli's Venus was born from the sea here.
+
+358. Guggenheim
+     Clue 1: A museum whose architecture often overshadows its art.
+     Clue 2: Frank Lloyd Wright's spiral defines the New York location.
+
+359. Prado
+     Clue 1: A museum where Spanish masters dominate.
+     Clue 2: Goya and Velázquez hang in this Madrid institution.
+
+360. MoMA
+     Clue 1: A museum that defined what "modern art" could be.
+     Clue 2: Starry Night lives in this New York museum.
+
+RELIGIOUS SITES
+---------------
+
+361. Vatican City
+     Clue 1: The world's smallest country and largest church.
+     Clue 2: The Pope leads Catholicism from this independent enclave.
+
+362. Mecca
+     Clue 1: A city that every Muslim must visit if able.
+     Clue 2: The Hajj pilgrimage centers on this Saudi Arabian city.
+
+363. Varanasi
+     Clue 1: A city where funeral pyres burn along sacred waters.
+     Clue 2: Hindus seek moksha in this Ganges River city.
+
+364. Bodh Gaya
+     Clue 1: A site where a prince became enlightened under a tree.
+     Clue 2: The Buddha reached nirvana at this Indian location.
+
+365. Lourdes
+     Clue 1: A site where healing waters draw millions seeking miracles.
+     Clue 2: Catholic pilgrims visit this French town for its grotto.
+
+366. Western Wall
+     Clue 1: A retaining wall that became the holiest site in Judaism.
+     Clue 2: Jews pray at this Jerusalem remnant of the Temple Mount.
+
+367. Golden Temple
+     Clue 1: A temple whose free kitchen feeds 100,000 daily.
+     Clue 2: This Amritsar gurdwara is Sikhism's holiest site.
+
+368. Angkor Wat
+     Clue 1: A temple that transitioned from Hindu to Buddhist.
+     Clue 2: This Cambodian complex is the world's largest religious monument.
+
+369. Sistine Chapel
+     Clue 1: A chapel whose ceiling took four years to paint.
+     Clue 2: Michelangelo's Creation of Adam touches visitors here.
+
+370. Notre-Dame
+     Clue 1: A cathedral whose fire sparked global mourning and donations.
+     Clue 2: This "Our Lady" of Paris is being rebuilt.
+
+BRIDGES
+-------
+
+371. Golden Gate Bridge
+     Clue 1: A bridge whose color was meant to be temporary.
+     Clue 2: International Orange spans San Francisco Bay.
+
+372. Tower Bridge
+     Clue 1: A bridge often confused with its plain neighbor.
+     Clue 2: This drawbridge near the Tower of London isn't London Bridge.
+
+373. Brooklyn Bridge
+     Clue 1: A bridge that connected boroughs before consolidation.
+     Clue 2: This East River span opened in 1883.
+
+374. Sydney Harbour Bridge
+     Clue 1: A bridge whose shape earned a household nickname.
+     Clue 2: "The Coathanger" connects Sydney's north and south.
+
+375. Ponte Vecchio
+     Clue 1: A bridge lined with jewelry shops instead of traffic.
+     Clue 2: This Florence landmark survived WWII when others didn't.
+
+376. Charles Bridge
+     Clue 1: A bridge whose statues watch pedestrians by day.
+     Clue 2: This Prague landmark connects Old Town to Lesser Town.
+
+377. Rialto Bridge
+     Clue 1: A bridge that's been Venice's commercial heart for centuries.
+     Clue 2: Shops line this Grand Canal crossing.
+
+378. London Bridge
+     Clue 1: A bridge whose predecessor now stands in Arizona.
+     Clue 2: The original was sold and rebuilt in Lake Havasu City.
+
+379. Millau Viaduct
+     Clue 1: A bridge whose cables make it taller than the Eiffel Tower.
+     Clue 2: This French structure is the world's tallest bridge.
+
+380. Akashi Kaikyo Bridge
+     Clue 1: A bridge whose suspension span is the world's longest.
+     Clue 2: This Japanese bridge crosses the Akashi Strait.
+
+STREETS & ROADS
+---------------
+
+381. Champs-Élysées
+     Clue 1: An avenue that ends at a triumphant arch.
+     Clue 2: This Parisian boulevard hosts Bastille Day parades.
+
+382. Fifth Avenue
+     Clue 1: An avenue where shopping requires serious budgets.
+     Clue 2: Tiffany, Saks, and the Empire State Building line this NYC street.
+
+383. Rodeo Drive
+     Clue 1: A street where Pretty Woman went shopping.
+     Clue 2: Beverly Hills luxury brands cluster on this drive.
+
+384. Route 66
+     Clue 1: A highway that got its kicks before interstates.
+     Clue 2: The "Mother Road" connected Chicago to Santa Monica.
+
+385. Abbey Road
+     Clue 1: A road whose crosswalk is constantly photographed.
+     Clue 2: Four Beatles walked this London street for an album.
+
+386. Broadway
+     Clue 1: A street whose name became synonymous with theater.
+     Clue 2: Musicals light up this Manhattan thoroughfare.
+
+387. Sunset Boulevard
+     Clue 1: A boulevard that inspired both a film noir and a musical.
+     Clue 2: Hollywood history lines this Los Angeles street.
+
+388. Lombard Street
+     Clue 1: A street whose hairpin turns attract tourist drivers.
+     Clue 2: Eight switchbacks make this San Francisco block famous.
+
+389. Wall Street
+     Clue 1: A street whose name became synonymous with finance.
+     Clue 2: The NYSE trades on this Manhattan street.
+
+390. Piccadilly Circus
+     Clue 1: A junction whose neon ads rival Times Square.
+     Clue 2: This London intersection isn't actually a circus.
+
+AIRPORTS & TRANSPORTATION HUBS
+------------------------------
+
+391. Heathrow Airport
+     Clue 1: An airport whose five terminals handled Europe's most passengers.
+     Clue 2: London's main airport code is LHR.
+
+392. JFK Airport
+     Clue 1: An airport named after an assassinated president.
+     Clue 2: New York's international hub was renamed in 1963.
+
+393. Dubai International Airport
+     Clue 1: An airport that became a city unto itself.
+     Clue 2: This hub connects East and West through Emirates.
+
+394. Changi Airport
+     Clue 1: An airport that features waterfalls and butterfly gardens.
+     Clue 2: Singapore's airport is consistently ranked world's best.
+
+395. Grand Central Terminal
+     Clue 1: A station whose ceiling depicts constellations backwards.
+     Clue 2: This NYC landmark serves commuters and film productions alike.
+
+396. Penn Station
+     Clue 1: A station whose original demolition sparked preservation movements.
+     Clue 2: The original Beaux-Arts masterpiece was torn down in 1963.
+
+397. King's Cross Station
+     Clue 1: A station that now features a famous fictional platform.
+     Clue 2: Platform 9¾ was added for Harry Potter fans.
+
+398. Tokyo Station
+     Clue 1: A station whose red brick facade survived war and earthquakes.
+     Clue 2: This Japanese hub sees more passengers than any other.
+
+399. Venice Santa Lucia Station
+     Clue 1: A station whose arrival view is worth the train ride.
+     Clue 2: Passengers exit directly to the Grand Canal here.
+
+400. Berlin Hauptbahnhof
+     Clue 1: A station designed as Europe's largest crossing.
+     Clue 2: This glass and steel hub opened after reunification.
+
+NEIGHBORHOODS & DISTRICTS
+-------------------------
+
+401. Manhattan
+     Clue 1: An island whose purchase for $24 was history's best deal.
+     Clue 2: Wall Street, Broadway, and Central Park share this NYC borough.
+
+402. Brooklyn
+     Clue 1: A borough that went from overlooked to overpriced.
+     Clue 2: Hipsters and brownstones define this NYC area.
+
+403. Silicon Valley
+     Clue 1: A region where garages became billion-dollar origin stories.
+     Clue 2: Apple, Google, and Facebook started in this tech corridor.
+
+404. Hollywood
+     Clue 1: A neighborhood whose name became synonymous with film.
+     Clue 2: The sign on the hill defines this LA entertainment district.
+
+405. Soho
+     Clue 1: A neighborhood whose name describes its location south of.
+     Clue 2: This NYC area is south of Houston Street.
+
+406. Greenwich Village
+     Clue 1: A neighborhood that incubated American counterculture.
+     Clue 2: Bob Dylan and the Stonewall riots emerged from this NYC area.
+
+407. Montmartre
+     Clue 1: A hilltop neighborhood that housed bohemian artists.
+     Clue 2: Picasso and the Moulin Rouge shaped this Parisian district.
+
+408. Harajuku
+     Clue 1: A neighborhood where teen fashion defies convention.
+     Clue 2: Japanese youth subcultures parade through this Tokyo district.
+
+409. Shibuya
+     Clue 1: A district whose crossing is the world's busiest.
+     Clue 2: Hachiko the faithful dog still waits at this Tokyo station.
+
+410. Georgetown
+     Clue 1: A neighborhood older than the capital surrounding it.
+     Clue 2: Cobblestones and the Exorcist stairs define this DC area.
+
+GARDENS & PARKS
+---------------
+
+411. Versailles Gardens
+     Clue 1: Gardens whose geometric precision reflected royal power.
+     Clue 2: Louis XIV's landscapers shaped these French gardens.
+
+412. Keukenhof Gardens
+     Clue 1: Gardens that bloom with millions of bulbs each spring.
+     Clue 2: This Dutch park showcases tulips seasonally.
+
+413. Kew Gardens
+     Clue 1: Gardens whose Victorian glasshouses pioneered botany.
+     Clue 2: This London UNESCO site contains the world's largest seed bank.
+
+414. Butchart Gardens
+     Clue 1: Gardens that transformed a limestone quarry into beauty.
+     Clue 2: This Canadian garden bloomed from industrial waste.
+
+415. Luxembourg Gardens
+     Clue 1: Gardens where Parisians escape to sail toy boats.
+     Clue 2: The French Senate meets adjacent to these Left Bank gardens.
+
+416. Hyde Park
+     Clue 1: A park whose corner became famous for free speech.
+     Clue 2: Speakers' Corner debates happen in this London park.
+
+417. Tuileries Garden
+     Clue 1: A garden connecting palace to museum along an axis.
+     Clue 2: This Paris garden links the Louvre to Place de la Concorde.
+
+418. Boboli Gardens
+     Clue 1: Gardens that slope behind a palace of stone.
+     Clue 2: The Medici created these Florence gardens behind the Pitti.
+
+419. Jardin Majorelle
+     Clue 1: A garden whose blue buildings were restored by a designer.
+     Clue 2: Yves Saint Laurent saved this Marrakech oasis.
+
+420. Gardens by the Bay
+     Clue 1: Gardens whose supertrees light up nightly.
+     Clue 2: These Singapore structures blend nature and technology.
+
+SQUARES & PLAZAS
+----------------
+
+421. Times Square
+     Clue 1: A square that's technically a triangle of advertising.
+     Clue 2: The ball drops here on New Year's Eve.
+
+422. Red Square
+     Clue 1: A square whose name predates communism's color association.
+     Clue 2: Lenin's tomb and St. Basil's anchor this Moscow plaza.
+
+423. Tiananmen Square
+     Clue 1: A square whose 1989 images remain censored there.
+     Clue 2: A lone tank man stood in this Beijing plaza.
+
+424. St. Peter's Square
+     Clue 1: A square whose colonnade embraces the faithful.
+     Clue 2: The Pope addresses crowds from this Vatican plaza.
+
+425. Trafalgar Square
+     Clue 1: A square named for a naval victory at sea.
+     Clue 2: Nelson's Column rises above this London gathering place.
+
+426. Piazza San Marco
+     Clue 1: A square that Napoleon called Europe's drawing room.
+     Clue 2: Pigeons and tourists compete in this Venice plaza.
+
+427. Grand Place
+     Clue 1: A square whose guildhalls dazzle with gold.
+     Clue 2: This Brussels plaza is considered Europe's most beautiful.
+
+428. Zócalo
+     Clue 1: A square that's been the heart of power for centuries.
+     Clue 2: Aztec temples once stood in this Mexico City plaza.
+
+429. Djemaa el-Fna
+     Clue 1: A square that transforms from market to entertainment nightly.
+     Clue 2: Snake charmers and storytellers perform in this Marrakech plaza.
+
+430. Dam Square
+     Clue 1: A square that gave a city its name.
+     Clue 2: Amsterdam's Royal Palace overlooks this central plaza.
+
+CAVES & UNDERGROUND
+-------------------
+
+431. Carlsbad Caverns
+     Clue 1: Caves where bats exit nightly in dramatic fashion.
+     Clue 2: This New Mexico system features the Big Room.
+
+432. Mammoth Cave
+     Clue 1: A cave system whose explored passages exceed 400 miles.
+     Clue 2: This Kentucky park contains the world's longest known cave.
+
+433. Waitomo Caves
+     Clue 1: Caves where bioluminescence creates starry underground skies.
+     Clue 2: Glowworms light up these New Zealand grottos.
+
+434. Catacombs of Paris
+     Clue 1: Tunnels whose walls are built from the relocated dead.
+     Clue 2: Six million skeletons line these Parisian underground passages.
+
+435. Cu Chi Tunnels
+     Clue 1: Tunnels that proved crucial in guerrilla warfare.
+     Clue 2: Viet Cong fighters lived underground in this network.
+
+436. Cappadocia Underground Cities
+     Clue 1: Cities carved entirely below the fairy chimneys.
+     Clue 2: Christians hid in these Turkish underground refuges.
+
+437. Blue Grotto
+     Clue 1: A sea cave whose waters glow impossibly blue.
+     Clue 2: This Capri attraction requires lying flat in a rowboat to enter.
+
+438. Fingal's Cave
+     Clue 1: A sea cave whose basalt columns inspired a composer.
+     Clue 2: Mendelssohn's overture was named for this Scottish cave.
+
+439. Cenotes
+     Clue 1: Sinkholes that the Maya considered sacred entries to the underworld.
+     Clue 2: These Mexican swimming holes dot the Yucatán.
+
+440. Postojna Cave
+     Clue 1: A cave explored by tourist train since the 1800s.
+     Clue 2: This Slovenian cave features "baby dragons" (blind salamanders).
+
+CONTINENTS & REGIONS
+--------------------
+
+441. Europe
+     Clue 1: A continent whose definition depends on where Russia ends.
+     Clue 2: The EU and NATO both originated on this continent.
+
+442. Asia
+     Clue 1: A continent containing more than half of humanity.
+     Clue 2: From Japan to Saudi Arabia, this is Earth's largest landmass.
+
+443. Africa
+     Clue 1: A continent whose shape inspired a Toto song.
+     Clue 2: The cradle of humanity spans 54 countries.
+
+444. North America
+     Clue 1: A continent whose three countries span arctic to tropical.
+     Clue 2: Canada, the US, and Mexico share this landmass.
+
+445. South America
+     Clue 1: A continent whose western edge rises dramatically.
+     Clue 2: The Andes spine runs the length of this landmass.
+
+446. Australia
+     Clue 1: A continent that's also a country and an island.
+     Clue 2: The Land Down Under is the world's smallest continent.
+
+447. Antarctica
+     Clue 1: A continent with no permanent human population.
+     Clue 2: Research stations and penguins are this ice sheet's only residents.
+
+448. Scandinavia
+     Clue 1: A region whose happiness rankings and design sense lead the world.
+     Clue 2: Norway, Sweden, and Denmark share this Nordic peninsula.
+
+449. Middle East
+     Clue 1: A region whose oil and conflicts shape global politics.
+     Clue 2: From Israel to Iran, this area bridges three continents.
+
+450. Caribbean
+     Clue 1: A region whose islands share pirates, rum, and hurricanes.
+     Clue 2: From Jamaica to Barbados, these islands dot the sea.
+
+MORE CITIES (GLOBAL)
+--------------------
+
+451. Osaka
+     Clue 1: A city known for street food and directness.
+     Clue 2: This Japanese city rivals Tokyo in cuisine but not pretension.
+
+452. Kuala Lumpur
+     Clue 1: A capital whose twin towers once held the tallest title.
+     Clue 2: The Petronas Towers define this Malaysian city's skyline.
+
+453. Ho Chi Minh City
+     Clue 1: A city whose name changed after a war.
+     Clue 2: Saigon was renamed for this Vietnamese leader.
+
+454. Phnom Penh
+     Clue 1: A capital recovering from genocide's shadow.
+     Clue 2: The Khmer Rouge emptied this Cambodian city in 1975.
+
+455. Yangon
+     Clue 1: A city whose golden pagoda dominates the skyline.
+     Clue 2: Shwedagon Pagoda glitters in this former Burmese capital.
+
+456. Bangalore
+     Clue 1: A city that became India's tech startup capital.
+     Clue 2: This "Silicon Valley of India" hosts major IT companies.
+
+457. Kolkata
+     Clue 1: A city where Mother Teresa made her mission.
+     Clue 2: This former Calcutta was British India's capital until 1911.
+
+458. Chennai
+     Clue 1: A city on the Coromandel Coast with temple traditions.
+     Clue 2: This former Madras is Tamil Nadu's capital.
+
+459. Lahore
+     Clue 1: A city whose Mughal heritage rivals Delhi.
+     Clue 2: This Pakistani city contains the Badshahi Mosque.
+
+460. Karachi
+     Clue 1: A port city that's Pakistan's largest but not capital.
+     Clue 2: This former capital remains Pakistan's economic hub.
+
+461. Tehran
+     Clue 1: A capital whose revolution changed global politics.
+     Clue 2: The 1979 Islamic Revolution transformed this Iranian city.
+
+462. Riyadh
+     Clue 1: A capital rising from the desert on oil wealth.
+     Clue 2: The Saudi royal family rules from this city.
+
+463. Doha
+     Clue 1: A city that hosted a controversial World Cup.
+     Clue 2: This Qatari capital built stadiums in the desert.
+
+464. Abu Dhabi
+     Clue 1: A capital whose wealth created islands and culture from sand.
+     Clue 2: The Louvre has a branch in this UAE city.
+
+465. Johannesburg
+     Clue 1: A city built on gold that remains Africa's economic engine.
+     Clue 2: Apartheid's end was celebrated in this South African city.
+
+466. Nairobi
+     Clue 1: A capital with a national park inside city limits.
+     Clue 2: Giraffes and lions roam within sight of this Kenyan skyline.
+
+467. Casablanca
+     Clue 1: A city whose name evokes classic film romance.
+     Clue 2: "Here's looking at you, kid" was never actually said here.
+
+468. Tunis
+     Clue 1: A capital near ancient Carthage's ruins.
+     Clue 2: The Arab Spring began near this Tunisian city.
+
+469. Algiers
+     Clue 1: A capital whose casbah became a UNESCO site.
+     Clue 2: This Algerian port faces the Mediterranean.
+
+470. Dakar
+     Clue 1: A capital at Africa's westernmost point.
+     Clue 2: The Paris-Dakar rally once ended in this Senegalese city.
+
+471. Accra
+     Clue 1: A capital where fantasy coffins celebrate the dead.
+     Clue 2: This Ghanaian city's funerals feature creative caskets.
+
+472. Kinshasa
+     Clue 1: A capital facing another capital across a river.
+     Clue 2: This Congolese city sits opposite Brazzaville.
+
+473. Lagos
+     Clue 1: A megacity whose traffic is legendarily terrible.
+     Clue 2: This Nigerian city is Africa's largest.
+
+474. Bogotá
+     Clue 1: A capital whose altitude leaves visitors breathless.
+     Clue 2: At 8,600 feet, this Colombian city sits high in the Andes.
+
+475. Medellín
+     Clue 1: A city that transformed from dangerous to innovative.
+     Clue 2: Pablo Escobar's former stronghold is now a model city.
+
+476. Quito
+     Clue 1: A capital sitting on the equator at altitude.
+     Clue 2: This Ecuadorian city's historic center is UNESCO-listed.
+
+477. La Paz
+     Clue 1: An administrative capital whose altitude is the world's highest.
+     Clue 2: At 11,900 feet, this Bolivian city takes breath away.
+
+478. Asunción
+     Clue 1: A capital whose name means "assumption."
+     Clue 2: This Paraguayan city is one of South America's oldest.
+
+479. Montevideo
+     Clue 1: A capital on the River Plate's northern shore.
+     Clue 2: This Uruguayan city hosted the first World Cup in 1930.
+
+480. Porto Alegre
+     Clue 1: A city whose name means "happy port."
+     Clue 2: This Brazilian city hosts the World Social Forum.
+
+MORE FICTIONAL PLACES
+---------------------
+
+481. Tatooine
+     Clue 1: A film planet with two suns and one very important farm boy.
+     Clue 2: Luke Skywalker grew up on this desert world.
+
+482. Pandora
+     Clue 1: A film moon whose indigenous population connected to nature.
+     Clue 2: The Na'vi defended this Avatar world from corporate invasion.
+
+483. Jurassic Park
+     Clue 1: A film attraction whose safety protocols were inadequate.
+     Clue 2: Dinosaurs ran amok on this Costa Rican island.
+
+484. Camp Crystal Lake
+     Clue 1: A film location where summer camp becomes deadly.
+     Clue 2: Jason stalks counselors at this Friday the 13th setting.
+
+485. Amity Island
+     Clue 1: A film beach town that should have closed its beaches.
+     Clue 2: A great white shark terrorized this Jaws community.
+
+486. Emerald City
+     Clue 1: A literary capital whose color comes from mandatory eyewear.
+     Clue 2: Dorothy sought this Oz destination at the end of the yellow brick road.
+
+487. Rivendell
+     Clue 1: A literary refuge where elves host weary travelers.
+     Clue 2: Elrond welcomed the Fellowship in this Tolkien valley.
+
+488. Camelot
+     Clue 1: A legendary kingdom whose round table seated noble knights.
+     Clue 2: King Arthur ruled from this mythical British court.
+
+489. Atlantis
+     Clue 1: A legendary island that sank beneath the waves.
+     Clue 2: Plato first described this lost civilization.
+
+490. El Dorado
+     Clue 1: A legendary city whose gold drove conquistadors mad.
+     Clue 2: This mythical South American kingdom was never found.
+
+491. Shangri-La
+     Clue 1: A literary utopia hidden in the Himalayas.
+     Clue 2: James Hilton created this eternal paradise in "Lost Horizon."
+
+492. Xanadu
+     Clue 1: A literary palace of pleasure and mystery.
+     Clue 2: Coleridge dreamed Kubla Khan's pleasure dome here.
+
+493. Gotham
+     Clue 1: A comic book city whose bat-signal lights troubled skies.
+     Clue 2: Batman protects this perpetually dark metropolis.
+
+494. Smallville
+     Clue 1: A comic book town where an alien crash-landed as a baby.
+     Clue 2: Clark Kent grew up in this Kansas farming community.
+
+495. Skull Island
+     Clue 1: A film island whose giant ape became legendary.
+     Clue 2: King Kong was discovered on this uncharted isle.
+
+496. Isla Nublar
+     Clue 1: A film island where extinct creatures were recreated.
+     Clue 2: Jurassic Park's dinosaurs roamed this Costa Rican island.
+
+497. Hogsmeade
+     Clue 1: A literary village where students sneak butterbeer.
+     Clue 2: This all-wizarding village sits near Hogwarts.
+
+498. Diagon Alley
+     Clue 1: A literary shopping district hidden behind a pub.
+     Clue 2: Wizards buy wands and robes on this London street.
+
+499. Platform 9¾
+     Clue 1: A literary train platform accessed through solid brick.
+     Clue 2: Hogwarts Express departs from this King's Cross location.
+
+500. Room of Requirement
+     Clue 1: A literary space that appears only when truly needed.
+     Clue 2: This Hogwarts room becomes whatever the seeker requires.
+
+==========================

@@ -1,0 +1,916 @@
+Y-AXIS CLUE CATEGORIES - PEOPLE & PLACES
+=========================================
+
+This document organizes entries by spelling/structural patterns for Y-axis clue generation.
+For People: clues like "starts with X" can refer to EITHER first OR last name.
+
+================================================================================
+ALLITERATIVE ANSWERS (First & Last Name/Both Words Start with Same Letter)
+================================================================================
+
+PEOPLE:
+- Steven Spielberg (S...S)
+- Ryan Reynolds (not in list - consider adding)
+- Marilyn Monroe (M...M) (not in list)
+- Tina Turner (T...T) (not in list)
+- Peter Parker (fictional - Spider-Man's alter ego)
+- Bruce Banner (fictional - Hulk's alter ego)
+
+Potential Y-axis clue: "Alliterative answer" or "First and last name start with same letter"
+
+================================================================================
+DOUBLE LETTERS IN ANSWER
+================================================================================
+
+PEOPLE (contains double letters like LL, SS, TT, EE, NN, PP, RR, etc.):
+- Meryl Streep (EE)
+- Scarlett Johansson (TT, SS)
+- Johnny Depp (NN, PP)
+- Sandra Bullock (LL)
+- Keanu Reeves (EE)
+- Anne Hathaway (NN)
+- Madonna (NN)
+- Freddie Mercury (DD)
+- Whitney Houston (EE) - wait, no
+- Dolly Parton (LL)
+- Bob Marley (BB)
+- Billie Eilish (LL)
+- Harry Styles (RR)
+- Britney Spears (not in list, but EE)
+- Russell Crowe (not in list, SS, LL)
+- Matthew McConaughey (TT, CC) - not in list
+- Quentin Tarantino (NN)
+- Ellen DeGeneres (LL)
+- Jimmy Fallon (MM, LL)
+- Conan O'Brien (NN)
+- Bill Gates (LL)
+- Jeff Bezos (FF)
+- Warren Buffett (RR, FF, TT)
+- Anna Wintour (NN)
+- Gianni Versace (NN)
+- Coco Chanel (CC)
+- Sally Ride (LL)
+- Buzz Aldrin (ZZ)
+- Eddie Murphy (DD)
+- Robin Williams (BB)
+- Will Ferrell (LL, RR)
+- Tiffany Haddish (FF, DD)
+- Princess Diana (SS)
+- William Shakespeare (LL)
+- Tennessee Williams (NN, SS, EE) - not in list
+- Hermann Hesse (RR, NN, SS) - not in list
+- Bennett (common in names - TT)
+
+PLACES (contains double letters):
+- Mississippi (SS, SS, PP)
+- Tennessee (NN, SS, EE)
+- Massachusetts (SS, TT)
+- Connecticut (NN, CC, TT)
+- Tallinn (LL, NN)
+- Mississippi River (SS, SS, PP)
+- Stonehenge (actually no doubles)
+- Hollywood (LL, OO)
+- Tennessee (NN, SS, EE)
+- Galilee (LL, EE) - not in list
+- Appalachian (PP)
+- Greek (EE)
+- Mississippi (SS, SS, PP)
+- Marrakech (RR)
+- Reykjavik (actually no doubles)
+- Morocco (CC)
+- Casablanca (no doubles)
+- Caribbean (BB)
+- Tallahassee (LL, SS, EE) - not in list
+- Mississauga - not in list
+
+Potential Y-axis clues:
+- "Contains double L"
+- "Contains double S"
+- "Contains double letters"
+- "Has repeated consonant"
+
+================================================================================
+STARTS AND ENDS WITH SAME LETTER
+================================================================================
+
+PEOPLE:
+- Amanda (A...a) - not in list
+- Anna Wintour (first name: A...a)
+- Oprah (O...h - no)
+- Orlando Bloom (O...m - no) - not in list
+
+Actually looking for full names that start and end with same letter:
+- Looking at last letters...
+
+Most names don't follow this pattern. Consider single-name celebrities:
+- Madonna (M...a - no)
+- Cher (C...r - no)
+- Adele (A...e - no)
+- Beyonce (B...e - no)
+- Rihanna (R...a - no)
+- Drake (D...e - no)
+- Eminem (E...m - no)
+
+This is quite rare for names.
+
+PLACES:
+- Asia (A...a) - YES
+- Africa (A...a) - YES
+- America (A...a) - YES (if used)
+- Australia (A...a) - YES
+- Austria (A...a) - YES
+- Albania (A...a) - not in list
+- Algeria (A...a) - not in main list but Algiers is
+- Antarctica (A...a) - YES
+- Alabama (A...a) - not in list
+- Alaska (A...a) - YES
+- Arizona (A...a) - YES
+- Argentina (A...a) - YES
+- Andorra (A...a) - not in list
+- Aruba (A...a) - not in list
+- Ohio (O...o) - not in list
+- Oslo (O...o) - YES
+
+Potential Y-axis clue: "Starts and ends with same letter" or "Begins and ends with A"
+
+================================================================================
+ONE-WORD ANSWERS
+================================================================================
+
+PEOPLE (single name, no spaces):
+- Beyonce (#51)
+- Madonna (#55)
+- Prince (#56)
+- Adele (#60)
+- Rihanna (#62)
+- Drake (#63)
+- Eminem (#66)
+- Shakira (#84)
+- Lizzo (#86)
+- SZA (#90)
+- Usher (#94)
+- Cher - not in list
+- Zendaya (#31)
+- Rembrandt (#356)
+- Michelangelo (#354)
+- Plato (#123, #412)
+- Aristotle (#122, #411)
+- Socrates (#124, #413)
+- Confucius (#125, #414)
+- Buddha (#126)
+- Cleopatra (#103, #409)
+- Mozart (#136)
+- Beethoven (#137)
+- Banksy (#353)
+
+PLACES (single word):
+- Paris, Tokyo, London, Rome, etc. (most cities are one word)
+- Countries: Japan, Italy, France, Brazil, etc.
+- States: California, Texas, Florida, etc.
+
+Potential Y-axis clue: "One-word answer" or "Single name/word"
+
+================================================================================
+CONTAINS LETTER Z
+================================================================================
+
+PEOPLE:
+- Zendaya (Z at start)
+- Beyonce (no Z)
+- Jeff Bezos (Z)
+- Elizabeth (if full names used) - Queen Elizabeth II (#105)
+- Liza Minnelli - not in list
+- Rihanna (no Z)
+- Fitzgerald (F. Scott Fitzgerald #235)
+- Zuckerberg (Mark Zuckerberg #204) - Z
+
+PLACES:
+- Brazil (#105)
+- Tanzania (not in main list, but referenced)
+- Zanzibar (#58)
+- Zimbabwe (referenced in Victoria Falls)
+- Arizona (#159)
+- Mozambique - not in list
+- Belize - not in list
+- Switzerland (#129)
+- New Zealand (#124)
+- Zurich - not in main list
+- Venezuela - not in list
+
+Potential Y-axis clue: "Contains the letter Z"
+
+================================================================================
+CONTAINS LETTER X
+================================================================================
+
+PEOPLE:
+- Alex Rodriguez (#188)
+- Alex Morgan (#200)
+- Alexander the Great (#117, #422)
+- Alexandria (place)
+- Malcolm X - not in list
+- Felix (PewDiePie's real name)
+- Max - various
+- Jimi Hendrix - not in list
+- Nixon - not in list
+
+PLACES:
+- Mexico (#110)
+- Mexico City (#28)
+- Texas (#152)
+- Luxembourg - not in main list but Luxembourg Gardens (#415)
+- Luxor - not in list
+- Phoenix - not in main list
+- Oxford - not in list
+
+Potential Y-axis clue: "Contains the letter X"
+
+================================================================================
+CONTAINS LETTER Q
+================================================================================
+
+PEOPLE:
+- Joaquin Phoenix (#28)
+- Quentin Tarantino (#363)
+- Queen Elizabeth II (#105)
+- Queen Victoria (#135, #407)
+
+PLACES:
+- Queenstown (#74)
+- Quito (#476)
+- Qatar - not in main list but Doha is (#463)
+- Iraq - not in list
+- Albuquerque - not in list
+
+Potential Y-axis clue: "Contains the letter Q"
+
+================================================================================
+ENDS IN "ER"
+================================================================================
+
+PEOPLE:
+- Alexander (the Great, Fleming, Graham Bell)
+- Christopher (Columbus, Nolan)
+- Jennifer (Lawrence)
+- Tyler - not many in list
+- Roger (Federer)
+- Luther (Martin Luther King Jr.)
+- Peter (the Great)
+- Usher
+- Homer - not in list
+- Jupiter - not a person
+
+PLACES:
+- Niger - not in main list
+- River names: (Amazon River, Nile River, etc. - end in "River")
+- Vancouver (#30)
+- Westminster (Abbey #185)
+
+Potential Y-axis clue: "Ends in ER"
+
+================================================================================
+ENDS IN "A"
+================================================================================
+
+PEOPLE:
+- Madonna
+- Rihanna
+- Shakira
+- Greta (Thunberg, Gerwig)
+- Viola (Davis)
+- Julia (Roberts)
+- Angelina (Jolie)
+- Christina - not many
+- Diana (Princess Diana)
+- Oprah (no, ends in H)
+- Victoria (Queen Victoria, Victoria Beckham)
+- America (Ferrera) - not in list
+- Frida (Kahlo)
+- Tesla (Nikola Tesla)
+
+PLACES:
+- Florida (#154)
+- California (#151)
+- Georgia - not in main list but Georgia O'Keeffe referenced
+- Virginia - not in list
+- Louisiana (#160)
+- Montana (#165)
+- Nevada (#158)
+- Arizona (#159)
+- Alabama - not in list
+- Alaska (#156)
+- India (#106)
+- China (#107)
+- Russia (#114)
+- Canada (#115)
+- Cuba (#140)
+- Australia (#104)
+- Austria (#130)
+- Asia (#442)
+- Africa (#443)
+- America (North/South #444, #445)
+- Antarctica (#447, #271)
+- Patagonia (#275, #220)
+- Bolivia - not in main list but La Paz is
+- Colombia (#144)
+- Venezuela - not in list
+- Austria (#130)
+- Croatia (#138)
+- Slovenia - not in main list but Ljubljana is
+- Estonia - not in main list but Tallinn is
+- Latvia - not in main list but Riga is
+- Lithuania - not in list
+- Romania - not in list
+- Bulgaria - not in list
+- Serbia - not in list
+- Albania - not in list
+- Macedonia - not in list
+- Zambia (referenced)
+- Kenya (#118)
+- Tanzania (referenced)
+- Nigeria (referenced with Lagos)
+- Ethiopia (referenced with Addis Ababa)
+- Liberia - not in list
+- Namibia - not in list
+- Gambia - not in list
+- Eritrea - not in list
+- Mauritania - not in list
+- Mongolia - not in list
+- Cambodia (referenced with Phnom Penh, Angkor)
+- Indonesia (#122)
+- Malaysia (referenced with Kuala Lumpur)
+
+Potential Y-axis clue: "Ends in A"
+
+================================================================================
+ENDS IN "Y"
+================================================================================
+
+PEOPLE:
+- Beyonce - no
+- Katy (Perry) - first name
+- Johnny (Depp) - first name ends in Y
+- Jimmy (Fallon)
+- Britney - not in list
+- Oprah - no
+- Clooney (George) - last name
+- Downey (Robert Downey Jr.) - last name
+- Disney - not a person entry
+- Hemingway (Ernest) - YES (#143)
+- Shelley - not in list
+- Kennedy (JFK) - YES (#256)
+- Romney - not in list
+- Crosby - not in list
+- Presley (Elvis) - YES (#53)
+- Marley (Bob) - YES (#73)
+- Ripley - not in list
+- Gatsby (fictional) - YES (#299)
+- Gatsby is "Jay Gatsby" so ends in Y
+- Mercury (Freddie) - YES (#58)
+
+PLACES:
+- Italy (#102)
+- Germany (#112)
+- Hungary (#137)
+- Norway (#132)
+- Turkey (#148)
+- Sicily (#252)
+- Tuscany (#278)
+- Normandy - not in list
+- Brittany - not in list
+- Kentucky - not in main list but Mammoth Cave is there
+- New Jersey - not in list
+- City names ending in Y:
+  - Sydney (#8)
+  - Vatican City (#361) - technically
+
+Potential Y-axis clue: "Ends in Y"
+
+================================================================================
+ENDS IN "N"
+================================================================================
+
+PEOPLE:
+- Washington (George, Denzel)
+- Jefferson (Thomas)
+- Jackson (Samuel L., Michael, Phil)
+- Lincoln (Abraham)
+- Franklin (Benjamin, Aretha)
+- Edison (Thomas)
+- Lennon (John)
+- Dylan (Bob)
+- Clinton (Hillary)
+- Biden (Joe)
+- Reagan (Ronald)
+- Wilson - not many
+- Colton - not many
+- Martin (Steve)
+- Newton (Isaac)
+- Darwin (Charles)
+- Einstein (Albert)
+- Mandela - no, ends in A
+- Jordan (Michael)
+- LeBron - first name ends in N
+- Hamilton (Lewis)
+- Elton (John)
+- Boston - not a person
+
+PLACES:
+- Boston (#39)
+- London (#4)
+- Berlin (#11)
+- Dublin (#45)
+- Lisbon (#43)
+- Aspen - not in list
+- Austin (#37)
+- Houston - not in main list
+- Washington D.C. (#41)
+- Oregon (#162)
+- Michigan - not in main list
+- Wisconsin - not in list
+- Asian - not a place
+- Japan (#101)
+- Taiwan - not in list
+- Bhutan - not in list
+- Jordan (country) - referenced with Amman, Petra
+- Iran (referenced with Tehran)
+- Pakistan (referenced with Lahore, Karachi)
+- Afghanistan - not in list
+- Kazakhstan - not in list
+- Uzbekistan - referenced with Samarkand
+- Turkmenistan - not in list
+
+Potential Y-axis clue: "Ends in N"
+
+================================================================================
+ENDS IN "S"
+================================================================================
+
+PEOPLE:
+- Gates (Bill)
+- Jobs (Steve)
+- Hanks (Tom)
+- Reeves (Keanu)
+- Roberts (Julia)
+- Holmes (Sherlock - fictional)
+- Adams (Amy)
+- Williams (Venus, Serena, Robin)
+- Davis (Viola)
+- Styles (Harry)
+- Jonas (Brothers) - not individual in list
+- Bridges - not in list
+- James (LeBron)
+- Dickens (Charles)
+- Burns - not in list
+- Jones (Indiana - fictional)
+- Beatles - not individual
+- Simpsons - not individual
+
+PLACES:
+- Athens (#42, #328)
+- Paris - no, ends in S!? Actually in French it's "Paree" but in English ends in S (#1)
+- Dallas - not in list
+- Las Vegas (#35)
+- Los Angeles (#5)
+- Los Santos (fictional #320)
+- Buenos Aires (#26)
+- Netherlands (#127)
+- Philippines (#123)
+- Maldives (#224)
+- Alps (#242)
+- Andes (#243)
+- Himalayas (#241)
+
+Potential Y-axis clue: "Ends in S"
+
+================================================================================
+TWO WORDS BEGINNING WITH SAME LETTER (Not names - for Places)
+================================================================================
+
+PLACES:
+- New York (N...Y - no)
+- New Orleans (N...O - no)
+- New Zealand (N...Z - no)
+- San Francisco (S...F - no)
+- San Sebastian - not in list (S...S - YES)
+- Los Angeles (L...A - no)
+- Las Vegas (L...V - no)
+- Hong Kong (H...K - no)
+- Rio de Janeiro (R...d - no)
+- Buenos Aires (B...A - no)
+- Costa Rica (C...R - no)
+- Saudi Arabia (S...A - no)
+- South Africa (S...A - no)
+- Sierra Leone - not in list (S...L - no)
+- Sri Lanka - not in list (S...L - no)
+
+This pattern is rare for places.
+
+Potential Y-axis clue: Less useful for places
+
+================================================================================
+CONTAINS A COLOR
+================================================================================
+
+PEOPLE:
+- Cate Blanchett - "blanc" means white in French, but not obvious
+- Scarlett Johansson - "Scarlet" is a color (red)
+- Ruby - not many in list
+- Rose - not many
+- Violet - not many
+- Adam Green - not in list
+- Jack Black - not in list
+- Lewis Black - not in list
+- Jack White - not in list
+- Barry White - not in list
+- Vanna White - not in list
+- Betty White - not in list
+- Shaun White (#194) - WHITE
+- Walter White (#292 - fictional) - WHITE
+- Blanche - means white
+
+PLACES:
+- Black Sea - not in main list
+- Red Sea - not in main list
+- White House - not in list
+- Blue Mosque (#189) - BLUE
+- Blue Grotto (#437) - BLUE
+- Red Square (#422) - RED
+- Greenland (#253) - GREEN
+- Black Hills (mentioned with Mount Rushmore)
+- Orange County - not in list
+- Gold Coast - not in list
+- Ivory Coast - not in list
+- White Cliffs - not in list
+- Colorado (means "colored red" in Spanish) - (#157)
+- Montenegro (means "black mountain") - referenced with Kotor
+- Golden Gate (#178, #371) - GOLDEN
+- Silver Spring - not in list
+
+Potential Y-axis clue: "Contains a color"
+
+================================================================================
+CONTAINS A COMMON NOUN
+================================================================================
+
+PEOPLE (last name is a common noun):
+- Brad Pitt (pit)
+- Tom Cruise - not in list (cruise)
+- Glenn Close - not in list (close)
+- Dwayne Johnson (#30) - JOHNSON from "john"
+- Adam Driver (#36) - DRIVER
+- Larry Bird (#175) - BIRD
+- Stephen King (#227) - KING
+- Prince (#56) - PRINCE
+- Will Smith (#14) - SMITH
+- Jack Nicholson - not in list but NICHOLSON from "Nicholas"
+- Florence Nightingale (#149) - NIGHTINGALE (bird)
+- Martin Short - not in list (short)
+- Warren Beatty - not in list
+- Rob Lowe - not in list (low)
+- Tiger Woods (#160) - WOODS (also TIGER as first name)
+- Shaun White (#194) - WHITE
+- Tony Hawk (#193) - HAWK
+- Bo Jackson (#184) - JACKSON
+- Henry Ford (#216) - FORD
+- Glenn Ford - not in list
+- Harrison Ford - not in list (FORD)
+- George Bush - not in list (BUSH)
+- Rose McGowan - not in list (ROSE)
+- Lily Collins - not in list (LILY)
+- Robert Frost (#246) - FROST
+- Jack London - not in list
+- River Phoenix - not in list (RIVER)
+- Stone Cold Steve Austin - not in list (STONE, COLD)
+
+PLACES (contains common noun):
+- New York City (#3) - CITY
+- Salt Lake City - not in list (SALT, LAKE, CITY)
+- Cape Town (#67) - CAPE, TOWN
+- Table Mountain (#249) - TABLE, MOUNTAIN
+- Lake Victoria (#235) - LAKE
+- Lake Titicaca (#236) - LAKE
+- Great Lakes (#237) - LAKES
+- Mount Everest (#199) - MOUNT
+- Mount Fuji (#205) - MOUNT
+- Mount Rushmore (#180) - MOUNT
+- Rocky Mountains (#244) - MOUNTAINS
+- Grand Canyon (#196) - CANYON
+- Central Park (#344) - PARK
+- Golden Gate Bridge (#178, #371) - GATE, BRIDGE
+- Tower Bridge (#372) - TOWER, BRIDGE
+- London Bridge (#378) - BRIDGE
+- Wall Street (#389) - WALL, STREET
+- Abbey Road (#343, #385) - ABBEY, ROAD
+- Bourbon Street (#342) - STREET
+- Fifth Avenue (#382) - AVENUE
+- Silicon Valley (#403) - VALLEY
+- Death Valley - not in main list but referenced (VALLEY)
+- Crystal Lake (Camp Crystal Lake #484 - fictional) - LAKE
+
+Potential Y-axis clue: "Contains a common noun" or "Last name is a common word"
+
+================================================================================
+CONTAINS NUMBERS (in name)
+================================================================================
+
+PEOPLE:
+- 50 Cent - not in list
+- 21 Savage - not in list
+- Adele (albums: 19, 21, 25, 30 - but name itself no number)
+- 007 (James Bond's number)
+- Eleven (#294 - fictional) - NUMBER NAME
+
+PLACES:
+- Route 66 (#384) - NUMBER
+- District 12 (#293 - fictional) - NUMBER
+- Catch-22 - not a place
+- Platform 9 3/4 (#499 - fictional) - NUMBER
+- Area 51 - not in list
+
+Potential Y-axis clue: "Contains a number"
+
+================================================================================
+STARTS WITH SPECIFIC LETTERS (organized alphabetically)
+================================================================================
+
+A:
+PEOPLE: Albert Einstein, Abraham Lincoln, Angelina Jolie, Anne Hathaway, Adam Driver, Amy Adams, Aretha Franklin, Adele, Ariana Grande, Amy Schumer, Amy Poehler, Andy Warhol, Alexander the Great, Alexander Graham Bell, Alexander Fleming, Ada Lovelace, Alan Turing, Agatha Christie, Arthur Conan Doyle, Aldous Huxley, Alexandria Ocasio-Cortez, Alex Rodriguez, Alex Morgan, Angela Davis, Angela Merkel
+
+PLACES: Amsterdam, Athens, Austin, Atlanta (not main), Amazon (River/Rainforest), Alps, Andes, Antarctica, Arctic, Asia, Africa, Australia, Austria, Argentina, Arizona, Alaska, Angkor Wat, Asgard (fictional), Abu Dhabi, Addis Ababa, Algiers, Amman, Accra, Asuncion
+
+B:
+PEOPLE: Brad Pitt, Beyonce, Bob Dylan, Bob Marley, Bruce Springsteen, Bruno Mars, Billie Eilish, Bad Bunny, Barack Obama, Bernie Sanders, Bill Gates, Bill Nye, Barbara Walters, Bob Barker, Bobby Flay, Banksy, Benedict Cumberbatch, Benjamin Franklin
+
+PLACES: Berlin, Barcelona, Bangkok, Beijing, Boston, Brussels (not main but Grand Place), Buenos Aires, Baku, Beirut, Bogota, Bora Bora, Banff, Bavaria, Brooklyn, Bikini Bottom (fictional), Babylon
+
+C:
+PEOPLE: Cate Blanchett, Chris Hemsworth, Chris Evans, Charlize Theron, Chadwick Boseman, Cardi B, Cleopatra, Charles Darwin, Christopher Columbus, Carl Sagan, Chris Rock, Chris Hadfield, Coco Chanel, Cindy Crawford, Cesar Chavez, Confucius, Carl Lewis, Conor McGregor, Carson Daly, Conan O'Brien
+
+PLACES: Cairo, Chicago, Copenhagen, Cape Town, Cusco, Cappadocia, Casablanca, Cartagena, Caribbean, Croatia, Cuba, Chile, Colombia, Costa Rica, Cyprus, Crete, Capri, Central Park, Champs-Elysees, Charles Bridge, Camp Nou
+
+D:
+PEOPLE: Denzel Washington, Daniel Day-Lewis, Dwayne Johnson, Drake, David Bowie, Dolly Parton, Dua Lipa, Doja Cat, Dave Chappelle, David Letterman, David Beckham, Danica Patrick, Desmond Tutu, Dolores Huerta, David Blaine, David Copperfield, Denis Villeneuve
+
+PLACES: Dubai, Dublin, Dubrovnik, Dakar, Danube River, Dead Sea, Denali, Disneyland, Disney World, Dam Square, Diagon Alley (fictional), District 12 (fictional)
+
+E:
+PEOPLE: Emma Stone, Elvis Presley, Eminem, Ed Sheeran, Elton John, Ellen DeGeneres, Emeril Lagasse, Ernest Hemingway, Edgar Allan Poe, Emily Dickinson, Elon Musk, Edwin Hubble, Evel Knievel
+
+PLACES: Edinburgh, Egypt, Ecuador, Easter Island, El Dorado (legendary), Emerald City (fictional), Earthsea (fictional), Europe
+
+F:
+PEOPLE: Florence Pugh, Freddie Mercury, Frank Sinatra, Florence Nightingale, Francis Crick, F. Scott Fitzgerald, Francis Ford Coppola, Frida Kahlo, Floyd Mayweather, Franklin D. Roosevelt
+
+PLACES: Florence (not main but Uffizi, Ponte Vecchio), Finland, France, Fiji, Fez, Fenway Park, Fifth Avenue, Fingal's Cave, Forbidden City
+
+G:
+PEOPLE: George Washington, Greta Thunberg, Gordon Ramsay, Guy Fieri, Gloria Steinem, Galileo Galilei, Genghis Khan, George Orwell, George R.R. Martin, Guillermo del Toro, Greta Gerwig, Gabriel Iglesias, Gisele Bundchen, Gigi Hadid, Georgia O'Keeffe
+
+PLACES: Grand Canyon, Great Wall of China, Great Barrier Reef, Galapagos Islands, Ganges River, Gobi Desert, Ghent, Gdansk, Georgetown, Gotham City (fictional), Golden Gate Bridge, Gardens by the Bay, Grand Central Terminal, Greenwich Village
+
+H:
+PEOPLE: Harry Potter (fictional), Harriet Tubman, Harry Styles, Hugh Hefner, Harry Houdini, Howard Hughes, Hank Aaron, Harvey Milk, Heidi Klum, Hillary Clinton, Henry VIII, Henry Ford
+
+PLACES: Hong Kong, Havana, Hanoi, Ha Long Bay, Himalayas, Hollywood, Hyde Park, Hawkins (fictional), Hyrule (fictional), Hogwarts (fictional), Hogsmeade (fictional), Hill Valley (fictional), Hermitage, Hagia Sophia
+
+I:
+PEOPLE: Isaac Newton, Immanuel Kant
+
+PLACES: Iceland, India, Indonesia, Ireland, Israel, Istanbul, Ibiza, Iguazu Falls, Isla Nublar (fictional)
+
+J:
+PEOPLE: Julia Roberts, Johnny Depp, Jennifer Lawrence, Joaquin Phoenix, Jake Gyllenhaal, Justin Timberlake, Justin Bieber, Jay-Z, John Lennon, Joan of Arc, Julius Caesar, Johannes Gutenberg, Jonas Salk, James Watson, J.K. Rowling, J.R.R. Tolkien, Jane Austen, Jane Goodall, Jack Dorsey, Jack Ma, Jerry Seinfeld, Jim Carrey, Jimmy Fallon, Joe Biden, Joe Montana, John F. Kennedy, John Wooden, John Locke, Jordan Peele, Jean-Michel Basquiat
+
+PLACES: Japan, Jakarta, Jaipur, Jamaica, Jerusalem, Johannesburg, JFK Airport, Jardin Majorelle, Jurassic Park (fictional)
+
+K:
+PEOPLE: Keanu Reeves, Kate Winslet, Katy Perry, Kendrick Lamar, Kanye West, Kobe Bryant, Kylie Jenner, Kim Kardashian, Karl Lagerfeld, Karlie Kloss, Kate Moss, Kate Middleton, King Charles III, Knute Rockne, Kurt Vonnegut, Karl Marx
+
+PLACES: Kyoto, Kathmandu, Kashmir, Kilimanjaro, K2, Kalahari, Kotor, Krakow, Kremlin, King's Cross Station, King's Landing (fictional), Keukenhof Gardens, Kew Gardens, Komodo Island, Kuala Lumpur, Kinshasa, Karachi
+
+L:
+PEOPLE: Leonardo DiCaprio, LeBron James, Lady Gaga, Lizzo, Lil Nas X, Larry Bird, Lewis Hamilton, Louis Pasteur, Louisa May Alcott, Logan Paul, Larry Page, Lupita Nyong'o
+
+PLACES: London, Los Angeles, Las Vegas, Lisbon, Lima, Lagos, La Paz, Luang Prabang, Ljubljana, Lombard Street, Louvre, Liberty City (fictional), Los Santos (fictional), Lake Baikal, Lake Victoria, Lake Titicaca, Luxembourg Gardens, Lourdes
+
+M:
+PEOPLE: Meryl Streep, Morgan Freeman, Margot Robbie, Michael Jordan, Muhammad Ali, Michael Jackson, Madonna, Mariah Carey, Miley Cyrus, Mia Hamm, Mike Tyson, Manny Pacquiao, Magic Johnson, Martin Luther King Jr., Marie Curie, Marco Polo, Mahatma Gandhi, Mark Twain, Maya Angelou, Malcolm X (not in list), Martha Stewart, Mark Zuckerberg, Michio Kaku, Mae Jemison, Martina Navratilova, Mother Teresa, Malala Yousafzai, Marie Antoinette, Meghan Markle, Michelangelo, Michael B. Jordan, Michael Phelps, Michael Schumacher, Martin Scorsese, MrBeast
+
+PLACES: Moscow, Mumbai, Madrid, Miami, Mexico City, Marrakech, Machu Picchu, Matterhorn, Mont Blanc, Madagascar, Malta, Mauritius, Maldives, Mojave, Mediterranean Sea, Mississippi River, Mammoth Cave, Manhattan, Montmartre, Mykonos, Mecca, Middle-earth (fictional), Mordor (fictional), Mushroom Kingdom (fictional), Metropolis (fictional), MoMA
+
+N:
+PEOPLE: Natalie Portman, Nicole Kidman, Nicki Minaj, Novak Djokovic, Naomi Campbell, Nelson Mandela, Nikola Tesla, Neil Armstrong, Neil deGrasse Tyson, Napoleon Bonaparte, Nick Saban, Nadia Comaneci
+
+PLACES: New York City, New Orleans, Nashville, Nairobi, Niagara Falls, Northern Lights, Nile River, Netherlands, Norway, New Zealand, Notre-Dame, Narnia (fictional), Neverland (fictional)
+
+O:
+PEOPLE: Oprah Winfrey, Oscar Isaac, Oscar Wilde
+
+PLACES: Oslo, Osaka, Oxford (not main), Oceania (fictional - Orwell's 1984)
+
+P:
+PEOPLE: Pedro Pascal, Prince, Post Malone, Peyton Manning, Pablo Picasso, Pablo Escobar, Pat Summitt, Phil Jackson, Philip K. Dick, Peter the Great, Princess Diana, Prince William, Prince Harry, Prince Charles, Pope Francis, PewDiePie, Paul McCartney (not in list)
+
+PLACES: Paris, Prague, Philadelphia, Portland (not main), Petra, Peru, Portugal, Poland, Patagonia, Pacific Ocean, Panama, Plitvice Lakes, Provence, Porto, Pompeii, Parthenon, Palace of Versailles, Prado, Piazza San Marco, Ponte Vecchio, Piccadilly Circus, Penn Station, Pandora (fictional), Pawnee (fictional), Platform 9 3/4 (fictional)
+
+Q:
+PEOPLE: Queen Elizabeth II, Queen Victoria, Quentin Tarantino
+
+PLACES: Queenstown, Quito
+
+R:
+PEOPLE: Robert Downey Jr., Ryan Gosling, Rachel McAdams, Rami Malek, Robert Pattinson, Rihanna, Roger Federer, Rafael Nadal, Ronda Rousey, Rosa Parks, Ronald Reagan, Richard Branson, Reed Hastings, Richard Feynman, Ray Bradbury, Robert Frost, Robin Williams, Rosalind Franklin, Rembrandt, Red Auerbach, Rupert Murdoch, Ralph Lauren, Roald Amundsen, Rene Descartes
+
+PLACES: Rome, Rio de Janeiro, Reykjavik, Riga, Russia, Riyadh, Route 66, Rialto Bridge, Red Square, Rapture (fictional), Raccoon City (fictional), Rivendell (fictional), Room of Requirement (fictional)
+
+S:
+PEOPLE: Scarlett Johansson, Samuel L. Jackson, Sandra Bullock, Saoirse Ronan, Serena Williams, Shakira, SZA, Stephen Curry, Shaquille O'Neal, Simone Biles, Steve Jobs, Stephen Hawking, Stephen King, Sylvia Plath, Susan B. Anthony, Sigmund Freud, Salvador Dali, Steven Spielberg, Stanley Kubrick, Spike Lee, Seth Rogen, Steve Martin, Sheryl Sandberg, Sergey Brin, Sally Ride, Scott Kelly, Shaun White
+
+PLACES: Sydney, Singapore, Seoul, Shanghai, San Francisco, Seattle, Stockholm, St. Petersburg, Stonehenge, Sahara, Serengeti, Santorini, Sicily, Sardinia, Split, Seville, Switzerland, Sweden, Spain, South Africa, Siberia, Shibuya, Soho, Silicon Valley, Smithsonian, St. Peter's Basilica, Sistine Chapel, Sagrada Familia, Sydney Harbour Bridge, Sunset Boulevard, Stars Hollow (fictional), Springfield (fictional), Sunnydale (fictional), Silent Hill (fictional), Smallville (fictional), Shire (fictional), Shangri-La (fictional), Skull Island (fictional)
+
+T:
+PEOPLE: Tom Hanks, Timothee Chalamet, Taylor Swift, The Weeknd, Travis Scott, Tiger Woods, Tom Brady, Tony Hawk, Tina Fey, Tiffany Haddish, Tyra Banks, Tim Berners-Lee, Thomas Edison, Thomas Jefferson, Theodore Roosevelt, Temple Grandin, Toni Morrison
+
+PLACES: Tokyo, Toronto, Tel Aviv, Tbilisi, Tehran, Tunis, Tallinn, Tuscany, Tibet, Table Mountain, Taj Mahal, Thames River, Tiananmen Square, Times Square, Tower of London, Tower Bridge, Trafalgar Square, Tuileries Garden, Tamriel (fictional), Tatooine (fictional), Troy
+
+U:
+PEOPLE: Usain Bolt, Usher
+
+PLACES: Uluru, United Kingdom, Universal Studios
+
+V:
+PEOPLE: Viola Davis, Venus Williams, Vincent van Gogh, Virginia Woolf, Vince Lombardi, Victoria Beckham, Vera Wang, Vladimir Putin
+
+PLACES: Venice, Vienna, Vancouver, Vatican City, Varanasi, Versailles, Victoria Falls, Vice City (fictional)
+
+W:
+PEOPLE: Will Smith, Whitney Houston, Wayne Gretzky, Willie Mays, Warren Buffett, Wolfgang Puck, Walt Whitman, William Shakespeare, Walter White (fictional), Willy Wonka (fictional), Winnie the Pooh (fictional), Wonder Woman (fictional), Wolverine (fictional)
+
+PLACES: Washington D.C., Wembley Stadium, Wall Street, Western Wall, Westeros (fictional), Wakanda (fictional), Winterfell (fictional), Wisteria Lane (fictional), Waitomo Caves, Wonderland (fictional)
+
+X:
+PEOPLE: (Very rare - mostly in last names like Alex)
+
+PLACES: Xanadu (fictional)
+
+Y:
+PEOPLE: Yuri Gagarin
+
+PLACES: Yellowstone, Yosemite, Yangtze River, Yangon, Yerevan
+
+Z:
+PEOPLE: Zendaya
+
+PLACES: Zanzibar, Zhangjiajie, Zion National Park, Zocalo
+
+Potential Y-axis clue: "Starts with [letter]"
+
+================================================================================
+PALINDROME NAMES
+================================================================================
+
+PEOPLE:
+- Hannah - not in list as a main person
+- Bob (Dylan, Marley, Barker) - first name only
+- Otto - not many
+- Ava - not many in list
+- Elle - not many
+- Emme - not many
+
+PLACES:
+- None found that are true palindromes
+
+Potential Y-axis clue: "First name is a palindrome" (very limited use)
+
+================================================================================
+RHYMES WITH COMMON WORDS
+================================================================================
+
+PEOPLE (last names that rhyme):
+- Pitt rhymes with "hit," "sit," "bit"
+- King rhymes with "ring," "sing," "thing"
+- Stone rhymes with "bone," "phone," "tone" (Emma Stone)
+- White rhymes with "night," "light," "right"
+- Bird rhymes with "word," "heard," "third"
+- Ford rhymes with "word," "sword," "board"
+- Moore rhymes with "more," "door," "floor" - not in list
+- Lee rhymes with "free," "see," "tree" (Spike Lee)
+
+PLACES:
+- France rhymes with "dance," "chance"
+- Spain rhymes with "rain," "plain," "train"
+- Rome rhymes with "home," "dome"
+- Peru rhymes with "true," "blue," "new"
+- Chile rhymes with "really," "freely" (sort of)
+- Maine rhymes with "rain," "train" - not in list
+- Greece rhymes with "peace," "lease"
+
+Potential Y-axis clue: "Rhymes with [word]"
+
+================================================================================
+THREE OR MORE WORD ANSWERS
+================================================================================
+
+PEOPLE:
+- Leonardo DiCaprio (3 words if you count di as separate - typically 2)
+- Robert Downey Jr. (3)
+- Samuel L. Jackson (3)
+- Martin Luther King Jr. (4)
+- John F. Kennedy (3)
+- Franklin D. Roosevelt (3)
+- George R.R. Martin (technically 4 with initials)
+- J.R.R. Tolkien (technically 2 with initials)
+- Neil deGrasse Tyson (3)
+- Alexandria Ocasio-Cortez (2, hyphenated last)
+- Captain Jack Sparrow (3 - fictional)
+- Sonic the Hedgehog (3 - fictional)
+- Geralt of Rivia (3 - fictional)
+
+PLACES:
+- New York City (3)
+- Los Angeles (2)
+- Rio de Janeiro (3)
+- Ho Chi Minh City (4)
+- Salt Lake City - not in main list (3)
+- St. Petersburg (2)
+- Buenos Aires (2)
+- Costa Rica (2)
+- South Africa (2)
+- New Zealand (2)
+- United Kingdom (2)
+- Great Wall of China (4)
+- Statue of Liberty (3)
+- Christ the Redeemer (3)
+- Leaning Tower of Pisa (4)
+- Sydney Opera House (3)
+- Notre-Dame Cathedral (2)
+- Tower of London (3)
+- Palace of Versailles (3)
+- Great Barrier Reef (3)
+- Northern Lights (2)
+- Amazon Rainforest (2)
+- Mount Rushmore (2)
+- Golden Gate Bridge (3)
+- Central Park (2)
+- Times Square (2)
+- Red Square (2)
+
+Potential Y-axis clue: "Three-word answer" or "Four-word answer"
+
+================================================================================
+ADDITIONAL USEFUL CATEGORIES
+================================================================================
+
+HYPHENATED NAMES:
+PEOPLE:
+- Samuel L. Jackson (initial, not hyphen)
+- Jean-Michel Basquiat (hyphenated)
+- Ocasio-Cortez (hyphenated)
+- Mary-Kate Olsen - not in list
+
+PLACES:
+- Notre-Dame (#184, #370)
+
+NAMES WITH APOSTROPHES:
+PEOPLE:
+- Conan O'Brien
+- Shaquille O'Neal
+- Georgia O'Keeffe
+
+PLACES:
+- Côte d'Ivoire - not in list
+
+NAMES WITH "THE":
+PEOPLE:
+- The Weeknd
+
+PLACES:
+- The Netherlands (#127)
+- The Bahamas - not in main list
+- The Maldives (#224)
+
+================================================================================
+SUMMARY: MOST USEFUL Y-AXIS CLUE CATEGORIES
+================================================================================
+
+HIGH YIELD (Many entries fit):
+1. "Starts with [A-Z]" - universally applicable
+2. "Ends in [A/Y/N/S/ER]" - many options
+3. "Contains double letters" - many options
+4. "One-word answer" - good for musicians, single-name celebrities, most cities
+5. "Contains the letter [Z/X/Q]" - rare letters make interesting clues
+
+MEDIUM YIELD:
+6. "Starts and ends with same letter" - works well for places ending in A
+7. "Contains a color" - limited but interesting
+8. "Contains a common noun" - many last names work
+9. "Three-word answer" - works for formal names and places
+
+LOW YIELD (But interesting when applicable):
+10. "Alliterative answer" - very few fit
+11. "Palindrome name" - almost none
+12. "Rhymes with [word]" - requires creative pairing
+13. "Contains a number" - very few
+
+================================================================================

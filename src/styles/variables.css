@@ -24,11 +24,21 @@
   --color-text-primary: #2D2D2D;
   --color-text-secondary: #6B6B6B;
   --color-text-muted: #9B9B9B;
+  --color-accent-brown: #5D4037;
   --color-border: #E0E0E0;
   --color-border-dark: #CCCCCC;
 
+  /* Header banner */
+  --color-header-banner: #C41E3A;
+  --color-header-banner-dark: #9B1B2F;
+
   /* Typography */
   --font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+  --font-family-people: 'Pacifico', cursive;
+  --font-family-places: 'Vignettic', 'Playfair Display', serif;
+  --font-family-things: 'Adelia', 'Permanent Marker', cursive;
+  --font-family-tagline: 'Pacifico', cursive;
+  --font-family-puzzle-number: 'Nunito Sans', 'Segoe UI', system-ui, sans-serif;
 
   --font-size-xs: 0.75rem;    /* 12px */
   --font-size-sm: 0.875rem;   /* 14px */
@@ -73,9 +83,30 @@
   /* Grid */
   --cell-size: 170px;
   --cell-size-mobile: 110px;
-  --cell-height-mobile: 185px;
+  --cell-height-mobile: 192px;
   --grid-gap: 8px;
+  --grid-gap-mobile: 4px;
+  --row-label-width: 120px;
+  --row-label-width-mobile: 70px;
+  --ribbon-darkened-side-width: 8px;
+  --ribbon-darkened-side-width-mobile: 5px;
   --header-height: 48px;
+
+  /* Category font sizes */
+  --font-size-category-people: calc(var(--font-size-lg) + 2px);
+  --font-size-category-places: calc(var(--font-size-lg) + 6px);
+  --font-size-category-things: calc(var(--font-size-lg) + 2px);
+  --font-size-category-people-mobile: calc(var(--font-size-md) + 1px);
+  --font-size-category-places-mobile: calc(var(--font-size-md) + 4px);
+  --font-size-category-things-mobile: calc(var(--font-size-md) + 1px);
+
+  /* Header word font sizes */
+  --font-size-header-people: 1.25em;
+  --font-size-header-places: 1.45em;
+  --font-size-header-things: 1.25em;
+  --font-size-header-people-mobile: 1.15em;
+  --font-size-header-places-mobile: 1.35em;
+  --font-size-header-things-mobile: 1.15em;
 }
 
 /* Dark mode support (optional, for future) */
