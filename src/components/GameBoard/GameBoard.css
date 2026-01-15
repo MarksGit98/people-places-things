@@ -58,44 +58,48 @@
   border-radius: 0 var(--radius-lg) var(--radius-lg) 0;
 }
 
-/* People - Purple banner */
+/* People - Pink/Magenta banner */
 .game-board__column-header--people {
   font-family: var(--font-family-people);
   font-weight: normal;
   font-size: var(--font-size-category-people);
-  background: var(--color-people);
+  background: var(--color-people-dark);
+  -webkit-text-stroke: 1px var(--color-people);
+  text-stroke: 1px var(--color-people);
 }
 
 .game-board__column-header--people::before,
 .game-board__column-header--people::after {
-  background: var(--color-people-dark);
+  background: var(--color-people-darker);
 }
 
-/* Places - Teal banner */
+/* Places - Blue banner */
 .game-board__column-header--places {
   font-family: var(--font-family-places);
   font-size: var(--font-size-category-places);
-  background: var(--color-places);
-  /* Vignettic font has high vertical metrics - adjust to visually center */
+  background: var(--color-places-dark);
+  -webkit-text-stroke: 1px var(--color-places);
+  text-stroke: 1px var(--color-places);
   line-height: 1;
-  padding-bottom: 4px;
 }
 
 .game-board__column-header--places::before,
 .game-board__column-header--places::after {
-  background: var(--color-places-dark);
+  background: var(--color-places-darker);
 }
 
-/* Things - Orange banner */
+/* Things - Orange/Gold banner */
 .game-board__column-header--things {
   font-family: var(--font-family-things);
   font-size: var(--font-size-category-things);
-  background: var(--color-things);
+  background: var(--color-things-dark);
+  -webkit-text-stroke: 1px var(--color-things);
+  text-stroke: 1px var(--color-things);
 }
 
 .game-board__column-header--things::before,
 .game-board__column-header--things::after {
-  background: var(--color-things-dark);
+  background: var(--color-things-darker);
 }
 
 .game-board__row {
@@ -115,7 +119,7 @@
 
 .game-board__constraint {
   font-size: var(--font-size-sm);
-  color: var(--color-text-primary);
+  color: var(--color-clue-text);
   text-align: center;
   line-height: var(--line-height-tight);
   font-style: italic;

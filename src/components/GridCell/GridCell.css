@@ -53,17 +53,17 @@
 /* Column-specific styling */
 .grid-cell--people .grid-cell__front {
   border-color: var(--color-people-light);
-  background: linear-gradient(135deg, var(--color-surface) 0%, rgba(155, 126, 217, 0.1) 100%);
+  background: linear-gradient(135deg, var(--color-surface) 0%, rgba(219, 113, 173, 0.15) 100%);
 }
 
 .grid-cell--places .grid-cell__front {
   border-color: var(--color-places-light);
-  background: linear-gradient(135deg, var(--color-surface) 0%, rgba(78, 173, 197, 0.1) 100%);
+  background: linear-gradient(135deg, var(--color-surface) 0%, rgba(127, 196, 250, 0.15) 100%);
 }
 
 .grid-cell--things .grid-cell__front {
   border-color: var(--color-things-light);
-  background: linear-gradient(135deg, var(--color-surface) 0%, rgba(232, 169, 70, 0.1) 100%);
+  background: linear-gradient(135deg, var(--color-surface) 0%, rgba(244, 185, 81, 0.15) 100%);
 }
 
 .grid-cell__back {
@@ -156,14 +156,14 @@
 .grid-cell__clue {
   font-family: 'Noto Sans', sans-serif;
   font-size: 10px;
-  color: var(--color-text-primary);
+  color: var(--color-clue-text);
   text-align: left;
   line-height: 1.25;
   margin: 0;
 }
 
 .grid-cell__clue--second {
-  color: var(--color-text-primary);
+  color: var(--color-clue-text);
 }
 
 .grid-cell__clue--placeholder {

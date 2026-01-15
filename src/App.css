@@ -9,7 +9,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: var(--spacing-md);
+  padding: var(--spacing-xs) var(--spacing-md) var(--spacing-md);
 }
 
 .app__puzzle-number {
@@ -109,7 +109,7 @@
 
 @media (max-width: 600px) {
   .app__main {
-    padding: var(--spacing-sm);
+    padding: var(--spacing-xs) var(--spacing-sm) var(--spacing-sm);
   }
 
   .app__puzzle-number {

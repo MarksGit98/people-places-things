@@ -1,16 +1,22 @@
 :root {
   /* Colors - Column themes */
-  --color-people: #9B7ED9;
-  --color-people-light: #C4B3E8;
-  --color-people-dark: #7B5EBF;
+  /* People - Pink/Magenta */
+  --color-people: #db71ad;
+  --color-people-light: #edb0cf;
+  --color-people-dark: #b423a5;
+  --color-people-darker: #8a1b80;
 
-  --color-places: #4EADC5;
-  --color-places-light: #7FC5D6;
-  --color-places-dark: #3A8FA5;
+  /* Places - Blue */
+  --color-places: #7fc4fa;
+  --color-places-light: #b3dcfc;
+  --color-places-dark: #1879c1;
+  --color-places-darker: #125a91;
 
-  --color-things: #E8A946;
-  --color-things-light: #F0C478;
-  --color-things-dark: #C98F2D;
+  /* Things - Orange/Gold */
+  --color-things: #f4b951;
+  --color-things-light: #f8d396;
+  --color-things-dark: #c88817;
+  --color-things-darker: #976611;
 
   /* Result colors */
   --color-correct-1: #6AAA64;  /* Green - 1 guess */
@@ -24,6 +30,7 @@
   --color-text-primary: #2D2D2D;
   --color-text-secondary: #6B6B6B;
   --color-text-muted: #9B9B9B;
+  --color-clue-text: #2f2e27;
   --color-accent-brown: #5D4037;
   --color-border: #E0E0E0;
   --color-border-dark: #CCCCCC;
@@ -35,7 +42,7 @@
   /* Typography */
   --font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
   --font-family-people: 'Pacifico', cursive;
-  --font-family-places: 'Vignettic', 'Playfair Display', serif;
+  --font-family-places: 'Star Avenue', 'Playfair Display', serif;
   --font-family-things: 'Adelia', 'Permanent Marker', cursive;
   --font-family-tagline: 'Pacifico', cursive;
   --font-family-puzzle-number: 'Nunito Sans', 'Segoe UI', system-ui, sans-serif;
@@ -93,12 +100,12 @@
   --header-height: 48px;
 
   /* Category font sizes */
-  --font-size-category-people: calc(var(--font-size-lg) + 2px);
+  --font-size-category-people: calc(var(--font-size-lg) + 4px);
   --font-size-category-places: calc(var(--font-size-lg) + 6px);
-  --font-size-category-things: calc(var(--font-size-lg) + 2px);
-  --font-size-category-people-mobile: calc(var(--font-size-md) + 1px);
+  --font-size-category-things: var(--font-size-lg);
+  --font-size-category-people-mobile: calc(var(--font-size-md) + 3px);
   --font-size-category-places-mobile: calc(var(--font-size-md) + 4px);
-  --font-size-category-things-mobile: calc(var(--font-size-md) + 1px);
+  --font-size-category-things-mobile: var(--font-size-md);
 
   /* Header word font sizes */
   --font-size-header-people: 1.25em;

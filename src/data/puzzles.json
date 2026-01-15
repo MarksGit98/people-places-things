@@ -344,7 +344,7 @@
           "cells": [
             { "category": "people", "clue": "The gravely-voiced man who beautifully serenaded our Wonderful World", "clue2": "<i>Satchmo's</i> horn spoke what his voice couldn't always say", "answer": "Louis Armstrong", "acceptableAnswers": ["Armstrong"], "imageUrl": "" },
             { "category": "places", "clue": "Where the guys featured on the money stare stoically into the distance", "clue2": "Gutzon Borglum's granite masterpiece depicting four American mugs", "answer": "Mount Rushmore", "acceptableAnswers": ["Rushmore", "Mt Rushmore"], "imageUrl": "" },
-            { "category": "things", "clue": "Victorian timekeeper that watches the sand run out on your productivity", "clue2": "Twin-bulbed glass vessel that measures time in granules", "answer": "Hourglass", "imageUrl": "" }
+            { "category": "things", "clue": "Victorian timekeeper that watches the sand run out on your productivity", "clue2": "Twin-bulbed vessel that measures time in granules", "answer": "Hourglass", "imageUrl": "" }
           ]
         },
         {
