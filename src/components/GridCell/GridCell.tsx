@@ -1,6 +1,35 @@
 import { useState, useRef, useEffect } from 'react';
+import type { ReactNode } from 'react';
 import type { Cell, CellState, ColumnType } from '../../types';
 import './GridCell.css';
+
+/**
+ * Parses text containing <i> tags and returns React elements with italic styling
+ */
+function parseClueText(text: string): ReactNode {
+  const parts: ReactNode[] = [];
+  const regex = /<i>(.*?)<\/i>/gi;
+  let lastIndex = 0;
+  let match;
+  let key = 0;
+
+  while ((match = regex.exec(text)) !== null) {
+    // Add text before the match
+    if (match.index > lastIndex) {
+      parts.push(text.slice(lastIndex, match.index));
+    }
+    // Add the italic text
+    parts.push(<i key={key++}>{match[1]}</i>);
+    lastIndex = regex.lastIndex;
+  }
+
+  // Add remaining text after last match
+  if (lastIndex < text.length) {
+    parts.push(text.slice(lastIndex));
+  }
+
+  return parts.length > 0 ? parts : text;
+}
 
 interface GridCellProps {
   cell: Cell;
@@ -14,7 +43,14 @@ export function GridCell({ cell, cellState, columnType, onGuess, disabled }: Gri
   const [inputValue, setInputValue] = useState('');
   const [isFlipped, setIsFlipped] = useState(false);
   const [showIncorrect, setShowIncorrect] = useState(false);
+  const [isMobile, setIsMobile] = useState(window.innerWidth <= 600);
   const inputRef = useRef<HTMLInputElement>(null);
+
+  useEffect(() => {
+    const handleResize = () => setIsMobile(window.innerWidth <= 600);
+    window.addEventListener('resize', handleResize);
+    return () => window.removeEventListener('resize', handleResize);
+  }, []);
 
   const isComplete = cellState.status === 'correct' || cellState.status === 'incorrect';
 
@@ -84,9 +120,9 @@ export function GridCell({ cell, cellState, columnType, onGuess, disabled }: Gri
             <p className="grid-cell__clue-title">Clues</p>
             <div className="grid-cell__clue-divider"></div>
             <div className="grid-cell__clues">
-              <p className="grid-cell__clue">1. {cell.clue}</p>
+              <p className="grid-cell__clue">1. {parseClueText(cell.clue)}</p>
               {showSecondClue ? (
-                <p className="grid-cell__clue grid-cell__clue--second">2. {cell.clue2}</p>
+                <p className="grid-cell__clue grid-cell__clue--second">2. {parseClueText(cell.clue2)}</p>
               ) : (
                 <p className="grid-cell__clue grid-cell__clue--placeholder">2. Guess to reveal second clue</p>
               )}
@@ -100,7 +136,7 @@ export function GridCell({ cell, cellState, columnType, onGuess, disabled }: Gri
                 type="text"
                 value={inputValue}
                 onChange={(e) => setInputValue(e.target.value)}
-                placeholder="Guess here..."
+                placeholder={isMobile ? "Guess..." : "Guess here..."}
                 className="grid-cell__input"
                 disabled={disabled}
                 autoComplete="off"

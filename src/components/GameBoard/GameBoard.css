@@ -63,43 +63,37 @@
   font-family: var(--font-family-people);
   font-weight: normal;
   font-size: var(--font-size-category-people);
-  background: var(--color-people-dark);
-  -webkit-text-stroke: 1px var(--color-people);
-  text-stroke: 1px var(--color-people);
+  background: var(--color-people);
 }
 
 .game-board__column-header--people::before,
 .game-board__column-header--people::after {
-  background: var(--color-people-darker);
+  background: var(--color-people-dark);
 }
 
 /* Places - Blue banner */
 .game-board__column-header--places {
   font-family: var(--font-family-places);
   font-size: var(--font-size-category-places);
-  background: var(--color-places-dark);
-  -webkit-text-stroke: 1px var(--color-places);
-  text-stroke: 1px var(--color-places);
+  background: var(--color-places);
   line-height: 1;
 }
 
 .game-board__column-header--places::before,
 .game-board__column-header--places::after {
-  background: var(--color-places-darker);
+  background: var(--color-places-dark);
 }
 
 /* Things - Orange/Gold banner */
 .game-board__column-header--things {
   font-family: var(--font-family-things);
   font-size: var(--font-size-category-things);
-  background: var(--color-things-dark);
-  -webkit-text-stroke: 1px var(--color-things);
-  text-stroke: 1px var(--color-things);
+  background: var(--color-things);
 }
 
 .game-board__column-header--things::before,
 .game-board__column-header--things::after {
-  background: var(--color-things-darker);
+  background: var(--color-things-dark);
 }
 
 .game-board__row {
@@ -134,7 +128,8 @@
   .game-board {
     padding: var(--spacing-xs) var(--spacing-sm) var(--spacing-sm);
     gap: var(--grid-gap-mobile);
-    transform: translateX(calc(-1 * var(--row-label-width-mobile) / 2));
+    /* Reduced offset to prevent y-axis clues from being cut off */
+    transform: translateX(calc(-1 * var(--row-label-width-mobile) / 4));
   }
 
   .game-board__header {

@@ -21,9 +21,14 @@
   margin-bottom: 2px;
 }
 
-/* Dev reset button - remove for production */
-.app__reset-btn {
+/* Dev buttons - remove for production */
+.app__dev-buttons {
+  display: flex;
+  gap: var(--spacing-sm);
   margin-top: var(--spacing-xl);
+}
+
+.app__reset-btn {
   padding: var(--spacing-xs) var(--spacing-md);
   font-size: var(--font-size-xs);
   color: var(--color-text-muted);
@@ -38,6 +43,12 @@
   color: var(--color-incorrect);
   border-color: var(--color-incorrect);
   background-color: rgba(220, 53, 69, 0.05);
+}
+
+.app__dev-info {
+  margin-top: var(--spacing-xs);
+  font-size: var(--font-size-xs);
+  color: var(--color-text-muted);
 }
 
 .app__complete-banner {

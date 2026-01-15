@@ -1,6 +1,6 @@
 .header {
   text-align: center;
-  padding: var(--spacing-sm) var(--spacing-md) 0;
+  padding: calc(var(--spacing-sm) + 4px) var(--spacing-md) 0;
   background-color: var(--color-background);
 }
 
@@ -16,7 +16,7 @@
   font-size: var(--font-size-xs);
   color: var(--color-accent-brown);
   font-style: italic;
-  margin-top: var(--spacing-xs);
+  margin-top: 2px;
   margin-bottom: 0;
   letter-spacing: 0.5px;
 }
@@ -31,7 +31,7 @@
 
 @media (max-width: 600px) {
   .header {
-    padding: var(--spacing-xs) var(--spacing-sm) 0;
+    padding: calc(var(--spacing-xs) + 4px) var(--spacing-sm) 0;
   }
 
   .header__banner-image {

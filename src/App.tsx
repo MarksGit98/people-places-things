@@ -1,19 +1,29 @@
 import { useState, useEffect, useRef } from 'react';
 import { Header, GameBoard, ResultsModal, HowToPlay } from './components';
 import { useGameState } from './hooks/useGameState';
-import { getDailyPuzzle } from './utils/getDailyPuzzle';
 import puzzleData from './data/puzzles.json';
-import type { PuzzleData } from './types';
+import type { PuzzleData, Puzzle } from './types';
 import './App.css';
 
 // Game URL for sharing - update this when you deploy
 const GAME_URL = 'https://people-places-things.vercel.app';
 
+// Dev: get puzzle by index for testing
+function getPuzzleByIndex(data: PuzzleData, index: number): Puzzle {
+  const puzzleJson = data.puzzles[index];
+  return {
+    ...puzzleJson,
+    id: index + 1,
+  };
+}
+
 function App() {
-  const puzzle = getDailyPuzzle(puzzleData as PuzzleData);
+  const [puzzleIndex, setPuzzleIndex] = useState(0);
+  const puzzle = getPuzzleByIndex(puzzleData as PuzzleData, puzzleIndex);
   const { gameState, handleGuess, getShareResult } = useGameState(puzzle);
   const [showResults, setShowResults] = useState(false);
   const hasShownResults = useRef(false);
+  const totalPuzzles = (puzzleData as PuzzleData).puzzles.length;
 
   // Show results modal when game is complete
   const isComplete = gameState.gameStatus === 'completed';
@@ -34,6 +44,20 @@ function App() {
     window.location.reload();
   };
 
+  const handleNextPuzzle = () => {
+    localStorage.removeItem('ppt-game-state');
+    setPuzzleIndex((prev) => (prev + 1) % totalPuzzles);
+    hasShownResults.current = false;
+    setShowResults(false);
+  };
+
+  const handlePrevPuzzle = () => {
+    localStorage.removeItem('ppt-game-state');
+    setPuzzleIndex((prev) => (prev - 1 + totalPuzzles) % totalPuzzles);
+    hasShownResults.current = false;
+    setShowResults(false);
+  };
+
   return (
     <div className="app">
       <Header />
@@ -48,10 +72,19 @@ function App() {
 
         <HowToPlay />
 
-        {/* Dev reset button - remove for production */}
-        <button className="app__reset-btn" onClick={handleReset}>
-          Reset Puzzle
-        </button>
+        {/* Dev buttons - remove for production */}
+        <div className="app__dev-buttons">
+          <button className="app__reset-btn" onClick={handlePrevPuzzle}>
+            Prev Puzzle
+          </button>
+          <button className="app__reset-btn" onClick={handleReset}>
+            Reset Puzzle
+          </button>
+          <button className="app__reset-btn" onClick={handleNextPuzzle}>
+            Next Puzzle
+          </button>
+        </div>
+        <p className="app__dev-info">Puzzle {puzzleIndex + 1} of {totalPuzzles}</p>
       </main>
 
       <footer className="app__footer">

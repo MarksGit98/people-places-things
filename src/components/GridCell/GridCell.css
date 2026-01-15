@@ -390,17 +390,19 @@
     gap: 3px;
   }
 
+  .grid-cell__form {
+    width: 100%;
+  }
+
   .grid-cell__input {
-    padding: 4px 6px;
-    /* 16px minimum prevents iOS auto-zoom on focus */
+    width: 100%;
+    padding: 8px 10px;
     font-size: 16px;
+    border-radius: var(--radius-md);
   }
 
   .grid-cell__submit {
-    padding: 4px 8px;
-    font-size: 11px;
-    min-height: 26px;
-    min-width: 34px;
+    display: none;
   }
 
   .grid-cell__answer-text {
