@@ -144,17 +144,19 @@ export function CardOverlay({ cell, cellState, columnType, onGuess, onClose, dis
         >
           {/* Front of card */}
           <div className={`card-overlay__front ${isComplete ? `front--${getResultColor()}` : ''}`}>
-            {/* Close button - front */}
-            <button
-              className="card-overlay__close"
-              onClick={(e) => { e.stopPropagation(); onClose(); }}
-              aria-label="Close"
-            >
-              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
-                <line x1="18" y1="6" x2="6" y2="18" />
-                <line x1="6" y1="6" x2="18" y2="18" />
-              </svg>
-            </button>
+            {/* Close button - front (only on answered cards) */}
+            {isComplete && (
+              <button
+                className="card-overlay__close"
+                onClick={(e) => { e.stopPropagation(); onClose(); }}
+                aria-label="Close"
+              >
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
+                  <line x1="18" y1="6" x2="6" y2="18" />
+                  <line x1="6" y1="6" x2="18" y2="18" />
+                </svg>
+              </button>
+            )}
             {isComplete && (
               <div className={`card-overlay__result-indicator card-overlay__result-indicator--front ${getResultColor()}`}>
                 {cellState.status === 'correct' ? (
