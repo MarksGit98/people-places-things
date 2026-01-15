@@ -36,15 +36,18 @@ interface GridCellProps {
   cellState: CellState;
   columnType: ColumnType;
   onGuess: (guess: string) => void;
+  onOpenOverlay?: () => void;
   disabled?: boolean;
 }
 
-export function GridCell({ cell, cellState, columnType, onGuess, disabled }: GridCellProps) {
+export function GridCell({ cell, cellState, columnType, onGuess, onOpenOverlay, disabled }: GridCellProps) {
   const [inputValue, setInputValue] = useState('');
   const [isFlipped, setIsFlipped] = useState(false);
   const [showIncorrect, setShowIncorrect] = useState(false);
   const [isMobile, setIsMobile] = useState(window.innerWidth <= 600);
   const inputRef = useRef<HTMLInputElement>(null);
+  const longPressTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const isLongPress = useRef(false);
 
   useEffect(() => {
     const handleResize = () => setIsMobile(window.innerWidth <= 600);
@@ -86,17 +89,49 @@ export function GridCell({ cell, cellState, columnType, onGuess, disabled }: Gri
   // Show second clue after first wrong guess, or when reviewing completed cell
   const showSecondClue = cellState.guesses.length >= 1;
 
-  // Allow clicking to flip back and view clues on completed cells
+  // On mobile: single tap opens overlay, long press flips card
+  // On desktop: single click flips card
   const handleCardClick = () => {
-    if (isComplete) {
+    // Don't handle click if this was a long press
+    if (isLongPress.current) {
+      isLongPress.current = false;
+      return;
+    }
+
+    if (isMobile && onOpenOverlay) {
+      // On mobile, single tap opens the overlay
+      onOpenOverlay();
+    } else if (isComplete) {
+      // On desktop, or if no overlay handler, flip the card
       setIsFlipped(!isFlipped);
+    }
+  };
+
+  // Long press handler for mobile - alternative way to flip card
+  const handleTouchStart = () => {
+    if (!isComplete || !isMobile) return;
+
+    isLongPress.current = false;
+    longPressTimer.current = setTimeout(() => {
+      isLongPress.current = true;
+      setIsFlipped(!isFlipped);
+    }, 500);
+  };
+
+  const handleTouchEnd = () => {
+    if (longPressTimer.current) {
+      clearTimeout(longPressTimer.current);
+      longPressTimer.current = null;
     }
   };
 
   return (
     <div
-      className={`grid-cell grid-cell--${columnType} ${isFlipped ? 'grid-cell--flipped' : ''} ${showIncorrect ? 'grid-cell--shake' : ''} ${isComplete ? 'grid-cell--clickable' : ''}`}
+      className={`grid-cell grid-cell--${columnType} ${isFlipped ? 'grid-cell--flipped' : ''} ${showIncorrect ? 'grid-cell--shake' : ''} ${isComplete || isMobile ? 'grid-cell--clickable' : ''}`}
       onClick={handleCardClick}
+      onTouchStart={handleTouchStart}
+      onTouchEnd={handleTouchEnd}
+      onTouchCancel={handleTouchEnd}
     >
       <div className="grid-cell__inner">
         {/* Front of card - clue and input */}
@@ -155,7 +190,7 @@ export function GridCell({ cell, cellState, columnType, onGuess, disabled }: Gri
             </form>
           )}
 
-          {!isComplete && (
+          {!isComplete && !isMobile && (
             <div className="grid-cell__guesses">
               {Array.from({ length: 2 }).map((_, i) => (
                 <span
@@ -166,22 +201,26 @@ export function GridCell({ cell, cellState, columnType, onGuess, disabled }: Gri
             </div>
           )}
 
+          {/* Mobile tap hint for incomplete cells */}
+          {!isComplete && isMobile && (
+            <div className="grid-cell__tap-hint-container">
+              <div className="grid-cell__tap-hint-line"></div>
+              <p className="grid-cell__tap-hint">Tap to answer</p>
+            </div>
+          )}
+
           {isComplete && (
             <div className="grid-cell__tap-hint-container">
               <div className="grid-cell__tap-hint-line"></div>
-              <p className="grid-cell__tap-hint">Tap to flip back</p>
+              <p className="grid-cell__tap-hint">{isMobile ? 'Hold to flip' : 'Tap to flip back'}</p>
             </div>
           )}
         </div>
 
         {/* Back of card - answer reveal */}
         <div className={`grid-cell__back ${getResultColor()}`}>
-          <p className="grid-cell__answer-text">{cell.answer}</p>
-          <div className="grid-cell__tap-hint-container grid-cell__tap-hint-container--back">
-            <div className="grid-cell__tap-hint-line grid-cell__tap-hint-line--back"></div>
-            <p className="grid-cell__tap-hint grid-cell__tap-hint--back">Tap to view clues</p>
-          </div>
-          <div className="grid-cell__result-icon">
+          {/* Result indicator centered above answer */}
+          <div className="grid-cell__result-indicator">
             {cellState.status === 'correct' ? (
               <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round">
                 <polyline points="20 6 9 17 4 12" />
@@ -192,6 +231,11 @@ export function GridCell({ cell, cellState, columnType, onGuess, disabled }: Gri
                 <line x1="6" y1="6" x2="18" y2="18" />
               </svg>
             )}
+          </div>
+          <p className="grid-cell__answer-text">{cell.answer}</p>
+          <div className="grid-cell__tap-hint-container grid-cell__tap-hint-container--back">
+            <div className="grid-cell__tap-hint-line grid-cell__tap-hint-line--back"></div>
+            <p className="grid-cell__tap-hint grid-cell__tap-hint--back">{isMobile ? 'Hold to flip' : 'Tap to view clues'}</p>
           </div>
         </div>
       </div>

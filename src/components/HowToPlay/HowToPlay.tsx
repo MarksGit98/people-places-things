@@ -29,9 +29,9 @@ export function HowToPlay() {
           <div className="how-to-play__text">
             <strong>Categories</strong>
             <ul className="how-to-play__category-list">
-              <li><span className="how-to-play__people">People</span> — Celebrities, historical figures, fictional characters, athletes, musicians, etc.</li>
-              <li><span className="how-to-play__places">Places</span> — Countries, US States, cities, historical landmarks, famous buildings, geographical features, and fictional locations..</li>
-              <li><span className="how-to-play__things">Things</span> — Commonly used objects, food, technology, historical inventions, brands, fictional items of significance, etc.</li>
+              <li><span className="how-to-play__people">People</span> — Celebrities, historical figures, fictional characters, athletes, musicians, etc</li>
+              <li><span className="how-to-play__places">Places</span> — Countries, US States, cities, historical landmarks, famous buildings and landscapes, geographical features, fictional locations, etc</li>
+              <li><span className="how-to-play__things">Things</span> — Commonly used objects, specialty tools, food, technology, historical inventions, branded items, fictional items of significance, etc</li>
             </ul>
           </div>
         </div>

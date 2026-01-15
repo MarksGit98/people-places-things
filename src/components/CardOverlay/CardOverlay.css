@@ -1,0 +1,388 @@
+/* Overlay backdrop */
+.card-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.2);
+  backdrop-filter: blur(var(--overlay-backdrop-blur));
+  -webkit-backdrop-filter: blur(var(--overlay-backdrop-blur));
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: var(--overlay-z-index);
+  padding: var(--spacing-md);
+  animation: overlayFadeIn 0.25s ease;
+}
+
+@keyframes overlayFadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+/* Card container */
+.card-overlay__card {
+  position: relative;
+  width: var(--overlay-card-width);
+  height: var(--overlay-card-height);
+  perspective: 1000px;
+  animation: cardScaleIn 0.25s ease;
+}
+
+@keyframes cardScaleIn {
+  from {
+    opacity: 0;
+    transform: scale(0.85);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+/* Close button */
+.card-overlay__close {
+  position: absolute;
+  top: var(--spacing-sm);
+  right: var(--spacing-sm);
+  width: 32px;
+  height: 32px;
+  background-color: rgba(0, 0, 0, 0.15);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 10;
+  transition: transform var(--transition-fast), background-color var(--transition-fast);
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
+}
+
+.card-overlay__close svg {
+  width: 18px;
+  height: 18px;
+  color: var(--color-text-primary);
+}
+
+.card-overlay__close:active {
+  transform: scale(0.95);
+  background-color: rgba(0, 0, 0, 0.25);
+}
+
+/* 3D flip container */
+.card-overlay__inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+}
+
+.card-overlay__inner--flipped {
+  transform: rotateY(180deg);
+}
+
+/* Front and back faces */
+.card-overlay__front,
+.card-overlay__back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  border-radius: var(--radius-lg);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: var(--spacing-md);
+  box-shadow: var(--shadow-lg);
+  user-select: none;
+}
+
+.card-overlay__front {
+  background-color: rgba(255, 255, 255, var(--overlay-card-bg-opacity));
+  border: 5px solid var(--color-border);
+}
+
+/* Category-specific front styling */
+.card-overlay__card--people .card-overlay__front {
+  border-color: var(--color-people-light);
+  background: linear-gradient(135deg, rgba(255, 255, 255, var(--overlay-card-bg-opacity)) 0%, rgba(219, 113, 173, 0.25) 100%);
+}
+
+.card-overlay__card--places .card-overlay__front {
+  border-color: var(--color-places-light);
+  background: linear-gradient(135deg, rgba(255, 255, 255, var(--overlay-card-bg-opacity)) 0%, rgba(127, 196, 250, 0.25) 100%);
+}
+
+.card-overlay__card--things .card-overlay__front {
+  border-color: var(--color-things-light);
+  background: linear-gradient(135deg, rgba(255, 255, 255, var(--overlay-card-bg-opacity)) 0%, rgba(244, 185, 81, 0.25) 100%);
+}
+
+/* Front completed state backgrounds */
+.card-overlay__front.front--result--green {
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.7) 0%, rgba(106, 170, 100, 0.35) 100%);
+  border-color: var(--color-correct-1);
+}
+
+.card-overlay__front.front--result--yellow {
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.7) 0%, rgba(201, 180, 88, 0.35) 100%);
+  border-color: var(--color-correct-2);
+}
+
+.card-overlay__front.front--result--red {
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.7) 0%, rgba(220, 53, 69, 0.3) 100%);
+  border-color: var(--color-incorrect);
+}
+
+/* Back of card */
+.card-overlay__back {
+  transform: rotateY(180deg);
+  color: white;
+  text-align: center;
+  justify-content: center;
+}
+
+.card-overlay__card--people .card-overlay__back {
+  background: linear-gradient(135deg, rgba(219, 113, 173, 0.92) 0%, rgba(180, 35, 165, 0.92) 100%);
+}
+
+.card-overlay__card--places .card-overlay__back {
+  background: linear-gradient(135deg, rgba(127, 196, 250, 0.92) 0%, rgba(24, 121, 193, 0.92) 100%);
+}
+
+.card-overlay__card--things .card-overlay__back {
+  background: linear-gradient(135deg, rgba(244, 185, 81, 0.92) 0%, rgba(200, 136, 23, 0.92) 100%);
+}
+
+/* Result color overrides for back */
+.card-overlay__back.result--green {
+  background: linear-gradient(135deg, rgba(106, 170, 100, 0.92) 0%, rgba(90, 154, 84, 0.92) 100%);
+}
+
+.card-overlay__back.result--yellow {
+  background: linear-gradient(135deg, rgba(201, 180, 88, 0.92) 0%, rgba(185, 164, 72, 0.92) 100%);
+}
+
+.card-overlay__back.result--red {
+  background: linear-gradient(135deg, rgba(220, 53, 69, 0.92) 0%, rgba(168, 40, 53, 0.92) 100%);
+}
+
+/* Result indicator - centered above answer/content */
+.card-overlay__result-indicator {
+  width: 32px;
+  height: 32px;
+  margin-bottom: var(--spacing-sm);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card-overlay__result-indicator svg {
+  width: 100%;
+  height: 100%;
+}
+
+/* Front side result indicator colors */
+.card-overlay__result-indicator.result--green {
+  color: var(--color-correct-1);
+}
+
+.card-overlay__result-indicator.result--yellow {
+  color: #a89a3d;
+}
+
+.card-overlay__result-indicator.result--red {
+  color: var(--color-incorrect);
+}
+
+/* Back side result indicator */
+.card-overlay__result-indicator--back {
+  color: rgba(255, 255, 255, 0.95);
+}
+
+/* Clue section */
+.card-overlay__clue-section {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  min-height: 0;
+}
+
+.card-overlay__clue-title {
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-semibold);
+  color: var(--color-text-secondary);
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin: 0;
+  padding-bottom: var(--spacing-xs);
+}
+
+.card-overlay__clue-divider {
+  height: 1px;
+  background-color: var(--color-border);
+  width: 100%;
+  margin-bottom: var(--spacing-sm);
+}
+
+.card-overlay__clues {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--spacing-sm);
+  width: 100%;
+}
+
+.card-overlay__clue {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: var(--font-size-md);
+  color: var(--color-clue-text);
+  text-align: left;
+  line-height: 1.45;
+  margin: 0;
+}
+
+.card-overlay__clue--second {
+  color: var(--color-clue-text);
+}
+
+.card-overlay__clue--placeholder {
+  color: var(--color-text-muted);
+  font-style: italic;
+  opacity: 0.7;
+}
+
+/* Form styling */
+.card-overlay__form {
+  display: flex;
+  gap: var(--spacing-sm);
+  width: 100%;
+  margin-top: var(--spacing-md);
+}
+
+.card-overlay__input {
+  flex: 1;
+  min-width: 0;
+  padding: var(--spacing-sm) var(--spacing-md);
+  border: 2px solid var(--color-border);
+  border-radius: var(--radius-md);
+  font-size: var(--font-size-md);
+  transition: border-color var(--transition-fast);
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
+}
+
+/* Category-colored input borders */
+.card-overlay__card--people .card-overlay__input {
+  border-color: var(--color-people-light);
+}
+
+.card-overlay__card--places .card-overlay__input {
+  border-color: var(--color-places-light);
+}
+
+.card-overlay__card--things .card-overlay__input {
+  border-color: var(--color-things-light);
+}
+
+.card-overlay__input:focus {
+  outline: none;
+}
+
+.card-overlay__card--people .card-overlay__input:focus {
+  border-color: var(--color-people);
+}
+
+.card-overlay__card--places .card-overlay__input:focus {
+  border-color: var(--color-places);
+}
+
+.card-overlay__card--things .card-overlay__input:focus {
+  border-color: var(--color-things);
+}
+
+/* Submit button (Go button) */
+.card-overlay__submit {
+  padding: var(--spacing-sm) var(--spacing-lg);
+  background-color: var(--color-text-primary);
+  color: white;
+  border-radius: var(--radius-md);
+  font-size: var(--font-size-md);
+  font-weight: var(--font-weight-semibold);
+  transition: opacity var(--transition-fast), background-color var(--transition-fast);
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
+  min-height: 44px;
+}
+
+/* Category-colored submit buttons */
+.card-overlay__card--people .card-overlay__submit {
+  background-color: var(--color-people);
+}
+
+.card-overlay__card--places .card-overlay__submit {
+  background-color: var(--color-places);
+}
+
+.card-overlay__card--things .card-overlay__submit {
+  background-color: var(--color-things);
+}
+
+.card-overlay__submit:active:not(:disabled) {
+  opacity: 0.7;
+  transform: scale(0.98);
+}
+
+.card-overlay__submit:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+/* Guess dots */
+.card-overlay__guesses {
+  display: flex;
+  gap: var(--spacing-sm);
+  margin-top: var(--spacing-sm);
+}
+
+.card-overlay__guess-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: var(--color-border);
+  transition: background-color var(--transition-fast);
+}
+
+.card-overlay__guess-dot--active {
+  background-color: var(--color-text-secondary);
+}
+
+/* Answer text on back */
+.card-overlay__answer-text {
+  font-size: var(--font-size-2xl);
+  font-weight: var(--font-weight-bold);
+  margin: var(--spacing-md) 0;
+  text-align: center;
+}
+
+/* Tap hint */
+.card-overlay__tap-hint {
+  margin-top: auto;
+  padding-top: var(--spacing-sm);
+}
+
+.card-overlay__tap-hint p {
+  font-size: var(--font-size-xs);
+  color: var(--color-text-muted);
+  margin: 0;
+  text-align: center;
+}
+
+.card-overlay__tap-hint--back p {
+  color: rgba(255, 255, 255, 0.7);
+}
