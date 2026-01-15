@@ -6,7 +6,7 @@
         {
           "constraint": "Two words both beginning with the same letter",
           "cells": [
-            { "category": "people", "clue": "Chilean-American actor known for playing a masked character in a hit Disney+ show", "clue2": "Known for his portrayal of Oberyn Martell in the HBO series Game of Thrones", "answer": "Pedro Pascal", "imageUrl": "" },
+            { "category": "people", "clue": "He stars as the titular masked character in a hit Disney+ show", "clue2": "This Chilean-American actor's portrayal of Oberyn Martell was his breakout moment", "answer": "Pedro Pascal", "imageUrl": "" },
             { "category": "places", "clue": "Iconic landmark near the River Thames", "clue2": "Features a giant clock that chimes on the hour", "answer": "Big Ben", "imageUrl": "" },
             { "category": "things", "clue": "This edible treat is composed almost entirely of sugar", "clue2": "Likely found at carnivals or the county fair", "answer": "Cotton Candy", "imageUrl": "" }
           ]
@@ -14,17 +14,17 @@
         {
           "constraint": "Starts and ends with the same letter",
           "cells": [
-            { "category": "people", "clue": "Contemporary Oscar-award winning actress", "clue2": "Starred in La La Land and Poor Things", "answer": "Emma Stone", "imageUrl": "" },
-            { "category": "places", "clue": "Island once used as a penal colony for convicts", "clue2": "Home to koalas and kangaroos", "answer": "Australia", "imageUrl": "" },
+            { "category": "people", "clue": "This <i>Poor Thing</i> won an academy award for best actress", "clue2": "Ryan Gosling's duet partner in <i>La La Land</i>", "answer": "Emma Stone", "imageUrl": "" },
+            { "category": "places", "clue": "Island once used as a penal colony for convicts", "clue2": "The land of marsupials", "answer": "Australia", "imageUrl": "" },
             { "category": "things", "clue": "Simple handheld tool one may find in a school", "clue2": "Beats paper but loses to rock", "answer": "Scissors", "imageUrl": "" }
           ]
         },
         {
           "constraint": "Starts with the letter 'K'",
           "cells": [
-            { "category": "people", "clue": "The first rapper to win a Pulitzer Prize in music", "clue2": "Famously headlined the Superbowl", "answer": "Kendrick Lamar", "acceptableAnswers": ["Kendrick", "Kdot"], "imageUrl": "" },
-            { "category": "places", "clue": "Famous for its cherry blossoms", "clue2": "Was once the imperial capital of a modern nation but no longer", "answer": "Kyoto", "imageUrl": "" },
-            { "category": "things", "clue": "Device invented by Amazon and introduced in 2007", "clue2": "This device was once thought to be the end for print media", "answer": "Kindle", "imageUrl": "" }
+            { "category": "people", "clue": "The first rapper to win a Pulitzer Prize in music", "clue2": "Famously headlined the Superbowl along with Samuel L. Jackson", "answer": "Kendrick Lamar", "acceptableAnswers": ["Kendrick", "Kdot"], "imageUrl": "" },
+            { "category": "places", "clue": "Famous for its cherry blossoms", "clue2": "Once the imperial capital of a modern nation but no longer", "answer": "Kyoto", "imageUrl": "" },
+            { "category": "things", "clue": "Revolutionary electronic product introduced by Amazon in 2007", "clue2": "This device was once thought to spell the end for print media", "answer": "Kindle", "imageUrl": "" }
           ]
         }
       ]
