@@ -23,8 +23,8 @@ export function ResultsModal({ result, onClose, gameUrl }: ResultsModalProps) {
     .join('\n');
 
   const shareText = `People, Places & Things
-Daily Puzzle #${result.puzzleNumber}
-${result.correctCount}/${result.totalCells} Correct
+Daily Puzzle #${result.puzzleNumber} 🧩
+${result.correctCount}/${result.totalCells} Correct 🎯
 
 ${emojiGrid}
 

@@ -5,8 +5,8 @@ import puzzleData from './data/puzzles.json';
 import type { PuzzleData, Puzzle, ColumnType } from './types';
 import './App.css';
 
-// Game URL for sharing - update this when you deploy
-const GAME_URL = 'https://people-places-things.vercel.app';
+// Game URL for sharing
+const GAME_URL = 'https://peopleplacesandthings.io';
 
 // Dev: get puzzle by index for testing
 function getPuzzleByIndex(data: PuzzleData, index: number): Puzzle {

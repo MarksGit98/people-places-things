@@ -16,6 +16,21 @@
   animation: overlayFadeIn 0.25s ease;
 }
 
+/* Mobile: position card from top to prevent keyboard push-up */
+@media (max-width: 600px) {
+  .card-overlay {
+    align-items: flex-start;
+    overflow: hidden;
+  }
+
+  .card-overlay__card {
+    position: fixed;
+    top: var(--spacing-lg);
+    left: 50%;
+    transform: translateX(-50%);
+  }
+}
+
 @keyframes overlayFadeIn {
   from { opacity: 0; }
   to { opacity: 1; }

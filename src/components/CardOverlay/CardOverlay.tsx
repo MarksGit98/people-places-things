@@ -55,6 +55,16 @@ export function CardOverlay({ cell, cellState, columnType, onGuess, onClose, dis
     }
   }, [isComplete]);
 
+  // Prevent body scroll and handle keyboard on mobile
+  useEffect(() => {
+    const originalOverflow = document.body.style.overflow;
+    document.body.style.overflow = 'hidden';
+
+    return () => {
+      document.body.style.overflow = originalOverflow;
+    };
+  }, []);
+
   // Close on escape key
   useEffect(() => {
     const handleEscape = (e: KeyboardEvent) => {
