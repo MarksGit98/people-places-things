@@ -70,7 +70,7 @@
         {
           "constraint": "Ends in 'Y'",
           "cells": [
-            { "category": "people", "clue": "A superstar from the Carribbean", "clue2": "The King of Reggae", "answer": "Bob Marley", "imageUrl": "" },
+            { "category": "people", "clue": "A dreadlocked superstar from the Carribbean", "clue2": "The King of Reggae", "answer": "Bob Marley", "imageUrl": "" },
             { "category": "places", "clue": "Known for its boot shape on the map", "clue2": "Birthplace of the Renaissance", "answer": "Italy", "imageUrl": "" },
             { "category": "things", "clue": "Magical garment canonically used to sneak past a giant three-headed dog", "clue2": "Granted Harry and his friends stealth throughout their journey", "answer": "Cloak of Invisibility", "acceptableAnswers": ["Invisibility Cloak", "The Invisibility Cloak"], "imageUrl": "" }
           ]
@@ -344,14 +344,14 @@
           "cells": [
             { "category": "people", "clue": "The gravely-voiced man who beautifully serenaded our Wonderful World", "clue2": "<i>Satchmo's</i> horn spoke what his voice couldn't always say", "answer": "Louis Armstrong", "acceptableAnswers": ["Armstrong"], "imageUrl": "" },
             { "category": "places", "clue": "Where the guys featured on the money stare stoically into the distance", "clue2": "Gutzon Borglum's granite masterpiece depicting four American mugs", "answer": "Mount Rushmore", "acceptableAnswers": ["Rushmore", "Mt Rushmore"], "imageUrl": "" },
-            { "category": "things", "clue": "Victorian timekeeper that watches the sand run out on your productivity", "clue2": "Twin-bulbed vessel that measures time in granules", "answer": "Hourglass", "imageUrl": "" }
+            { "category": "things", "clue": "Victorian timekeeper and also #bodygoals", "clue2": "Twin-bulbed vessel that measures time in granules", "answer": "Hourglass", "imageUrl": "" }
           ]
         },
         {
           "constraint": "Ends in 'Y'",
           "cells": [
-            { "category": "people", "clue": "She went from kissing girls to roaring from the top of the charts", "clue2": "Pop star whose Super Bowl sharks went viral", "answer": "Katy Perry", "imageUrl": "" },
-            { "category": "places", "clue": "French region where D-Day beaches still echo with history", "clue2": "Allied forces stormed these shores in June 1944", "answer": "Normandy", "imageUrl": "" },
+            { "category": "people", "clue": "The first pop sensation to perform in orbit from a spaceship", "clue2": "She's a <i>California Gurl</i> with a <i>Teenage Dream</i>", "answer": "Katy Perry", "imageUrl": "" },
+            { "category": "places", "clue": "Region that has swamped hands between European empires for millenia", "clue2": "Allied forces stormed these shores in June 1944", "answer": "Normandy", "imageUrl": "" },
             { "category": "things", "clue": "The art of making death look lifelike, opne stuffed creature at a time", "clue2": "What Norman Bates practiced on birds in his spare time", "answer": "Taxidermy", "imageUrl": "" }
           ]
         },

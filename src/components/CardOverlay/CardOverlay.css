@@ -69,6 +69,11 @@
   opacity: 0.7;
 }
 
+/* Close button on back of card - white */
+.card-overlay__close--back svg {
+  color: white;
+}
+
 /* 3D flip container */
 .card-overlay__inner {
   position: relative;
@@ -140,7 +145,6 @@
   transform: rotateY(180deg);
   color: white;
   text-align: center;
-  justify-content: center;
 }
 
 .card-overlay__card--people .card-overlay__back {
@@ -168,11 +172,14 @@
   background: linear-gradient(135deg, #DC3545 0%, #A82835 100%);
 }
 
-/* Result indicator - centered above answer/content */
+/* Result indicator - centered in upper third of back card */
 .card-overlay__result-indicator {
-  width: 32px;
-  height: 32px;
-  margin-bottom: var(--spacing-sm);
+  position: absolute;
+  top: 16.67%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 52px;
+  height: 52px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -196,9 +203,18 @@
   color: var(--color-incorrect);
 }
 
-/* Back side result indicator */
-.card-overlay__result-indicator--back {
+/* Back side result indicator - force white color */
+.card-overlay__result-indicator.card-overlay__result-indicator--back {
   color: rgba(255, 255, 255, 0.95);
+}
+
+/* Front side result indicator - position above tap hint */
+.card-overlay__result-indicator--front {
+  position: absolute;
+  bottom: 50px;
+  top: auto;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
 /* Clue section */
@@ -361,11 +377,15 @@
   background-color: var(--color-text-secondary);
 }
 
-/* Answer text on back */
+/* Answer text - centered in middle third of back card */
 .card-overlay__answer-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 90%;
   font-size: var(--font-size-2xl);
   font-weight: var(--font-weight-bold);
-  margin: var(--spacing-md) 0;
   text-align: center;
 }
 

@@ -70,7 +70,6 @@
   transform: rotateY(180deg);
   color: white;
   text-align: center;
-  justify-content: center;
 }
 
 .grid-cell--people .grid-cell__back {
@@ -316,17 +315,25 @@
   color: rgba(255, 255, 255, 0.8);
 }
 
+/* Answer text - centered in middle third of back card */
 .grid-cell__answer-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 90%;
   font-size: var(--font-size-xl);
   font-weight: var(--font-weight-bold);
-  margin-bottom: var(--spacing-xs);
 }
 
-/* Centered result indicator (above answer on back of card) */
+/* Result indicator - centered in upper third of back card */
 .grid-cell__result-indicator {
-  width: 30px;
-  height: 30px;
-  margin-bottom: var(--spacing-xs);
+  position: absolute;
+  top: 16.67%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 48px;
+  height: 48px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -432,9 +439,8 @@
   }
 
   .grid-cell__result-indicator {
-    width: 18px;
-    height: 18px;
-    margin-bottom: 2px;
+    width: 28px;
+    height: 28px;
   }
 
   .grid-cell__guess-dot {
