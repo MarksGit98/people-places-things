@@ -177,7 +177,7 @@ export function CardOverlay({ cell, cellState, columnType, onGuess, onClose, dis
                     type="text"
                     value={inputValue}
                     onChange={(e) => setInputValue(e.target.value)}
-                    placeholder="Enter your guess..."
+                    placeholder="Guess here..."
                     className="card-overlay__input"
                     disabled={disabled}
                     autoComplete="off"

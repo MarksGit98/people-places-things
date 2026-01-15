@@ -22,7 +22,7 @@
         {
           "constraint": "Starts with the letter 'K'",
           "cells": [
-            { "category": "people", "clue": "The first rapper to win a Pulitzer Prize in music", "clue2": "Famously headlined the Superbowl along with Samuel L. Jackson", "answer": "Kendrick Lamar", "acceptableAnswers": ["Kendrick", "Kdot"], "imageUrl": "" },
+            { "category": "people", "clue": "The first rapper to win a Pulitzer Prize in music", "clue2": "Famously headlined the Superbowl alongside Samuel L. Jackson", "answer": "Kendrick Lamar", "acceptableAnswers": ["Kendrick", "Kdot"], "imageUrl": "" },
             { "category": "places", "clue": "Famous for its cherry blossoms", "clue2": "Once the imperial capital of a modern nation but no longer", "answer": "Kyoto", "imageUrl": "" },
             { "category": "things", "clue": "Revolutionary electronic product introduced by Amazon in 2007", "clue2": "This device was once thought to spell the end for print media", "answer": "Kindle", "imageUrl": "" }
           ]

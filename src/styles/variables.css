@@ -111,9 +111,9 @@
   --font-size-category-people: calc(var(--font-size-xl) + 5px);
   --font-size-category-places: calc(var(--font-size-xl) + 6px);
   --font-size-category-things: var(--font-size-xl);
-  --font-size-category-people-mobile: calc(var(--font-size-md) + 3px);
+  --font-size-category-people-mobile: calc(var(--font-size-md) + 5px);
   --font-size-category-places-mobile: calc(var(--font-size-md) + 4px);
-  --font-size-category-things-mobile: var(--font-size-md);
+  --font-size-category-things-mobile: calc(var(--font-size-md) - 2px);
 
   /* Header word font sizes */
   --font-size-header-people: 1.25em;
