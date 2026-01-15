@@ -48,7 +48,7 @@
   --font-family-puzzle-number: 'Nunito Sans', 'Segoe UI', system-ui, sans-serif;
 
   --font-size-xs: 0.81rem;  /* 13px */
-  --font-size-sm: 0.935rem;  /* 15px */
+  --font-size-sm: 0.87rem; /* 14.5px */
   --font-size-md: 1.125rem;   /* 18px */
   --font-size-clue-mobile: 0.6675rem; /* 10.5px */
   --font-size-lg: 1.25rem;    /* 20px */
@@ -89,8 +89,8 @@
   --transition-slow: 350ms ease;
 
   /* Grid */
-  --cell-size: 233px;  /* ~37% larger than original 170px */
-  --cell-size-mobile: 112px;  /* 2% wider than original 110px */
+  --cell-size: 221px;  /* 5% smaller than 233px */
+  --cell-size-mobile: 112px;
   --cell-height-mobile: 192px;
 
   /* Card overlay (mobile enlarged view) */
@@ -99,16 +99,16 @@
   --overlay-z-index: 1000;
   --overlay-backdrop-blur: 8px;
   --overlay-card-bg-opacity: 1;
-  --grid-gap: 11px;  /* ~37% larger than original 8px */
+  --grid-gap: 10px;  /* 5% smaller than 11px */
   --grid-gap-mobile: 4px;
-  --row-label-width: 165px;  /* ~37% larger than original 120px */
+  --row-label-width: 157px;  /* 5% smaller than 165px */
   --row-label-width-mobile: 70px;
-  --ribbon-darkened-side-width: 14px;
+  --ribbon-darkened-side-width: 13px;  /* 5% smaller than 14px */
   --ribbon-darkened-side-width-mobile: 7px;
   --header-height: 48px;
 
   /* Category font sizes - desktop (25% larger) */
-  --font-size-category-people: calc(var(--font-size-xl) + 5px);
+  --font-size-category-people: calc(var(--font-size-xl) + 6px);
   --font-size-category-places: calc(var(--font-size-xl) + 6px);
   --font-size-category-things: var(--font-size-xl);
   --font-size-category-people-mobile: calc(var(--font-size-md) + 5px);
