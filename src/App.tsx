@@ -8,7 +8,33 @@ import './App.css';
 // Game URL for sharing
 const GAME_URL = 'https://peopleplacesandthings.io';
 
-// Dev: get puzzle by index for testing
+// Reference date for daily puzzle rotation (January 14, 2026 = Puzzle 1)
+const PUZZLE_START_YEAR = 2026;
+const PUZZLE_START_MONTH = 1;
+const PUZZLE_START_DAY = 14;
+const MS_PER_DAY = 24 * 60 * 60 * 1000;
+
+/**
+ * Gets the daily puzzle index based on current date in EST timezone
+ * Cycles back to first puzzle when all puzzles have been shown
+ */
+function getDailyPuzzleIndex(totalPuzzles: number): number {
+  const now = new Date();
+
+  // Get current date in EST timezone (YYYY-MM-DD format)
+  const estDateStr = now.toLocaleDateString('en-CA', { timeZone: 'America/New_York' });
+  const [year, month, day] = estDateStr.split('-').map(Number);
+
+  // Calculate days since reference date
+  const estDate = new Date(year, month - 1, day);
+  const refDate = new Date(PUZZLE_START_YEAR, PUZZLE_START_MONTH - 1, PUZZLE_START_DAY);
+  const daysSinceStart = Math.floor((estDate.getTime() - refDate.getTime()) / MS_PER_DAY);
+
+  // Cycle through puzzles (handle negative values for dates before start)
+  return ((daysSinceStart % totalPuzzles) + totalPuzzles) % totalPuzzles;
+}
+
+// Get puzzle by index
 function getPuzzleByIndex(data: PuzzleData, index: number): Puzzle {
   const puzzleJson = data.puzzles[index];
   return {
@@ -20,12 +46,13 @@ function getPuzzleByIndex(data: PuzzleData, index: number): Puzzle {
 const COLUMN_TYPES: ColumnType[] = ['people', 'places', 'things'];
 
 function App() {
-  const [puzzleIndex, setPuzzleIndex] = useState(0);
+  const totalPuzzles = (puzzleData as PuzzleData).puzzles.length;
+  const dailyPuzzleIndex = getDailyPuzzleIndex(totalPuzzles);
+  const [puzzleIndex, setPuzzleIndex] = useState(dailyPuzzleIndex);
   const puzzle = getPuzzleByIndex(puzzleData as PuzzleData, puzzleIndex);
   const { gameState, handleGuess, getShareResult } = useGameState(puzzle);
   const [showResults, setShowResults] = useState(false);
   const hasShownResults = useRef(false);
-  const totalPuzzles = (puzzleData as PuzzleData).puzzles.length;
   const [overlayCell, setOverlayCell] = useState<{ rowIndex: number; colIndex: number } | null>(null);
 
   // Show results modal when game is complete
