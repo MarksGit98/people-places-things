@@ -262,3 +262,57 @@
     height: 18px;
   }
 }
+
+/* Small mobile styles (iPhone 16 and smaller ~390px screens) */
+@media (max-width: 414px) {
+  .results-modal {
+    padding: var(--spacing-md);
+    max-width: 260px;
+  }
+
+  .results-modal__title {
+    font-size: var(--font-size-xs);
+    margin-bottom: var(--spacing-sm);
+  }
+
+  .results-modal__emoji {
+    font-size: 1.75rem;
+  }
+
+  .results-modal__score-number {
+    font-size: 2rem;
+  }
+
+  .results-modal__score-divider,
+  .results-modal__score-total {
+    font-size: var(--font-size-md);
+  }
+
+  .results-modal__score-label {
+    font-size: var(--font-size-sm);
+  }
+
+  .results-modal__grid {
+    margin-bottom: var(--spacing-lg);
+  }
+
+  .results-modal__share {
+    padding: var(--spacing-xs) var(--spacing-sm);
+    font-size: var(--font-size-xs);
+  }
+
+  .results-modal__share svg {
+    width: 16px;
+    height: 16px;
+  }
+
+  .results-modal__close {
+    width: 28px;
+    height: 28px;
+  }
+
+  .results-modal__close svg {
+    width: 16px;
+    height: 16px;
+  }
+}

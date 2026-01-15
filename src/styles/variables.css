@@ -51,6 +51,7 @@
   --font-size-sm: 0.87rem; /* 14.5px */
   --font-size-md: 1.125rem;   /* 18px */
   --font-size-clue-mobile: 0.6675rem; /* 10.5px */
+  --font-size-clue-mobile-sm: 0.5625rem; /* 9px - for smaller phones */
   --font-size-lg: 1.25rem;    /* 20px */
   --font-size-xl: 1.5rem;     /* 24px */
   --font-size-2xl: 2rem;      /* 32px */
@@ -92,19 +93,27 @@
   --cell-size: 221px;  /* 5% smaller than 233px */
   --cell-size-mobile: 112px;
   --cell-height-mobile: 192px;
+  /* Small mobile (iPhone 16 and smaller ~390px screens) */
+  --cell-size-mobile-sm: 95px;
+  --cell-height-mobile-sm: 163px;
 
   /* Card overlay (mobile enlarged view) */
   --overlay-card-width: 280px;
   --overlay-card-height: 340px;
+  --overlay-card-width-sm: 260px;
+  --overlay-card-height-sm: 320px;
   --overlay-z-index: 1000;
   --overlay-backdrop-blur: 8px;
   --overlay-card-bg-opacity: 1;
   --grid-gap: 10px;  /* 5% smaller than 11px */
   --grid-gap-mobile: 4px;
+  --grid-gap-mobile-sm: 3px;
   --row-label-width: 157px;  /* 5% smaller than 165px */
   --row-label-width-mobile: 70px;
+  --row-label-width-mobile-sm: 55px;
   --ribbon-darkened-side-width: 13px;  /* 5% smaller than 14px */
   --ribbon-darkened-side-width-mobile: 7px;
+  --ribbon-darkened-side-width-mobile-sm: 5px;
   --header-height: 48px;
 
   /* Category font sizes - desktop (25% larger) */
@@ -114,6 +123,10 @@
   --font-size-category-people-mobile: calc(var(--font-size-md) + 5px);
   --font-size-category-places-mobile: calc(var(--font-size-md) + 4px);
   --font-size-category-things-mobile: calc(var(--font-size-md) - 2px);
+  /* Small mobile category font sizes */
+  --font-size-category-people-mobile-sm: calc(var(--font-size-md) + 2px);
+  --font-size-category-places-mobile-sm: calc(var(--font-size-md) + 1px);
+  --font-size-category-things-mobile-sm: calc(var(--font-size-md) - 4px);
 
   /* Header word font sizes */
   --font-size-header-people: 1.25em;

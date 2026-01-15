@@ -184,3 +184,53 @@
     font-size: 10px;
   }
 }
+
+/* Small mobile styles (iPhone 16 and smaller ~390px screens) */
+@media (max-width: 414px) {
+  .game-board {
+    gap: var(--grid-gap-mobile-sm);
+    transform: translateX(calc(-1 * var(--row-label-width-mobile-sm) / 4));
+  }
+
+  .game-board__header {
+    gap: var(--grid-gap-mobile-sm);
+  }
+
+  .game-board__corner {
+    width: var(--row-label-width-mobile-sm);
+  }
+
+  .game-board__column-header {
+    width: var(--cell-size-mobile-sm);
+    padding: var(--spacing-xs) var(--spacing-xs);
+  }
+
+  .game-board__column-header::before,
+  .game-board__column-header::after {
+    width: var(--ribbon-darkened-side-width-mobile-sm);
+  }
+
+  .game-board__column-header--people {
+    font-size: var(--font-size-category-people-mobile-sm);
+  }
+
+  .game-board__column-header--places {
+    font-size: var(--font-size-category-places-mobile-sm);
+  }
+
+  .game-board__column-header--things {
+    font-size: var(--font-size-category-things-mobile-sm);
+  }
+
+  .game-board__row {
+    gap: var(--grid-gap-mobile-sm);
+  }
+
+  .game-board__row-label {
+    width: var(--row-label-width-mobile-sm);
+  }
+
+  .game-board__constraint {
+    font-size: 9px;
+  }
+}

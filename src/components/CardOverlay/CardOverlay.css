@@ -420,3 +420,69 @@
 .card-overlay__tap-hint--back p {
   color: rgba(255, 255, 255, 0.7);
 }
+
+/* Small mobile styles (iPhone 16 and smaller ~390px screens) */
+@media (max-width: 414px) {
+  .card-overlay__card {
+    width: var(--overlay-card-width-sm);
+    height: var(--overlay-card-height-sm);
+  }
+
+  .card-overlay__front,
+  .card-overlay__back {
+    padding: var(--spacing-sm);
+    border-radius: 16px;
+  }
+
+  .card-overlay__front {
+    border-width: 4px;
+  }
+
+  .card-overlay__clue {
+    font-size: var(--font-size-sm);
+    line-height: 1.35;
+  }
+
+  .card-overlay__clue-title {
+    font-size: var(--font-size-xs);
+  }
+
+  .card-overlay__form {
+    gap: var(--spacing-xs);
+    margin-top: var(--spacing-sm);
+  }
+
+  .card-overlay__input {
+    padding: var(--spacing-xs) var(--spacing-sm);
+    font-size: var(--font-size-sm);
+  }
+
+  .card-overlay__submit {
+    padding: var(--spacing-xs) var(--spacing-sm);
+    font-size: var(--font-size-sm);
+    min-height: 40px;
+  }
+
+  .card-overlay__answer-text {
+    font-size: var(--font-size-xl);
+  }
+
+  .card-overlay__result-indicator {
+    width: 44px;
+    height: 44px;
+  }
+
+  .card-overlay__result-indicator--front {
+    bottom: 40px;
+  }
+
+  .card-overlay__close {
+    width: 28px;
+    height: 28px;
+  }
+
+  .card-overlay__close svg {
+    width: 16px;
+    height: 16px;
+  }
+}

@@ -46,3 +46,23 @@
     font-size: var(--font-size-xs);
   }
 }
+
+/* Small mobile styles (iPhone 16 and smaller ~390px screens) */
+@media (max-width: 414px) {
+  .header {
+    padding: calc(var(--spacing-xs) + 2px) var(--spacing-xs) 0;
+  }
+
+  .header__banner-image {
+    max-height: 65px;
+  }
+
+  .header__tagline {
+    font-size: 0.7rem;
+    margin-top: -3px;
+  }
+
+  .header__puzzle-number {
+    font-size: var(--font-size-xs);
+  }
+}

@@ -465,3 +465,73 @@
     width: 35%;
   }
 }
+
+/* Small mobile styles (iPhone 16 and smaller ~390px screens) */
+@media (max-width: 414px) {
+  .grid-cell {
+    width: var(--cell-size-mobile-sm);
+    height: var(--cell-height-mobile-sm);
+  }
+
+  .grid-cell__front,
+  .grid-cell__back {
+    padding: 5px;
+    border-radius: var(--radius-md);
+  }
+
+  .grid-cell__clue {
+    font-size: var(--font-size-clue-mobile-sm);
+    line-height: 1.2;
+  }
+
+  .grid-cell__clue-title {
+    font-size: 7px;
+    padding-bottom: 1px;
+  }
+
+  .grid-cell__clue-divider {
+    margin-bottom: 2px;
+  }
+
+  .grid-cell__clues {
+    gap: 2px;
+  }
+
+  .grid-cell__answer-text {
+    font-size: var(--font-size-sm);
+  }
+
+  .grid-cell__result-icon {
+    width: 14px;
+    height: 14px;
+    top: 4px;
+    right: 4px;
+  }
+
+  .grid-cell__result-indicator {
+    width: 24px;
+    height: 24px;
+  }
+
+  .grid-cell__guess-dot {
+    width: 4px;
+    height: 4px;
+  }
+
+  .grid-cell__tap-hint-container {
+    bottom: 3px;
+    gap: 1px;
+  }
+
+  .grid-cell__tap-hint-container--back {
+    bottom: var(--spacing-xs);
+  }
+
+  .grid-cell__tap-hint {
+    font-size: 8px;
+  }
+
+  .grid-cell__tap-hint-line {
+    width: 30%;
+  }
+}

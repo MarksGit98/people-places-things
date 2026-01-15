@@ -42,7 +42,7 @@
         {
           "constraint": "Contains a color",
           "cells": [
-            { "category": "people", "clue": "A Russian spy but only on the big screen", "clue2": "The voice behind Joaquin Phoenix's AI love interest in Her", "answer": "Scarlett Johansson", "imageUrl": "" },
+            { "category": "people", "clue": "A Russian spy but only on the big screen", "clue2": "The voice behind Joaquin Phoenix's AI love interest in <i>Her</i>", "answer": "Scarlett Johansson", "imageUrl": "" },
             { "category": "places", "clue": "Lenin's resting place", "clue2": "Frequently visited geometric shape", "answer": "Red Square", "imageUrl": "" },
             { "category": "things", "clue": "Structure that gets a lot of sun", "clue2": "A botanical hotel", "answer": "Greenhouse", "imageUrl": "" }
           ]
@@ -79,7 +79,7 @@
           "constraint": "Contains an animal",
           "cells": [
             { "category": "people", "clue": "Notorious for his accolades on the green", "clue2": "An athlete who redefined what was possible in his sport", "answer": "Tiger Woods", "imageUrl": "" },
-            { "category": "places", "clue": "An archipelago owened by Spain", "clue2": "Now a travel destination but once a stopover for transatlantic exploration", "answer": "Canary Islands", "imageUrl": "" },
+            { "category": "places", "clue": "An archipelago owned by Spain", "clue2": "Now a travel destination but once a stopover for transatlantic exploration", "answer": "Canary Islands", "imageUrl": "" },
             { "category": "things", "clue": "Handheld tool that comes with a learning curve", "clue2": "A sharp object used for flashy tricks", "answer": "Butterfly knife", "imageUrl": "" }
           ]
         }
@@ -98,7 +98,7 @@
         {
           "constraint": "Contains two 'E's in a row",
           "cells": [
-            { "category": "people", "clue": "You do not want to mess with his dog on the big screen", "clue2": "Made a consequential choice between two pills", "answer": "Keanu Reeves", "imageUrl": "" },
+            { "category": "people", "clue": "Not a guy whose dog you wanna mess with", "clue2": "Made a consequential choice between two pills", "answer": "Keanu Reeves", "imageUrl": "" },
             { "category": "places", "clue": "Birthplace of the Olympics", "clue2": "Known for its olives and feta cheese", "answer": "Greece", "imageUrl": "" },
             { "category": "things", "clue": "A workplace essential", "clue2": "A product of beans", "answer": "Coffee", "imageUrl": "" }
           ]

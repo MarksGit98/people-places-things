@@ -1,4 +1,3 @@
-import Fuse from 'fuse.js';
 
 /**
  * Normalizes a string for comparison:
