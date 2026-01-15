@@ -1,4 +1,5 @@
 .how-to-play {
+  width: 100%;
   max-width: 480px;
   margin: var(--spacing-lg) auto;
   padding: var(--spacing-md);
@@ -12,22 +13,66 @@
     5px 5px 0 rgba(100, 100, 120, 0.15),
     6px 6px 12px rgba(0, 0, 0, 0.12);
   user-select: none;
+  box-sizing: border-box;
+}
+
+/* Collapsible header */
+.how-to-play__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.how-to-play__title {
+  flex: 1;
+  text-align: center;
+}
+
+.how-to-play__chevron {
+  width: 20px;
+  height: 20px;
+  color: var(--color-text-primary);
+  transition: transform var(--transition-fast);
+  flex-shrink: 0;
+}
+
+.how-to-play__chevron--up {
+  transform: rotate(180deg);
+}
+
+/* Rules container - hidden by default */
+.how-to-play__rules {
+  display: none !important;
+  flex-direction: column;
+  gap: var(--spacing-sm);
+  margin-top: var(--spacing-sm);
+}
+
+.how-to-play__rules.how-to-play__rules--visible {
+  display: flex !important;
 }
 
 /* Desktop styles */
 @media (min-width: 601px) {
   .how-to-play {
+    width: 560px;
     max-width: 560px;
     padding: var(--spacing-lg);
   }
 
   .how-to-play__title {
     font-size: var(--font-size-2xl);
-    margin-bottom: var(--spacing-md);
   }
 
-  .how-to-play__rules {
+  .how-to-play__rules--visible {
     gap: var(--spacing-md);
+    margin-top: var(--spacing-md);
   }
 
   .how-to-play__icon {
@@ -53,8 +98,7 @@
   font-size: var(--font-size-xl);
   font-weight: normal;
   color: var(--color-text-primary);
-  text-align: center;
-  margin-bottom: var(--spacing-sm);
+  margin: 0;
 }
 
 .how-to-play__rules {
@@ -244,17 +288,17 @@
 /* Mobile styles */
 @media (max-width: 600px) {
   .how-to-play {
-    margin: var(--spacing-sm) var(--spacing-xs);
+    margin: var(--spacing-lg) var(--spacing-xs) var(--spacing-sm);
     padding: var(--spacing-sm);
   }
 
   .how-to-play__title {
     font-size: var(--font-size-md);
-    margin-bottom: var(--spacing-xs);
   }
 
-  .how-to-play__rules {
+  .how-to-play__rules--visible {
     gap: var(--spacing-xs);
+    margin-top: var(--spacing-sm);
   }
 
   .how-to-play__rule {

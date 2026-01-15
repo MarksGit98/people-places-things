@@ -1,11 +1,31 @@
+import { useState } from 'react';
 import './HowToPlay.css';
 
 export function HowToPlay() {
-  return (
-    <section className="how-to-play">
-      <h2 className="how-to-play__title">How to Play</h2>
+  const [isExpanded, setIsExpanded] = useState(false);
 
-      <div className="how-to-play__rules">
+  return (
+    <section className={`how-to-play ${isExpanded ? 'how-to-play--expanded' : ''}`}>
+      <button
+        className="how-to-play__header"
+        onClick={() => setIsExpanded(!isExpanded)}
+        aria-expanded={isExpanded}
+      >
+        <h2 className="how-to-play__title">How to Play</h2>
+        <svg
+          className={`how-to-play__chevron ${isExpanded ? 'how-to-play__chevron--up' : ''}`}
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          strokeWidth="2.5"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+        >
+          <polyline points="6 9 12 15 18 9" />
+        </svg>
+      </button>
+
+      <div className={`how-to-play__rules ${isExpanded ? 'how-to-play__rules--visible' : ''}`}>
         <div className="how-to-play__rule">
           <span className="how-to-play__icon how-to-play__icon--grid">
             <span className="how-to-play__mini-grid">
