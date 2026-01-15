@@ -288,7 +288,7 @@
 /* Mobile styles */
 @media (max-width: 600px) {
   .how-to-play {
-    margin: var(--spacing-lg) var(--spacing-xs) var(--spacing-sm);
+    margin: var(--spacing-lg) var(--spacing-md) var(--spacing-sm);
     padding: var(--spacing-sm);
   }
 
@@ -320,6 +320,7 @@
 
   .how-to-play__category-list {
     font-size: 10px;
-    padding-left: var(--spacing-sm);
+    padding-left: 0;
+    list-style: none;
   }
 }

@@ -27,7 +27,7 @@
   }
 
   .card-overlay__card--keyboard-open {
-    transform: translateY(25%);
+    transform: translateY(30%);
   }
 }
 
