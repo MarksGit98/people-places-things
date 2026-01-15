@@ -48,11 +48,14 @@ export function CardOverlay({ cell, cellState, columnType, onGuess, onClose, dis
   // Initialize flipped state - start flipped if already complete (no animation)
   const [isFlipped, setIsFlipped] = useState(isComplete);
 
-  // Focus input when overlay opens (if not complete)
+  // Focus input when overlay opens (if not complete) - desktop only
   useEffect(() => {
     if (!isComplete && inputRef.current) {
-      // Small delay to ensure overlay animation completes
-      setTimeout(() => inputRef.current?.focus(), 100);
+      // Don't auto-focus on mobile to prevent keyboard from immediately opening
+      const isMobile = window.innerWidth <= 600;
+      if (!isMobile) {
+        setTimeout(() => inputRef.current?.focus(), 100);
+      }
     }
   }, [isComplete]);
 
