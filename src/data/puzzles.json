@@ -352,15 +352,15 @@
           "cells": [
             { "category": "people", "clue": "The first pop sensation to perform in orbit from a spaceship", "clue2": "She's a <i>California Gurl</i> with a <i>Teenage Dream</i>", "answer": "Katy Perry", "imageUrl": "" },
             { "category": "places", "clue": "Region that has swamped hands between European empires for millenia", "clue2": "Allied forces stormed these shores in June 1944", "answer": "Normandy", "imageUrl": "" },
-            { "category": "things", "clue": "The art of making death look lifelike, opne stuffed creature at a time", "clue2": "What Norman Bates practiced on birds in his spare time", "answer": "Taxidermy", "imageUrl": "" }
+            { "category": "things", "clue": "Squidward's guilty pleasure", "clue2": "An underwater delicacy cooked expertly by a talking sponge", "answer": "Krabby Patty", "imageUrl": "" }
           ]
         },
         {
           "constraint": "Starts with the letter 'T'",
           "cells": [
-            { "category": "people", "clue": "She shook off country and shook up stadiums worldwide", "clue2": "Pop star whose numbered albums chart her evolution", "answer": "Taylor Swift", "imageUrl": "" },
-            { "category": "places", "clue": "Romanian region where a certain count supposedly impaled his enemies", "clue2": "Dracula's homeland, complete with misty mountains and gothic castles", "answer": "Transylvania", "imageUrl": "" },
-            { "category": "things", "clue": "Medieval siege weapon that could hurl a 90kg projectile 300 meters", "clue2": "Counterweight catapult favored by castle-smashing enthusiasts", "answer": "Trebuchet", "imageUrl": "" }
+            { "category": "people", "clue": "Bugs and Daffy's short-tempered adversary", "clue2": "This spinning looney toon devours everything in his path", "answer": "Tasmanian Devil", "imageUrl": "" },
+            { "category": "places", "clue": "A real region whose folklore inspired Bram Stoker's masterwork", "clue2": "When visiting the gothic castles be sure to bring garlic and a wooden stake", "answer": "Transylvania", "imageUrl": "" },
+            { "category": "things", "clue": "A gold-star siege weapon prior to the advent of gunpowder", "clue2": "The catapult's bigger cousin", "answer": "Trebuchet", "imageUrl": "" }
           ]
         }
       ]
