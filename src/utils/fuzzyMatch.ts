@@ -82,9 +82,17 @@ function getPluralVariants(word: string): string[] {
 
 /**
  * Checks if a guess matches a single answer using fuzzy matching
+ * Strict matching: only allows 1-2 character differences maximum
  */
 function matchesSingleAnswer(normalizedGuess: string, answer: string, checkPlurals: boolean = false): boolean {
   const normalizedAnswer = normalizeString(answer);
+
+  // Reject guesses that are way too short compared to the answer
+  // Guess must be at least 70% of the answer length
+  const minGuessLength = Math.floor(normalizedAnswer.length * 0.7);
+  if (normalizedGuess.length < minGuessLength) {
+    return false;
+  }
 
   // Exact match after normalization
   if (normalizedGuess === normalizedAnswer) {
@@ -106,24 +114,8 @@ function matchesSingleAnswer(normalizedGuess: string, answer: string, checkPlura
     }
   }
 
-  // Use Fuse.js for fuzzy matching
-  const fuse = new Fuse([normalizedAnswer], {
-    threshold: 0.3, // Lower = stricter matching
-    distance: 100,
-    includeScore: true,
-  });
-
-  const results = fuse.search(normalizedGuess);
-
-  if (results.length > 0 && results[0].score !== undefined) {
-    // Score < 0.3 is a good match
-    if (results[0].score < 0.3) {
-      return true;
-    }
-  }
-
-  // Also check Levenshtein distance for short answers
-  const maxDistance = Math.max(1, Math.floor(normalizedAnswer.length * 0.25));
+  // Strict Levenshtein distance check: max 2 character differences
+  const maxDistance = 2;
   const distance = levenshteinDistance(normalizedGuess, normalizedAnswer);
 
   if (distance <= maxDistance) {
