@@ -88,7 +88,7 @@
   --transition-slow: 350ms ease;
 
   /* Grid */
-  --cell-size: 170px;
+  --cell-size: 212px;  /* ~25% larger than 170px */
   --cell-size-mobile: 112px;  /* 2% wider than original 110px */
   --cell-height-mobile: 192px;
 
@@ -97,19 +97,19 @@
   --overlay-card-height: 340px;
   --overlay-z-index: 1000;
   --overlay-backdrop-blur: 8px;
-  --overlay-card-bg-opacity: 0.85;
-  --grid-gap: 8px;
+  --overlay-card-bg-opacity: 1;
+  --grid-gap: 10px;  /* ~25% larger than 8px */
   --grid-gap-mobile: 4px;
-  --row-label-width: 120px;
+  --row-label-width: 150px;  /* ~25% larger than 120px */
   --row-label-width-mobile: 70px;
-  --ribbon-darkened-side-width: 8px;
+  --ribbon-darkened-side-width: 10px;  /* ~25% larger than 8px */
   --ribbon-darkened-side-width-mobile: 5px;
   --header-height: 48px;
 
-  /* Category font sizes */
-  --font-size-category-people: calc(var(--font-size-lg) + 4px);
-  --font-size-category-places: calc(var(--font-size-lg) + 6px);
-  --font-size-category-things: var(--font-size-lg);
+  /* Category font sizes - desktop (25% larger) */
+  --font-size-category-people: calc(var(--font-size-xl) + 4px);
+  --font-size-category-places: calc(var(--font-size-xl) + 6px);
+  --font-size-category-things: var(--font-size-xl);
   --font-size-category-people-mobile: calc(var(--font-size-md) + 3px);
   --font-size-category-places-mobile: calc(var(--font-size-md) + 4px);
   --font-size-category-things-mobile: var(--font-size-md);

@@ -1,8 +1,8 @@
 import { useState, useEffect, useRef } from 'react';
-import { Header, GameBoard, ResultsModal, HowToPlay } from './components';
+import { Header, GameBoard, ResultsModal, HowToPlay, CardOverlay } from './components';
 import { useGameState } from './hooks/useGameState';
 import puzzleData from './data/puzzles.json';
-import type { PuzzleData, Puzzle } from './types';
+import type { PuzzleData, Puzzle, ColumnType } from './types';
 import './App.css';
 
 // Game URL for sharing - update this when you deploy
@@ -17,6 +17,8 @@ function getPuzzleByIndex(data: PuzzleData, index: number): Puzzle {
   };
 }
 
+const COLUMN_TYPES: ColumnType[] = ['people', 'places', 'things'];
+
 function App() {
   const [puzzleIndex, setPuzzleIndex] = useState(0);
   const puzzle = getPuzzleByIndex(puzzleData as PuzzleData, puzzleIndex);
@@ -24,6 +26,7 @@ function App() {
   const [showResults, setShowResults] = useState(false);
   const hasShownResults = useRef(false);
   const totalPuzzles = (puzzleData as PuzzleData).puzzles.length;
+  const [overlayCell, setOverlayCell] = useState<{ rowIndex: number; colIndex: number } | null>(null);
 
   // Show results modal when game is complete
   const isComplete = gameState.gameStatus === 'completed';
@@ -58,6 +61,20 @@ function App() {
     setShowResults(false);
   };
 
+  const handleOpenOverlay = (rowIndex: number, colIndex: number) => {
+    setOverlayCell({ rowIndex, colIndex });
+  };
+
+  const handleCloseOverlay = () => {
+    setOverlayCell(null);
+  };
+
+  const handleOverlayGuess = (guess: string) => {
+    if (overlayCell) {
+      handleGuess(overlayCell.rowIndex, overlayCell.colIndex, guess);
+    }
+  };
+
   return (
     <div className="app">
       <Header />
@@ -68,6 +85,7 @@ function App() {
           puzzle={puzzle}
           gameState={gameState}
           onGuess={handleGuess}
+          onOpenOverlay={handleOpenOverlay}
         />
 
         <HowToPlay />
@@ -102,6 +120,18 @@ function App() {
           result={getShareResult()}
           onClose={() => setShowResults(false)}
           gameUrl={GAME_URL}
+        />
+      )}
+
+      {/* Mobile card overlay - rendered at root to ensure full-screen blur */}
+      {overlayCell && (
+        <CardOverlay
+          cell={puzzle.rows[overlayCell.rowIndex].cells[overlayCell.colIndex]}
+          cellState={gameState.cells[overlayCell.rowIndex][overlayCell.colIndex]}
+          columnType={COLUMN_TYPES[overlayCell.colIndex]}
+          onGuess={handleOverlayGuess}
+          onClose={handleCloseOverlay}
+          disabled={isComplete}
         />
       )}
     </div>

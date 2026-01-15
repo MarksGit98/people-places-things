@@ -5,9 +5,9 @@
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: rgba(0, 0, 0, 0.2);
-  backdrop-filter: blur(var(--overlay-backdrop-blur));
-  -webkit-backdrop-filter: blur(var(--overlay-backdrop-blur));
+  background-color: rgba(0, 0, 0, 0.15);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -48,13 +48,12 @@
   right: var(--spacing-sm);
   width: 32px;
   height: 32px;
-  background-color: rgba(0, 0, 0, 0.15);
-  border-radius: 50%;
+  background-color: transparent;
   display: flex;
   align-items: center;
   justify-content: center;
   z-index: 10;
-  transition: transform var(--transition-fast), background-color var(--transition-fast);
+  transition: transform var(--transition-fast), opacity var(--transition-fast);
   -webkit-tap-highlight-color: transparent;
   touch-action: manipulation;
 }
@@ -67,7 +66,7 @@
 
 .card-overlay__close:active {
   transform: scale(0.95);
-  background-color: rgba(0, 0, 0, 0.25);
+  opacity: 0.7;
 }
 
 /* 3D flip container */
@@ -107,32 +106,32 @@
 /* Category-specific front styling */
 .card-overlay__card--people .card-overlay__front {
   border-color: var(--color-people-light);
-  background: linear-gradient(135deg, rgba(255, 255, 255, var(--overlay-card-bg-opacity)) 0%, rgba(219, 113, 173, 0.25) 100%);
+  background: linear-gradient(135deg, #FFFFFF 0%, #f5d9e8 100%);
 }
 
 .card-overlay__card--places .card-overlay__front {
   border-color: var(--color-places-light);
-  background: linear-gradient(135deg, rgba(255, 255, 255, var(--overlay-card-bg-opacity)) 0%, rgba(127, 196, 250, 0.25) 100%);
+  background: linear-gradient(135deg, #FFFFFF 0%, #dbeefb 100%);
 }
 
 .card-overlay__card--things .card-overlay__front {
   border-color: var(--color-things-light);
-  background: linear-gradient(135deg, rgba(255, 255, 255, var(--overlay-card-bg-opacity)) 0%, rgba(244, 185, 81, 0.25) 100%);
+  background: linear-gradient(135deg, #FFFFFF 0%, #fcefd4 100%);
 }
 
 /* Front completed state backgrounds */
 .card-overlay__front.front--result--green {
-  background: linear-gradient(135deg, rgba(255, 255, 255, 0.7) 0%, rgba(106, 170, 100, 0.35) 100%);
+  background: linear-gradient(135deg, #FFFFFF 0%, #d4e8d2 100%);
   border-color: var(--color-correct-1);
 }
 
 .card-overlay__front.front--result--yellow {
-  background: linear-gradient(135deg, rgba(255, 255, 255, 0.7) 0%, rgba(201, 180, 88, 0.35) 100%);
+  background: linear-gradient(135deg, #FFFFFF 0%, #ebe5cb 100%);
   border-color: var(--color-correct-2);
 }
 
 .card-overlay__front.front--result--red {
-  background: linear-gradient(135deg, rgba(255, 255, 255, 0.7) 0%, rgba(220, 53, 69, 0.3) 100%);
+  background: linear-gradient(135deg, #FFFFFF 0%, #f5d4d7 100%);
   border-color: var(--color-incorrect);
 }
 
@@ -145,28 +144,28 @@
 }
 
 .card-overlay__card--people .card-overlay__back {
-  background: linear-gradient(135deg, rgba(219, 113, 173, 0.92) 0%, rgba(180, 35, 165, 0.92) 100%);
+  background: linear-gradient(135deg, #db71ad 0%, #b423a5 100%);
 }
 
 .card-overlay__card--places .card-overlay__back {
-  background: linear-gradient(135deg, rgba(127, 196, 250, 0.92) 0%, rgba(24, 121, 193, 0.92) 100%);
+  background: linear-gradient(135deg, #7fc4fa 0%, #1879c1 100%);
 }
 
 .card-overlay__card--things .card-overlay__back {
-  background: linear-gradient(135deg, rgba(244, 185, 81, 0.92) 0%, rgba(200, 136, 23, 0.92) 100%);
+  background: linear-gradient(135deg, #f4b951 0%, #c88817 100%);
 }
 
 /* Result color overrides for back */
 .card-overlay__back.result--green {
-  background: linear-gradient(135deg, rgba(106, 170, 100, 0.92) 0%, rgba(90, 154, 84, 0.92) 100%);
+  background: linear-gradient(135deg, #6AAA64 0%, #5A9A54 100%);
 }
 
 .card-overlay__back.result--yellow {
-  background: linear-gradient(135deg, rgba(201, 180, 88, 0.92) 0%, rgba(185, 164, 72, 0.92) 100%);
+  background: linear-gradient(135deg, #C9B458 0%, #B9A448 100%);
 }
 
 .card-overlay__back.result--red {
-  background: linear-gradient(135deg, rgba(220, 53, 69, 0.92) 0%, rgba(168, 40, 53, 0.92) 100%);
+  background: linear-gradient(135deg, #DC3545 0%, #A82835 100%);
 }
 
 /* Result indicator - centered above answer/content */
@@ -308,7 +307,7 @@
 
 /* Submit button (Go button) */
 .card-overlay__submit {
-  padding: var(--spacing-sm) var(--spacing-lg);
+  padding: var(--spacing-sm) var(--spacing-md);
   background-color: var(--color-text-primary);
   color: white;
   border-radius: var(--radius-md);

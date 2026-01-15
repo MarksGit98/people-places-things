@@ -1,13 +1,13 @@
 import { useState, useEffect } from 'react';
 import type { Puzzle, GameState, ColumnType } from '../../types';
 import { GridCell } from '../GridCell/GridCell';
-import { CardOverlay } from '../CardOverlay/CardOverlay';
 import './GameBoard.css';
 
 interface GameBoardProps {
   puzzle: Puzzle;
   gameState: GameState;
   onGuess: (rowIndex: number, colIndex: number, guess: string) => void;
+  onOpenOverlay?: (rowIndex: number, colIndex: number) => void;
 }
 
 const COLUMN_HEADERS: { label: string; type: ColumnType }[] = [
@@ -16,10 +16,9 @@ const COLUMN_HEADERS: { label: string; type: ColumnType }[] = [
   { label: 'Things', type: 'things' },
 ];
 
-export function GameBoard({ puzzle, gameState, onGuess }: GameBoardProps) {
+export function GameBoard({ puzzle, gameState, onGuess, onOpenOverlay }: GameBoardProps) {
   const isGameComplete = gameState.gameStatus === 'completed';
   const [isMobile, setIsMobile] = useState(window.innerWidth <= 600);
-  const [overlayCell, setOverlayCell] = useState<{ rowIndex: number; colIndex: number } | null>(null);
 
   useEffect(() => {
     const handleResize = () => setIsMobile(window.innerWidth <= 600);
@@ -28,18 +27,8 @@ export function GameBoard({ puzzle, gameState, onGuess }: GameBoardProps) {
   }, []);
 
   const handleOpenOverlay = (rowIndex: number, colIndex: number) => {
-    if (isMobile) {
-      setOverlayCell({ rowIndex, colIndex });
-    }
-  };
-
-  const handleCloseOverlay = () => {
-    setOverlayCell(null);
-  };
-
-  const handleOverlayGuess = (guess: string) => {
-    if (overlayCell) {
-      onGuess(overlayCell.rowIndex, overlayCell.colIndex, guess);
+    if (isMobile && onOpenOverlay) {
+      onOpenOverlay(rowIndex, colIndex);
     }
   };
 
@@ -77,18 +66,6 @@ export function GameBoard({ puzzle, gameState, onGuess }: GameBoardProps) {
           ))}
         </div>
       ))}
-
-      {/* Mobile card overlay */}
-      {overlayCell && isMobile && (
-        <CardOverlay
-          cell={puzzle.rows[overlayCell.rowIndex].cells[overlayCell.colIndex]}
-          cellState={gameState.cells[overlayCell.rowIndex][overlayCell.colIndex]}
-          columnType={COLUMN_HEADERS[overlayCell.colIndex].type}
-          onGuess={handleOverlayGuess}
-          onClose={handleCloseOverlay}
-          disabled={isGameComplete}
-        />
-      )}
     </div>
   );
 }
