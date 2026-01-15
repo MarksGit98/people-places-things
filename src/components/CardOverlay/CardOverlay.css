@@ -61,7 +61,7 @@
 .card-overlay__close svg {
   width: 18px;
   height: 18px;
-  color: var(--color-text-primary);
+  color: var(--color-clue-text);
 }
 
 .card-overlay__close:active {
@@ -89,7 +89,7 @@
   width: 100%;
   height: 100%;
   backface-visibility: hidden;
-  border-radius: var(--radius-lg);
+  border-radius: 20px;
   display: flex;
   flex-direction: column;
   align-items: center;

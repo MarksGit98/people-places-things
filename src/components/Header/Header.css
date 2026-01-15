@@ -5,6 +5,8 @@
 }
 
 .header__banner-image {
+  display: block;
+  margin: 0 auto;
   max-width: 100%;
   height: auto;
   max-height: 120px;
@@ -13,19 +15,21 @@
 
 .header__tagline {
   font-family: var(--font-family-tagline);
-  font-size: var(--font-size-xs);
+  font-size: var(--font-size-sm);
   color: var(--color-accent-brown);
   font-style: italic;
-  margin-top: 2px;
+  margin-top: -2px;
   margin-bottom: 0;
   letter-spacing: 0.5px;
+  pointer-events: none;
+  user-select: none;
+  cursor: default;
 }
 
 .header__puzzle-number {
   font-family: var(--font-family-puzzle-number);
   font-size: var(--font-size-sm);
   color: var(--color-text-secondary);
-  margin-top: var(--spacing-xs);
   font-weight: var(--font-weight-medium);
 }
 
@@ -36,5 +40,9 @@
 
   .header__banner-image {
     max-height: 80px;
+  }
+
+  .header__tagline {
+    font-size: var(--font-size-xs);
   }
 }

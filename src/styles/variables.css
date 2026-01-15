@@ -1,21 +1,21 @@
 :root {
   /* Colors - Column themes */
   /* People - Pink/Magenta */
-  --color-people: #db71ad;
+  --color-people: #d063a0;
   --color-people-light: #edb0cf;
-  --color-people-dark: #b423a5;
+  --color-people-dark: #c4589a;
   --color-people-darker: #8a1b80;
 
   /* Places - Blue */
-  --color-places: #7fc4fa;
+  --color-places: #6ab8f5;
   --color-places-light: #b3dcfc;
-  --color-places-dark: #1879c1;
+  --color-places-dark: #4fa8e8;
   --color-places-darker: #125a91;
 
   /* Things - Orange/Gold */
-  --color-things: #f4b951;
+  --color-things: #eba940;
   --color-things-light: #f8d396;
-  --color-things-dark: #c88817;
+  --color-things-dark: #d99a35;
   --color-things-darker: #976611;
 
   /* Result colors */
@@ -47,9 +47,10 @@
   --font-family-tagline: 'Pacifico', cursive;
   --font-family-puzzle-number: 'Nunito Sans', 'Segoe UI', system-ui, sans-serif;
 
-  --font-size-xs: 0.75rem;    /* 12px */
-  --font-size-sm: 0.875rem;   /* 14px */
-  --font-size-md: 1rem;       /* 16px */
+  --font-size-xs: 0.81rem;  /* 13px */
+  --font-size-sm: 0.935rem;  /* 15px */
+  --font-size-md: 1.125rem;   /* 18px */
+  --font-size-clue-mobile: 0.6675rem; /* 10.5px */
   --font-size-lg: 1.25rem;    /* 20px */
   --font-size-xl: 1.5rem;     /* 24px */
   --font-size-2xl: 2rem;      /* 32px */
@@ -88,7 +89,7 @@
   --transition-slow: 350ms ease;
 
   /* Grid */
-  --cell-size: 212px;  /* ~25% larger than 170px */
+  --cell-size: 233px;  /* ~37% larger than original 170px */
   --cell-size-mobile: 112px;  /* 2% wider than original 110px */
   --cell-height-mobile: 192px;
 
@@ -98,16 +99,16 @@
   --overlay-z-index: 1000;
   --overlay-backdrop-blur: 8px;
   --overlay-card-bg-opacity: 1;
-  --grid-gap: 10px;  /* ~25% larger than 8px */
+  --grid-gap: 11px;  /* ~37% larger than original 8px */
   --grid-gap-mobile: 4px;
-  --row-label-width: 150px;  /* ~25% larger than 120px */
+  --row-label-width: 165px;  /* ~37% larger than original 120px */
   --row-label-width-mobile: 70px;
-  --ribbon-darkened-side-width: 10px;  /* ~25% larger than 8px */
-  --ribbon-darkened-side-width-mobile: 5px;
+  --ribbon-darkened-side-width: 14px;
+  --ribbon-darkened-side-width-mobile: 7px;
   --header-height: 48px;
 
   /* Category font sizes - desktop (25% larger) */
-  --font-size-category-people: calc(var(--font-size-xl) + 4px);
+  --font-size-category-people: calc(var(--font-size-xl) + 5px);
   --font-size-category-places: calc(var(--font-size-xl) + 6px);
   --font-size-category-things: var(--font-size-xl);
   --font-size-category-people-mobile: calc(var(--font-size-md) + 3px);

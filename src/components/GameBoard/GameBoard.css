@@ -112,7 +112,7 @@
 }
 
 .game-board__constraint {
-  font-size: var(--font-size-sm);
+  font-size: var(--font-size-lg);
   color: var(--color-clue-text);
   text-align: center;
   line-height: var(--line-height-tight);

@@ -6,9 +6,9 @@
         {
           "constraint": "Two words both beginning with the same letter",
           "cells": [
-            { "category": "people", "clue": "He stars as the titular masked character in a hit Disney+ show", "clue2": "This Chilean-American actor's portrayal of Oberyn Martell was his breakout moment", "answer": "Pedro Pascal", "imageUrl": "" },
+            { "category": "people", "clue": "He stars as the titular masked character in a hit Disney+ show", "clue2": "This Chilean-American actor's portrayal of Oberyn Martell was a career defining moment", "answer": "Pedro Pascal", "imageUrl": "" },
             { "category": "places", "clue": "Iconic landmark near the River Thames", "clue2": "Features a giant clock that chimes on the hour", "answer": "Big Ben", "imageUrl": "" },
-            { "category": "things", "clue": "This edible treat is composed almost entirely of sugar", "clue2": "Likely found at carnivals or the county fair", "answer": "Cotton Candy", "imageUrl": "" }
+            { "category": "things", "clue": "This edible treat is composed almost entirely of sugar", "clue2": "Likely found at the carnival", "answer": "Cotton Candy", "imageUrl": "" }
           ]
         },
         {
@@ -34,7 +34,7 @@
         {
           "constraint": "Starts with the letter 'A'",
           "cells": [
-            { "category": "people", "clue": "This person is the best-selling novelist of all time, with over 2 billion copies sold", "clue2": "Through her class murder mystery novels she has earned her reputation as the 'Queen of Crime'", "answer": "Agatha Christie", "imageUrl": "" },
+            { "category": "people", "clue": "This person is the best-selling novelist of all time, with over 2 billion copies sold", "clue2": "Through her classic murder mystery novels she has earned her reputation as the 'Queen of Crime'", "answer": "Agatha Christie", "imageUrl": "" },
             { "category": "places", "clue": "A city where bicycles outnumber residents", "clue2": "A tourist destination famous for its canals and museums", "answer": "Amsterdam", "imageUrl": "" },
             { "category": "things", "clue": "A food item often ridiculed by boomers as superfluous spending", "clue2": "A delightful combination of fruit and grain product", "answer": "Avocado Toast", "imageUrl": "" }
           ]

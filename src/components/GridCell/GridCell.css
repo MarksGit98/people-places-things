@@ -155,7 +155,7 @@
 
 .grid-cell__clue {
   font-family: 'Noto Sans', sans-serif;
-  font-size: 14px;
+  font-size: var(--font-size-sm);
   color: var(--color-clue-text);
   text-align: left;
   line-height: 1.3;
@@ -390,7 +390,7 @@
   }
 
   .grid-cell__clue {
-    font-size: 10px;
+    font-size: var(--font-size-clue-mobile);
     line-height: 1.25;
   }
 

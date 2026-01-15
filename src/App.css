@@ -13,12 +13,15 @@
 }
 
 .app__puzzle-number {
-  font-size: var(--font-size-xs);
+  font-size: var(--font-size-sm);
   font-weight: var(--font-weight-medium);
   color: var(--color-text-secondary);
   text-transform: uppercase;
   letter-spacing: 1px;
   margin-bottom: 2px;
+  pointer-events: none;
+  user-select: none;
+  cursor: default;
 }
 
 /* Dev buttons - remove for production */
@@ -124,7 +127,7 @@
   }
 
   .app__puzzle-number {
-    font-size: 10px;
+    font-size: var(--font-size-xs);
   }
 
   .app__complete-banner {

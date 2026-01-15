@@ -14,6 +14,40 @@
   user-select: none;
 }
 
+/* Desktop styles */
+@media (min-width: 601px) {
+  .how-to-play {
+    max-width: 560px;
+    padding: var(--spacing-lg);
+  }
+
+  .how-to-play__title {
+    font-size: var(--font-size-2xl);
+    margin-bottom: var(--spacing-md);
+  }
+
+  .how-to-play__rules {
+    gap: var(--spacing-md);
+  }
+
+  .how-to-play__icon {
+    width: 40px;
+    height: 40px;
+  }
+
+  .how-to-play__text strong {
+    font-size: var(--font-size-md);
+  }
+
+  .how-to-play__text p {
+    font-size: var(--font-size-sm);
+  }
+
+  .how-to-play__category-list {
+    font-size: var(--font-size-sm);
+  }
+}
+
 .how-to-play__title {
   font-family: 'Pacifico', cursive;
   font-size: var(--font-size-xl);

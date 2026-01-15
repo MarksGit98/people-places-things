@@ -69,6 +69,19 @@ export function useGameState(puzzle: Puzzle) {
     return loaded;
   });
 
+  // Reset state when puzzle changes
+  useEffect(() => {
+    const loaded = loadGameState(puzzle.id);
+    const isComplete = loaded.cells.every((row) =>
+      row.every((cell) => cell.status === 'correct' || cell.status === 'incorrect')
+    );
+    if (isComplete && loaded.gameStatus !== 'completed') {
+      setGameState({ ...loaded, gameStatus: 'completed', completedAt: new Date().toISOString() });
+    } else {
+      setGameState(loaded);
+    }
+  }, [puzzle.id]);
+
   // Save to localStorage whenever state changes
   useEffect(() => {
     saveGameState(gameState);
