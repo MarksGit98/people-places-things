@@ -9,11 +9,10 @@
   backdrop-filter: blur(4px);
   -webkit-backdrop-filter: blur(4px);
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   justify-content: center;
   z-index: var(--overlay-z-index);
   padding: var(--spacing-md);
-  padding-top: calc(50vh - var(--overlay-card-height));
   animation: overlayFadeIn 0.25s ease;
 }
 
