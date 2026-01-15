@@ -39,6 +39,7 @@ interface CardOverlayProps {
 
 export function CardOverlay({ cell, cellState, columnType, onGuess, onClose, disabled }: CardOverlayProps) {
   const [inputValue, setInputValue] = useState('');
+  const [isInputFocused, setIsInputFocused] = useState(false);
   const inputRef = useRef<HTMLInputElement>(null);
   const overlayRef = useRef<HTMLDivElement>(null);
 
@@ -129,7 +130,7 @@ export function CardOverlay({ cell, cellState, columnType, onGuess, onClose, dis
       ref={overlayRef}
       onClick={handleOverlayClick}
     >
-      <div className={`card-overlay__card card-overlay__card--${columnType} ${isFlipped ? 'card-overlay__card--flipped' : ''}`}>
+      <div className={`card-overlay__card card-overlay__card--${columnType} ${isFlipped ? 'card-overlay__card--flipped' : ''} ${isInputFocused ? 'card-overlay__card--keyboard-open' : ''}`}>
         {/* Flip container */}
         <div
           className={`card-overlay__inner ${isFlipped ? 'card-overlay__inner--flipped' : ''}`}
@@ -187,6 +188,8 @@ export function CardOverlay({ cell, cellState, columnType, onGuess, onClose, dis
                     type="text"
                     value={inputValue}
                     onChange={(e) => setInputValue(e.target.value)}
+                    onFocus={() => setIsInputFocused(true)}
+                    onBlur={() => setIsInputFocused(false)}
                     placeholder="Guess here..."
                     className="card-overlay__input"
                     disabled={disabled}

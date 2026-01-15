@@ -16,18 +16,18 @@
   animation: overlayFadeIn 0.25s ease;
 }
 
-/* Mobile: position card from top to prevent keyboard push-up */
+/* Mobile: handle keyboard appearance */
 @media (max-width: 600px) {
   .card-overlay {
-    align-items: flex-start;
     overflow: hidden;
   }
 
   .card-overlay__card {
-    position: fixed;
-    top: var(--spacing-lg);
-    left: 50%;
-    transform: translateX(-50%);
+    transition: transform 0.2s ease;
+  }
+
+  .card-overlay__card--keyboard-open {
+    transform: translateY(15%);
   }
 }
 
