@@ -48,11 +48,21 @@ PUZZLE GENERATION RULES
 	Other clues in this vein are also acceptable as long as the constraint applies to every answer in its respective block (for people, place, and thing).
 
 -IMPORTANT: Avoid generic "Contains X" constraints where X is a common letter combination (like AR, IN, LE, ST, ND, etc.). These don't provide meaningful hints to players. "Contains X" is only acceptable when:
-	1. X is a double letter (Contains 'TT', Contains 'LL', etc.)
+	1. X is a double letter - ALWAYS word these as "Contains two 'X's in a row" (e.g., "Contains two 'L's in a row" NOT "Contains 'LL'")
 	2. X is a unique/uncommon combination (Contains 'GH', Contains 'PH', Contains 'QU', etc.)
 	3. X is a recognizable word or suffix embedded in the answer
 
-	Prefer "Starts with X" or "Ends with X" constraints over generic "Contains X" as they give players a clearer starting point.
+-CONSTRAINT VARIETY: When generating puzzles, prioritize MORE CREATIVE constraints over basic ones. Give extra weight to:
+	- Composed of two smaller words
+	- Contains an animal
+	- Contains a color
+	- Two/Three words beginning/ending with the same letter
+	- Starts and ends with the same letter
+	- Exactly X words
+	- Contains a number
+	- Rhymes with X
+
+	Use "Starts with X", "Ends with X", and "Contains XY" constraints more sparingly - they're acceptable but should not dominate the puzzle set.
 
 -When you generate clues please crosscheck the answers with the constraints to ensure the answer actually satisfies the constraint as I have noticed several instances with auto-generated puzzles in which not all of the answers within a given constraint block actually satisfy the constraint condition
 

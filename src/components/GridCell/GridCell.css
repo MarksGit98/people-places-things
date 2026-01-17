@@ -90,7 +90,7 @@
 }
 
 .grid-cell__back.result--yellow {
-  background: linear-gradient(135deg, var(--color-correct-2) 0%, #b9a448 100%);
+  background: linear-gradient(135deg, var(--color-correct-2) 0%, #C4AD2A 100%);
 }
 
 .grid-cell__back.result--orange {
@@ -108,7 +108,7 @@
 }
 
 .grid-cell__front.front--result--yellow {
-  background: linear-gradient(135deg, rgba(201, 180, 88, 0.15) 0%, rgba(201, 180, 88, 0.25) 100%);
+  background: linear-gradient(135deg, rgba(219, 197, 52, 0.15) 0%, rgba(219, 197, 52, 0.25) 100%);
   border-color: var(--color-correct-2);
 }
 

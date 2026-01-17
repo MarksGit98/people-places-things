@@ -20,7 +20,7 @@
 
   /* Result colors */
   --color-correct-1: #6AAA64;  /* Green - 1 guess */
-  --color-correct-2: #C9B458;  /* Yellow - 2 guesses */
+  --color-correct-2: #DBC534;  /* Yellow - 2 guesses */
   --color-correct-3: #E89846;  /* Orange - 3 guesses */
   --color-incorrect: #DC3545;  /* Red - failed */
 
