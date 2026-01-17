@@ -50,8 +50,8 @@
   --font-size-xs: 0.81rem;  /* 13px */
   --font-size-sm: 0.87rem; /* 14.5px */
   --font-size-md: 1.125rem;   /* 18px */
-  --font-size-clue-mobile: 0.6675rem; /* 10.5px */
-  --font-size-clue-mobile-sm: 0.5625rem; /* 9px - for smaller phones */
+  --font-size-clue-mobile: 0.668rem; /* 10.5px */
+  --font-size-clue-mobile-sm: 0.563rem; /* 9px - for smaller phones */
   --font-size-lg: 1.25rem;    /* 20px */
   --font-size-xl: 1.5rem;     /* 24px */
   --font-size-2xl: 2rem;      /* 32px */
@@ -97,8 +97,8 @@
 
   /* Grid */
   --cell-size: 221px;  /* 5% smaller than 233px */
-  --cell-size-mobile: 112px;
-  --cell-height-mobile: 192px;
+  --cell-size-mobile: 116px;
+  --cell-height-mobile: 196px;
   /* Small mobile (iPhone 16 and smaller ~390px screens) */
   --cell-size-mobile-sm: 95px;
   --cell-height-mobile-sm: 163px;
@@ -115,7 +115,7 @@
   --grid-gap-mobile: 4px;
   --grid-gap-mobile-sm: 3px;
   --row-label-width: 157px;  /* 5% smaller than 165px */
-  --row-label-width-mobile: 70px;
+  --row-label-width-mobile: 74px;
   --row-label-width-mobile-sm: 55px;
   --ribbon-darkened-side-width: 13px;  /* 5% smaller than 14px */
   --ribbon-darkened-side-width-mobile: 7px;
