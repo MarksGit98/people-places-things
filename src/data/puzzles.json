@@ -99,8 +99,8 @@
           "constraint": "Contains two 'E's in a row",
           "cells": [
             { "category": "people", "clue": "Not a guy whose dog you wanna mess with", "clue2": "Made a consequential choice between two pills", "answer": "Keanu Reeves", "imageUrl": "" },
-            { "category": "places", "clue": "Birthplace of the Olympics", "clue2": "Known for its olives and feta cheese", "answer": "Greece", "imageUrl": "" },
-            { "category": "things", "clue": "A workplace essential", "clue2": "A product of beans", "answer": "Coffee", "imageUrl": "" }
+            { "category": "places", "clue": "Birthplace of the Olympics", "clue2": "Known for its olives, feta, and yogurt", "answer": "Greece", "imageUrl": "" },
+            { "category": "things", "clue": "An American office staple", "clue2": "A product of beans", "answer": "Coffee", "imageUrl": "" }
           ]
         },
         {
@@ -371,24 +371,24 @@
           "constraint": "Contains 'CH'",
           "cells": [
             { "category": "people", "clue": "<i>The Little Tramp</i> turned poverty into poetry and pratfalls", "clue2": "Silent film star whose work is as iconic as his facial hair", "answer": "Charlie Chaplin", "acceptableAnswers": ["Chaplin"], "imageUrl": "" },
-            { "category": "places", "clue": "Revolutionary artists and exiled writers banked in this lakeside city", "clue2": "Where the League of Nations failed and CERN succeeded", "answer": "Zurich", "imageUrl": "" },
-            { "category": "things", "clue": "Medieval board game where strategy meets patience across 64 squares", "clue2": "Game where queens dominate and kings hide behind pawns", "answer": "Chess", "imageUrl": "" }
+            { "category": "places", "clue": "Revolutionary artists and exiled writers banked in this lakeside city", "clue2": "The land were Carl Jung once practiced psychiatry, now the headquarters for FIFA", "answer": "Zurich", "imageUrl": "" },
+            { "category": "things", "clue": "IBM made history with a computer program that beat world champion Gary Kasparov at this game", "clue2": "This straegy board game has endured for millenia", "answer": "Chess", "imageUrl": "" }
           ]
         },
         {
           "constraint": "Exactly two words",
           "cells": [
-            { "category": "people", "clue": "He made weeping women and bombed towns both hauntingly beautiful", "clue2": "Spanish master whose periods were color-coded", "answer": "Pablo Picasso", "acceptableAnswers": ["Picasso"], "imageUrl": "" },
-            { "category": "places", "clue": "Colombian port where Gabriel Garcia Marquez set his solitude", "clue2": "Caribbean coast city known for old walls and magical realism", "answer": "Santa Marta", "imageUrl": "" },
-            { "category": "things", "clue": "Device pilots use to know which way is up when the clouds say otherwise", "clue2": "Cockpit instrument that shows whether you're flying level or banking", "answer": "Artificial Horizon", "acceptableAnswers": ["Attitude Indicator"], "imageUrl": "" }
+            { "category": "people", "clue": "Famously depicted a weeping woman", "clue2": "This Spanish master's work grew increasingly surreal as his career progressed", "answer": "Pablo Picasso", "acceptableAnswers": ["Picasso"], "imageUrl": "" },
+            { "category": "places", "clue": "One of the first Spanish settlements in South America and where Simón Bolívar died", "clue2": "Port city or a saint?", "answer": "Santa Marta", "imageUrl": "" },
+            { "category": "things", "clue": "An enchanted weapon wielded exclusively by the God of Thunder", "clue2": "Like a boomerang but only for the man of it's namesake", "answer": "Thor's Hammer", "acceptableAnswers": ["Mjölnir"], "imageUrl": "" }
           ]
         },
         {
           "constraint": "Starts with the letter 'M'",
           "cells": [
-            { "category": "people", "clue": "He floated, he stung, and he shook up the world", "clue2": "Louisville Lip who lit the Olympic cauldron in Atlanta", "answer": "Muhammad Ali", "acceptableAnswers": ["Ali"], "imageUrl": "" },
-            { "category": "places", "clue": "Island where lemurs evolved in isolation and vanilla grows in abundance", "clue2": "African island nation off the southeast coast, fourth largest in the world", "answer": "Madagascar", "imageUrl": "" },
-            { "category": "things", "clue": "Musician's timekeeper that clicks away while you practice scales", "clue2": "Pendulum device that helps keep tempo during piano lessons", "answer": "Metronome", "imageUrl": "" }
+            { "category": "people", "clue": "He floated, he stung, and he shook up the world", "clue2": "He took a bold stance refusing to serve in America's imperial wars", "answer": "Muhammad Ali", "acceptableAnswers": ["Ali"], "imageUrl": "" },
+            { "category": "places", "clue": "Where King Julien ruled over a great colony of lemurs", "clue2": "Fourth largest island nation best known for its biodiversity and beautiful beaches", "answer": "Madagascar", "imageUrl": "" },
+            { "category": "things", "clue": "A musician's clicking companion", "clue2": "Pendulum device that helps keep tempo", "answer": "Metronome", "imageUrl": "" }
           ]
         }
       ]
@@ -398,9 +398,9 @@
         {
           "constraint": "Contains 'TH'",
           "cells": [
-            { "category": "people", "clue": "Franco-American actor who bit a peach in Italy and conquered Arrakis", "clue2": "Young heartthrob who went from indie darling to spice planet savior", "answer": "Timothee Chalamet", "acceptableAnswers": ["Chalamet"], "imageUrl": "" },
-            { "category": "places", "clue": "Ancient city-state where Socrates asked questions nobody wanted answered", "clue2": "Where the Parthenon still lords over the Acropolis", "answer": "Athens", "imageUrl": "" },
-            { "category": "things", "clue": "What separates a bathroom from a potential flood zone", "clue2": "Flexible barrier that keeps shower water from escaping", "answer": "Bathtub", "imageUrl": "" }
+            { "category": "people", "clue": "Young New York City native gunning for greatness on the big screen", "clue2": "He proudly represented his country in table tennis and previously conquered Arrakis", "answer": "Timothee Chalamet", "acceptableAnswers": ["Chalamet"], "imageUrl": "" },
+            { "category": "places", "clue": "Birthplace of democracy (at least for some...)", "clue2": "Where Socrates was sentenced to drinnk Hemlock", "answer": "Athens", "imageUrl": "" },
+            { "category": "things", "clue": "Where one can find a myriad of \"options\",\"choices\", \"selections\", etc", "clue2": "What you consult when you've used \"very\" too many times", "answer": "Thesaurus", "imageUrl": "" }
           ]
         },
         {

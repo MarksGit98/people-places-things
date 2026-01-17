@@ -84,7 +84,12 @@
   opacity: 0.7;
 }
 
-/* Close button on back of card - white */
+/* Close button on back of card - white and positioned left (appears right after 180deg flip) */
+.card-overlay__close--back {
+  right: auto;
+  left: var(--spacing-sm);
+}
+
 .card-overlay__close--back svg {
   color: white;
 }

@@ -63,6 +63,7 @@ function App() {
     if (isComplete && !hasShownResults.current) {
       hasShownResults.current = true;
       const timer = setTimeout(() => {
+        setOverlayCell(null); // Close any open card overlay before showing results
         setShowResults(true);
       }, 1500);
       return () => clearTimeout(timer);
