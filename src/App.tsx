@@ -1,4 +1,5 @@
 import { useState, useEffect, useRef } from 'react';
+import { Analytics } from '@vercel/analytics/react';
 import { Header, GameBoard, ResultsModal, HowToPlay, CardOverlay } from './components';
 import { useGameState } from './hooks/useGameState';
 import puzzleData from './data/puzzles.json';
@@ -166,6 +167,8 @@ function App() {
           disabled={isComplete}
         />
       )}
+
+      <Analytics />
     </div>
   );
 }
