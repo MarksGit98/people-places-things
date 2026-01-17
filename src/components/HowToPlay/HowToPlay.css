@@ -297,7 +297,7 @@
 /* Mobile styles */
 @media (max-width: 600px) {
   .how-to-play {
-    margin: var(--spacing-lg) var(--spacing-md) var(--spacing-sm);
+    margin: var(--spacing-lg) 20px var(--spacing-sm);
     padding: var(--spacing-sm);
   }
 
@@ -347,7 +347,7 @@
 /* Small mobile styles (iPhone 16 and smaller ~390px screens) */
 @media (max-width: 414px) {
   .how-to-play {
-    margin: var(--spacing-sm) var(--spacing-xs) var(--spacing-xs);
+    margin: var(--spacing-sm) 20px var(--spacing-xs);
     padding: var(--spacing-xs);
   }
 

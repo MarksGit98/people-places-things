@@ -51,19 +51,40 @@ interface CardOverlayProps {
 export function CardOverlay({ cell, cellState, columnType, onGuess, onClose, disabled }: CardOverlayProps) {
   const [inputValue, setInputValue] = useState('');
   const [isInputFocused, setIsInputFocused] = useState(false);
+  const [isShaking, setIsShaking] = useState(false);
   const inputRef = useRef<HTMLInputElement>(null);
   const overlayRef = useRef<HTMLDivElement>(null);
   const prevStatusRef = useRef(cellState.status);
+  const prevGuessCountRef = useRef(cellState.guesses.length);
 
   const isComplete = cellState.status === 'correct' || cellState.status === 'incorrect';
 
   // Initialize flipped state - start flipped if already complete (no animation)
   const [isFlipped, setIsFlipped] = useState(isComplete);
 
+  // Shake animation on wrong guess
+  useEffect(() => {
+    const currentGuessCount = cellState.guesses.length;
+    // If guess count increased, it was a wrong guess (whether still pending or now incorrect)
+    if (currentGuessCount > prevGuessCountRef.current) {
+      setIsShaking(true);
+      const timer = setTimeout(() => {
+        setIsShaking(false);
+        // If status became incorrect, flip to show the answer after shake
+        if (cellState.status === 'incorrect') {
+          setIsFlipped(true);
+        }
+      }, 500);
+      prevGuessCountRef.current = currentGuessCount;
+      return () => clearTimeout(timer);
+    }
+    prevGuessCountRef.current = currentGuessCount;
+  }, [cellState.guesses.length, cellState.status]);
+
   // Auto-close after correct answer on mobile
   useEffect(() => {
     // Check if status just changed to correct (was pending before)
-    if (cellState.status === 'correct' && prevStatusRef.current === 'pending') {
+    if (cellState.status === 'correct' && prevStatusRef.current === 'unanswered') {
       // Flip to show answer
       setIsFlipped(true);
       // Auto-close after 1 second
@@ -160,7 +181,7 @@ export function CardOverlay({ cell, cellState, columnType, onGuess, onClose, dis
       ref={overlayRef}
       onClick={handleOverlayClick}
     >
-      <div className={`card-overlay__card card-overlay__card--${columnType} ${isFlipped ? 'card-overlay__card--flipped' : ''} ${isInputFocused ? 'card-overlay__card--keyboard-open' : ''}`}>
+      <div className={`card-overlay__card card-overlay__card--${columnType} ${isFlipped ? 'card-overlay__card--flipped' : ''} ${isInputFocused ? 'card-overlay__card--keyboard-open' : ''} ${isShaking ? 'card-overlay__card--shaking' : ''}`}>
         {/* Flip container */}
         <div
           className={`card-overlay__inner ${isFlipped ? 'card-overlay__inner--flipped' : ''}`}
