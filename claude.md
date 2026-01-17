@@ -82,4 +82,28 @@ CLUE STYLE GUIDELINES
 -Avoid phrases that literally describe the physical object (e.g., "two sticks connected by a chain" is too direct for nunchucks - prefer "Bruce Lee's combat weapon of choice").
 
 
+CRITICAL CLUE QUALITY RULES
+
+-NEVER include words from the answer in the clue text. This includes partial words, root words, and obvious derivatives. For example:
+	- If the answer is "Greenhouse," do not use "green" or "house" in the clue
+	- If the answer is "San Francisco," do not use "San" or "Francisco" in the clue
+	- If the answer is "Butterfly Knife," do not use "butterfly" or "knife" in the clue
+	This rule must be verified for EVERY clue before finalizing.
+
+-For city/place answers, the FIRST clue should NOT reveal the country. Save country references for the second clue if needed. The first clue should rely on cultural associations, historical events, or clever misdirection that doesn't immediately narrow down geography.
+
+-Prioritize NICHE over obvious. Actively avoid overused answers like:
+	- Cities: Paris, London, New York, Tokyo, Los Angeles (unless essential to a constraint)
+	- People: Only A-list celebrities. Mix in B-list celebrities, historical figures, cult favorites, and iconic fictional characters
+	- Things: Generic household items. Prefer specific tools, cultural artifacts, historical inventions, branded items, and fictional objects
+
+-Embrace fictional characters, places, and things more liberally. These add variety and fun:
+	- Fictional People: Sherlock Holmes, Darth Vader, Hermione Granger, James Bond, etc.
+	- Fictional Places: Gotham City, Mordor, Wakanda, Springfield, etc.
+	- Fictional Things: Infinity Gauntlet, Elder Wand, One Ring, DeLorean Time Machine, etc.
+	When using fictional answers, include a subtle hint in the clue that indicates fiction (e.g., "on the big screen," "in Tolkien's world," "according to Marvel").
+
+-Every clue should pass the "would this be in the NYT crossword?" test. If a clue feels lazy, obvious, or definition-like, rewrite it with more personality.
+
+
 
