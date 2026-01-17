@@ -406,17 +406,17 @@
         {
           "constraint": "Ends in 'O'",
           "cells": [
-            { "category": "people", "clue": "Hollywood's eternal pretty boy finally proved he could suffer for his art in the frozen wild", "clue2": "He sank with the Titanic but rose with The Revenant", "answer": "Leonardo DiCaprio", "acceptableAnswers": ["DiCaprio", "Leo"], "imageUrl": "" },
-            { "category": "places", "clue": "Moroccan port where Bogart's Rick waited for the letters of transit", "clue2": "White city immortalized by a 1942 film and a certain gin joint", "answer": "Morocco", "imageUrl": "" },
-            { "category": "things", "clue": "Underwater missile that submarines fire at unsuspecting ships", "clue2": "Self-propelled naval weapon that sank the Lusitania", "answer": "Torpedo", "imageUrl": "" }
+            { "category": "people", "clue": "From sinking on the world's biggest ship to charting superyachts in his spare time", "clue2": "Fought a bear to finally win his Oscar", "answer": "Leonardo DiCaprio", "acceptableAnswers": ["DiCaprio", "Leo"], "imageUrl": "" },
+            { "category": "places", "clue": "Kingdom where you can haggle for spices in the souk", "clue2": "White city immortalized by a 1942 film that takes largely in a nightclub", "answer": "Morocco", "imageUrl": "" },
+            { "category": "things", "clue": "What sank the Lusitania", "clue2": "Silent but deadly self-propelled naval weapon", "answer": "Torpedo", "imageUrl": "" }
           ]
         },
         {
           "constraint": "Starts with the letter 'D'",
           "cells": [
-            { "category": "people", "clue": "The thin white duke fell to earth and changed his face with every album", "clue2": "Ziggy played guitar, and so did the man from Brixton who created him", "answer": "David Bowie", "acceptableAnswers": ["Bowie"], "imageUrl": "" },
-            { "category": "places", "clue": "German city divided by a wall that fell in 1989 while people danced", "clue2": "Cold War's most famous split city, now reunified and hip", "answer": "Dresden", "imageUrl": "" },
-            { "category": "things", "clue": "Australian wind instrument that drones on for those with circular breath", "clue2": "Aboriginal hollow log that produces that distinctive low hum", "answer": "Didgeridoo", "imageUrl": "" }
+            { "category": "people", "clue": "A certain Italian plumber's original nemesis back when he went by a different alias", "clue2": "He wears only a tie and has been rolling barrels with the 80s", "answer": "Donkey Kong", "imageUrl": "" },
+            { "category": "places", "clue": "This host of Europe's oldest Christmas market is known as the \"Florence on the Elbe\"", "clue2": "Cold War's most famous split city, now reunified", "answer": "Dresden", "imageUrl": "" },
+            { "category": "things", "clue": "Arguably the world's oldest wind instrument", "clue2": "Aboriginal people played music from this hollow wooden tube with a funny English name", "answer": "Didgeridoo", "imageUrl": "" }
           ]
         }
       ]
