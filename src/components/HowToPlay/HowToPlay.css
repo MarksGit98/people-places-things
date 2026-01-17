@@ -71,7 +71,7 @@
   }
 
   .how-to-play__rules--visible {
-    gap: var(--spacing-md);
+    gap: var(--spacing-lg);
     margin-top: var(--spacing-md);
   }
 
@@ -104,7 +104,7 @@
 .how-to-play__rules {
   display: flex;
   flex-direction: column;
-  gap: var(--spacing-sm);
+  gap: var(--spacing-md);
 }
 
 .how-to-play__rule {
@@ -185,6 +185,7 @@
 
 .how-to-play__category-list {
   margin: 0;
+  margin-top: var(--spacing-xs);
   padding-left: var(--spacing-sm);
   font-size: var(--font-size-xs);
   color: var(--color-text-secondary);
@@ -192,7 +193,11 @@
 }
 
 .how-to-play__category-list li {
-  margin-bottom: 1px;
+  margin-bottom: var(--spacing-xs);
+}
+
+.how-to-play__category-list li:last-child {
+  margin-bottom: 0;
 }
 
 .how-to-play__icon--clue {
@@ -243,7 +248,7 @@
   display: block;
   font-size: var(--font-size-sm);
   color: var(--color-text-primary);
-  margin-bottom: 1px;
+  margin-bottom: var(--spacing-xs);
 }
 
 .how-to-play__text p {
@@ -251,6 +256,10 @@
   color: var(--color-text-secondary);
   line-height: var(--line-height-normal);
   margin: 0;
+}
+
+.how-to-play__text p + p {
+  margin-top: var(--spacing-xs);
 }
 
 /* Category colors */
@@ -297,7 +306,7 @@
   }
 
   .how-to-play__rules--visible {
-    gap: var(--spacing-xs);
+    gap: var(--spacing-sm);
     margin-top: var(--spacing-sm);
   }
 
@@ -312,16 +321,26 @@
 
   .how-to-play__text strong {
     font-size: var(--font-size-xs);
+    margin-bottom: 3px;
   }
 
   .how-to-play__text p {
     font-size: 10px;
   }
 
+  .how-to-play__text p + p {
+    margin-top: 3px;
+  }
+
   .how-to-play__category-list {
     font-size: 10px;
     padding-left: 0;
     list-style: none;
+    margin-top: 3px;
+  }
+
+  .how-to-play__category-list li {
+    margin-bottom: 3px;
   }
 }
 
@@ -342,7 +361,7 @@
   }
 
   .how-to-play__rules--visible {
-    gap: 3px;
+    gap: var(--spacing-xs);
     margin-top: var(--spacing-xs);
   }
 
@@ -357,13 +376,23 @@
 
   .how-to-play__text strong {
     font-size: 10px;
+    margin-bottom: 2px;
   }
 
   .how-to-play__text p {
     font-size: 9px;
   }
 
+  .how-to-play__text p + p {
+    margin-top: 2px;
+  }
+
   .how-to-play__category-list {
     font-size: 9px;
+    margin-top: 2px;
+  }
+
+  .how-to-play__category-list li {
+    margin-bottom: 2px;
   }
 }
