@@ -370,8 +370,8 @@
         {
           "constraint": "Contains 'CH'",
           "cells": [
-            { "category": "people", "clue": "The Little Tramp turned poverty into poetry and pratfalls", "clue2": "Silent film icon who gave the world Modern Times", "answer": "Charlie Chaplin", "acceptableAnswers": ["Chaplin"], "imageUrl": "" },
-            { "category": "places", "clue": "Swiss lakeside city where the UN keeps a second home", "clue2": "Where the League of Nations failed and CERN succeeded", "answer": "Zurich", "imageUrl": "" },
+            { "category": "people", "clue": "<i>The Little Tramp</i> turned poverty into poetry and pratfalls", "clue2": "Silent film star whose work is as iconic as his facial hair", "answer": "Charlie Chaplin", "acceptableAnswers": ["Chaplin"], "imageUrl": "" },
+            { "category": "places", "clue": "Revolutionary artists and exiled writers banked in this lakeside city", "clue2": "Where the League of Nations failed and CERN succeeded", "answer": "Zurich", "imageUrl": "" },
             { "category": "things", "clue": "Medieval board game where strategy meets patience across 64 squares", "clue2": "Game where queens dominate and kings hide behind pawns", "answer": "Chess", "imageUrl": "" }
           ]
         },
