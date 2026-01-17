@@ -69,9 +69,29 @@ export function useGameState(puzzle: Puzzle) {
     return loaded;
   });
 
-  // Reset state when puzzle changes
+  // Reset state when puzzle changes - force fresh state if puzzleId doesn't match
   useEffect(() => {
-    const loaded = loadGameState(puzzle.id);
+    // Always create fresh state when puzzle.id changes to ensure clean reset
+    const storedState = localStorage.getItem(STORAGE_KEY);
+    let loaded: GameState;
+
+    if (storedState) {
+      try {
+        const parsed: GameState = JSON.parse(storedState);
+        // Only use stored state if it's for the current puzzle
+        if (parsed.puzzleId === puzzle.id) {
+          loaded = parsed;
+        } else {
+          // Different puzzle - create fresh state
+          loaded = createInitialGameState(puzzle.id);
+        }
+      } catch {
+        loaded = createInitialGameState(puzzle.id);
+      }
+    } else {
+      loaded = createInitialGameState(puzzle.id);
+    }
+
     const isComplete = loaded.cells.every((row) =>
       row.every((cell) => cell.status === 'correct' || cell.status === 'incorrect')
     );
@@ -82,10 +102,14 @@ export function useGameState(puzzle: Puzzle) {
     }
   }, [puzzle.id]);
 
-  // Save to localStorage whenever state changes
+  // Save to localStorage whenever state changes, but only if puzzleId matches
   useEffect(() => {
-    saveGameState(gameState);
-  }, [gameState]);
+    // Only save if the gameState puzzleId matches the current puzzle
+    // This prevents saving stale state during puzzle transitions
+    if (gameState.puzzleId === puzzle.id) {
+      saveGameState(gameState);
+    }
+  }, [gameState, puzzle.id]);
 
   const handleGuess = useCallback(
     (rowIndex: number, colIndex: number, guess: string) => {
