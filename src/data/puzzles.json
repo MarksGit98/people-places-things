@@ -90,7 +90,7 @@
         {
           "constraint": "Starts with the letter 'M'",
           "cells": [
-            { "category": "people", "clue": "Formerly a member of a 5 brother band", "clue2": "Famously pioneered an iconic dance move that involves stepping backwards", "answer": "Michael Jackson", "imageUrl": "" },
+            { "category": "people", "clue": "Formerly a member of a band with four of his brothers", "clue2": "Pioneered an iconic dance move that involves stepping backwards with ease", "answer": "Michael Jackson", "imageUrl": "" },
             { "category": "places", "clue": "Once controlled by the Bolsheviks", "clue2": "City architecturally distinguished by its onion-shaped domes", "answer": "Moscow", "imageUrl": "" },
             { "category": "things", "clue": "Crown jewel of the Louvre", "clue2": "A masterpiece featuring an enigmatic smile", "answer": "The Mona Lisa", "acceptableAnswers": ["Mona Lisa"], "imageUrl": "" }
           ]
