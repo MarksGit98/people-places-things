@@ -62,11 +62,11 @@ export function CardOverlay({ cell, cellState, columnType, onGuess, onClose, dis
   // Initialize flipped state - start flipped if already complete (no animation)
   const [isFlipped, setIsFlipped] = useState(isComplete);
 
-  // Shake animation on wrong guess
+  // Shake animation on wrong guess only (not on correct guesses)
   useEffect(() => {
     const currentGuessCount = cellState.guesses.length;
-    // If guess count increased, it was a wrong guess (whether still pending or now incorrect)
-    if (currentGuessCount > prevGuessCountRef.current) {
+    // Only shake if guess count increased AND the answer was wrong (status is not 'correct')
+    if (currentGuessCount > prevGuessCountRef.current && cellState.status !== 'correct') {
       setIsShaking(true);
       const timer = setTimeout(() => {
         setIsShaking(false);

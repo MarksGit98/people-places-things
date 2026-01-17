@@ -42,3 +42,15 @@ a {
   color: inherit;
   text-decoration: none;
 }
+
+/* Hide scrollbar on mobile while keeping scroll functionality */
+@media (max-width: 600px) {
+  body {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+  }
+
+  body::-webkit-scrollbar {
+    display: none;  /* Chrome, Safari, Opera */
+  }
+}
