@@ -73,47 +73,14 @@
   color: var(--color-text-primary);
 }
 
-/* Mini title banner */
-.results-modal__title {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  margin-bottom: var(--spacing-md);
-  font-size: var(--font-size-md);
-}
-
-.results-modal__title-line {
+/* Game banner image */
+.results-modal__banner {
   display: block;
-  text-align: center;
-}
-
-.results-modal__word {
-  display: inline;
-  font-size: 1em;
-}
-
-.results-modal__word--people {
-  font-family: 'Pacifico', cursive;
-  color: #e74c3c;
-  margin-right: 2px;
-}
-
-.results-modal__word--places {
-  font-family: 'Playfair Display', serif;
-  color: #3498db;
-  font-style: italic;
-}
-
-.results-modal__word--things {
-  font-family: 'Bebas Neue', sans-serif;
-  color: #27ae60;
-  letter-spacing: 0.5px;
-  text-transform: uppercase;
-}
-
-.results-modal__separator {
-  color: #1a1a1a;
-  font-weight: var(--font-weight-bold);
+  margin: 0 auto var(--spacing-md);
+  max-width: 100%;
+  height: auto;
+  max-height: 100px;
+  object-fit: contain;
 }
 
 .results-modal__score {
@@ -122,6 +89,7 @@
   justify-content: center;
   gap: 2px;
   margin-bottom: var(--spacing-lg);
+  font-family: var(--font-family);
 }
 
 .results-modal__score-number {
@@ -144,8 +112,9 @@
 }
 
 .results-modal__score-label {
+  font-family: var(--font-family-tagline);
   font-size: var(--font-size-xl);
-  font-weight: var(--font-weight-semibold);
+  font-weight: normal;
   color: var(--color-text-primary);
   margin-left: var(--spacing-sm);
 }
@@ -170,47 +139,44 @@
 
 .results-modal__share {
   width: 100%;
-  padding: var(--spacing-md) var(--spacing-lg);
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  padding: var(--spacing-lg) var(--spacing-xl);
+  background: linear-gradient(135deg, var(--color-correct-1) 0%, #5A9A54 100%);
   color: white;
-  font-size: var(--font-size-md);
-  font-weight: var(--font-weight-semibold);
+  font-family: var(--font-family);
+  font-size: var(--font-size-lg);
+  font-weight: var(--font-weight-bold);
   border-radius: var(--radius-lg);
   transition: opacity var(--transition-fast), transform var(--transition-fast);
   display: flex;
   align-items: center;
   justify-content: center;
   gap: var(--spacing-sm);
-  /* Paper cutout effect */
-  border: 2px solid rgba(255, 255, 255, 0.8);
+  border: none;
   box-shadow:
-    0 0 0 1px rgba(255, 255, 255, 0.3),
-    2px 2px 0 #5568ca,
-    4px 4px 0 #4458ba,
+    2px 2px 0 #5A9A54,
+    4px 4px 0 #4A8A44,
     5px 5px 8px rgba(0, 0, 0, 0.2);
 }
 
 .results-modal__share svg {
-  width: 20px;
-  height: 20px;
+  width: 22px;
+  height: 22px;
 }
 
 .results-modal__share:hover {
   opacity: 0.95;
   transform: translateY(-2px);
   box-shadow:
-    0 0 0 1px rgba(255, 255, 255, 0.3),
-    3px 3px 0 #5568ca,
-    5px 5px 0 #4458ba,
+    3px 3px 0 #5A9A54,
+    5px 5px 0 #4A8A44,
     7px 7px 12px rgba(0, 0, 0, 0.25);
 }
 
 .results-modal__share:active {
   transform: translateY(0);
   box-shadow:
-    0 0 0 1px rgba(255, 255, 255, 0.3),
-    1px 1px 0 #5568ca,
-    2px 2px 0 #4458ba,
+    1px 1px 0 #5A9A54,
+    2px 2px 0 #4A8A44,
     3px 3px 6px rgba(0, 0, 0, 0.2);
 }
 
@@ -226,8 +192,8 @@
       8px 8px 16px rgba(0, 0, 0, 0.2);
   }
 
-  .results-modal__title {
-    font-size: var(--font-size-sm);
+  .results-modal__banner {
+    max-height: 80px;
   }
 
   .results-modal__emoji {
@@ -248,18 +214,17 @@
   }
 
   .results-modal__share {
-    padding: var(--spacing-sm) var(--spacing-md);
-    font-size: var(--font-size-sm);
+    padding: var(--spacing-md) var(--spacing-lg);
+    font-size: var(--font-size-md);
     box-shadow:
-      0 0 0 1px rgba(255, 255, 255, 0.3),
-      2px 2px 0 #5568ca,
-      3px 3px 0 #4458ba,
+      2px 2px 0 #5A9A54,
+      3px 3px 0 #4A8A44,
       4px 4px 6px rgba(0, 0, 0, 0.15);
   }
 
   .results-modal__share svg {
-    width: 18px;
-    height: 18px;
+    width: 20px;
+    height: 20px;
   }
 }
 
@@ -270,8 +235,8 @@
     max-width: 260px;
   }
 
-  .results-modal__title {
-    font-size: var(--font-size-xs);
+  .results-modal__banner {
+    max-height: 65px;
     margin-bottom: var(--spacing-sm);
   }
 
@@ -297,13 +262,13 @@
   }
 
   .results-modal__share {
-    padding: var(--spacing-xs) var(--spacing-sm);
-    font-size: var(--font-size-xs);
+    padding: var(--spacing-sm) var(--spacing-md);
+    font-size: var(--font-size-sm);
   }
 
   .results-modal__share svg {
-    width: 16px;
-    height: 16px;
+    width: 18px;
+    height: 18px;
   }
 
   .results-modal__close {

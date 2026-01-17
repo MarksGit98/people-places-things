@@ -53,11 +53,27 @@ export function CardOverlay({ cell, cellState, columnType, onGuess, onClose, dis
   const [isInputFocused, setIsInputFocused] = useState(false);
   const inputRef = useRef<HTMLInputElement>(null);
   const overlayRef = useRef<HTMLDivElement>(null);
+  const prevStatusRef = useRef(cellState.status);
 
   const isComplete = cellState.status === 'correct' || cellState.status === 'incorrect';
 
   // Initialize flipped state - start flipped if already complete (no animation)
   const [isFlipped, setIsFlipped] = useState(isComplete);
+
+  // Auto-close after correct answer on mobile
+  useEffect(() => {
+    // Check if status just changed to correct (was pending before)
+    if (cellState.status === 'correct' && prevStatusRef.current === 'pending') {
+      // Flip to show answer
+      setIsFlipped(true);
+      // Auto-close after 1 second
+      const timer = setTimeout(() => {
+        onClose();
+      }, 1000);
+      return () => clearTimeout(timer);
+    }
+    prevStatusRef.current = cellState.status;
+  }, [cellState.status, onClose]);
 
   // Focus input when overlay opens (if not complete) - desktop only
   useEffect(() => {

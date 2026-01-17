@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import type { ShareResult } from '../../types';
+import bannerImage from '../../assets/Game Banner.png';
 import './ResultsModal.css';
 
 interface ResultsModalProps {
@@ -58,17 +59,11 @@ Play at ${gameUrl}`;
           </svg>
         </button>
 
-        <div className="results-modal__title">
-          <span className="results-modal__title-line">
-            <span className="results-modal__word results-modal__word--people">People</span>
-            <span className="results-modal__separator">, </span>
-            <span className="results-modal__word results-modal__word--places">Places</span>
-          </span>
-          <span className="results-modal__title-line">
-            <span className="results-modal__separator">& </span>
-            <span className="results-modal__word results-modal__word--things">Things</span>
-          </span>
-        </div>
+        <img
+          src={bannerImage}
+          alt="People, Places, and Things"
+          className="results-modal__banner"
+        />
 
         <div className="results-modal__score">
           <span className="results-modal__score-number">{result.correctCount}</span>
