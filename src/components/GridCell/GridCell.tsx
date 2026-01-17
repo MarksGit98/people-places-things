@@ -3,6 +3,17 @@ import type { ReactNode } from 'react';
 import type { Cell, CellState, ColumnType } from '../../types';
 import './GridCell.css';
 
+/** Threshold for considering a word "long" (requires smaller font) */
+const LONG_WORD_THRESHOLD = 12;
+
+/**
+ * Checks if the answer contains a continuous word (no spaces) that is 12+ characters
+ */
+function hasLongWord(answer: string): boolean {
+  const words = answer.split(/\s+/);
+  return words.some(word => word.length >= LONG_WORD_THRESHOLD);
+}
+
 /**
  * Parses text containing <i> tags and returns React elements with italic styling
  */
@@ -232,7 +243,7 @@ export function GridCell({ cell, cellState, columnType, onGuess, onOpenOverlay, 
               </svg>
             )}
           </div>
-          <p className="grid-cell__answer-text">{cell.answer}</p>
+          <p className={`grid-cell__answer-text ${hasLongWord(cell.answer) ? 'grid-cell__answer-text--long' : ''}`}>{cell.answer}</p>
           <div className="grid-cell__tap-hint-container grid-cell__tap-hint-container--back">
             <div className="grid-cell__tap-hint-line grid-cell__tap-hint-line--back"></div>
             <p className="grid-cell__tap-hint grid-cell__tap-hint--back">{isMobile ? 'Hold to flip' : 'Tap to view clues'}</p>

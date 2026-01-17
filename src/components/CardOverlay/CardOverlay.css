@@ -404,6 +404,11 @@
   text-align: center;
 }
 
+/* Smaller font for long continuous words (12+ characters) */
+.card-overlay__answer-text--long {
+  font-size: var(--font-size-answer-long-overlay);
+}
+
 /* Tap hint */
 .card-overlay__tap-hint {
   margin-top: auto;
@@ -465,6 +470,10 @@
 
   .card-overlay__answer-text {
     font-size: var(--font-size-xl);
+  }
+
+  .card-overlay__answer-text--long {
+    font-size: var(--font-size-lg);
   }
 
   .card-overlay__result-indicator {

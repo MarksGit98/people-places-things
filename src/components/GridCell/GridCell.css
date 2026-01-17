@@ -326,6 +326,11 @@
   font-weight: var(--font-weight-bold);
 }
 
+/* Smaller font for long continuous words (12+ characters) */
+.grid-cell__answer-text--long {
+  font-size: var(--font-size-answer-long);
+}
+
 /* Result indicator - centered in upper third of back card */
 .grid-cell__result-indicator {
   position: absolute;
@@ -431,6 +436,10 @@
     font-size: var(--font-size-md);
   }
 
+  .grid-cell__answer-text--long {
+    font-size: var(--font-size-answer-long-mobile);
+  }
+
   .grid-cell__result-icon {
     width: 16px;
     height: 16px;
@@ -499,6 +508,10 @@
 
   .grid-cell__answer-text {
     font-size: var(--font-size-sm);
+  }
+
+  .grid-cell__answer-text--long {
+    font-size: var(--font-size-answer-long-mobile-sm);
   }
 
   .grid-cell__result-icon {

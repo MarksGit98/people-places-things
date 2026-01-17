@@ -3,6 +3,17 @@ import type { ReactNode } from 'react';
 import type { Cell, CellState, ColumnType } from '../../types';
 import './CardOverlay.css';
 
+/** Threshold for considering a word "long" (requires smaller font) */
+const LONG_WORD_THRESHOLD = 12;
+
+/**
+ * Checks if the answer contains a continuous word (no spaces) that is 12+ characters
+ */
+function hasLongWord(answer: string): boolean {
+  const words = answer.split(/\s+/);
+  return words.some(word => word.length >= LONG_WORD_THRESHOLD);
+}
+
 /**
  * Parses text containing <i> tags and returns React elements with italic styling
  */
@@ -257,7 +268,7 @@ export function CardOverlay({ cell, cellState, columnType, onGuess, onClose, dis
               )}
             </div>
 
-            <p className="card-overlay__answer-text">{cell.answer}</p>
+            <p className={`card-overlay__answer-text ${hasLongWord(cell.answer) ? 'card-overlay__answer-text--long' : ''}`}>{cell.answer}</p>
 
             <div className="card-overlay__tap-hint card-overlay__tap-hint--back">
               <p>Tap to view clues</p>
