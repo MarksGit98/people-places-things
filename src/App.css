@@ -4,44 +4,12 @@
   flex-direction: column;
 }
 
-.app__layout {
-  flex: 1;
-  display: flex;
-  justify-content: center;
-  position: relative;
-}
-
-.app__sidebar {
-  display: none;
-  position: fixed;
-  top: 50%;
-  transform: translateY(-50%);
-  width: 160px;
-  padding: var(--spacing-md);
-}
-
-.app__sidebar--left {
-  left: var(--spacing-lg);
-}
-
-.app__sidebar--right {
-  right: var(--spacing-lg);
-}
-
-/* Show sidebars only on larger screens with enough room */
-@media (min-width: 1200px) {
-  .app__sidebar {
-    display: block;
-  }
-}
-
 .app__main {
   flex: 1;
   display: flex;
   flex-direction: column;
   align-items: center;
   padding: var(--spacing-xs) var(--spacing-md) var(--spacing-md);
-  max-width: 800px;
 }
 
 .app__ad-below-game {
