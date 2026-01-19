@@ -101,8 +101,8 @@
   --cell-size-mobile: 116px;
   --cell-height-mobile: 196px;
   /* Small mobile (iPhone 16 and smaller ~390px screens) */
-  --cell-size-mobile-sm: 100px;
-  --cell-height-mobile-sm: 170px;
+  --cell-size-mobile-sm: 105px;
+  --cell-height-mobile-sm: 175px;
 
   /* Card overlay (mobile enlarged view) */
   --overlay-card-width: 280px;

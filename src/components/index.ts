@@ -7,3 +7,4 @@ export { HowToPlay } from './HowToPlay/HowToPlay';
 export { EzoicAd } from './EzoicAd/EzoicAd';
 export { MainMenu } from './MainMenu/MainMenu';
 export { Footer } from './Footer/Footer';
+export { PrivacyPolicy } from './PrivacyPolicy/PrivacyPolicy';

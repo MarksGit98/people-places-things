@@ -1,6 +1,7 @@
 import { useState, useEffect, useRef } from 'react';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { Analytics } from '@vercel/analytics/react';
-import { Header, GameBoard, ResultsModal, HowToPlay, CardOverlay, EzoicAd, MainMenu, Footer } from './components';
+import { Header, GameBoard, ResultsModal, HowToPlay, CardOverlay, EzoicAd, MainMenu, Footer, PrivacyPolicy } from './components';
 import { useGameState } from './hooks/useGameState';
 import { AD_PLACEMENTS } from './config/adPlacements';
 import puzzleData from './data/puzzles.json';
@@ -47,7 +48,21 @@ function getPuzzleByIndex(data: PuzzleData, index: number): Puzzle {
 
 const COLUMN_TYPES: ColumnType[] = ['people', 'places', 'things'];
 
-function App() {
+// Landscape blocker component
+function LandscapeBlocker() {
+  return (
+    <div className="app__landscape-blocker">
+      <svg className="app__landscape-blocker-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+        <rect x="4" y="2" width="16" height="20" rx="2" ry="2" />
+        <line x1="12" y1="18" x2="12" y2="18" />
+      </svg>
+      <p className="app__landscape-blocker-text">Please rotate your device</p>
+      <p className="app__landscape-blocker-subtext">This game is best played in portrait mode</p>
+    </div>
+  );
+}
+
+function GamePage() {
   const totalPuzzles = (puzzleData as PuzzleData).puzzles.length;
   const dailyPuzzleIndex = getDailyPuzzleIndex(totalPuzzles);
   const [puzzleIndex, setPuzzleIndex] = useState(dailyPuzzleIndex);
@@ -115,17 +130,18 @@ function App() {
   if (showMainMenu) {
     return (
       <div className="app">
+        <LandscapeBlocker />
         <MainMenu
           onPlay={handlePlay}
           puzzleNumber={puzzle.id}
         />
-        <Analytics />
       </div>
     );
   }
 
   return (
     <div className="app">
+      <LandscapeBlocker />
       <Header />
 
       <main className="app__main">
@@ -187,9 +203,19 @@ function App() {
           disabled={isComplete}
         />
       )}
-
-      <Analytics />
     </div>
+  );
+}
+
+function App() {
+  return (
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<GamePage />} />
+        <Route path="/privacy-policy" element={<PrivacyPolicy />} />
+      </Routes>
+      <Analytics />
+    </BrowserRouter>
   );
 }
 

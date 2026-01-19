@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 import './Footer.css';
 
 export function Footer() {
@@ -10,6 +11,9 @@ export function Footer() {
         </svg>
         Contact
       </a>
+      <Link to="/privacy-policy" className="app__privacy">
+        Privacy Policy
+      </Link>
       <a href="https://digitlgame.com" target="_blank" rel="noopener noreferrer" className="app__other-game">
         <img src="/digitl-favicon.png" alt="Digitl" className="app__other-game-icon" />
         Play my other game
