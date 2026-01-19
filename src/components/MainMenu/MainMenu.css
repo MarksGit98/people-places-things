@@ -3,22 +3,17 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: space-between;
   padding: var(--spacing-xl) var(--spacing-md);
   background-color: var(--color-background);
   cursor: default;
 }
 
-.main-menu::before {
-  content: '';
-  flex: 1;
-}
-
 .main-menu__content {
-  flex: 0 0 auto;
+  flex: 1;
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
   width: 100%;
   max-width: 400px;
   text-align: center;
@@ -123,7 +118,7 @@
   box-shadow:
     0 4px 0 #4d8b49,
     var(--shadow-md);
-  margin-bottom: var(--spacing-sm);
+  margin-bottom: var(--spacing-md);
 }
 
 .main-menu__play-btn:hover {
@@ -186,7 +181,7 @@
   .main-menu__play-btn {
     max-width: 220px;
     font-size: var(--font-size-xl);
-    padding: var(--spacing-sm) var(--spacing-xl);
+    padding: var(--spacing-md) var(--spacing-xl);
   }
 
   .main-menu__puzzle-number {
@@ -205,7 +200,7 @@
   }
 
   .main-menu__header-group {
-    margin-bottom: var(--spacing-sm);
+    margin-bottom: var(--spacing-md);
   }
 
   .main-menu__banner {
@@ -213,7 +208,7 @@
   }
 
   .main-menu__header-tagline {
-    font-size: var(--font-size-sm);
+    font-size: var(--font-size-md);
   }
 
   .main-menu__icon {
@@ -227,18 +222,18 @@
   }
 
   .main-menu__play-btn {
-    max-width: 170px;
-    font-size: var(--font-size-lg);
-    padding: var(--spacing-xs) var(--spacing-lg);
-    margin-bottom: var(--spacing-xs);
+    max-width: 200px;
+    font-size: var(--font-size-xl);
+    padding: var(--spacing-sm) var(--spacing-xl);
+    margin-bottom: var(--spacing-sm);
   }
 
   .main-menu__puzzle-number {
-    font-size: var(--font-size-sm);
+    font-size: var(--font-size-md);
   }
 
   .main-menu__creator {
-    font-size: var(--font-size-xs);
+    font-size: var(--font-size-sm);
   }
 }
 
@@ -253,7 +248,7 @@
   }
 
   .main-menu__header-tagline {
-    font-size: 0.7rem;
+    font-size: var(--font-size-sm);
   }
 
   .main-menu__icon {
@@ -267,16 +262,16 @@
   }
 
   .main-menu__play-btn {
-    max-width: 120px;
-    font-size: var(--font-size-sm);
-    padding: var(--spacing-xs) var(--spacing-sm);
+    max-width: 180px;
+    font-size: var(--font-size-lg);
+    padding: var(--spacing-xs) var(--spacing-lg);
   }
 
   .main-menu__puzzle-number {
-    font-size: 11px;
+    font-size: var(--font-size-sm);
   }
 
   .main-menu__creator {
-    font-size: 10px;
+    font-size: var(--font-size-xs);
   }
 }
