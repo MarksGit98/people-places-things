@@ -1,7 +1,8 @@
 import { useState, useEffect, useRef } from 'react';
 import { Analytics } from '@vercel/analytics/react';
-import { Header, GameBoard, ResultsModal, HowToPlay, CardOverlay } from './components';
+import { Header, GameBoard, ResultsModal, HowToPlay, CardOverlay, EzoicAd } from './components';
 import { useGameState } from './hooks/useGameState';
+import { AD_PLACEMENTS } from './config/adPlacements';
 import puzzleData from './data/puzzles.json';
 import type { PuzzleData, Puzzle, ColumnType } from './types';
 import './App.css';
@@ -108,31 +109,48 @@ function App() {
     <div className="app">
       <Header />
 
-      <main className="app__main">
-        <p className="app__puzzle-number">Daily Puzzle #{puzzle.id}</p>
-        <GameBoard
-          puzzle={puzzle}
-          gameState={gameState}
-          onGuess={handleGuess}
-          onOpenOverlay={handleOpenOverlay}
-        />
+      <div className="app__layout">
+        {/* Left sidebar ad - desktop only */}
+        <aside className="app__sidebar app__sidebar--left">
+          <EzoicAd placementId={AD_PLACEMENTS.SIDEBAR_LEFT} />
+        </aside>
 
-        <HowToPlay />
+        <main className="app__main">
+          <p className="app__puzzle-number">Daily Puzzle #{puzzle.id}</p>
+          <GameBoard
+            puzzle={puzzle}
+            gameState={gameState}
+            onGuess={handleGuess}
+            onOpenOverlay={handleOpenOverlay}
+          />
 
-        {/* Dev buttons - remove for production */}
-        <div className="app__dev-buttons">
-          <button className="app__reset-btn" onClick={handlePrevPuzzle}>
-            Prev Puzzle
-          </button>
-          <button className="app__reset-btn" onClick={handleReset}>
-            Reset Puzzle
-          </button>
-          <button className="app__reset-btn" onClick={handleNextPuzzle}>
-            Next Puzzle
-          </button>
-        </div>
-        <p className="app__dev-info">Puzzle {puzzleIndex + 1} of {totalPuzzles}</p>
-      </main>
+          {/* Ad below game board */}
+          <div className="app__ad-below-game">
+            <EzoicAd placementId={AD_PLACEMENTS.BELOW_GAME} />
+          </div>
+
+          <HowToPlay />
+
+          {/* Dev buttons - remove for production */}
+          <div className="app__dev-buttons">
+            <button className="app__reset-btn" onClick={handlePrevPuzzle}>
+              Prev Puzzle
+            </button>
+            <button className="app__reset-btn" onClick={handleReset}>
+              Reset Puzzle
+            </button>
+            <button className="app__reset-btn" onClick={handleNextPuzzle}>
+              Next Puzzle
+            </button>
+          </div>
+          <p className="app__dev-info">Puzzle {puzzleIndex + 1} of {totalPuzzles}</p>
+        </main>
+
+        {/* Right sidebar ad - desktop only */}
+        <aside className="app__sidebar app__sidebar--right">
+          <EzoicAd placementId={AD_PLACEMENTS.SIDEBAR_RIGHT} />
+        </aside>
+      </div>
 
       <footer className="app__footer">
         <a href="mailto:rubberduckygamescontact@gmail.com" className="app__contact">

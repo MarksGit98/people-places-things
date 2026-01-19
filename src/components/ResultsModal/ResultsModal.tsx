@@ -1,5 +1,7 @@
 import { useState } from 'react';
 import type { ShareResult } from '../../types';
+import { EzoicAd } from '../EzoicAd/EzoicAd';
+import { AD_PLACEMENTS } from '../../config/adPlacements';
 import bannerImage from '../../assets/Game Banner.png';
 import './ResultsModal.css';
 
@@ -90,6 +92,11 @@ ${gameUrl}`;
             <path d="M22 2L15 22L11 13L2 9L22 2Z" />
           </svg>
         </button>
+
+        {/* Ad in results modal */}
+        <div className="results-modal__ad">
+          <EzoicAd placementId={AD_PLACEMENTS.RESULTS_MODAL} />
+        </div>
       </div>
     </div>
   );

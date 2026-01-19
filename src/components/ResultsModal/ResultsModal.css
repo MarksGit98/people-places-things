@@ -279,3 +279,9 @@
     height: 16px;
   }
 }
+
+/* Ad placement in modal */
+.results-modal__ad {
+  margin-top: var(--spacing-lg);
+  width: 100%;
+}
