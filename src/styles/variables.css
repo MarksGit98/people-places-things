@@ -142,6 +142,11 @@
   --font-size-header-people-mobile: 1.15em;
   --font-size-header-places-mobile: 1.35em;
   --font-size-header-things-mobile: 1.15em;
+
+  /* Main menu banner - scales with viewport height */
+  --main-menu-banner-height: 18vh;
+  --main-menu-banner-height-mobile: 14vh;
+  --main-menu-banner-height-mobile-sm: 12vh;
 }
 
 /* Dark mode support (optional, for future) */

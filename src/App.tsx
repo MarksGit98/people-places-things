@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from 'react';
 import { Analytics } from '@vercel/analytics/react';
-import { Header, GameBoard, ResultsModal, HowToPlay, CardOverlay, EzoicAd, MainMenu } from './components';
+import { Header, GameBoard, ResultsModal, HowToPlay, CardOverlay, EzoicAd, MainMenu, Footer } from './components';
 import { useGameState } from './hooks/useGameState';
 import { AD_PLACEMENTS } from './config/adPlacements';
 import puzzleData from './data/puzzles.json';
@@ -159,19 +159,7 @@ function App() {
         <p className="app__dev-info">Puzzle {puzzleIndex + 1} of {totalPuzzles}</p>
       </main>
 
-      <footer className="app__footer">
-        <a href="mailto:rubberduckygamescontact@gmail.com" className="app__contact">
-          <svg className="app__contact-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-            <rect x="2" y="4" width="20" height="16" rx="2" />
-            <path d="M22 7l-10 7L2 7" />
-          </svg>
-          Contact Me
-        </a>
-        <a href="https://digitlgame.com" target="_blank" rel="noopener noreferrer" className="app__other-game">
-          <img src="/digitl-favicon.png" alt="Digitl" className="app__other-game-icon" />
-          Play my other game
-        </a>
-      </footer>
+      <Footer />
 
       {showResults && (
         <ResultsModal
