@@ -152,6 +152,9 @@
 }
 
 .app__privacy {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--spacing-xs);
   color: var(--color-text-muted);
   font-size: var(--font-size-sm);
   text-decoration: none;
@@ -160,6 +163,11 @@
 
 .app__privacy:hover {
   color: var(--color-text-primary);
+}
+
+.app__privacy-icon {
+  width: 18px;
+  height: 18px;
 }
 
 @media (max-width: 600px) {
@@ -200,6 +208,11 @@
 
   .app__privacy {
     font-size: var(--font-size-xs);
+  }
+
+  .app__privacy-icon {
+    width: 16px;
+    height: 16px;
   }
 }
 

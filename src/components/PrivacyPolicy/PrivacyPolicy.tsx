@@ -18,7 +18,7 @@ export function PrivacyPolicy() {
         <section className="privacy-policy__section">
           <h2>Introduction</h2>
           <p>
-            We respect your privacy and are committedo protecting your personal data. This privacy policy explains how we collect, use, and safeguard your
+            We respect your privacy and are committed to protecting your personal data. This privacy policy explains how we collect, use, and safeguard your
             information when you visit our website at peopleplacesandthings.io (the "Site").
           </p>
         </section>
