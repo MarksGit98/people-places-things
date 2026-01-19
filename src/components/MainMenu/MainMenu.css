@@ -27,7 +27,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin-bottom: var(--spacing-md);
+  margin-bottom: var(--spacing-lg);
   cursor: default;
   user-select: none;
 }
@@ -64,7 +64,8 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-bottom: var(--spacing-md);
+  margin-bottom: var(--spacing-lg);
+  max-width: 300px;
 }
 
 /* Icon - behind tagline on z-axis */
@@ -102,10 +103,10 @@
 /* Play Button */
 .main-menu__play-btn {
   width: 100%;
-  max-width: 200px;
-  padding: var(--spacing-sm) var(--spacing-xl);
+  max-width: 280px;
+  padding: var(--spacing-md) var(--spacing-2xl);
   font-family: var(--font-family);
-  font-size: var(--font-size-xl);
+  font-size: var(--font-size-3xl);
   font-weight: var(--font-weight-bold);
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -116,9 +117,9 @@
   cursor: pointer;
   transition: all var(--transition-fast);
   box-shadow:
-    0 4px 0 #4d8b49,
+    0 5px 0 #4d8b49,
     var(--shadow-md);
-  margin-bottom: var(--spacing-md);
+  margin-bottom: var(--spacing-lg);
 }
 
 .main-menu__play-btn:hover {
@@ -142,7 +143,7 @@
   font-size: var(--font-size-md);
   font-weight: var(--font-weight-medium);
   color: var(--color-text-secondary);
-  margin-bottom: var(--spacing-md);
+  margin-bottom: var(--spacing-lg);
 }
 
 /* How to play section */
@@ -174,12 +175,16 @@
     height: 120px;
   }
 
+  .main-menu__tagline-group {
+    max-width: 300px;
+  }
+
   .main-menu__tagline {
     font-size: var(--font-size-xl);
   }
 
   .main-menu__play-btn {
-    max-width: 220px;
+    max-width: 230px;
     font-size: var(--font-size-xl);
     padding: var(--spacing-md) var(--spacing-xl);
   }
@@ -214,6 +219,10 @@
   .main-menu__icon {
     width: 80px;
     height: 80px;
+  }
+
+  .main-menu__tagline-group {
+    max-width: 200px;
   }
 
   .main-menu__tagline {
@@ -256,13 +265,17 @@
     height: 70px;
   }
 
+  .main-menu__tagline-group {
+    max-width: 190px;
+  }
+
   .main-menu__tagline {
     font-size: var(--font-size-sm);
     padding: 0 var(--spacing-sm);
   }
 
   .main-menu__play-btn {
-    max-width: 180px;
+    max-width: 190px;
     font-size: var(--font-size-lg);
     padding: var(--spacing-xs) var(--spacing-lg);
   }
