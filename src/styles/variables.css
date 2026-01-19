@@ -98,7 +98,7 @@
 
   /* Grid */
   --cell-size: 221px;  /* 5% smaller than 233px */
-  --cell-size-mobile: 116px;
+  --cell-size-mobile: 115px;
   --cell-height-mobile: 194px;
   /* Small mobile (iPhone 16 and smaller ~390px screens) */
   --cell-size-mobile-sm: 107px;
@@ -116,7 +116,7 @@
   --grid-gap-mobile: 4px;
   --grid-gap-mobile-sm: 3px;
   --row-label-width: 157px;  /* 5% smaller than 165px */
-  --row-label-width-mobile: 74px;
+  --row-label-width-mobile: 70px;
   --row-label-width-mobile-sm: 55px;
   --ribbon-darkened-side-width: 13px;  /* 5% smaller than 14px */
   --ribbon-darkened-side-width-mobile: 7px;
@@ -143,10 +143,32 @@
   --font-size-header-places-mobile: 1.35em;
   --font-size-header-things-mobile: 1.15em;
 
-  /* Main menu banner - scales with viewport height */
+  /* Main menu - desktop */
   --main-menu-banner-height: 18vh;
+
+  /* Main menu - mobile */
   --main-menu-banner-height-mobile: 14vh;
-  --main-menu-banner-height-mobile-sm: 12vh;
+  --main-menu-header-margin-top-mobile: -2vh;
+  --main-menu-header-tagline-font-mobile: 0.87rem;
+  --main-menu-icon-size-mobile: 100px;
+  --main-menu-tagline-group-width-mobile: 250px;
+  --main-menu-tagline-font-mobile: 1.25rem;
+  --main-menu-play-btn-width-mobile: 240px;
+  --main-menu-play-btn-font-mobile: 1.75rem;
+  --main-menu-puzzle-number-font-mobile: 1.13rem;
+  --main-menu-creator-font-mobile: 0.87rem;
+
+  /* Main menu - small mobile (5% smaller than mobile) */
+  --main-menu-banner-height-mobile-sm: 13.30vh;
+  --main-menu-header-margin-top-mobile-sm: -1.90vh;
+  --main-menu-header-tagline-font-mobile-sm: 0.83rem;
+  --main-menu-icon-size-mobile-sm: 95px;
+  --main-menu-tagline-group-width-mobile-sm: 238px;
+  --main-menu-tagline-font-mobile-sm: 1.19rem;
+  --main-menu-play-btn-width-mobile-sm: 228px;
+  --main-menu-play-btn-font-mobile-sm: 1.66rem;
+  --main-menu-puzzle-number-font-mobile-sm: 1.07rem;
+  --main-menu-creator-font-mobile-sm: 0.83rem;
 }
 
 /* Dark mode support (optional, for future) */

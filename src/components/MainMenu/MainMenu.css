@@ -149,7 +149,7 @@
 /* How to play section */
 .main-menu__content .how-to-play {
   margin-top: var(--spacing-sm);
-  margin-bottom: var(--spacing-md);
+  margin-bottom: var(--spacing-lg);
 }
 
 /* Creator credit */
@@ -204,95 +204,97 @@
 /* Mobile styles */
 @media (max-width: 600px) {
   .main-menu {
-    padding: var(--spacing-lg) var(--spacing-sm);
+    padding: var(--spacing-lg) var(--spacing-lg);
   }
 
   .main-menu__header-group {
-    margin-top: -2vh;
+    margin-top: var(--main-menu-header-margin-top-mobile);
+    margin-bottom: var(--spacing-lg);
+  }
+
+  .main-menu__banner {
+    height: var(--main-menu-banner-height-mobile);
+  }
+
+  .main-menu__header-tagline {
+    font-size: var(--main-menu-header-tagline-font-mobile);
+  }
+
+  .main-menu__icon {
+    width: var(--main-menu-icon-size-mobile);
+    height: var(--main-menu-icon-size-mobile);
+  }
+
+  .main-menu__tagline-group {
+    max-width: var(--main-menu-tagline-group-width-mobile);
+  }
+
+  .main-menu__tagline {
+    font-size: var(--main-menu-tagline-font-mobile);
     margin-bottom: var(--spacing-md);
   }
 
-  .main-menu__banner {
-    height: 14vh;
-  }
-
-  .main-menu__header-tagline {
-    font-size: var(--font-size-sm);
-  }
-
-  .main-menu__icon {
-    width: 100px;
-    height: 100px;
-  }
-
-  .main-menu__tagline-group {
-    max-width: 250px;
-  }
-
-  .main-menu__tagline {
-    font-size: 1.25rem; 
-    margin-bottom: var(--spacing-sm);
-  }
-
   .main-menu__play-btn {
-    max-width: 240px;
-    font-size: 1.75rem;
+    max-width: var(--main-menu-play-btn-width-mobile);
+    font-size: var(--main-menu-play-btn-font-mobile);
     padding: var(--spacing-sm) var(--spacing-xl);
-    margin-bottom: var(--spacing-sm);
+    margin-bottom: var(--spacing-lg);
   }
 
   .main-menu__puzzle-number {
-    font-size: var(--font-size-md);
+    font-size: var(--main-menu-puzzle-number-font-mobile);
   }
 
   .main-menu__creator {
-    font-size: var(--font-size-sm);
+    font-size: var(--main-menu-creator-font-mobile);
   }
 }
 
-/* Small mobile styles */
+/* Small mobile styles - 5% smaller than mobile */
 @media (max-width: 414px) {
   .main-menu {
-    padding: var(--spacing-md) var(--spacing-sm);
+    padding: var(--spacing-md) var(--spacing-md);
   }
 
   .main-menu__header-group {
-    margin-top: -1.5vh;
+    margin-top: var(--main-menu-header-margin-top-mobile-sm);
+    margin-bottom: calc(var(--spacing-lg) * 0.95);
   }
 
   .main-menu__banner {
-    height: 13vh;
+    height: var(--main-menu-banner-height-mobile-sm);
   }
 
   .main-menu__header-tagline {
-    font-size: var(--font-size-sm);
+    font-size: var(--main-menu-header-tagline-font-mobile-sm);
   }
 
   .main-menu__icon {
-    width: 85px;
-    height: 85px;
+    width: var(--main-menu-icon-size-mobile-sm);
+    height: var(--main-menu-icon-size-mobile-sm);
   }
 
   .main-menu__tagline-group {
-    max-width: 230px;
+    max-width: var(--main-menu-tagline-group-width-mobile-sm);
   }
 
   .main-menu__tagline {
-    font-size: 0.96rem;  
-    padding: 0 var(--spacing-sm);
+    font-size: var(--main-menu-tagline-font-mobile-sm);
+    margin-bottom: calc(var(--spacing-md) * 0.95);
   }
 
   .main-menu__play-btn {
-    max-width: 220px;
-    font-size: var(--font-size-xl);
-    padding: var(--spacing-sm) var(--spacing-lg);
+    max-width: var(--main-menu-play-btn-width-mobile-sm);
+    font-size: var(--main-menu-play-btn-font-mobile-sm);
+    padding: calc(var(--spacing-sm) * 0.95) calc(var(--spacing-xl) * 0.95);
+    margin-bottom: calc(var(--spacing-lg) * 0.95);
   }
 
   .main-menu__puzzle-number {
-    font-size: var(--font-size-sm);
+    font-size: var(--main-menu-puzzle-number-font-mobile-sm);
   }
 
   .main-menu__creator {
-    font-size: var(--font-size-xs);
+    font-size: var(--main-menu-creator-font-mobile-sm);
   }
 }
