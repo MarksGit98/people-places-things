@@ -485,6 +485,10 @@
     padding: var(--spacing-sm);
   }
 
+  .how-to-play--modal {
+    max-width: 340px;
+  }
+
   .how-to-play__close {
     top: var(--spacing-xs);
     right: var(--spacing-xs);
@@ -499,6 +503,10 @@
 }
 
 @media (max-width: 414px) {
+  .how-to-play--modal {
+    max-width: 300px;
+  }
+
   .how-to-play__close {
     width: 24px;
     height: 24px;
