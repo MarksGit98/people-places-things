@@ -207,12 +207,8 @@
     padding: var(--spacing-lg) var(--spacing-sm);
   }
 
-  .main-menu__content {
-    justify-content: flex-start;
-    padding-top: 8vh;
-  }
-
   .main-menu__header-group {
+    margin-top: -2vh;
     margin-bottom: var(--spacing-md);
   }
 
@@ -260,8 +256,8 @@
     padding: var(--spacing-md) var(--spacing-sm);
   }
 
-  .main-menu__content {
-    padding-top: 6vh;
+  .main-menu__header-group {
+    margin-top: -1.5vh;
   }
 
   .main-menu__banner {
