@@ -216,6 +216,31 @@
   }
 }
 
+/* Small mobile footer styles */
+@media (max-width: 414px) {
+  .app__footer {
+    gap: var(--spacing-sm);
+    padding: var(--spacing-xs) var(--spacing-sm);
+  }
+
+  .app__contact,
+  .app__privacy,
+  .app__other-game {
+    font-size: 0.625rem;
+  }
+
+  .app__contact-icon,
+  .app__privacy-icon {
+    width: 12px;
+    height: 12px;
+  }
+
+  .app__other-game-icon {
+    width: 12px;
+    height: 12px;
+  }
+}
+
 /* Landscape orientation blocker for mobile */
 .app__landscape-blocker {
   display: none;
