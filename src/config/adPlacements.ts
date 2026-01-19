@@ -6,7 +6,7 @@
  */
 export const AD_PLACEMENTS = {
   // Below the game board, before "How to Play"
-  BELOW_GAME: 101,
+  BELOW_GAME: 118,
 
   // Inside the results modal
   RESULTS_MODAL: 102,
