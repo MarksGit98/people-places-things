@@ -48,6 +48,10 @@ export function PrivacyPolicy() {
             and similar technologies to collect information about your browsing activities to provide you with
             relevant advertisements.
           </p>
+
+          {/* Ezoic Privacy Policy Embed */}
+          <span id="ezoic-privacy-policy-embed"></span>
+
           <p>
             For more information about Ezoic's privacy practices, please visit:{' '}
             <a href="https://www.ezoic.com/privacy-policy/" target="_blank" rel="noopener noreferrer">

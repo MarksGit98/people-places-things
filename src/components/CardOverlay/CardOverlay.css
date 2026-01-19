@@ -477,12 +477,12 @@
   }
 
   .card-overlay__clue {
-    font-size: var(--font-size-sm);
+    font-size: 0.957rem;  /* 10% larger than 0.87rem */
     line-height: 1.35;
   }
 
   .card-overlay__clue-title {
-    font-size: var(--font-size-xs);
+    font-size: 0.891rem;  /* 10% larger than 0.81rem */
   }
 
   .card-overlay__form {
@@ -492,17 +492,17 @@
 
   .card-overlay__input {
     padding: var(--spacing-xs) var(--spacing-sm);
-    font-size: var(--font-size-sm);
+    font-size: 0.957rem;  /* 10% larger than 0.87rem */
   }
 
   .card-overlay__submit {
     padding: var(--spacing-xs) var(--spacing-sm);
-    font-size: var(--font-size-sm);
+    font-size: 0.957rem;  /* 10% larger than 0.87rem */
     min-height: 40px;
   }
 
   .card-overlay__answer-text {
-    font-size: var(--font-size-xl);
+    font-size: 1.65rem;  /* 10% larger than 1.5rem */
   }
 
   .card-overlay__answer-text--long {

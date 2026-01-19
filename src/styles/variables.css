@@ -99,9 +99,9 @@
   /* Grid */
   --cell-size: 221px;  /* 5% smaller than 233px */
   --cell-size-mobile: 116px;
-  --cell-height-mobile: 196px;
+  --cell-height-mobile: 194px;
   /* Small mobile (iPhone 16 and smaller ~390px screens) */
-  --cell-size-mobile-sm: 105px;
+  --cell-size-mobile-sm: 107px;
   --cell-height-mobile-sm: 175px;
 
   /* Card overlay (mobile enlarged view) */

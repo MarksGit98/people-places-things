@@ -489,7 +489,7 @@
   }
 
   .grid-cell__clue {
-    font-size: var(--font-size-clue-mobile-sm);
+    font-size: 0.574rem;  /* 2% larger than 0.563rem */
     line-height: 1.2;
   }
 
@@ -507,11 +507,11 @@
   }
 
   .grid-cell__answer-text {
-    font-size: var(--font-size-sm);
+    font-size: 0.887rem;  /* 2% larger than 0.87rem */
   }
 
   .grid-cell__answer-text--long {
-    font-size: var(--font-size-answer-long-mobile-sm);
+    font-size: 0.638rem;  /* 2% larger than 0.625rem */
   }
 
   .grid-cell__result-icon {
