@@ -2,7 +2,7 @@ import { useState } from 'react';
 import './HowToPlay.css';
 
 export function HowToPlay() {
-  const [isExpanded, setIsExpanded] = useState(false);
+  const [isExpanded, setIsExpanded] = useState(true);
 
   return (
     <section className={`how-to-play ${isExpanded ? 'how-to-play--expanded' : ''}`}>
