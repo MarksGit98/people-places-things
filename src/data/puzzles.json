@@ -154,15 +154,15 @@
         {
           "constraint": "Contains the letter 'X'",
           "cells": [
-            { "category": "people", "clue": "Popularized the phrase \"By any means necessary\"", "clue2": "He was born Little and died a revolutionary hero", "answer": "Malcolm X", "imageUrl": "" },
-            { "category": "places", "clue": "Where a famous Poker style had its start", "clue2": "Everything's bigger here", "answer": "Texas", "imageUrl": "" },
+            { "category": "people", "clue": "Popularized the phrase \"By any means necessary\"", "clue2": "He was born \"Little\" but died a civil rights hero", "answer": "Malcolm X", "imageUrl": "" },
+            { "category": "places", "clue": "Where a famous Poker style had its start", "clue2": "Everything's bigger over there", "answer": "Texas", "imageUrl": "" },
             { "category": "things", "clue": "Bill Clinton and Lisa Simpson share this talent", "clue2": "Smooth jazz staple", "answer": "Saxophone", "imageUrl": "" }
           ]
         },
         {
           "constraint": "Ends in 'N'",
           "cells": [
-            { "category": "people", "clue": "This revolutionary united industrial laborers and rural farmers", "clue2": "He sealed the Romanov's fate", "answer": "Vladimir Lenin", "acceptableAnswers": ["Lenin"], "imageUrl": "" },
+            { "category": "people", "clue": "This revolutionary united industrial laborers and rural farmers", "clue2": "He sealed the Romanov's fate and formed the first worker's state", "answer": "Vladimir Lenin", "acceptableAnswers": ["Lenin"], "imageUrl": "" },
             { "category": "places", "clue": "Where you can buy a \"chopped cheese\" and a bev at 4 in the morning", "clue2": "The place that spawned Biggie and Jay-Z", "answer": "Brooklyn", "imageUrl": "" },
             { "category": "things", "clue": "DuPont introduced this in 1938 and you might be wearing it", "clue2": "This moisture-wicking and flexible material keeps athletes comfortable", "answer": "Nylon", "imageUrl": "" }
           ]
@@ -434,17 +434,17 @@
         {
           "constraint": "Ends in 'S'",
           "cells": [
-            { "category": "people", "clue": "Prophet whose predictions are vague enough to always be right", "clue2": "16th century French seer who saw everything coming (allegedly)", "answer": "Nostradamus", "imageUrl": "" },
-            { "category": "places", "clue": "Island divided by a buffer zone where two cultures coexist uneasily", "clue2": "Mediterranean nation split between its original inhabitants and settlers from a mainland neighbor", "answer": "Cyprus", "imageUrl": "" },
-            { "category": "things", "clue": "Ancient calculator that still works without WiFi", "clue2": "Counting device with beads that predates your battery anxiety", "answer": "Abacus", "imageUrl": "" }
+            { "category": "people", "clue": "His intentionally vague quatrains are said to have predicted world events for centuries past his death", "clue2": "This frenchman is perhaps history's most notorious Astrologer", "answer": "Nostradamus", "imageUrl": "" },
+            { "category": "places", "clue": "Island divided by a buffer zone where two cultures coexist uneasily", "clue2": "Their Constitution was drawn up by the British establishing a power-sharing system between its two main factions", "answer": "Cyprus", "imageUrl": "" },
+            { "category": "things", "clue": "Probably restricted in ancient Sumerian math classes", "clue2": "Sort of an analog calculator that doesn't require batteries", "answer": "Abacus", "imageUrl": "" }
           ]
         },
         {
           "constraint": "Starts with the letter 'P'",
           "cells": [
-            { "category": "people", "clue": "Violinist so good they thought he sold his soul for it", "clue2": "19th century virtuoso whose fingers defied human anatomy", "answer": "Paganini", "acceptableAnswers": ["Niccolò Paganini"], "imageUrl": "" },
-            { "category": "places", "clue": "Preserved in ash when a nearby volcano had a very bad day", "clue2": "Ancient city frozen in time by Vesuvius's fury", "answer": "Pompeii", "imageUrl": "" },
-            { "category": "things", "clue": "Submariner's window shopping device", "clue2": "How you see above water while staying safely below", "answer": "Periscope", "imageUrl": "" }
+            { "category": "people", "clue": "He drank and he knew things on TV", "clue2": "Gave Will Ferrel a hard time in <i>Elf</i>", "answer": "Peter Dinklage", "imageUrl": "" },
+            { "category": "places", "clue": "The city preserved in volcanic ash", "clue2": "Home to a garden containing the casts of 13 victims of the eruption of Mount Vesuvius", "answer": "Pompeii", "imageUrl": "" },
+            { "category": "things", "clue": "Series of prisms reflecting off each other at 45 degree angles", "clue2": "The part of the submarine that sticks out of the water for vision", "answer": "Periscope", "imageUrl": "" }
           ]
         }
       ]

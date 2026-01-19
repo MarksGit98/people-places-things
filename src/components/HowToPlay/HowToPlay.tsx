@@ -1,31 +1,57 @@
 import { useState } from 'react';
 import './HowToPlay.css';
 
-export function HowToPlay() {
+interface HowToPlayProps {
+  variant?: 'card' | 'inline' | 'modal';
+  onClose?: () => void;
+}
+
+export function HowToPlay({ variant = 'card', onClose }: HowToPlayProps) {
   const [isExpanded, setIsExpanded] = useState(true);
+  const isInline = variant === 'inline';
+  const isModal = variant === 'modal';
 
-  return (
-    <section className={`how-to-play ${isExpanded ? 'how-to-play--expanded' : ''}`}>
-      <button
-        className="how-to-play__header"
-        onClick={() => setIsExpanded(!isExpanded)}
-        aria-expanded={isExpanded}
-      >
+  const handleBackdropClick = (e: React.MouseEvent) => {
+    if (e.target === e.currentTarget && onClose) {
+      onClose();
+    }
+  };
+
+  const content = (
+    <section className={`how-to-play ${isExpanded ? 'how-to-play--expanded' : ''} ${isInline ? 'how-to-play--inline' : ''} ${isModal ? 'how-to-play--modal' : ''}`}>
+      {isModal && (
+        <button className="how-to-play__close" onClick={onClose} aria-label="Close">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
+            <line x1="18" y1="6" x2="6" y2="18" />
+            <line x1="6" y1="6" x2="18" y2="18" />
+          </svg>
+        </button>
+      )}
+
+      {isInline || isModal ? (
         <h2 className="how-to-play__title">How to Play</h2>
-        <svg
-          className={`how-to-play__chevron ${isExpanded ? 'how-to-play__chevron--up' : ''}`}
-          viewBox="0 0 24 24"
-          fill="none"
-          stroke="currentColor"
-          strokeWidth="2.5"
-          strokeLinecap="round"
-          strokeLinejoin="round"
+      ) : (
+        <button
+          className="how-to-play__header"
+          onClick={() => setIsExpanded(!isExpanded)}
+          aria-expanded={isExpanded}
         >
-          <polyline points="6 9 12 15 18 9" />
-        </svg>
-      </button>
+          <h2 className="how-to-play__title">How to Play</h2>
+          <svg
+            className={`how-to-play__chevron ${isExpanded ? 'how-to-play__chevron--up' : ''}`}
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            strokeWidth="2.5"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+          >
+            <polyline points="6 9 12 15 18 9" />
+          </svg>
+        </button>
+      )}
 
-      <div className={`how-to-play__rules ${isExpanded ? 'how-to-play__rules--visible' : ''}`}>
+      <div className={`how-to-play__rules ${isExpanded || isInline || isModal ? 'how-to-play__rules--visible' : ''}`}>
         <div className="how-to-play__rule">
           <span className="how-to-play__icon how-to-play__icon--grid">
             <span className="how-to-play__mini-grid">
@@ -89,4 +115,14 @@ export function HowToPlay() {
       </div>
     </section>
   );
+
+  if (isModal) {
+    return (
+      <div className="how-to-play__overlay" onClick={handleBackdropClick}>
+        {content}
+      </div>
+    );
+  }
+
+  return content;
 }

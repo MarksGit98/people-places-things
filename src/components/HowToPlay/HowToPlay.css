@@ -16,6 +16,20 @@
   box-sizing: border-box;
 }
 
+/* Inline variant - no card styling */
+.how-to-play--inline {
+  background-color: transparent;
+  border: none;
+  border-radius: 0;
+  box-shadow: none;
+  padding: 0;
+  margin: 0;
+}
+
+.how-to-play--inline .how-to-play__title {
+  margin-bottom: var(--spacing-md);
+}
+
 /* Collapsible header */
 .how-to-play__header {
   display: flex;
@@ -394,5 +408,104 @@
 
   .how-to-play__category-list li {
     margin-bottom: 2px;
+  }
+}
+
+/* Modal variant styles */
+.how-to-play__overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(var(--overlay-backdrop-blur));
+  -webkit-backdrop-filter: blur(var(--overlay-backdrop-blur));
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: var(--overlay-z-index);
+  padding: var(--spacing-md);
+}
+
+.how-to-play--modal {
+  position: relative;
+  margin: 0;
+  max-height: 90vh;
+  overflow-y: auto;
+  animation: modalSlideIn 0.25s ease-out;
+}
+
+@keyframes modalSlideIn {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.how-to-play__close {
+  position: absolute;
+  top: var(--spacing-sm);
+  right: var(--spacing-sm);
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: var(--color-text-secondary);
+  transition: color var(--transition-fast);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+}
+
+.how-to-play__close:hover {
+  color: var(--color-text-primary);
+}
+
+.how-to-play__close svg {
+  width: 24px;
+  height: 24px;
+}
+
+/* Modal title adjustment for close button */
+.how-to-play--modal .how-to-play__title {
+  padding-right: var(--spacing-lg);
+}
+
+/* Mobile modal styles */
+@media (max-width: 600px) {
+  .how-to-play__overlay {
+    padding: var(--spacing-sm);
+  }
+
+  .how-to-play__close {
+    top: var(--spacing-xs);
+    right: var(--spacing-xs);
+    width: 28px;
+    height: 28px;
+  }
+
+  .how-to-play__close svg {
+    width: 20px;
+    height: 20px;
+  }
+}
+
+@media (max-width: 414px) {
+  .how-to-play__close {
+    width: 24px;
+    height: 24px;
+  }
+
+  .how-to-play__close svg {
+    width: 18px;
+    height: 18px;
   }
 }

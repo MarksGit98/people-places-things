@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from 'react';
 import { Analytics } from '@vercel/analytics/react';
-import { Header, GameBoard, ResultsModal, HowToPlay, CardOverlay, EzoicAd } from './components';
+import { Header, GameBoard, ResultsModal, HowToPlay, CardOverlay, EzoicAd, MainMenu } from './components';
 import { useGameState } from './hooks/useGameState';
 import { AD_PLACEMENTS } from './config/adPlacements';
 import puzzleData from './data/puzzles.json';
@@ -56,6 +56,8 @@ function App() {
   const [showResults, setShowResults] = useState(false);
   const hasShownResults = useRef(false);
   const [overlayCell, setOverlayCell] = useState<{ rowIndex: number; colIndex: number } | null>(null);
+  const [showMainMenu, setShowMainMenu] = useState(true);
+  const [showHowToPlayModal, setShowHowToPlayModal] = useState(false);
 
   // Show results modal when game is complete
   const isComplete = gameState.gameStatus === 'completed';
@@ -104,6 +106,23 @@ function App() {
       handleGuess(overlayCell.rowIndex, overlayCell.colIndex, guess);
     }
   };
+
+  const handlePlay = () => {
+    setShowMainMenu(false);
+    setShowHowToPlayModal(true);
+  };
+
+  if (showMainMenu) {
+    return (
+      <div className="app">
+        <MainMenu
+          onPlay={handlePlay}
+          puzzleNumber={puzzle.id}
+        />
+        <Analytics />
+      </div>
+    );
+  }
 
   return (
     <div className="app">
@@ -159,6 +178,13 @@ function App() {
           result={getShareResult()}
           onClose={() => setShowResults(false)}
           gameUrl={GAME_URL}
+        />
+      )}
+
+      {showHowToPlayModal && (
+        <HowToPlay
+          variant="modal"
+          onClose={() => setShowHowToPlayModal(false)}
         />
       )}
 

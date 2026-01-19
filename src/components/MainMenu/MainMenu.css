@@ -1,0 +1,292 @@
+.main-menu {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--spacing-xl) var(--spacing-md);
+  background-color: var(--color-background);
+  cursor: default;
+}
+
+.main-menu::before {
+  content: '';
+  flex: 1;
+}
+
+.main-menu__content {
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  max-width: 400px;
+  text-align: center;
+}
+
+.main-menu .app__footer {
+  flex: 1;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-end;
+  align-content: flex-end;
+  gap: var(--spacing-md);
+  padding-bottom: var(--spacing-md);
+  border-top: none;
+}
+
+.main-menu .app__footer::before {
+  content: '';
+  display: block;
+  width: 100%;
+  height: 1px;
+  background-color: var(--color-border);
+  margin-bottom: var(--spacing-xs);
+}
+
+
+/* Header group - banner, tagline */
+.main-menu__header-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: var(--spacing-md);
+}
+
+/* Banner */
+.main-menu__banner {
+  width: 100%;
+  max-width: 180px;
+  height: auto;
+  object-fit: contain;
+  pointer-events: none;
+  user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-drag: none;
+  -webkit-touch-callout: none;
+}
+
+/* Header tagline - matches game screen */
+.main-menu__header-tagline {
+  font-family: var(--font-family-tagline);
+  font-size: var(--font-size-sm);
+  color: var(--color-accent-brown);
+  font-style: italic;
+  margin: -2px 0 0;
+  letter-spacing: 0.5px;
+  pointer-events: none;
+  user-select: none;
+}
+
+/* Tagline group - contains icon behind tagline */
+.main-menu__tagline-group {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: var(--spacing-md);
+}
+
+/* Icon - behind tagline on z-axis */
+.main-menu__icon {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+  opacity: 0.2;
+  pointer-events: none;
+  user-select: none;
+  z-index: 0;
+}
+
+/* Large tagline text - same font as y-axis clues */
+.main-menu__tagline {
+  position: relative;
+  z-index: 1;
+  font-family: var(--font-family-things);
+  font-size: var(--font-size-lg);
+  font-weight: var(--font-weight-normal);
+  font-style: italic;
+  color: var(--color-accent-brown);
+  line-height: var(--line-height-normal);
+  letter-spacing: -0.3px;
+  margin: 0;
+  padding: 0 var(--spacing-md);
+  pointer-events: none;
+  user-select: none;
+}
+
+/* Play Button - smaller but same shadow */
+.main-menu__play-btn {
+  width: 100%;
+  max-width: 160px;
+  padding: var(--spacing-xs) var(--spacing-lg);
+  font-family: var(--font-family);
+  font-size: var(--font-size-lg);
+  font-weight: var(--font-weight-bold);
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: white;
+  background-color: var(--color-correct-1);
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: all var(--transition-fast);
+  box-shadow:
+    0 4px 0 #4d8b49,
+    var(--shadow-md);
+  margin-bottom: var(--spacing-sm);
+}
+
+.main-menu__play-btn:hover {
+  background-color: #5a9a54;
+  transform: translateY(-2px);
+  box-shadow:
+    0 6px 0 #4d8b49,
+    var(--shadow-lg);
+}
+
+.main-menu__play-btn:active {
+  transform: translateY(2px);
+  box-shadow:
+    0 2px 0 #4d8b49,
+    var(--shadow-sm);
+}
+
+/* Puzzle number */
+.main-menu__puzzle-number {
+  font-family: var(--font-family-puzzle-number);
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-medium);
+  color: var(--color-text-secondary);
+  margin-bottom: var(--spacing-md);
+}
+
+/* How to play section */
+.main-menu__content .how-to-play {
+  margin-top: var(--spacing-sm);
+  margin-bottom: var(--spacing-md);
+}
+
+/* Creator credit */
+.main-menu__creator {
+  font-family: var(--font-family-people);
+  font-size: var(--font-size-xs);
+  font-weight: var(--font-weight-normal);
+  color: var(--color-accent-brown);
+}
+
+/* Desktop styles */
+@media (min-width: 601px) {
+  .main-menu__banner {
+    max-width: 220px;
+  }
+
+  .main-menu__header-tagline {
+    font-size: var(--font-size-sm);
+  }
+
+  .main-menu__icon {
+    width: 120px;
+    height: 120px;
+  }
+
+  .main-menu__tagline {
+    font-size: var(--font-size-xl);
+  }
+
+  .main-menu__play-btn {
+    max-width: 180px;
+    font-size: var(--font-size-lg);
+    padding: var(--spacing-sm) var(--spacing-xl);
+  }
+}
+
+/* Mobile styles */
+@media (max-width: 600px) {
+  .main-menu {
+    padding: var(--spacing-lg) var(--spacing-sm);
+  }
+
+  .main-menu__header-group {
+    margin-bottom: var(--spacing-sm);
+  }
+
+  .main-menu__banner {
+    max-width: 150px;
+  }
+
+  .main-menu__header-tagline {
+    font-size: var(--font-size-xs);
+  }
+
+  .main-menu__icon {
+    width: 80px;
+    height: 80px;
+  }
+
+  .main-menu__tagline {
+    font-size: var(--font-size-xl);
+    margin-bottom: var(--spacing-sm);
+  }
+
+  .main-menu__play-btn {
+    max-width: 140px;
+    font-size: var(--font-size-md);
+    padding: var(--spacing-xs) var(--spacing-md);
+    margin-bottom: var(--spacing-xs);
+  }
+
+  .main-menu__puzzle-number {
+    font-size: var(--font-size-xs);
+  }
+
+  .main-menu__creator {
+    font-size: 11px;
+  }
+}
+
+/* Small mobile styles */
+@media (max-width: 414px) {
+  .main-menu {
+    padding: var(--spacing-md) var(--spacing-sm);
+  }
+
+  .main-menu__banner {
+    max-width: 130px;
+  }
+
+  .main-menu__header-tagline {
+    font-size: 0.7rem;
+  }
+
+  .main-menu__icon {
+    width: 70px;
+    height: 70px;
+  }
+
+  .main-menu__tagline {
+    font-size: var(--font-size-lg);
+    padding: 0 var(--spacing-sm);
+  }
+
+  .main-menu__play-btn {
+    max-width: 120px;
+    font-size: var(--font-size-sm);
+    padding: var(--spacing-xs) var(--spacing-sm);
+  }
+
+  .main-menu__puzzle-number {
+    font-size: 11px;
+  }
+
+  .main-menu__creator {
+    font-size: 10px;
+  }
+}

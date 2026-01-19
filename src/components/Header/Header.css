@@ -11,6 +11,8 @@
   height: auto;
   max-height: 120px;
   object-fit: contain;
+  user-select: none;
+  cursor: default;
 }
 
 .header__tagline {
@@ -23,7 +25,7 @@
   letter-spacing: 0.5px;
   pointer-events: none;
   user-select: none;
-  cursor: default;
+  cursor: none;
 }
 
 .header__puzzle-number {

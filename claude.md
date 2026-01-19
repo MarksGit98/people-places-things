@@ -4,6 +4,8 @@ TECHNICAL / STYLISTIC RULES
 
 -Always use variables for any numerical values in any styling files. We want to cutdown on styling inconsistencies as best as possible so we should aim to create and use reusable variables when appropriate. Label every variable clearly.
 
+-Always reuse existing components whenever possible to avoid redundancy in the codebase. Before creating new UI elements, check if an existing component can be used or adapted. This applies to modals, buttons, cards, form elements, and any other reusable UI patterns.
+
 
 PUZZLE GENERATION RULES
 

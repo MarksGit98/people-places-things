@@ -9,7 +9,7 @@ export const AD_PLACEMENTS = {
   BELOW_GAME: 118,
 
   // Inside the results modal
-  RESULTS_MODAL: 102,
+  RESULTS_MODAL: 119,
 
   // Left sidebar (desktop only)
   SIDEBAR_LEFT: 103,
