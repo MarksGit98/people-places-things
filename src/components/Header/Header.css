@@ -2,6 +2,13 @@
   text-align: center;
   padding: calc(var(--spacing-sm) + 4px) var(--spacing-md) 0;
   background-color: var(--color-background);
+  pointer-events: none;
+  user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-drag: none;
+  -webkit-touch-callout: none;
 }
 
 .header__banner-image {
@@ -12,7 +19,7 @@
   max-height: 120px;
   object-fit: contain;
   user-select: none;
-  cursor: default;
+  cursor: none;
 }
 
 .header__tagline {

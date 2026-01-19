@@ -27,7 +27,7 @@ export function MainMenu({ onPlay, puzzleNumber }: MainMenuProps) {
             className="main-menu__icon"
           />
           <p className="main-menu__tagline">
-            Use the clues provided to complete the grid
+            Use the clues provided to fill out the grid
           </p>
         </div>
 

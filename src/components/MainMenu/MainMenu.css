@@ -22,6 +22,8 @@
   width: 100%;
   max-width: 400px;
   text-align: center;
+  cursor: default;
+  user-select: none;
 }
 
 .main-menu .app__footer {
@@ -52,12 +54,14 @@
   flex-direction: column;
   align-items: center;
   margin-bottom: var(--spacing-md);
+  cursor: default;
+  user-select: none;
 }
 
 /* Banner */
 .main-menu__banner {
   width: 100%;
-  max-width: 180px;
+  max-width: 220px;
   height: auto;
   object-fit: contain;
   pointer-events: none;
@@ -72,7 +76,7 @@
 /* Header tagline - matches game screen */
 .main-menu__header-tagline {
   font-family: var(--font-family-tagline);
-  font-size: var(--font-size-sm);
+  font-size: var(--font-size-md);
   color: var(--color-accent-brown);
   font-style: italic;
   margin: -2px 0 0;
@@ -122,13 +126,13 @@
   user-select: none;
 }
 
-/* Play Button - smaller but same shadow */
+/* Play Button */
 .main-menu__play-btn {
   width: 100%;
-  max-width: 160px;
-  padding: var(--spacing-xs) var(--spacing-lg);
+  max-width: 200px;
+  padding: var(--spacing-sm) var(--spacing-xl);
   font-family: var(--font-family);
-  font-size: var(--font-size-lg);
+  font-size: var(--font-size-xl);
   font-weight: var(--font-weight-bold);
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -162,7 +166,7 @@
 /* Puzzle number */
 .main-menu__puzzle-number {
   font-family: var(--font-family-puzzle-number);
-  font-size: var(--font-size-sm);
+  font-size: var(--font-size-md);
   font-weight: var(--font-weight-medium);
   color: var(--color-text-secondary);
   margin-bottom: var(--spacing-md);
@@ -177,7 +181,7 @@
 /* Creator credit */
 .main-menu__creator {
   font-family: var(--font-family-people);
-  font-size: var(--font-size-xs);
+  font-size: var(--font-size-sm);
   font-weight: var(--font-weight-normal);
   color: var(--color-accent-brown);
 }
@@ -185,11 +189,11 @@
 /* Desktop styles */
 @media (min-width: 601px) {
   .main-menu__banner {
-    max-width: 220px;
+    max-width: 260px;
   }
 
   .main-menu__header-tagline {
-    font-size: var(--font-size-sm);
+    font-size: var(--font-size-lg);
   }
 
   .main-menu__icon {
@@ -202,9 +206,17 @@
   }
 
   .main-menu__play-btn {
-    max-width: 180px;
-    font-size: var(--font-size-lg);
+    max-width: 220px;
+    font-size: var(--font-size-xl);
     padding: var(--spacing-sm) var(--spacing-xl);
+  }
+
+  .main-menu__puzzle-number {
+    font-size: var(--font-size-lg);
+  }
+
+  .main-menu__creator {
+    font-size: var(--font-size-md);
   }
 }
 
@@ -219,11 +231,11 @@
   }
 
   .main-menu__banner {
-    max-width: 150px;
+    max-width: 180px;
   }
 
   .main-menu__header-tagline {
-    font-size: var(--font-size-xs);
+    font-size: var(--font-size-sm);
   }
 
   .main-menu__icon {
@@ -237,18 +249,18 @@
   }
 
   .main-menu__play-btn {
-    max-width: 140px;
-    font-size: var(--font-size-md);
-    padding: var(--spacing-xs) var(--spacing-md);
+    max-width: 170px;
+    font-size: var(--font-size-lg);
+    padding: var(--spacing-xs) var(--spacing-lg);
     margin-bottom: var(--spacing-xs);
   }
 
   .main-menu__puzzle-number {
-    font-size: var(--font-size-xs);
+    font-size: var(--font-size-sm);
   }
 
   .main-menu__creator {
-    font-size: 11px;
+    font-size: var(--font-size-xs);
   }
 }
 
@@ -259,11 +271,11 @@
   }
 
   .main-menu__banner {
-    max-width: 130px;
+    max-width: 160px;
   }
 
   .main-menu__header-tagline {
-    font-size: 0.7rem;
+    font-size: var(--font-size-xs);
   }
 
   .main-menu__icon {
@@ -277,16 +289,16 @@
   }
 
   .main-menu__play-btn {
-    max-width: 120px;
-    font-size: var(--font-size-sm);
-    padding: var(--spacing-xs) var(--spacing-sm);
+    max-width: 150px;
+    font-size: var(--font-size-md);
+    padding: var(--spacing-xs) var(--spacing-md);
   }
 
   .main-menu__puzzle-number {
-    font-size: 11px;
+    font-size: var(--font-size-xs);
   }
 
   .main-menu__creator {
-    font-size: 10px;
+    font-size: 12px;
   }
 }
