@@ -8,18 +8,27 @@
   flex: 1;
   display: flex;
   justify-content: center;
-  gap: var(--spacing-lg);
+  position: relative;
 }
 
 .app__sidebar {
   display: none;
-  flex-shrink: 0;
+  position: fixed;
+  top: 50%;
+  transform: translateY(-50%);
   width: 160px;
   padding: var(--spacing-md);
-  padding-top: var(--spacing-xl);
 }
 
-/* Show sidebars only on larger screens */
+.app__sidebar--left {
+  left: var(--spacing-lg);
+}
+
+.app__sidebar--right {
+  right: var(--spacing-lg);
+}
+
+/* Show sidebars only on larger screens with enough room */
 @media (min-width: 1200px) {
   .app__sidebar {
     display: block;
