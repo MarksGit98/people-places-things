@@ -65,7 +65,7 @@ function LandscapeBlocker() {
 function GamePage() {
   const totalPuzzles = (puzzleData as PuzzleData).puzzles.length;
   const dailyPuzzleIndex = getDailyPuzzleIndex(totalPuzzles);
-  const [puzzleIndex, setPuzzleIndex] = useState(dailyPuzzleIndex);
+  const [puzzleIndex] = useState(dailyPuzzleIndex);
   const puzzle = getPuzzleByIndex(puzzleData as PuzzleData, puzzleIndex);
   const { gameState, handleGuess, getShareResult } = useGameState(puzzle);
   const [showResults, setShowResults] = useState(false);
@@ -88,25 +88,6 @@ function GamePage() {
       return () => clearTimeout(timer);
     }
   }, [isComplete]);
-
-  const handleReset = () => {
-    localStorage.removeItem('ppt-game-state');
-    window.location.reload();
-  };
-
-  const handleNextPuzzle = () => {
-    localStorage.removeItem('ppt-game-state');
-    setPuzzleIndex((prev) => (prev + 1) % totalPuzzles);
-    hasShownResults.current = false;
-    setShowResults(false);
-  };
-
-  const handlePrevPuzzle = () => {
-    localStorage.removeItem('ppt-game-state');
-    setPuzzleIndex((prev) => (prev - 1 + totalPuzzles) % totalPuzzles);
-    hasShownResults.current = false;
-    setShowResults(false);
-  };
 
   const handleOpenOverlay = (rowIndex: number, colIndex: number) => {
     setOverlayCell({ rowIndex, colIndex });
@@ -160,19 +141,6 @@ function GamePage() {
 
         <HowToPlay />
 
-        {/* Dev buttons - remove for production */}
-        <div className="app__dev-buttons">
-          <button className="app__reset-btn" onClick={handlePrevPuzzle}>
-            Prev Puzzle
-          </button>
-          <button className="app__reset-btn" onClick={handleReset}>
-            Reset Puzzle
-          </button>
-          <button className="app__reset-btn" onClick={handleNextPuzzle}>
-            Next Puzzle
-          </button>
-        </div>
-        <p className="app__dev-info">Puzzle {puzzleIndex + 1} of {totalPuzzles}</p>
       </main>
 
       <Footer />
