@@ -454,25 +454,25 @@
         {
           "constraint": "Contains 'TH'",
           "cells": [
-            { "category": "people", "clue": "Soul queen who demanded R-E-S-P-E-C-T and actually got it", "clue2": "Detroit diva who could make a phone book sound spiritual", "answer": "Aretha Franklin", "acceptableAnswers": ["Aretha"], "imageUrl": "" },
-            { "category": "places", "clue": "City at the base of the world's rooftop where expeditions begin", "clue2": "Where Everest climbers stock up before their ascent", "answer": "Kathmandu", "imageUrl": "" },
-            { "category": "things", "clue": "The machine that made the 80s sound like the future", "clue2": "Electronic keyboard that let musicians fake an entire orchestra", "answer": "Synthesizer", "imageUrl": "" }
+            { "category": "people", "clue": "Soul queen who demanded R-E-S-P-E-C-T and got it", "clue2": "Detroit diva who could make a phone book sound spiritual", "answer": "Aretha Franklin", "acceptableAnswers": ["Aretha"], "imageUrl": "" },
+            { "category": "places", "clue": "The only nation of its geographic cohort to never be formally colonized by a European power" , "clue2": "Home to elephants, incredible street food, and talented martial artists", "answer": "Thailand", "imageUrl": "" },
+            { "category": "things", "clue": "One way your mom can tell if you're faking it to get out of school", "clue2": "Displays a reading you hope isn't too high", "answer": "Thermometer", "imageUrl": "" }
           ]
         },
         {
           "constraint": "Ends in 'N'",
           "cells": [
-            { "category": "people", "clue": "Conqueror who built an empire from horseback stretching sea to sea", "clue2": "Mongol ruler who left more descendants than any other human in history", "answer": "Genghis Khan", "acceptableAnswers": ["Khan"], "imageUrl": "" },
-            { "category": "places", "clue": "Where the rich go to pretend they're outdoorsy", "clue2": "Rocky Mountain ski town where fur coats outnumber parkas", "answer": "Aspen", "imageUrl": "" },
-            { "category": "things", "clue": "The instrument nobody asked to hear at the party", "clue2": "Squeezebox that makes polka possible and neighbors miserable", "answer": "Accordion", "imageUrl": "" }
+            { "category": "people", "clue": "Steppe conqueror who built an empire from stretching sea to sea", "clue2": "He has an estimated 16 million male descendants alive today", "answer": "Genghis Khan", "acceptableAnswers": ["Khan"], "imageUrl": "" },
+            { "category": "places", "clue": "Where wealthy families go to pretend they're outdoorsy", "clue2": "Rocky Mountain ski town where fur coats outnumber parkas", "answer": "Aspen", "imageUrl": "" },
+            { "category": "things", "clue": "Oktoberfest soundtrack provider", "clue2": "Squeezebox that makes polka possible", "answer": "Accordion", "imageUrl": "" }
           ]
         },
         {
           "constraint": "Two words both beginning with the same letter",
           "cells": [
-            { "category": "people", "clue": "Blonde bombshell who sang breathily to a president on his birthday", "clue2": "Hollywood's most photographed tragedy, immortalized in Warhol prints", "answer": "Marilyn Monroe", "acceptableAnswers": ["Monroe"], "imageUrl": "" },
-            { "category": "places", "clue": "South Pacific capital so nice they named it twice", "clue2": "American Samoa's main harbor with a famously repetitive name", "answer": "Pago Pago", "imageUrl": "" },
-            { "category": "things", "clue": "Chocolate wafer you're supposed to break before eating", "clue2": "Candy bar with a famous jingle about taking breaks", "answer": "Kit Kat", "imageUrl": "" }
+            { "category": "people", "clue": "Blonde bombshell who sang breathily to a president on his birthday", "clue2": "Hollywood star immortalized in Warhol prints", "answer": "Marilyn Monroe", "acceptableAnswers": ["Monroe"], "imageUrl": "" },
+            { "category": "places", "clue": "South Pacific capital that is home to the largest tuna cannery in the world", "clue2": "American Samoa's main harbor with a famously repetitive name", "answer": "Pago Pago", "imageUrl": "" },
+            { "category": "things", "clue": "Snappable sweet snack", "clue2": "Candy bar that begs for a break", "answer": "Kit Kat", "imageUrl": "" }
           ]
         }
       ]
