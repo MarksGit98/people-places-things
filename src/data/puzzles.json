@@ -174,7 +174,7 @@
         {
           "constraint": "Contains the letter 'Q'",
           "cells": [
-            { "category": "people", "clue": "A director with a penchant for feet shots", "clue2": "He loves working with Samuel L. Jackson and Uma Thurman", "answer": "Quentin Tarantino", "acceptableAnswers": ["Tarantino"], "imageUrl": "" },
+            { "category": "people", "clue": "A director with a penchant for close-up foot shots", "clue2": "He loves working with Samuel L. Jackson and Uma Thurman", "answer": "Quentin Tarantino", "acceptableAnswers": ["Tarantino"], "imageUrl": "" },
             { "category": "places", "clue": "A peninsula nation often accused of \"Sportswashing\" its image", "clue2": "Host of the most expensive sporting event in history", "answer": "Qatar", "imageUrl": "" },
             { "category": "things", "clue": "A spirit that's responsible for great nights and troublesome mornings", "clue2": "Mezcal's famous cousin", "answer": "Tequila", "imageUrl": "" }
           ]
