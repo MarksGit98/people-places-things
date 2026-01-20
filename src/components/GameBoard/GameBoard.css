@@ -7,6 +7,12 @@
   margin: 0 auto;
   /* Offset to center the grid visually (half of row label width) */
   transform: translateX(calc(-1 * var(--row-label-width) / 2));
+  user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-drag: none;
+  -webkit-touch-callout: none;
 }
 
 .game-board__header {
