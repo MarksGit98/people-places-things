@@ -482,25 +482,25 @@
         {
           "constraint": "Contains an animal",
           "cells": [
-            { "category": "people", "clue": "Kiss from a Rose crooner with distinctive facial scars", "clue2": "British soul singer who was briefly married to a supermodel", "answer": "Seal", "imageUrl": "" },
-            { "category": "places", "clue": "Lake Effect snow capital where spicy wings are a religion", "clue2": "Rust Belt city that gave us a beloved bar snack in 1964", "answer": "Buffalo", "imageUrl": "" },
-            { "category": "things", "clue": "Medieval siege engine that made castle walls very nervous", "clue2": "How to deliver a boulder with medieval efficiency", "answer": "Catapult", "imageUrl": "" }
+            { "category": "people", "clue": "This soul singer's grammy award winning hit was featured on the <i>Batman Forever</i> soundtrack", "clue2": "He was once briefly married to supermodel Heidi Klum", "answer": "Seal", "imageUrl": "" },
+            { "category": "places", "clue": "Selected originally as the terminus of the Erie Canal making it the world's largest grain port in that era", "clue2": "Where the famous spicy buttery wings get their namesake", "answer": "Buffalo", "imageUrl": "" },
+            { "category": "things", "clue": "Strikes fear in the hearts of <i>Angry Birds</i>", "clue2": "The trebuchet's diminutive cousin", "answer": "Catapult", "imageUrl": "" }
           ]
         },
         {
           "constraint": "Starts with the letter 'W'",
           "cells": [
-            { "category": "people", "clue": "Eccentric chocolatier who gives factory tours to lucky golden ticket winners", "clue2": "Fictional candy man played by both Gene Wilder and Johnny Depp", "answer": "Willy Wonka", "acceptableAnswers": ["Wonka"], "imageUrl": "" },
-            { "category": "places", "clue": "Where strawberries and cream meet grunting and grass stains", "clue2": "London suburb that hosts tennis royalty every summer", "answer": "Wimbledon", "imageUrl": "" },
-            { "category": "things", "clue": "1980s pocket companion that made jogging tolerable", "clue2": "Sony's cassette player that killed the boombox's social life", "answer": "Walkman", "imageUrl": "" }
+            { "category": "people", "clue": "Roald Dahl's eccentric candy man", "clue2": "Zany chocolatier brought to life first by Gene Wilder", "answer": "Willy Wonka", "acceptableAnswers": ["Wonka"], "imageUrl": "" },
+            { "category": "places", "clue": "Home to a famous windmill and a more famous international annual sporting event", "clue2": "London suburb where two sisters from Compton made sports history", "answer": "Wimbledon", "imageUrl": "" },
+            { "category": "things", "clue": "How Sony revolutionized the way we consume music forever", "clue2": "The predecessor to the MP3 player", "answer": "Walkman", "imageUrl": "" }
           ]
         },
         {
           "constraint": "Ends in 'Y'",
           "cells": [
-            { "category": "people", "clue": "Anonymous artist whose work increases property values and police headaches simultaneously", "clue2": "Bristol vandal who became the art world's most wanted mystery", "answer": "Banksy", "imageUrl": "" },
-            { "category": "places", "clue": "Where Steinbeck's cannery stood and jazz festivals now flourish", "clue2": "California coastal town where aquariums meet artist colonies", "answer": "Monterey", "imageUrl": "" },
-            { "category": "things", "clue": "Herb that's for remembrance, according to Ophelia", "clue2": "Fragrant sprig that elevates lamb and focaccia alike", "answer": "Rosemary", "imageUrl": "" }
+            { "category": "people", "clue": "Perhaps most famous for his street art depicting a young girl reaching for a heart-shaped balloon", "clue2": "His anonymity is part of his artistic appeal", "answer": "Banksy", "imageUrl": "" },
+            { "category": "places", "clue": "Destination for Chaucer's pilgrims", "clue2": "Home to the seat of the Anglican Church", "answer": "Canterbury", "imageUrl": "" },
+            { "category": "things", "clue": "Herb that's for remembrance, according to Ophelia", "clue2": "Fragrant sprig and also a classic girl's name", "answer": "Rosemary", "imageUrl": "" }
           ]
         }
       ]
@@ -510,25 +510,25 @@
         {
           "constraint": "Contains 'GH'",
           "cells": [
-            { "category": "people", "clue": "Painter who gave his ear to art, quite literally", "clue2": "Starry Night visionary who only sold one painting while alive", "answer": "Van Gogh", "acceptableAnswers": ["Vincent Van Gogh"], "imageUrl": "" },
-            { "category": "places", "clue": "Capital named for a queen's favorite explorer who lost his head", "clue2": "Research Triangle anchor with more PhDs per capita than most cities", "answer": "Raleigh", "imageUrl": "" },
-            { "category": "things", "clue": "Powerful beam that guides ships and announces movie premieres", "clue2": "Hollywood essential for scanning the skies at openings", "answer": "Searchlight", "imageUrl": "" }
+            { "category": "people", "clue": "Tortured artist who gave his ear to his craft, quite literally", "clue2": "Post-impressionist visionary who only achieved worldwide recognition posthumously", "answer": "Van Gogh", "acceptableAnswers": ["Vincent Van Gogh"], "imageUrl": "" },
+            { "category": "places", "clue": "Capital named for an English queen's favorite explorer who lost his head", "clue2": "Research Triangle anchor with more PhDs per capita than most cities", "answer": "Raleigh", "imageUrl": "" },
+            { "category": "things", "clue": "Focuses your attention on stage", "clue2": "What every actor hopes to be under", "answer": "Spotlight", "imageUrl": "" }
           ]
         },
         {
-          "constraint": "Exactly one word",
+          "constraint": "Exactly five letters",
           "cells": [
-            { "category": "people", "clue": "Greek philosopher who thought reality was just shadows on a cave wall", "clue2": "Socrates' star pupil who founded the Academy in Athens", "answer": "Plato", "imageUrl": "" },
-            { "category": "places", "clue": "Medieval time capsule where chocolate and lace shops line the canals", "clue2": "Belgian gem where Colin Farrell couldn't wait to leave in that movie", "answer": "Bruges", "imageUrl": "" },
-            { "category": "things", "clue": "The Green Fairy that got blamed for madness and murder", "clue2": "Anise-flavored spirit that Hemingway and artists adored", "answer": "Absinthe", "imageUrl": "" }
+            { "category": "people", "clue": "Philosopher who likened our reality to shadows projected on a cave wall", "clue2": "Socrates' star pupil who founded the \"Academy in Athens\"", "answer": "Plato", "imageUrl": "" },
+            { "category": "places", "clue": "The birthplace of Pho", "clue2": "Liberated from French colonial rule by Ho Chi Minh", "answer": "Hanoi", "imageUrl": "" },
+            { "category": "things", "clue": "Spud if you're from the American south", "clue2": "Type of tot", "answer": "Tater", "imageUrl": "" }
           ]
         },
         {
           "constraint": "Contains 'QU'",
           "cells": [
-            { "category": "people", "clue": "Literary madman who tilted at windmills thinking they were giants", "clue2": "Cervantes' delusional knight errant with a faithful squire", "answer": "Don Quixote", "acceptableAnswers": ["Quixote"], "imageUrl": "" },
-            { "category": "places", "clue": "Desert city where a certain chemistry teacher started cooking", "clue2": "New Mexico's largest city, famous for hot air balloons and blue meth (on TV)", "answer": "Albuquerque", "imageUrl": "" },
-            { "category": "things", "clue": "What you bring to apologize or celebrate, wrapped in cellophane", "clue2": "Arranged flowers that say what words sometimes can't", "answer": "Bouquet", "imageUrl": "" }
+            { "category": "people", "clue": "Literary madman whose foolish idealism had him battling windmills thinking they were giants", "clue2": "The titular character of a novel considered a founding work in Western literature", "answer": "Don Quixote", "acceptableAnswers": ["Quixote", "Quixano", " Alonso Quixano"], "imageUrl": "" },
+            { "category": "places", "clue": "Where Walter White started cooking", "clue2": "Major Route 66 stop that's also a Spelling Bee nightmare", "answer": "Albuquerque", "imageUrl": "" },
+            { "category": "things", "clue": "The most fundamental constituent of all matter", "clue2": "Protons and neutrons are composed of these", "answer": "Quark", "imageUrl": "" }
           ]
         }
       ]
@@ -538,25 +538,25 @@
         {
           "constraint": "Ends in 'ER'",
           "cells": [
-            { "category": "people", "clue": "The Iron Lady who broke Britain's political glass ceiling", "clue2": "British PM who went head to head with coal miners and won", "answer": "Margaret Thatcher", "acceptableAnswers": ["Thatcher"], "imageUrl": "" },
-            { "category": "places", "clue": "White cliffs that greet ships crossing the Channel", "clue2": "English port that's closer to the continent than to its own capital", "answer": "Dover", "imageUrl": "" },
-            { "category": "things", "clue": "The machine Hemingway banged his novels out on", "clue2": "Predecessor to the laptop that made correction fluid necessary", "answer": "Typewriter", "imageUrl": "" }
+            { "category": "people", "clue": "Famously dubbed the \"Iron Lady\" by the Soviet press", "clue2": "European PM known for privatizing industries and combating labor unions", "answer": "Margaret Thatcher", "acceptableAnswers": ["Thatcher"], "imageUrl": "" },
+            { "category": "places", "clue": "Once home to the Mali Empire and much later a colony of the French", "clue2": "The name of both the African nation and the river that flows through it", "answer": "Niger", "imageUrl": "" },
+            { "category": "things", "clue": "Fluid correctors like \"White-out\" were specifically invented due to this device", "clue2": "How authors got it done prior to the digital age", "answer": "Typewriter", "imageUrl": "" }
           ]
         },
         {
           "constraint": "Contains two 'O's in a row",
           "cells": [
-            { "category": "people", "clue": "Great Dane detective who solves mysteries with snacks as motivation", "clue2": "Mystery Inc.'s hungriest member who says 'Ruh-roh'", "answer": "Scooby Doo", "acceptableAnswers": ["Scooby-Doo", "Scooby"], "imageUrl": "" },
-            { "category": "places", "clue": "African nation whose football team is called the Indomitable Lions", "clue2": "Central African country shaped like a bent arm pointing west", "answer": "Cameroon", "imageUrl": "" },
-            { "category": "things", "clue": "Liquid that promises miracle hair in 30 seconds flat", "clue2": "Bottle in your shower that you definitely should have replaced by now", "answer": "Shampoo", "imageUrl": "" }
+            { "category": "people", "clue": "Four-legged food-motivated detective", "clue2": "Mystery Inc.'s least articulate member", "answer": "Scooby Doo", "acceptableAnswers": ["Scooby-Doo", "Scooby"], "imageUrl": "" },
+            { "category": "places", "clue": "Home to the Indomitable Lions and where Samuel Eto'o made his name", "clue2": "African nation officially fluent in both French and English", "answer": "Cameroon", "imageUrl": "" },
+            { "category": "things", "clue": "Bottle in your bathroom that you definitely should have replaced by now", "clue2": "Shower staple", "answer": "Shampoo", "imageUrl": "" }
           ]
         },
         {
           "constraint": "Starts with the letter 'F'",
           "cells": [
-            { "category": "people", "clue": "Self-portrait queen who made the unibrow iconic", "clue2": "Mexican artist whose pain and passion became her canvas", "answer": "Frida Kahlo", "acceptableAnswers": ["Frida"], "imageUrl": "" },
-            { "category": "places", "clue": "Renaissance birthplace where a famous David stands eternal watch", "clue2": "Tuscan gem that Medici money built and art history reveres", "answer": "Florence", "imageUrl": "" },
-            { "category": "things", "clue": "Writing instrument that made signing documents feel ceremonial", "clue2": "Ink-filled tool that ruined many a shirt pocket", "answer": "Fountain Pen", "imageUrl": "" }
+            { "category": "people", "clue": "Her surreal self-portraits eventually got her on the nation's currency", "clue2": "Wearer of perhaps the world's most iconic unibrow", "answer": "Frida Kahlo", "acceptableAnswers": ["Frida"], "imageUrl": "" },
+            { "category": "places", "clue": "A Medici stronghold for nearly 300 years", "clue2": "Birthplace of Dante", "answer": "Florence", "imageUrl": "" },
+            { "category": "things", "clue": "Tool to officiate a document", "clue2": "Ballpoint alternative", "answer": "Fountain Pen", "imageUrl": "" }
           ]
         }
       ]

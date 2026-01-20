@@ -66,6 +66,13 @@ PUZZLE GENERATION RULES
 
 	Use "Starts with X", "Ends with X", and "Contains XY" constraints more sparingly - they're acceptable but should not dominate the puzzle set.
 
+-CONSTRAINT TYPE DIVERSITY: Each puzzle's three constraints (for People, Places, Things) must all be of DIFFERENT types. Do not repeat the same constraint category within a single puzzle. For example:
+	- BAD: "Starts with B", "Starts with M", "Starts with T" (all "Starts with X" type)
+	- BAD: "Ends in 'er'", "Ends with S", "Ends in 'tion'" (all "Ends with X" type)
+	- BAD: "Contains 'oo'", "Contains 'gh'", "Contains two L's in a row" (all "Contains X" type)
+	- GOOD: "Both words start with the same letter", "Contains two O's in a row", "Exactly seven letters" (three distinct types)
+	- GOOD: "Starts with M", "Rhymes with 'day'", "Contains an animal" (three distinct types)
+
 -When you generate clues please crosscheck the answers with the constraints to ensure the answer actually satisfies the constraint as I have noticed several instances with auto-generated puzzles in which not all of the answers within a given constraint block actually satisfy the constraint condition
 
 -For the People category specifically the constraints can apply to first or last names (Starts with X, ends with X, etc) unless specified otherwise. For instance a constraint such as "Two words beginning with the same letter" would imply that both first and last name will begin with same letter. However when generating clues try to avoid using Starts with X letter on common names. In fact as a general rule only apply the "Starts or Ends with X" constraints to the person's last name unless their first name is rather iconic. For instance "starts with B" for Brad Pitt would not be a great clue. For more unique singular names or more esoteric letters like "Starts with L" for Lebron James works much better as he is referred to more often as Lebron than as James. For starts and ends with X clues try to use the more unique name of the individuals first and last names to satisfy the constraint. For instance "Starts with T" would be a better constraint for the name "Donald Trump" than "starts with D" as "Donald" is a very generic common name and does not immediatly invoke the image of the person in question as "Trump" does. 
