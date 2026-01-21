@@ -1,7 +1,7 @@
 .other-games {
   width: 100%;
   max-width: 400px;
-  margin: var(--spacing-sm) auto;
+  margin: var(--spacing-xs) auto;
   padding: var(--spacing-sm);
   text-align: center;
 }
@@ -54,7 +54,7 @@
 @media (max-width: 600px) {
   .other-games {
     padding: var(--spacing-xs);
-    margin: var(--spacing-xs) auto;
+    margin: 0 auto;
   }
 
   .other-games__title {

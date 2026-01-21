@@ -46,6 +46,7 @@ PUZZLE GENERATION RULES
 	19. Not pronounced how it’s spelled
 	20. Contains silent letters
 	21. Composed of two smaller words ("Rushmore" - Rush & More, "Louis Armstrong" - Arm & Strong, "Hourglass" - Hour & glass)
+	22. Exactly X syllables (limit to 3 syllables max for actual puzzles - e.g., "Exactly two syllables", "Exactly three syllables")
 
 	Other clues in this vein are also acceptable as long as the constraint applies to every answer in its respective block (for people, place, and thing).
 
@@ -61,6 +62,7 @@ PUZZLE GENERATION RULES
 	- Two/Three words beginning/ending with the same letter
 	- Starts and ends with the same letter
 	- Exactly X words
+	- Exactly X syllables (max 3 syllables)
 	- Contains a number
 	- Rhymes with X
 

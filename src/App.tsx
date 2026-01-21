@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef } from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { Analytics } from '@vercel/analytics/react';
-import { Header, GameBoard, ResultsModal, HowToPlay, CardOverlay, AdsterraAd, MainMenu, Footer, OtherGames, PrivacyPolicy, About, FAQ } from './components';
+import { Header, GameBoard, ResultsModal, HowToPlay, CardOverlay, AdsterraBanner, MainMenu, Footer, OtherGames, PrivacyPolicy, About, FAQ } from './components';
 import { useGameState } from './hooks/useGameState';
 import puzzleData from './data/puzzles.json';
 import type { PuzzleData, Puzzle, ColumnType } from './types';
@@ -135,11 +135,13 @@ function GamePage() {
 
         <HowToPlay />
 
-        {/* Ad below How to Play */}
+        {/* Single banner ad below How to Play */}
         <div className="app__ad-below-game">
-          <AdsterraAd
-            scriptSrc="https://pl28527779.effectivegatecpm.com/e367eb54c5443f7ddc13daba8ded0da3/invoke.js"
-            containerId="container-e367eb54c5443f7ddc13daba8ded0da3"
+          <AdsterraBanner
+            adKey="331f88141ea45a2aa275c9a5c10f0c27"
+            width={728}
+            height={90}
+            position="bottom"
           />
         </div>
 

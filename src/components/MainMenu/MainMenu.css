@@ -307,5 +307,5 @@
   max-width: 728px;
   display: flex;
   justify-content: center;
-  margin: var(--spacing-lg) 0;
+  margin: var(--spacing-xs) 0;
 }
