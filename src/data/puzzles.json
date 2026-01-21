@@ -566,25 +566,25 @@
         {
           "constraint": "Contains two 'L's in a row",
           "cells": [
-            { "category": "people", "clue": "Redhead who made TV comedy respectable and owned the studio that filmed Star Trek", "clue2": "I Love Lucy star who was a pioneer both on and off screen", "answer": "Lucille Ball", "acceptableAnswers": ["Lucy"], "imageUrl": "" },
-            { "category": "places", "clue": "City of flamenco where orange trees line the streets", "clue2": "Andalusian capital with an impressive plaza and a famous cathedral", "answer": "Seville", "imageUrl": "" },
-            { "category": "things", "clue": "Campfire staple that's best when slightly charred", "clue2": "Fluffy confection that s'mores couldn't exist without", "answer": "Marshmallow", "imageUrl": "" }
+            { "category": "people", "clue": "Redheaded TV pioneer who owned the studio that filmed Star Trek", "clue2": "Star of a TV show where she played a character with an abbreviated version of her real name", "answer": "Lucille Ball", "acceptableAnswers": ["Lucille"], "imageUrl": "" },
+            { "category": "places", "clue": "City that originated the song, music, and dance form known as <i>Flamenco</i>", "clue2": "Andalusian capital with an impressive plaza and a famous cathedral", "answer": "Seville", "imageUrl": "" },
+            { "category": "things", "clue": "Campfire staple", "clue2": "Fluffy confection that s'mores couldn't exist without", "answer": "Marshmallow", "imageUrl": "" }
           ]
         },
         {
           "constraint": "Starts with the letter 'J'",
           "cells": [
-            { "category": "people", "clue": "Teenage warrior who heard voices and led armies to victory", "clue2": "French saint who burned for her beliefs at just 19", "answer": "Joan of Arc", "acceptableAnswers": ["Joan"], "imageUrl": "" },
-            { "category": "places", "clue": "Pink city where elephants climb to hilltop forts", "clue2": "Rajasthani gem known for rose-colored buildings and palaces", "answer": "Jaipur", "imageUrl": "" },
-            { "category": "things", "clue": "Diner essential that played your heartbreak for a quarter", "clue2": "Music machine that made Happy Days feel authentic", "answer": "Jukebox", "imageUrl": "" }
+            { "category": "people", "clue": "Teenage warrior guided by saintly visions who led her nation's army to victory", "clue2": "She was burned at the stake by her rivals at just 19 years of age", "answer": "Joan of Arc", "acceptableAnswers": ["Joan"], "imageUrl": "" },
+            { "category": "places", "clue": "Short-lived commune in Guyana associated with the <i>People's Temple</i> cult", "clue2": "The tragic mass suicide here spawned the phrase \"drinking the Kool-Aid\"", "answer": "Jonestown", "imageUrl": "" },
+            { "category": "things", "clue": "Over a century old dive bar staple", "clue2": "Quarters in, tunes out", "answer": "Jukebox", "imageUrl": "" }
           ]
         },
         {
           "constraint": "Ends in 'A'",
           "cells": [
-            { "category": "people", "clue": "Inventor that Edison tried desperately to destroy", "clue2": "Serbian genius who lit up the world with alternating current", "answer": "Nikola Tesla", "acceptableAnswers": ["Tesla"], "imageUrl": "" },
-            { "category": "places", "clue": "Tuscan hill town where horses race around the piazza twice yearly", "clue2": "Medieval city famous for its Palio and striped cathedral", "answer": "Siena", "imageUrl": "" },
-            { "category": "things", "clue": "Headwear that beauty queens and Disney princesses have in common", "clue2": "Sparkly crown-lite for those who haven't earned a full throne", "answer": "Tiara", "imageUrl": "" }
+            { "category": "people", "clue": "Inventor who Edison tried desperately to discredit", "clue2": "Serbian genius who lit up the world with alternating current", "answer": "Nikola Tesla", "acceptableAnswers": ["Tesla"], "imageUrl": "" },
+            { "category": "places", "clue": "Where an infamous U.S-backed right-wing paramilitary group was armed with secret weapon sales", "clue2": "The word \"water\" is in this nation's name (in their language)", "answer": "Nicaragua", "imageUrl": "" },
+            { "category": "things", "clue": "Nearly all Disney Princesses have one", "clue2": "\"Toddlers & ___ \"(TLC show)", "answer": "Tiara", "imageUrl": "" }
           ]
         }
       ]
