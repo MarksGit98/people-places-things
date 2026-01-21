@@ -668,7 +668,7 @@
           "cells": [
             { "category": "people", "clue": "Composer who kept conducting even when he couldn't hear the orchestra", "clue2": "German genius whose Ninth Symphony can be heard in concert halls around the world", "answer": "Ludwig van Beethoven", "acceptableAnswers": ["Beethoven"], "imageUrl": "" },
             { "category": "places", "clue": "European capital whose name combines its two distinct halves, split by the Danube River", "clue2": "Wes Anderson's \"Grand\" hotel locale", "answer": "Budapest", "imageUrl": "" },
-            { "category": "things", "clue": "Safari essential that brings the distance closer", "clue2": "Double-barreled but for observation, not shooting", "answer": "Binoculars", "imageUrl": "" }
+            { "category": "things", "clue": "Safari essential that brings the distance closer", "clue2": "Double-barreled but for magnifying, not shooting", "answer": "Binoculars", "imageUrl": "" }
           ]
         }
       ]
