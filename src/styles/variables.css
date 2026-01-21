@@ -47,9 +47,10 @@
   --font-family-tagline: 'Pacifico', cursive;
   --font-family-puzzle-number: 'Nunito Sans', 'Segoe UI', system-ui, sans-serif;
 
-  --font-size-xs: 0.81rem;  /* 13px */
-  --font-size-sm: 0.88rem; /* 14.5px */
-  --font-size-md: 1.125rem;   /* 18px */
+  --font-size-xxs: 0.72rem;  
+  --font-size-xs: 0.81rem;  
+  --font-size-sm: 0.885rem; 
+  --font-size-md: 1.125rem;   
   --font-size-clue-mobile: 0.675rem;
   --font-size-clue-mobile-sm: 0.63rem;
   --font-size-overlay-clue-mobile: 1.15rem;
@@ -151,11 +152,21 @@
   --font-size-header-places-mobile: 1.35em;
   --font-size-header-things-mobile: 1.15em;
 
+  /* Header/Game screen banner */
+  --header-banner-height: 126px;
+  --header-banner-height-mobile: 84px;
+  --header-banner-height-mobile-sm: 76px;
+
+  /* Header/Game screen tagline */
+  --header-tagline-font: var(--font-size-md);
+  --header-tagline-font-mobile: var(--font-size-xs);
+  --header-tagline-font-mobile-sm: var(--font-size-xxs);
+
   /* Main menu - desktop */
   --main-menu-banner-height: 18vh;
 
   /* Main menu - mobile */
-  --main-menu-banner-height-mobile: 15.9vh;
+  --main-menu-banner-height-mobile: 16vh;
   --main-menu-header-margin-top-mobile: -2vh;
   --main-menu-header-tagline-font-mobile: 0.94rem;
   --main-menu-icon-size-mobile: 108px;
@@ -167,7 +178,7 @@
   --main-menu-creator-font-mobile: 0.87rem;
 
   /* Main menu - small mobile */
-  --main-menu-banner-height-mobile-sm: 15.1vh;
+  --main-menu-banner-height-mobile-sm: 15.5vh;
   --main-menu-header-margin-top-mobile-sm: -1.90vh;
   --main-menu-header-tagline-font-mobile-sm: 0.89rem;
   --main-menu-icon-size-mobile-sm: 103px;

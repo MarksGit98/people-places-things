@@ -102,41 +102,43 @@
   user-select: none;
 }
 
-/* Play Button */
+/* Play Button - matches Share Results button base layout */
 .main-menu__play-btn {
   width: 100%;
   max-width: 320px;
-  padding: var(--spacing-md) var(--spacing-2xl);
+  padding: var(--spacing-lg) var(--spacing-xl);
   font-family: var(--font-family);
   font-size: 2.75rem;
   font-weight: var(--font-weight-bold);
   text-transform: uppercase;
   letter-spacing: 2px;
   color: white;
-  background-color: var(--color-correct-1);
+  background: linear-gradient(135deg, var(--color-correct-1) 0%, #5A9A54 100%);
   border: none;
-  border-radius: 50px;
+  border-radius: var(--radius-lg);
   cursor: pointer;
-  transition: all var(--transition-fast);
+  transition: transform var(--transition-fast), box-shadow var(--transition-fast);
+  display: flex;
+  align-items: center;
+  justify-content: center;
   box-shadow:
-    -3px 6px 0 #4d8b49,
-    var(--shadow-md);
+    0 4px 0 #3d7a3a,
+    0 6px 8px rgba(0, 0, 0, 0.3);
   margin-bottom: var(--spacing-xl);
 }
 
 .main-menu__play-btn:hover {
-  background-color: #5a9a54;
-  transform: translate(1px, -2px);
+  transform: translateY(-2px);
   box-shadow:
-    -4px 8px 0 #4d8b49,
-    var(--shadow-lg);
+    0 6px 0 #3d7a3a,
+    0 8px 12px rgba(0, 0, 0, 0.35);
 }
 
 .main-menu__play-btn:active {
-  transform: translate(-1px, 2px);
+  transform: translateY(4px);
   box-shadow:
-    -1px 2px 0 #4d8b49,
-    var(--shadow-sm);
+    0 0 0 #3d7a3a,
+    0 2px 4px rgba(0, 0, 0, 0.2);
 }
 
 /* Puzzle number */

@@ -16,7 +16,7 @@
   margin: 0 auto;
   max-width: 100%;
   height: auto;
-  max-height: 120px;
+  max-height: var(--header-banner-height);
   object-fit: contain;
   user-select: none;
   cursor: default;
@@ -34,7 +34,7 @@
 
 .header__tagline {
   font-family: var(--font-family-tagline);
-  font-size: var(--font-size-sm);
+  font-size: var(--header-tagline-font);
   color: var(--color-accent-brown);
   font-style: italic;
   margin-top: -2px;
@@ -58,11 +58,11 @@
   }
 
   .header__banner-image {
-    max-height: 80px;
+    max-height: var(--header-banner-height-mobile);
   }
 
   .header__tagline {
-    font-size: var(--font-size-xs);
+    font-size: var(--header-tagline-font-mobile);
   }
 }
 
@@ -73,11 +73,11 @@
   }
 
   .header__banner-image {
-    max-height: 65px;
+    max-height: var(--header-banner-height-mobile-sm);
   }
 
   .header__tagline {
-    font-size: 0.7rem;
+    font-size: var(--header-tagline-font-mobile-sm);
     margin-top: -3px;
   }
 
