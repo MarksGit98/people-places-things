@@ -26,29 +26,40 @@ interface AdsterraBannerProps {
 export function AdsterraBanner({ adKey, width, height, position = 'bottom', desktopOnly = false }: AdsterraBannerProps) {
   const containerRef = useRef<HTMLDivElement>(null);
   const scriptRef = useRef<HTMLScriptElement | null>(null);
+  const timeoutRef = useRef<number | null>(null);
 
   useEffect(() => {
     if (!containerRef.current) return;
 
-    // Set atOptions on window
-    (window as unknown as Record<string, unknown>).atOptions = {
-      key: adKey,
-      format: 'iframe',
-      height: height,
-      width: width,
-      params: {}
-    };
+    // Stagger ad loading based on position to prevent atOptions collision
+    const delay = position === 'left' ? 0 : position === 'right' ? 100 : 200;
 
-    // Create and append the script
-    const script = document.createElement('script');
-    script.src = `https://www.highperformanceformat.com/${adKey}/invoke.js`;
-    script.async = true;
+    timeoutRef.current = window.setTimeout(() => {
+      if (!containerRef.current) return;
 
-    containerRef.current.appendChild(script);
-    scriptRef.current = script;
+      // Set atOptions on window
+      (window as unknown as Record<string, unknown>).atOptions = {
+        key: adKey,
+        format: 'iframe',
+        height: height,
+        width: width,
+        params: {}
+      };
+
+      // Create and append the script
+      const script = document.createElement('script');
+      script.src = `https://www.highperformanceformat.com/${adKey}/invoke.js`;
+      script.async = true;
+
+      containerRef.current.appendChild(script);
+      scriptRef.current = script;
+    }, delay);
 
     // Cleanup on unmount
     return () => {
+      if (timeoutRef.current) {
+        clearTimeout(timeoutRef.current);
+      }
       if (scriptRef.current && scriptRef.current.parentNode) {
         scriptRef.current.parentNode.removeChild(scriptRef.current);
       }
@@ -56,7 +67,7 @@ export function AdsterraBanner({ adKey, width, height, position = 'bottom', desk
         containerRef.current.innerHTML = '';
       }
     };
-  }, [adKey, width, height]);
+  }, [adKey, width, height, position]);
 
   const classNames = [
     'adsterra-banner',
