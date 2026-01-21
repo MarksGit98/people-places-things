@@ -54,7 +54,7 @@
 
 @media (max-width: 600px) {
   .header {
-    padding: calc(var(--spacing-xs) + 4px) var(--spacing-sm) 0;
+    padding: var(--spacing-xs) var(--spacing-sm) 0;
   }
 
   .header__banner-image {
@@ -69,7 +69,7 @@
 /* Small mobile styles (iPhone 16 and smaller ~390px screens) */
 @media (max-width: 414px) {
   .header {
-    padding: calc(var(--spacing-xs) + 2px) var(--spacing-xs) 0;
+    padding: var(--spacing-xs) var(--spacing-xs) 0;
   }
 
   .header__banner-image {

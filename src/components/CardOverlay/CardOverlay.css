@@ -297,7 +297,7 @@
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
-  gap: var(--spacing-sm);
+  gap: var(--spacing-sm-md);
   width: 100%;
 }
 
@@ -318,6 +318,27 @@
   color: var(--color-text-muted);
   font-style: italic;
   opacity: 0.7;
+}
+
+.card-overlay__clue-number {
+  font-weight: var(--font-weight-semibold);
+}
+
+/* Category-specific clue number colors */
+.card-overlay__card--people .card-overlay__clue-number {
+  color: #a62d72;
+}
+
+.card-overlay__card--places .card-overlay__clue-number {
+  color: var(--color-places-darker);
+}
+
+.card-overlay__card--things .card-overlay__clue-number {
+  color: var(--color-things-darker);
+}
+
+.card-overlay__clue--placeholder .card-overlay__clue-number {
+  color: var(--color-text-muted);
 }
 
 /* Form styling */
@@ -459,6 +480,18 @@
   color: rgba(255, 255, 255, 0.7);
 }
 
+/* Mobile styles */
+@media (max-width: 600px) {
+  .card-overlay__clue {
+    font-size: var(--font-size-overlay-clue-mobile);
+    line-height: 1.35;
+  }
+
+  .card-overlay__clue-title {
+    font-size: var(--font-size-overlay-clue-title-mobile);
+  }
+}
+
 /* Small mobile styles (iPhone 16 and smaller ~390px screens) */
 @media (max-width: 414px) {
   .card-overlay__card {
@@ -477,12 +510,12 @@
   }
 
   .card-overlay__clue {
-    font-size: 1.03rem;  /* 5% larger than 0.98rem */
+    font-size: var(--font-size-overlay-clue-mobile-sm);
     line-height: 1.35;
   }
 
   .card-overlay__clue-title {
-    font-size: 0.95rem;  /* 5% larger than 0.9rem */
+    font-size: var(--font-size-overlay-clue-title-mobile-sm);
   }
 
   .card-overlay__form {

@@ -222,11 +222,11 @@ export function CardOverlay({ cell, cellState, columnType, onGuess, onClose, dis
               <p className="card-overlay__clue-title">Clues</p>
               <div className="card-overlay__clue-divider"></div>
               <div className="card-overlay__clues">
-                <p className="card-overlay__clue">1. {parseClueText(cell.clue)}</p>
+                <p className="card-overlay__clue"><span className="card-overlay__clue-number">1.</span> {parseClueText(cell.clue)}</p>
                 {showSecondClue ? (
-                  <p className="card-overlay__clue card-overlay__clue--second">2. {parseClueText(cell.clue2)}</p>
+                  <p className="card-overlay__clue card-overlay__clue--second"><span className="card-overlay__clue-number">2.</span> {parseClueText(cell.clue2)}</p>
                 ) : (
-                  <p className="card-overlay__clue card-overlay__clue--placeholder">2. Guess to reveal second clue</p>
+                  <p className="card-overlay__clue card-overlay__clue--placeholder"><span className="card-overlay__clue-number">2.</span> Guess to reveal second clue</p>
                 )}
               </div>
             </div>

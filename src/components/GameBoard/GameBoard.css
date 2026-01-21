@@ -184,10 +184,11 @@
   .game-board__row-label {
     width: var(--row-label-width-mobile);
     padding: var(--spacing-xs);
+    padding-left: 5px;
   }
 
   .game-board__constraint {
-    font-size: 10px;
+    font-size: var(--font-size-constraint-mobile);
   }
 }
 
@@ -234,9 +235,10 @@
 
   .game-board__row-label {
     width: var(--row-label-width-mobile-sm);
+    padding-left: 5px;
   }
 
   .game-board__constraint {
-    font-size: 9px;
+    font-size: var(--font-size-constraint-mobile-sm);
   }
 }

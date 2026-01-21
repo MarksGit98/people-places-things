@@ -166,11 +166,11 @@ export function GridCell({ cell, cellState, columnType, onGuess, onOpenOverlay, 
             <p className="grid-cell__clue-title">Clues</p>
             <div className="grid-cell__clue-divider"></div>
             <div className="grid-cell__clues">
-              <p className="grid-cell__clue">1. {parseClueText(cell.clue)}</p>
+              <p className="grid-cell__clue"><span className="grid-cell__clue-number">1.</span> {parseClueText(cell.clue)}</p>
               {showSecondClue ? (
-                <p className="grid-cell__clue grid-cell__clue--second">2. {parseClueText(cell.clue2)}</p>
+                <p className="grid-cell__clue grid-cell__clue--second"><span className="grid-cell__clue-number">2.</span> {parseClueText(cell.clue2)}</p>
               ) : (
-                <p className="grid-cell__clue grid-cell__clue--placeholder">2. Guess to reveal second clue</p>
+                <p className="grid-cell__clue grid-cell__clue--placeholder"><span className="grid-cell__clue-number">2.</span> Guess to reveal second clue</p>
               )}
             </div>
           </div>

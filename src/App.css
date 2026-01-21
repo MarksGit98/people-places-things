@@ -129,7 +129,7 @@
   }
 
   .app__puzzle-number {
-    font-size: var(--font-size-xs);
+    display: none;
   }
 
   .app__complete-banner {

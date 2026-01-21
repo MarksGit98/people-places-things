@@ -50,8 +50,14 @@
   --font-size-xs: 0.81rem;  /* 13px */
   --font-size-sm: 0.87rem; /* 14.5px */
   --font-size-md: 1.125rem;   /* 18px */
-  --font-size-clue-mobile: 0.668rem; /* 10.5px */
-  --font-size-clue-mobile-sm: 0.563rem; /* 9px - for smaller phones */
+  --font-size-clue-mobile: 0.675rem;
+  --font-size-clue-mobile-sm: 0.63rem;
+  --font-size-overlay-clue-mobile: 1.15rem;
+  --font-size-overlay-clue-mobile-sm: 1.1rem;
+  --font-size-overlay-clue-title-mobile: 0.95rem;
+  --font-size-overlay-clue-title-mobile-sm: 0.9rem;
+  --font-size-constraint-mobile: 0.79rem;    
+  --font-size-constraint-mobile-sm: 0.75rem; 
   --font-size-lg: 1.25rem;    /* 20px */
   --font-size-xl: 1.5rem;     /* 24px */
   --font-size-2xl: 1.8rem;      /* 32px */
@@ -75,6 +81,7 @@
   /* Spacing */
   --spacing-xs: 0.25rem;   /* 4px */
   --spacing-sm: 0.5rem;    /* 8px */
+  --spacing-sm-md: 0.75rem; /* 12px */
   --spacing-md: 1rem;      /* 16px */
   --spacing-lg: 1.5rem;    /* 24px */
   --spacing-xl: 2rem;      /* 32px */
@@ -101,14 +108,14 @@
   --cell-size-mobile: 115px;
   --cell-height-mobile: 194px;
   /* Small mobile (iPhone 16 and smaller ~390px screens) */
-  --cell-size-mobile-sm: 107px;
+  --cell-size-mobile-sm: 109px;
   --cell-height-mobile-sm: 175px;
 
   /* Card overlay (mobile enlarged view) */
   --overlay-card-width: 280px;
-  --overlay-card-height: 340px;
+  --overlay-card-height: 360px;
   --overlay-card-width-sm: 260px;
-  --overlay-card-height-sm: 320px;
+  --overlay-card-height-sm: 338px;
   --overlay-z-index: 1000;
   --overlay-backdrop-blur: 8px;
   --overlay-card-bg-opacity: 1;
@@ -146,8 +153,8 @@
   /* Main menu - desktop */
   --main-menu-banner-height: 18vh;
 
-  /* Main menu - mobile (8% larger than previous, +5% banner) */
-  --main-menu-banner-height-mobile: 15.88vh;
+  /* Main menu - mobile */
+  --main-menu-banner-height-mobile: 15.9vh;
   --main-menu-header-margin-top-mobile: -2vh;
   --main-menu-header-tagline-font-mobile: 0.94rem;
   --main-menu-icon-size-mobile: 108px;
@@ -158,8 +165,8 @@
   --main-menu-puzzle-number-font-mobile: 1.13rem;
   --main-menu-creator-font-mobile: 0.87rem;
 
-  /* Main menu - small mobile (5% smaller than mobile, +5% banner) */
-  --main-menu-banner-height-mobile-sm: 15.08vh;
+  /* Main menu - small mobile */
+  --main-menu-banner-height-mobile-sm: 15.1vh;
   --main-menu-header-margin-top-mobile-sm: -1.90vh;
   --main-menu-header-tagline-font-mobile-sm: 0.89rem;
   --main-menu-icon-size-mobile-sm: 103px;

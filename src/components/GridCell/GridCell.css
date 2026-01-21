@@ -161,6 +161,23 @@
   margin: 0;
 }
 
+.grid-cell__clue-number {
+  font-weight: var(--font-weight-semibold);
+}
+
+/* Category-specific clue number colors */
+.grid-cell--people .grid-cell__clue-number {
+  color: #a62d72;
+}
+
+.grid-cell--places .grid-cell__clue-number {
+  color: var(--color-places-darker);
+}
+
+.grid-cell--things .grid-cell__clue-number {
+  color: var(--color-things-darker);
+}
+
 .grid-cell__clue--second {
   color: var(--color-clue-text);
 }
@@ -169,6 +186,10 @@
   color: var(--color-text-muted);
   font-style: italic;
   opacity: 0.7;
+}
+
+.grid-cell__clue--placeholder .grid-cell__clue-number {
+  color: var(--color-text-muted);
 }
 
 .grid-cell__form {
@@ -489,7 +510,7 @@
   }
 
   .grid-cell__clue {
-    font-size: 0.60rem;  /* 4% larger than 0.574rem */
+    font-size: var(--font-size-clue-mobile-sm);
     line-height: 1.2;
   }
 
