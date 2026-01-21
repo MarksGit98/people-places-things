@@ -114,6 +114,13 @@
   justify-content: center;
 }
 
+/* Banner ad at very bottom */
+.privacy-policy__banner-ad {
+  display: flex;
+  justify-content: center;
+  padding: var(--spacing-lg) 0;
+}
+
 /* Mobile styles */
 @media (max-width: 600px) {
   .privacy-policy {

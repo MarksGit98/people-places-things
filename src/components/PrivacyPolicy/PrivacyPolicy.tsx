@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom';
 import { AdsterraAd } from '../AdsterraAd/AdsterraAd';
+import { AdsterraBanner } from '../AdsterraBanner/AdsterraBanner';
 import './PrivacyPolicy.css';
 
 export function PrivacyPolicy() {
@@ -140,6 +141,16 @@ export function PrivacyPolicy() {
             containerId="container-e367eb54c5443f7ddc13daba8ded0da3-privacy"
           />
         </div>
+      </div>
+
+      {/* Banner ad at very bottom */}
+      <div className="privacy-policy__banner-ad">
+        <AdsterraBanner
+          adKey="7370110dc9e2b65e305339fd5395c7e3"
+          width={300}
+          height={250}
+          position="bottom"
+        />
       </div>
     </div>
   );
