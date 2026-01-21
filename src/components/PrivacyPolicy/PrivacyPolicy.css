@@ -107,6 +107,13 @@
   text-decoration: underline;
 }
 
+/* Bottom ad */
+.privacy-policy__bottom-ad {
+  margin-top: var(--spacing-xl);
+  display: flex;
+  justify-content: center;
+}
+
 /* Mobile styles */
 @media (max-width: 600px) {
   .privacy-policy {

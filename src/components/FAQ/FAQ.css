@@ -91,6 +91,13 @@
   text-decoration: underline;
 }
 
+/* Bottom ad */
+.faq__bottom-ad {
+  margin-top: var(--spacing-xl);
+  display: flex;
+  justify-content: center;
+}
+
 /* Mobile styles */
 @media (max-width: 600px) {
   .faq {

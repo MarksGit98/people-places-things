@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom';
+import { AdsterraAd } from '../AdsterraAd/AdsterraAd';
 import './About.css';
 
 export function About() {
@@ -58,6 +59,14 @@ export function About() {
             <a href="mailto:rubberduckygamescontact@gmail.com">rubberduckygamescontact@gmail.com</a>
           </p>
         </section>
+
+        {/* Bottom ad */}
+        <div className="about__bottom-ad">
+          <AdsterraAd
+            scriptSrc="https://pl28527779.effectivegatecpm.com/e367eb54c5443f7ddc13daba8ded0da3/invoke.js"
+            containerId="container-e367eb54c5443f7ddc13daba8ded0da3-about"
+          />
+        </div>
       </div>
     </div>
   );
