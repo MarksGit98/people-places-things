@@ -1,5 +1,6 @@
 import './MainMenu.css';
 import { Footer } from '../Footer/Footer';
+import { OtherGames } from '../OtherGames/OtherGames';
 import { AdsterraBanner } from '../AdsterraBanner/AdsterraBanner';
 import { AdsterraAd } from '../AdsterraAd/AdsterraAd';
 import bannerImage from '../../assets/Game Banner.png';
@@ -68,6 +69,8 @@ export function MainMenu({ onPlay, puzzleNumber }: MainMenuProps) {
           containerId="container-e367eb54c5443f7ddc13daba8ded0da3-menu"
         />
       </div>
+
+      <OtherGames />
 
       <Footer />
     </div>

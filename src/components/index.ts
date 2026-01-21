@@ -9,6 +9,7 @@ export { AdsterraAd } from './AdsterraAd/AdsterraAd';
 export { AdsterraBanner } from './AdsterraBanner/AdsterraBanner';
 export { MainMenu } from './MainMenu/MainMenu';
 export { Footer } from './Footer/Footer';
+export { OtherGames } from './OtherGames/OtherGames';
 export { PrivacyPolicy } from './PrivacyPolicy/PrivacyPolicy';
 export { About } from './About/About';
 export { FAQ } from './FAQ/FAQ';

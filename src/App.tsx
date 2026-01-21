@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef } from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { Analytics } from '@vercel/analytics/react';
-import { Header, GameBoard, ResultsModal, HowToPlay, CardOverlay, AdsterraAd, MainMenu, Footer, PrivacyPolicy, About, FAQ } from './components';
+import { Header, GameBoard, ResultsModal, HowToPlay, CardOverlay, AdsterraAd, MainMenu, Footer, OtherGames, PrivacyPolicy, About, FAQ } from './components';
 import { useGameState } from './hooks/useGameState';
 import puzzleData from './data/puzzles.json';
 import type { PuzzleData, Puzzle, ColumnType } from './types';
@@ -144,6 +144,8 @@ function GamePage() {
         </div>
 
       </main>
+
+      <OtherGames />
 
       <Footer />
 

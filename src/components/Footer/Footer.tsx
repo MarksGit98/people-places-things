@@ -31,10 +31,6 @@ export function Footer() {
         </svg>
         Privacy
       </Link>
-      <a href="https://digitlgame.com" target="_blank" rel="noopener noreferrer" className="app__other-game">
-        <img src="/digitl-favicon.png" alt="Digitl" className="app__other-game-icon" />
-        Play my other game
-      </a>
     </footer>
   );
 }
