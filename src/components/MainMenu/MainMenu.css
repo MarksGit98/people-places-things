@@ -108,7 +108,7 @@
   max-width: 320px;
   padding: var(--spacing-md) var(--spacing-2xl);
   font-family: var(--font-family);
-  font-size: 2.5rem;
+  font-size: 2.75rem;
   font-weight: var(--font-weight-bold);
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -239,7 +239,7 @@
   .main-menu__play-btn {
     max-width: var(--main-menu-play-btn-width-mobile);
     font-size: var(--main-menu-play-btn-font-mobile);
-    padding: var(--spacing-sm) var(--spacing-xl);
+    padding: var(--spacing-md) var(--spacing-xl);
     margin-bottom: var(--spacing-lg);
   }
 
@@ -288,7 +288,7 @@
   .main-menu__play-btn {
     max-width: var(--main-menu-play-btn-width-mobile-sm);
     font-size: var(--main-menu-play-btn-font-mobile-sm);
-    padding: calc(var(--spacing-sm) * 0.95) calc(var(--spacing-xl) * 0.95);
+    padding: calc(var(--spacing-md) * 0.95) calc(var(--spacing-xl) * 0.95);
     margin-bottom: calc(var(--spacing-lg) * 0.95);
   }
 
@@ -307,5 +307,5 @@
   max-width: 728px;
   display: flex;
   justify-content: center;
-  margin: var(--spacing-xs) 0;
+  margin: 0;
 }

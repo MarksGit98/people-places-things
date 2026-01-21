@@ -154,7 +154,7 @@
   --main-menu-tagline-group-width-mobile: 250px;
   --main-menu-tagline-font-mobile: 1.25rem;
   --main-menu-play-btn-width-mobile: 240px;
-  --main-menu-play-btn-font-mobile: 1.75rem;
+  --main-menu-play-btn-font-mobile: 2rem;
   --main-menu-puzzle-number-font-mobile: 1.13rem;
   --main-menu-creator-font-mobile: 0.87rem;
 
@@ -166,7 +166,7 @@
   --main-menu-tagline-group-width-mobile-sm: 238px;
   --main-menu-tagline-font-mobile-sm: 1.19rem;
   --main-menu-play-btn-width-mobile-sm: 228px;
-  --main-menu-play-btn-font-mobile-sm: 1.66rem;
+  --main-menu-play-btn-font-mobile-sm: 1.9rem;
   --main-menu-puzzle-number-font-mobile-sm: 1.07rem;
   --main-menu-creator-font-mobile-sm: 0.83rem;
 }

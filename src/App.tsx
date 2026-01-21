@@ -122,7 +122,7 @@ function GamePage() {
   return (
     <div className="app">
       <LandscapeBlocker />
-      <Header />
+      <Header onReturnToMenu={() => setShowMainMenu(true)} />
 
       <main className="app__main">
         <p className="app__puzzle-number">Daily Puzzle #{puzzle.id}</p>

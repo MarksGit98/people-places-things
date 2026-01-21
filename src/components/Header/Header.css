@@ -19,7 +19,17 @@
   max-height: 120px;
   object-fit: contain;
   user-select: none;
-  cursor: none;
+  cursor: default;
+}
+
+.header__banner-image--clickable {
+  pointer-events: auto;
+  cursor: pointer;
+  transition: opacity var(--transition-fast);
+}
+
+.header__banner-image--clickable:hover {
+  opacity: 0.8;
 }
 
 .header__tagline {
