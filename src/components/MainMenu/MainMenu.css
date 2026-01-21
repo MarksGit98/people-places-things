@@ -217,6 +217,7 @@
     align-items: center;
     justify-content: center;
     min-height: calc(100dvh - var(--spacing-lg) * 2);
+    margin-bottom: 5vh;
   }
 
   .main-menu__header-group {
