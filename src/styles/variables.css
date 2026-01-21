@@ -104,9 +104,10 @@
   --transition-slow: 350ms ease;
 
   /* Grid */
-  --cell-size: 221px;  /* 5% smaller than 233px */
-  --cell-size-mobile: 115px;
+  --cell-size: 221px;  
+  --cell-size-mobile: 114px;
   --cell-height-mobile: 194px;
+
   /* Small mobile (iPhone 16 and smaller ~390px screens) */
   --cell-size-mobile-sm: 109px;
   --cell-height-mobile-sm: 175px;
