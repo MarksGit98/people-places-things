@@ -353,7 +353,7 @@
 /* Old positioned result icon (kept for front of card) */
 .grid-cell__result-icon {
   position: absolute;
-  top: 8px;
+  top: 5px;
   right: 8px;
   width: 20px;
   height: 20px;
@@ -443,7 +443,7 @@
   .grid-cell__result-icon {
     width: 16px;
     height: 16px;
-    top: 6px;
+    top: 4px;
     right: 6px;
   }
 
@@ -517,7 +517,7 @@
   .grid-cell__result-icon {
     width: 14px;
     height: 14px;
-    top: 4px;
+    top: 3px;
     right: 4px;
   }
 

@@ -324,3 +324,26 @@
   justify-content: center;
   margin: 0;
 }
+
+/* Fixed footer on main menu for mobile */
+@media (max-width: 600px) {
+  .main-menu {
+    padding-bottom: 60px; /* Space for fixed footer */
+  }
+
+  .main-menu .app__footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: var(--color-background);
+    z-index: 100;
+    border-top: 1px solid var(--color-border);
+  }
+}
+
+@media (max-width: 414px) {
+  .main-menu {
+    padding-bottom: 50px; /* Smaller space for smaller footer */
+  }
+}
