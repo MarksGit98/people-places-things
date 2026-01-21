@@ -48,7 +48,7 @@
   --font-family-puzzle-number: 'Nunito Sans', 'Segoe UI', system-ui, sans-serif;
 
   --font-size-xs: 0.81rem;  /* 13px */
-  --font-size-sm: 0.87rem; /* 14.5px */
+  --font-size-sm: 0.88rem; /* 14.5px */
   --font-size-md: 1.125rem;   /* 18px */
   --font-size-clue-mobile: 0.675rem;
   --font-size-clue-mobile-sm: 0.63rem;
@@ -104,7 +104,7 @@
   --transition-slow: 350ms ease;
 
   /* Grid */
-  --cell-size: 221px;  
+  --cell-size: 224px;  
   --cell-size-mobile: 114px;
   --cell-height-mobile: 194px;
 
