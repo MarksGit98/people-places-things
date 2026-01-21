@@ -184,7 +184,7 @@
   .game-board__row-label {
     width: var(--row-label-width-mobile);
     padding: var(--spacing-xs);
-    padding-left: 6px;
+    padding-left: 8px;
   }
 
   .game-board__constraint {
@@ -235,7 +235,7 @@
 
   .game-board__row-label {
     width: var(--row-label-width-mobile-sm);
-    padding-left: 6px;
+    padding-left: 7px;
   }
 
   .game-board__constraint {
