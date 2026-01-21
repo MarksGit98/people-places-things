@@ -1,9 +1,8 @@
 import { useState, useEffect, useRef } from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { Analytics } from '@vercel/analytics/react';
-import { Header, GameBoard, ResultsModal, HowToPlay, CardOverlay, EzoicAd, MainMenu, Footer, PrivacyPolicy } from './components';
+import { Header, GameBoard, ResultsModal, HowToPlay, CardOverlay, AdsterraAd, MainMenu, Footer, PrivacyPolicy, About, FAQ } from './components';
 import { useGameState } from './hooks/useGameState';
-import { AD_PLACEMENTS } from './config/adPlacements';
 import puzzleData from './data/puzzles.json';
 import type { PuzzleData, Puzzle, ColumnType } from './types';
 import './App.css';
@@ -136,7 +135,10 @@ function GamePage() {
 
         {/* Ad below game board */}
         <div className="app__ad-below-game">
-          <EzoicAd placementId={AD_PLACEMENTS.BELOW_GAME} />
+          <AdsterraAd
+            scriptSrc="https://pl28527779.effectivegatecpm.com/e367eb54c5443f7ddc13daba8ded0da3/invoke.js"
+            containerId="container-e367eb54c5443f7ddc13daba8ded0da3"
+          />
         </div>
 
         <HowToPlay />
@@ -180,6 +182,8 @@ function App() {
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<GamePage />} />
+        <Route path="/about" element={<About />} />
+        <Route path="/faq" element={<FAQ />} />
         <Route path="/privacy-policy" element={<PrivacyPolicy />} />
       </Routes>
       <Analytics />

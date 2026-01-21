@@ -13,7 +13,7 @@ export function PrivacyPolicy() {
         </Link>
 
         <h1 className="privacy-policy__title">Privacy Policy</h1>
-        <p className="privacy-policy__date">Last updated: January 19, 2026</p>
+        <p className="privacy-policy__date">Last updated: January 20, 2026</p>
 
         <section className="privacy-policy__section">
           <h2>Introduction</h2>
@@ -44,18 +44,14 @@ export function PrivacyPolicy() {
         <section className="privacy-policy__section">
           <h2>Advertising</h2>
           <p>
-            We use Ezoic to display advertisements on our Site. Ezoic and its advertising partners may use cookies
+            We use Adsterra to display advertisements on our Site. Adsterra and its advertising partners may use cookies
             and similar technologies to collect information about your browsing activities to provide you with
             relevant advertisements.
           </p>
-
-          {/* Ezoic Privacy Policy Embed */}
-          <span id="ezoic-privacy-policy-embed"></span>
-
           <p>
-            For more information about Ezoic's privacy practices, please visit:{' '}
-            <a href="https://www.ezoic.com/privacy-policy/" target="_blank" rel="noopener noreferrer">
-              Ezoic Privacy Policy
+            For more information about Adsterra's privacy practices, please visit:{' '}
+            <a href="https://adsterra.com/privacy-policy/" target="_blank" rel="noopener noreferrer">
+              Adsterra Privacy Policy
             </a>
           </p>
           <p>
