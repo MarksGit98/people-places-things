@@ -1,0 +1,39 @@
+.adsterra-banner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+/* Positioned banners (for use in layouts) */
+.adsterra-banner--left,
+.adsterra-banner--right {
+  position: fixed;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 100;
+}
+
+.adsterra-banner--left {
+  left: var(--spacing-md);
+}
+
+.adsterra-banner--right {
+  right: var(--spacing-md);
+}
+
+.adsterra-banner--bottom {
+  /* Bottom banners are typically inline, not fixed */
+  margin: var(--spacing-md) auto;
+}
+
+/* Hide on mobile/tablet */
+.adsterra-banner--desktop-only {
+  display: none;
+}
+
+@media (min-width: 1200px) {
+  .adsterra-banner--desktop-only {
+    display: flex;
+  }
+}

@@ -6,6 +6,7 @@ export { ResultsModal } from './ResultsModal/ResultsModal';
 export { HowToPlay } from './HowToPlay/HowToPlay';
 export { EzoicAd } from './EzoicAd/EzoicAd';
 export { AdsterraAd } from './AdsterraAd/AdsterraAd';
+export { AdsterraBanner } from './AdsterraBanner/AdsterraBanner';
 export { MainMenu } from './MainMenu/MainMenu';
 export { Footer } from './Footer/Footer';
 export { PrivacyPolicy } from './PrivacyPolicy/PrivacyPolicy';

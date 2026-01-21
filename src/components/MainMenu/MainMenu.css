@@ -298,3 +298,12 @@
     font-size: var(--main-menu-creator-font-mobile-sm);
   }
 }
+
+/* Bottom ad */
+.main-menu__bottom-ad {
+  width: 100%;
+  max-width: 728px;
+  display: flex;
+  justify-content: center;
+  margin: var(--spacing-lg) 0;
+}
