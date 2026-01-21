@@ -25,8 +25,7 @@ export function About() {
           </p>
           <p>
             Your job is to find the answer that satisfies both the column category and the row constraint,
-            using the two clues provided for each cell. The first clue is trickier; the second is more direct.
-            You get two guesses per cell—make them count.
+            using the two clues provided for each cell. You get two guesses per cell — make them count.
           </p>
         </section>
 
@@ -38,19 +37,6 @@ export function About() {
             <li><strong>Two guesses per cell</strong> — Green on the first try, yellow on the second, red if you miss</li>
             <li><strong>Share your results</strong> — Compare scores with friends using the emoji grid</li>
           </ul>
-        </section>
-
-        <section className="about__section">
-          <h2>The Creator</h2>
-          <p>
-            People, Places & Things was created by <strong>Mark Bekker</strong>, a puzzle enthusiast who wanted
-            to build something that combines the satisfaction of crossword clues with the daily ritual of games
-            like Wordle.
-          </p>
-          <p>
-            The goal was simple: make a puzzle that's quick to play but tricky enough to make you think.
-            Something you can do with your morning coffee or during a break.
-          </p>
         </section>
 
         <section className="about__section">
