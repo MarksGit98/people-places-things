@@ -146,8 +146,8 @@
   /* Main menu - desktop */
   --main-menu-banner-height: 18vh;
 
-  /* Main menu - mobile (8% larger than previous) */
-  --main-menu-banner-height-mobile: 15.12vh;
+  /* Main menu - mobile (8% larger than previous, +5% banner) */
+  --main-menu-banner-height-mobile: 15.88vh;
   --main-menu-header-margin-top-mobile: -2vh;
   --main-menu-header-tagline-font-mobile: 0.94rem;
   --main-menu-icon-size-mobile: 108px;
@@ -158,8 +158,8 @@
   --main-menu-puzzle-number-font-mobile: 1.13rem;
   --main-menu-creator-font-mobile: 0.87rem;
 
-  /* Main menu - small mobile (5% smaller than mobile) */
-  --main-menu-banner-height-mobile-sm: 14.36vh;
+  /* Main menu - small mobile (5% smaller than mobile, +5% banner) */
+  --main-menu-banner-height-mobile-sm: 15.08vh;
   --main-menu-header-margin-top-mobile-sm: -1.90vh;
   --main-menu-header-tagline-font-mobile-sm: 0.89rem;
   --main-menu-icon-size-mobile-sm: 103px;

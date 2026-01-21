@@ -102,9 +102,17 @@ function GamePage() {
     }
   };
 
+  // Check if user has already made at least one guess today
+  const hasStartedPlaying = gameState.cells.some(row =>
+    row.some(cell => cell.guesses.length > 0)
+  );
+
   const handlePlay = () => {
     setShowMainMenu(false);
-    setShowHowToPlayModal(true);
+    // Only show How to Play modal if user hasn't started playing yet
+    if (!hasStartedPlaying) {
+      setShowHowToPlayModal(true);
+    }
   };
 
   if (showMainMenu) {
