@@ -734,25 +734,25 @@
         {
           "constraint": "Contains two 'T's in a row",
           "cells": [
-            { "category": "people", "clue": "Fight Club's Tyler Durden who ages like fine wine", "clue2": "Half of Brangelina who's still making Ocean's movies", "answer": "Brad Pitt", "acceptableAnswers": ["Pitt"], "imageUrl": "" },
-            { "category": "places", "clue": "Island where hot dogs originated and dreams either die or come true", "clue2": "NYC borough known for skyscrapers, Central Park, and astronomical rent", "answer": "Manhattan", "imageUrl": "" },
-            { "category": "things", "clue": "Footwear that can double as a weapon in the right hands", "clue2": "High-heeled shoe or Italian knife, depending on context", "answer": "Stiletto", "imageUrl": "" }
+            { "category": "people", "clue": "This star was named \"Sexiest Man Alive\" by <i>People</i> Magazine twice", "clue2": "He's somehow still doing <i>Ocean's</i> movies", "answer": "Brad Pitt", "acceptableAnswers": ["Pitt"], "imageUrl": "" },
+            { "category": "places", "clue": "Island by the Hudson where hot dogs and lamb over rice is sold from a cart on every block", "clue2": "If you live here you're likely a banker, actor, or struggling with your rent", "answer": "Manhattan", "imageUrl": "" },
+            { "category": "things", "clue": "Something a femme fatale might wear... or wield", "clue2": "High-heeled shoe or Italian knife, depending on context", "answer": "Stiletto", "imageUrl": "" }
           ]
         },
         {
           "constraint": "Ends in 'RD'",
           "cells": [
-            { "category": "people", "clue": "Han Solo and Indiana Jones walk into a bar... same guy orders", "clue2": "Hollywood legend who's still crash-landing planes in his 80s", "answer": "Harrison Ford", "acceptableAnswers": ["Ford"], "imageUrl": "" },
-            { "category": "places", "clue": "British university town with a famous comma and even more famous spires", "clue2": "Where Harry Potter was filmed and actual scholars still wear robes", "answer": "Oxford", "imageUrl": "" },
-            { "category": "things", "clue": "QWERTY's home that your fingers know better than your brain does", "clue2": "Input device that makes that satisfying clicky sound", "answer": "Keyboard", "imageUrl": "" }
+            { "category": "people", "clue": "George Lucas's former carpenter, who he saw enough potential in to cast as a leading man", "clue2": "Han Solo and Indiana Jones walk into a bar... he asks for a beer", "answer": "Harrison Ford", "acceptableAnswers": ["Ford"], "imageUrl": "" },
+            { "category": "places", "clue": "British university town where a famous comma got its namesake", "clue2": "Where <i>Harry Potter</i> was filmed and actual scholars still wear robes", "answer": "Oxford", "imageUrl": "" },
+            { "category": "things", "clue": "Input device that your fingers know better than your brain does", "clue2": "Makes a satisfying clicky noise", "answer": "Keyboard", "imageUrl": "" }
           ]
         },
         {
           "constraint": "Starts with the letter 'G'",
           "cells": [
-            { "category": "people", "clue": "The Notebook's rain-soaked romantic who later drove to the moon", "clue2": "Ken to Margot's Barbie, but also a serious director now", "answer": "Ryan Gosling", "acceptableAnswers": ["Gosling"], "imageUrl": "" },
-            { "category": "places", "clue": "Swiss city where diplomats negotiate and watches cost more than cars", "clue2": "Lakeside metropolis that hosts the UN's European headquarters", "answer": "Geneva", "imageUrl": "" },
-            { "category": "things", "clue": "French Revolution's favorite way to make a point", "clue2": "Blade that falls from a great height with terminal efficiency", "answer": "Guillotine", "imageUrl": "" }
+            { "category": "people", "clue": "He drove, he dreamed in LA, and he was Ken — quite a range", "clue2": "Timberlake's fellow former Mouseketeer", "answer": "Ryan Gosling", "acceptableAnswers": ["Gosling"], "imageUrl": "" },
+            { "category": "places", "clue": "Site of the Reagan-Gorbachev summits and home to CERN headquarters", "clue2": "Where a notorious post-war convention was held that established \"humanitarian rules\" for future wars", "answer": "Geneva", "imageUrl": "" },
+            { "category": "things", "clue": "The worst nightmare of every French monarch after 1789", "clue2": "Named for a man who opposed the death penalty, ironically", "answer": "Guillotine", "imageUrl": "" }
           ]
         }
       ]
