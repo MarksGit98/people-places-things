@@ -247,8 +247,8 @@
           "constraint": "Contains a direction",
           "cells": [
             { "category": "people", "clue": "This artist brought back the pink polo", "clue2": "Kim Kardashian's most famous ex", "answer": "Kanye West", "acceptableAnswers": ["Kanye", "Ye"], "imageUrl": "" },
-            { "category": "places", "clue": "Where Desmond Tutu helped to right a wrong", "clue2": "A nation with a rather literal name", "answer": "South Africa", "imageUrl": "" },
-            { "category": "things", "clue": "The likely culprit behind much tomfoolery at Mardi Gras", "clue2": "Bourbon's sweeter cousin", "answer": "Southern Comfort", "imageUrl": "" }
+            { "category": "places", "clue": "Where Desmond Tutu helped right a wrong", "clue2": "A nation with a rather literal name", "answer": "South Africa", "imageUrl": "" },
+            { "category": "things", "clue": "The likely culprit behind much tomfoolery at Mardi Gras", "clue2": "Bourbon's sweeter cousin founded in 1874 in New Orleans", "answer": "Southern Comfort", "imageUrl": "" }
           ]
         }
       ]
