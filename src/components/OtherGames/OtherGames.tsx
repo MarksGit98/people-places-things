@@ -10,7 +10,7 @@ interface GameInfo {
 const games: GameInfo[] = [
   {
     name: 'Digitl',
-    tagline: 'Daily Number Puzzle',
+    tagline: 'Daily Number Puzzle Game',
     url: 'https://digitlgame.com',
     icon: '/digitl-favicon.png',
   },
