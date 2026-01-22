@@ -218,7 +218,7 @@
         {
           "constraint": "Contains a number",
           "cells": [
-            { "category": "people", "clue": "She took power following her Uncle Edward's abdication", "clue2": "Her reign of over 70 years was the longest in this nation's monarchial history", "answer": "Queen Elizabeth II", "acceptableAnswers": ["Queen Elizabeth", "Elizabeth II", "Queen Elizabeth the Second"], "imageUrl": "" },
+            { "category": "people", "clue": "She took power following her Uncle Edward's abdication", "clue2": "Her reign of over 70 years was the longest in her nation's monarchial history", "answer": "Queen Elizabeth II", "acceptableAnswers": ["Queen Elizabeth", "Elizabeth II", "Queen Elizabeth the Second"], "imageUrl": "" },
             { "category": "places", "clue": "Millions once RSVPed to perform the \"Naruto Run\" here. Dozens attended", "clue2": "The muse of many a conspiracy theorist", "answer": "Area 51", "imageUrl": "" },
             { "category": "things", "clue": "A Christmas 1996 must-have", "clue2": "Where James Bond and Super Mario coexisted", "answer": "Nintendo 64", "imageUrl": "" }
           ]

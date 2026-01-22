@@ -76,7 +76,7 @@
 /* Close button */
 .card-overlay__close {
   position: absolute;
-  top: var(--spacing-sm);
+  top: var(--spacing-md);
   right: var(--spacing-sm);
   width: 32px;
   height: 32px;

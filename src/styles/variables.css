@@ -93,6 +93,14 @@
   --radius-md: 8px;
   --radius-lg: 12px;
   --radius-xl: 16px;
+  --radius-button: 20px;
+
+  /* Button shadows - left-bottom offset */
+  --button-shadow-offset-x: -3px;
+  --button-shadow-offset-y: 4px;
+  --button-shadow-blur: 8px;
+  --button-shadow-color: #3d7a3a;
+  --button-shadow-ambient: rgba(0, 0, 0, 0.3);
 
   /* Shadows */
   --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.05);
@@ -110,7 +118,7 @@
   --cell-height-mobile: 194px;
 
   /* Small mobile (iPhone 16 and smaller ~390px screens) */
-  --cell-size-mobile-sm: 109px;
+  --cell-size-mobile-sm: 108px;
   --cell-height-mobile-sm: 175px;
 
   /* Card overlay (mobile enlarged view) */
@@ -153,7 +161,7 @@
   --font-size-header-things-mobile: 1.15em;
 
   /* Header/Game screen banner */
-  --header-banner-height: 126px;
+  --header-banner-height: 128px;
   --header-banner-height-mobile: 84px;
   --header-banner-height-mobile-sm: 76px;
 

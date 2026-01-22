@@ -115,30 +115,30 @@
   color: white;
   background: linear-gradient(135deg, var(--color-correct-1) 0%, #5A9A54 100%);
   border: none;
-  border-radius: var(--radius-lg);
+  border-radius: var(--radius-button);
   cursor: pointer;
   transition: transform var(--transition-fast), box-shadow var(--transition-fast);
   display: flex;
   align-items: center;
   justify-content: center;
   box-shadow:
-    0 4px 0 #3d7a3a,
-    0 6px 8px rgba(0, 0, 0, 0.3);
+    var(--button-shadow-offset-x) var(--button-shadow-offset-y) 0 var(--button-shadow-color),
+    calc(var(--button-shadow-offset-x) * 1.5) calc(var(--button-shadow-offset-y) + 2px) var(--button-shadow-blur) var(--button-shadow-ambient);
   margin-bottom: var(--spacing-xl);
 }
 
 .main-menu__play-btn:hover {
-  transform: translateY(-2px);
+  transform: translate(1px, -2px);
   box-shadow:
-    0 6px 0 #3d7a3a,
-    0 8px 12px rgba(0, 0, 0, 0.35);
+    calc(var(--button-shadow-offset-x) - 1px) calc(var(--button-shadow-offset-y) + 2px) 0 var(--button-shadow-color),
+    calc(var(--button-shadow-offset-x) * 2) calc(var(--button-shadow-offset-y) + 4px) 12px rgba(0, 0, 0, 0.35);
 }
 
 .main-menu__play-btn:active {
-  transform: translateY(4px);
+  transform: translate(-2px, 3px);
   box-shadow:
-    0 0 0 #3d7a3a,
-    0 2px 4px rgba(0, 0, 0, 0.2);
+    0 0 0 var(--button-shadow-color),
+    calc(var(--button-shadow-offset-x) * 0.5) 2px 4px rgba(0, 0, 0, 0.2);
 }
 
 /* Puzzle number */
