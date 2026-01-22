@@ -129,6 +129,12 @@
   --overlay-z-index: 1000;
   --overlay-backdrop-blur: 8px;
   --overlay-card-bg-opacity: 1;
+
+  /* Modal/card content widths */
+  --modal-width: 480px;
+  --modal-width-desktop: 560px;
+  --modal-width-mobile: 364px;
+  --modal-width-mobile-sm: 340px;
   --grid-gap: 10px;  /* 5% smaller than 11px */
   --grid-gap-mobile: 4px;
   --grid-gap-mobile-sm: 3px;

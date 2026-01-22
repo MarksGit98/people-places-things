@@ -220,7 +220,7 @@
           "cells": [
             { "category": "people", "clue": "She took power following her Uncle Edward's abdication", "clue2": "Her reign of over 70 years was the longest in her nation's monarchial history", "answer": "Queen Elizabeth II", "acceptableAnswers": ["Queen Elizabeth", "Elizabeth II", "Queen Elizabeth the Second"], "imageUrl": "" },
             { "category": "places", "clue": "Millions once RSVPed to perform the \"Naruto Run\" here. Dozens attended", "clue2": "The muse of many a conspiracy theorist", "answer": "Area 51", "imageUrl": "" },
-            { "category": "things", "clue": "A Christmas 1996 must-have", "clue2": "Where James Bond and Super Mario coexisted", "answer": "Nintendo 64", "imageUrl": "" }
+            { "category": "things", "clue": "A Christmas 1996 must-have", "clue2": "Where James Bond and Super Mario coexisted", "answer": "Nintendo 64", "acceptableAnswers": ["N64"], "imageUrl": "" }
           ]
         }
       ]
@@ -678,25 +678,25 @@
         {
           "constraint": "Ends in 'CE'",
           "cells": [
-            { "category": "people", "clue": "Purple reign incarnate who partied like it was 1999", "clue2": "Minneapolis maestro who made doves cry and guitars weep", "answer": "Prince", "imageUrl": "" },
-            { "category": "places", "clue": "European nation where the Eiffel Tower keeps watch over baguettes", "clue2": "Land of wine, cheese, and a revolution that changed everything", "answer": "France", "imageUrl": "" },
+            { "category": "people", "clue": "Legendary guitarist who partied like it was <i>1999</i>", "clue2": "Minneapolis maestro who only wants to see you underneath the <i>Purple Rain</i>", "answer": "Prince", "imageUrl": "" },
+            { "category": "places", "clue": "Nation known for its fashion, bakeries, and wine", "clue2": "They've been at war with England for much of their existence", "answer": "France", "imageUrl": "" },
             { "category": "things", "clue": "Hearth gathering spot that Santa uses as his front door", "clue2": "Stone or brick structure where logs crackle and stockings hang", "answer": "Fireplace", "imageUrl": "" }
           ]
         },
         {
           "constraint": "Composed of two smaller words",
           "cells": [
-            { "category": "people", "clue": "Squinting cowboy who became a legendary director", "clue2": "Dirty Harry actor whose name contains directions and lumber", "answer": "Clint Eastwood", "acceptableAnswers": ["Eastwood"], "imageUrl": "" },
-            { "category": "places", "clue": "Icy island with a misleading name that Erik the Red used for marketing", "clue2": "World's largest island, mostly covered in ice despite its name", "answer": "Greenland", "imageUrl": "" },
-            { "category": "things", "clue": "Field guardian that crows hate and Wizard of Oz fans love", "clue2": "Straw-stuffed decoy that protects crops from birds", "answer": "Scarecrow", "imageUrl": "" }
+            { "category": "people", "clue": "Squinting cowboy who became a legendary director", "clue2": "This actor went from \"The Good\" to <i>Unforgiven</i>", "answer": "Clint Eastwood", "acceptableAnswers": ["Eastwood"], "imageUrl": "" },
+            { "category": "places", "clue": "Erik the Red's misleadingly named real-estate scam", "clue2": "World's largest island, mostly covered in ice", "answer": "Greenland", "imageUrl": "" },
+            { "category": "things", "clue": "Guardian of fields and a Batman villian alias", "clue2": "Dorothy befriended an anthropomorphized version who just wanted a brain", "answer": "Scarecrow", "imageUrl": "" }
           ]
         },
         {
           "constraint": "Starts with the letter 'U'",
           "cells": [
-            { "category": "people", "clue": "Kill Bill's bride who also took down Weinstein", "clue2": "Muse of Tarantino who danced the twist with Travolta", "answer": "Uma Thurman", "acceptableAnswers": ["Thurman"], "imageUrl": "" },
-            { "category": "places", "clue": "South American nation sandwiched between giants, famous for beef and beaches", "clue2": "Where Montevideo watches over the Rio de la Plata", "answer": "Uruguay", "imageUrl": "" },
-            { "category": "things", "clue": "Hawaiian four-stringed instrument that makes any song sound tropical", "clue2": "Tiny guitar that Jake Shimabukuro shreds like an electric", "answer": "Ukulele", "imageUrl": "" }
+            { "category": "people", "clue": "She suited up in bee colors to take out Bill on the big screen", "clue2": "Travolta's twist partner on film who later helped take down producer Weinstein", "answer": "Uma Thurman", "acceptableAnswers": ["Thurman"], "imageUrl": "" },
+            { "category": "places", "clue": "First World Cup host and winner in 1930", "clue2": "The smallest Spanish speaking nation on its continent", "answer": "Uruguay", "imageUrl": "" },
+            { "category": "things", "clue": "Hawaiian four-stringed music machine", "clue2": "Tiny guitar that Jake Shimabukuro shreds like an electric", "answer": "Ukulele", "imageUrl": "" }
           ]
         }
       ]

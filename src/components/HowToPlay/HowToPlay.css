@@ -1,6 +1,6 @@
 .how-to-play {
   width: 100%;
-  max-width: 480px;
+  max-width: var(--modal-width);
   margin: var(--spacing-lg) auto;
   padding: var(--spacing-md);
   background-color: var(--color-surface);
@@ -75,8 +75,8 @@
 /* Desktop styles */
 @media (min-width: 601px) {
   .how-to-play {
-    width: 560px;
-    max-width: 560px;
+    width: var(--modal-width-desktop);
+    max-width: var(--modal-width-desktop);
     padding: var(--spacing-lg);
   }
 
@@ -311,7 +311,8 @@
 /* Mobile styles */
 @media (max-width: 600px) {
   .how-to-play {
-    margin: var(--spacing-lg) 28px var(--spacing-sm);
+    max-width: var(--modal-width-mobile);
+    margin: var(--spacing-lg) auto var(--spacing-sm);
     padding: var(--spacing-sm);
   }
 
@@ -361,7 +362,8 @@
 /* Small mobile styles (iPhone 16 and smaller ~390px screens) */
 @media (max-width: 414px) {
   .how-to-play {
-    margin: var(--spacing-sm) 26px var(--spacing-xs);
+    max-width: var(--modal-width-mobile-sm);
+    margin: var(--spacing-sm) auto var(--spacing-xs);
     padding: var(--spacing-xs);
   }
 
@@ -486,7 +488,7 @@
   }
 
   .how-to-play--modal {
-    max-width: 340px;
+    max-width: var(--modal-width-mobile);
   }
 
   .how-to-play__close {
@@ -504,7 +506,7 @@
 
 @media (max-width: 414px) {
   .how-to-play--modal {
-    max-width: 300px;
+    max-width: var(--modal-width-mobile-sm);
   }
 
   .how-to-play__close {
