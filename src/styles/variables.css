@@ -123,11 +123,11 @@
   /* Grid */
   --cell-size: 224px;  
   --cell-size-mobile: 114px;
-  --cell-height-mobile: 194px;
+  --cell-height-mobile: 195px;
 
   /* Small mobile (iPhone 16 and smaller ~390px screens) */
   --cell-size-mobile-sm: 108px;
-  --cell-height-mobile-sm: 175px;
+  --cell-height-mobile-sm: 176px;
 
   /* Card overlay (mobile enlarged view) */
   --overlay-card-width: 280px;
