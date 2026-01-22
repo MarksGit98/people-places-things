@@ -6,6 +6,24 @@ import './FAQ.css';
 export function FAQ() {
   return (
     <div className="faq">
+      {/* Left side ad - desktop only */}
+      <AdsterraBanner
+        adKey="7370110dc9e2b65e305339fd5395c7e3"
+        width={300}
+        height={250}
+        position="left"
+        desktopOnly
+      />
+
+      {/* Right side ad - desktop only */}
+      <AdsterraBanner
+        adKey="331f88141ea45a2aa275c9a5c10f0c27"
+        width={160}
+        height={300}
+        position="right"
+        desktopOnly
+      />
+
       <div className="faq__container">
         <Link to="/" className="faq__home">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
