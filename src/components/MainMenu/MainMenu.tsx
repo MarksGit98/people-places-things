@@ -16,18 +16,18 @@ export function MainMenu({ onPlay, puzzleNumber }: MainMenuProps) {
     <div className="main-menu">
       {/* Left side ad - desktop only */}
       <AdsterraBanner
-        adKey="7370110dc9e2b65e305339fd5395c7e3"
-        width={300}
-        height={250}
+        adKey="331f88141ea45a2aa275c9a5c10f0c27"
+        width={160}
+        height={300}
         position="left"
         desktopOnly
       />
 
       {/* Right side ad - desktop only */}
       <AdsterraBanner
-        adKey="331f88141ea45a2aa275c9a5c10f0c27"
-        width={160}
-        height={300}
+        adKey="7370110dc9e2b65e305339fd5395c7e3"
+        width={300}
+        height={250}
         position="right"
         desktopOnly
       />
