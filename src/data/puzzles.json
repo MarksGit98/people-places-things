@@ -230,17 +230,17 @@
         {
           "constraint": "Two words both beginning with the same letter",
           "cells": [
-            { "category": "people", "clue": "This director was blamed for the tourist slump in beaches across the nation in the 70s", "clue2": "His filmography stretches from gruesome depictions of D-Day to riding bikes with aliens", "answer": "Steven Spielberg", "acceptableAnswers": ["Spielberg"], "imageUrl": "" },
-            { "category": "places", "clue": "Polynesian honeymoon hotspot", "clue2": "An island so nice they named it twice", "answer": "Bora Bora", "imageUrl": "" },
-            { "category": "things", "clue": "Onomatopoeic Olympic event", "clue2": "Marty Mauser's obsession in the 2025 Oscar nominated film", "answer": "Ping Pong", "acceptableAnswers": ["Table Tennis"], "imageUrl": "" }
+            { "category": "people", "clue": "This director was blamed for the tourist slump in beaches across the nation in the mid 70s", "clue2": "His filmography stretches from gruesome depictions of D-Day to riding bikes with aliens", "answer": "Steven Spielberg", "acceptableAnswers": ["Spielberg"], "imageUrl": "" },
+            { "category": "places", "clue": "French Polynesian honeymoon hotspot", "clue2": "An island so nice they named it twice", "answer": "Bora Bora", "imageUrl": "" },
+            { "category": "things", "clue": "Onomatopoeic Olympic event", "clue2": "Marty Mauser's obsession in the 2025 Oscar bid Josh Safdie film", "answer": "Ping Pong", "acceptableAnswers": ["Table Tennis"], "imageUrl": "" }
           ]
         },
         {
           "constraint": "Contains two 'S's in a row",
           "cells": [
-            { "category": "people", "clue": "From Disney musical sensation to major Broadway star", "clue2": "Zac Efron's duet partner in the 00s", "answer": "Vanessa Hudgens", "imageUrl": "" },
+            { "category": "people", "clue": "From Disney musical sensation to starring on Broadway", "clue2": "Zac Efron's duet partner in the 00s", "answer": "Vanessa Hudgens", "imageUrl": "" },
             { "category": "places", "clue": "A state where revolutionary history meets academic prestige", "clue2": "Home to Martha's famous Vineyard", "answer": "Massachusetts", "imageUrl": "" },
-            { "category": "things", "clue": "A beverage with its own theme song", "clue2": "A highly concentrated productivity booster and anxiety-inducer", "answer": "Espresso", "imageUrl": "" }
+            { "category": "things", "clue": "A beverage that now has its own dance-pop theme song", "clue2": "A highly concentrated productivity booster and anxiety-inducer", "answer": "Espresso", "imageUrl": "" }
           ]
         },
         {
@@ -697,34 +697,6 @@
             { "category": "people", "clue": "She suited up in bee colors to take out Bill on the big screen", "clue2": "Travolta's twist partner on film who later helped take down producer Weinstein", "answer": "Uma Thurman", "acceptableAnswers": ["Thurman"], "imageUrl": "" },
             { "category": "places", "clue": "First World Cup host and winner in 1930", "clue2": "The smallest Spanish speaking nation on its continent", "answer": "Uruguay", "imageUrl": "" },
             { "category": "things", "clue": "Hawaiian four-stringed music machine", "clue2": "Tiny guitar that Jake Shimabukuro shreds like an electric", "answer": "Ukulele", "imageUrl": "" }
-          ]
-        }
-      ]
-    },
-    {
-      "rows": [
-        {
-          "constraint": "Contains two 'M's in a row",
-          "cells": [
-            { "category": "people", "clue": "Rat Pack member who broke barriers with a wink and a song", "clue2": "Legendary entertainer known as 'Mr. Show Business' himself", "answer": "Sammy Davis Jr", "acceptableAnswers": ["Sammy Davis"], "imageUrl": "" },
-            { "category": "places", "clue": "Middle Eastern capital built on seven hills like Rome", "clue2": "Jordanian city known for its ancient citadel and Roman ruins", "answer": "Amman", "imageUrl": "" },
-            { "category": "things", "clue": "Viking raiders swung these with terrifying enthusiasm", "clue2": "Battle tool with a handle and a heavy head for smashing", "answer": "Hammer", "imageUrl": "" }
-          ]
-        },
-        {
-          "constraint": "Ends in 'A'",
-          "cells": [
-            { "category": "people", "clue": "People's Princess whose funeral stopped the world in 1997", "clue2": "British royal who redefined what it meant to be a public figure", "answer": "Princess Diana", "acceptableAnswers": ["Diana"], "imageUrl": "" },
-            { "category": "places", "clue": "Ancient city carved from rose-red rock in the desert", "clue2": "Where Indiana Jones found the Holy Grail (in the movie)", "answer": "Petra", "imageUrl": "" },
-            { "category": "things", "clue": "Italian meal that's basically an excuse to eat sauce with a fork", "clue2": "Long thin noodles that slurping is kind of acceptable for", "answer": "Pasta", "imageUrl": "" }
-          ]
-        },
-        {
-          "constraint": "Starts with the letter 'L'",
-          "cells": [
-            { "category": "people", "clue": "Renaissance polymath who painted a mysterious smile and designed flying machines", "clue2": "Italian genius who was an artist, scientist, and inventor all at once", "answer": "Leonardo da Vinci", "acceptableAnswers": ["Da Vinci", "Leonardo"], "imageUrl": "" },
-            { "category": "places", "clue": "Portuguese capital famous for custard tarts and melancholy fado", "clue2": "City of seven hills that isn't Rome", "answer": "Lisbon", "imageUrl": "" },
-            { "category": "things", "clue": "Groovy goo that hypnotized an entire decade of dorm rooms", "clue2": "The 60s answer to 'what if we put hot wax in a bottle?'", "answer": "Lava Lamp", "imageUrl": "" }
           ]
         }
       ]

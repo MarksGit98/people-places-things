@@ -37,7 +37,7 @@ export function About() {
         <section className="about__section">
           <h2>The Game</h2>
           <p>
-            <strong>People, Places & Things</strong> is a daily word puzzle that challenges you to fill a 3x3 grid
+            <strong>People, Places & Things</strong> is a daily word puzzle that challenges you to fill out a 3x3 grid
             using clues and constraints. Each column represents a category—People, Places, or Things—while each
             row has a linguistic constraint like "Starts with M" or "Contains an animal."
           </p>
