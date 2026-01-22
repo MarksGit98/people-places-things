@@ -34,6 +34,7 @@
   --color-accent-brown: #5D4037;
   --color-border: #E0E0E0;
   --color-border-dark: #CCCCCC;
+  --color-creator-divider: #D0D0D0;
 
   /* Header banner */
   --color-header-banner: #C41E3A;
@@ -86,7 +87,7 @@
   --spacing-md: 1rem;      /* 16px */
   --spacing-lg: 1.5rem;    /* 24px */
   --spacing-xl: 2rem;      /* 32px */
-  --spacing-2xl: 3rem;     /* 48px */
+  --spacing-2xl: 4rem;     /* 48px */
 
   /* Border radius */
   --radius-sm: 4px;
@@ -101,6 +102,13 @@
   --button-shadow-blur: 8px;
   --button-shadow-color: #3d7a3a;
   --button-shadow-ambient: rgba(0, 0, 0, 0.3);
+
+  /* Other Games button shadows */
+  --other-games-shadow-offset-x: -2px;
+  --other-games-shadow-offset-y: 3px;
+  --other-games-shadow-blur: 6px;
+  --other-games-shadow-color: #6B6B6B;
+  --other-games-shadow-ambient: rgba(0, 0, 0, 0.25);
 
   /* Shadows */
   --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.05);
@@ -180,28 +188,28 @@
   --main-menu-banner-height: 18vh;
 
   /* Main menu - mobile */
-  --main-menu-banner-height-mobile: 16vh;
+  --main-menu-banner-height-mobile: 16.2vh;
   --main-menu-header-margin-top-mobile: -2vh;
-  --main-menu-header-tagline-font-mobile: 0.94rem;
-  --main-menu-icon-size-mobile: 108px;
-  --main-menu-tagline-group-width-mobile: 270px;
-  --main-menu-tagline-font-mobile: 1.35rem;
-  --main-menu-play-btn-width-mobile: 240px;
-  --main-menu-play-btn-font-mobile: 2rem;
+  --main-menu-header-tagline-font-mobile: 0.95rem;
+  --main-menu-icon-size-mobile: 130px;
+  --main-menu-tagline-group-width-mobile: 284px;
+  --main-menu-tagline-font-mobile: 1.45rem;
+  --main-menu-play-btn-width-mobile: 220px;
+  --main-menu-play-btn-font-mobile: 2.1rem;
   --main-menu-puzzle-number-font-mobile: 1.13rem;
-  --main-menu-creator-font-mobile: 0.87rem;
+  --main-menu-creator-font-mobile: 0.95rem;
 
   /* Main menu - small mobile */
-  --main-menu-banner-height-mobile-sm: 15.5vh;
+  --main-menu-banner-height-mobile-sm: 15.6vh;
   --main-menu-header-margin-top-mobile-sm: -1.90vh;
-  --main-menu-header-tagline-font-mobile-sm: 0.89rem;
-  --main-menu-icon-size-mobile-sm: 103px;
-  --main-menu-tagline-group-width-mobile-sm: 257px;
-  --main-menu-tagline-font-mobile-sm: 1.28rem;
-  --main-menu-play-btn-width-mobile-sm: 228px;
-  --main-menu-play-btn-font-mobile-sm: 1.9rem;
+  --main-menu-header-tagline-font-mobile-sm: 0.9rem;
+  --main-menu-icon-size-mobile-sm: 120px;
+  --main-menu-tagline-group-width-mobile-sm: 270px;
+  --main-menu-tagline-font-mobile-sm: 1.38rem;
+  --main-menu-play-btn-width-mobile-sm: 200px;
+  --main-menu-play-btn-font-mobile-sm: 2rem;
   --main-menu-puzzle-number-font-mobile-sm: 1.07rem;
-  --main-menu-creator-font-mobile-sm: 0.83rem;
+  --main-menu-creator-font-mobile-sm: 0.9rem;
 }
 
 /* Dark mode support (optional, for future) */

@@ -162,6 +162,9 @@
   font-size: var(--font-size-md);
   font-weight: var(--font-weight-normal);
   color: var(--color-accent-brown);
+  padding-bottom: var(--spacing-lg);
+  border-bottom: 1px solid var(--color-creator-divider);
+  margin-bottom: var(--spacing-lg);
 }
 
 /* Desktop styles */
@@ -224,7 +227,7 @@
 
   .main-menu__header-group {
     margin-top: var(--main-menu-header-margin-top-mobile);
-    margin-bottom: var(--spacing-lg);
+    margin-bottom: var(--spacing-xl);
   }
 
   .main-menu__banner {
@@ -278,7 +281,7 @@
 
   .main-menu__header-group {
     margin-top: var(--main-menu-header-margin-top-mobile-sm);
-    margin-bottom: calc(var(--spacing-lg) * 0.95);
+    margin-bottom: var(--spacing-lg);
   }
 
   .main-menu__banner {
