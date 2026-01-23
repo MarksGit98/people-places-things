@@ -236,6 +236,7 @@
   .game-board__row-label {
     width: var(--row-label-width-mobile-sm);
     padding-left: 7px;
+    padding-right: var(--spacing-sm); /* 8px - extra 4px gap from grid */
   }
 
   .game-board__constraint {

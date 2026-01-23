@@ -258,7 +258,7 @@
         {
           "constraint": "Contains the word 'LAND'",
           "cells": [
-            { "category": "people", "clue": "From X-rated podcast host to Youtube talkshow sensation", "clue2": "Actors, rappers, and politicians have all sat in his Dick Cavett-inspired studio", "answer": "Adam Friedland", "acceptableAnswers": ["Friedland"], "imageUrl": "" },
+            { "category": "people", "clue": "From chronically online podcast host to Youtube talkshow sensation", "clue2": "Actors, rappers, and politicians have all sat in his Dick Cavett-inspired studio", "answer": "Adam Friedland", "acceptableAnswers": ["Friedland"], "imageUrl": "" },
             { "category": "places", "clue": "Where all of the castles were built in the 20th century", "clue2": "Happiest place on earth, trademarked", "answer": "Disneyland", "imageUrl": "" },
             { "category": "things", "clue": "Fashion item once synonymous with the 5 boroughs", "clue2": "Protecting your feet from the elements since 1973", "answer": "Timberland Boots", "acceptableAnswers": ["Timbs", "Timberlands"], "imageUrl": "" }
           ]
@@ -790,25 +790,25 @@
         {
           "constraint": "Ends in 'LY'",
           "cells": [
-            { "category": "people", "clue": "She navigated a fantastical maze opposite a glam-rock villain in the 80s", "clue2": "Academy Award winner for A Beautiful Mind", "answer": "Jennifer Connelly", "acceptableAnswers": ["Connelly"], "imageUrl": "" },
-            { "category": "places", "clue": "The Corleone family's ancestral homeland in a famous film trilogy", "clue2": "Italian volcanic island that gave us cannoli and Mount Etna", "answer": "Sicily", "imageUrl": "" },
-            { "category": "things", "clue": "Game that has ended more Thanksgiving dinners early than football ever could", "clue2": "Where Baltic Avenue is cheap but Park Place costs a fortune", "answer": "Monopoly", "imageUrl": "" }
+            { "category": "people", "clue": "She navigated a fantastical maze opposite a glam-rock legend in the 80s", "clue2": "Academy Award winner for <i>A Beautiful Mind</i>", "answer": "Jennifer Connelly", "acceptableAnswers": ["Connelly"], "imageUrl": "" },
+            { "category": "places", "clue": "The Corleone family's ancestral homeland in a little known trilogy", "clue2": "The \"ball\" on the \"boot\" so to speak", "answer": "Sicily", "imageUrl": "" },
+            { "category": "things", "clue": "Elizabeth Magie's anticapitalist teaching tool, fittingly appropriated as a marketable game by the Parker Brothers", "clue2": "The innocent-looking instigator for much familial bickering", "answer": "Monopoly", "imageUrl": "" }
           ]
         },
         {
           "constraint": "Contains 'SH'",
           "cells": [
-            { "category": "people", "clue": "NBA giant who demolished backboards and dropped rap albums with equal gusto", "clue2": "Four-time champion famous for his feud with a fellow Laker", "answer": "Shaquille O'Neal", "acceptableAnswers": ["Shaq", "O'Neal"], "imageUrl": "" },
-            { "category": "places", "clue": "Where songwriters pour coffee while waiting for their big break", "clue2": "Tennessee capital that houses the Grand Ole Opry", "answer": "Nashville", "imageUrl": "" },
-            { "category": "things", "clue": "Horror movie essential that dies at the worst possible moment", "clue2": "Camp counselors reach for this when things go bump in the night", "answer": "Flashlight", "imageUrl": "" }
+            { "category": "people", "clue": "The NBA was forced to reinforce their backboards because he kept breaking them with his ferocious dunks", "clue2": "Four-time champion unstoppable in the paint but leaves something to be desired on the free-throw line", "answer": "Shaquille O'Neal", "acceptableAnswers": ["Shaq", "O'Neal"], "imageUrl": "" },
+            { "category": "places", "clue": "Setting and title of the 1975 Altman country music epic", "clue2": "Birthplace of a delicious style of hot chicken", "answer": "Nashville", "imageUrl": "" },
+            { "category": "things", "clue": "Horror movie essential that dies at the worst possible moment", "clue2": "Cave explorer's handheld", "answer": "Flashlight", "imageUrl": "" }
           ]
         },
         {
-          "constraint": "Contains an animal",
+          "constraint": "Exactly six letters",
           "cells": [
-            { "category": "people", "clue": "Canadian hero who ran coast to coast on one leg before tragedy struck", "clue2": "Amputee athlete whose Marathon of Hope raised millions for cancer research", "answer": "Terry Fox", "acceptableAnswers": ["Fox"], "imageUrl": "" },
-            { "category": "places", "clue": "Wildlife sanctuary off the southern coast known for endemic species", "clue2": "South Australian haven famous for pristine beaches and unique fauna", "answer": "Kangaroo Island", "imageUrl": "" },
-            { "category": "things", "clue": "SNL insisted you can never have too much of this percussion instrument", "clue2": "Christopher Walken famously demanded more of this in a sketch", "answer": "Cowbell", "imageUrl": "" }
+            { "category": "people", "clue": "You wouldn't want this Queen telling you to \"sashay\"", "clue2": "Host of a \"Drag Race\" competition", "answer": "Ru Paul", "imageUrl": "" },
+            { "category": "places", "clue": "Home to a well-known canal", "clue2": "Established its own independent government in 1903 breaking away from Colombia", "answer": "Panama", "imageUrl": "" },
+            { "category": "things", "clue": "SNL insisted you can never have too much of this percussion instrument", "clue2": "Christopher Walken famously demanded more of this in a sketch", "answer": "Gadget", "imageUrl": "" }
           ]
         }
       ]
