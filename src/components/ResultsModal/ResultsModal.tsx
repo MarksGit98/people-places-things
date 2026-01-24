@@ -25,7 +25,7 @@ export function ResultsModal({ result, onClose, gameUrl }: ResultsModalProps) {
     .map((row) => row.map((cell) => EMOJI_MAP[cell]).join(''))
     .join('\n');
 
-  const shareText = `People, Places & Things Daily Puzzle #${result.puzzleNumber} 🧩
+  const shareText = `People, Places & Things #${result.puzzleNumber} 🧩
 ${result.correctCount}/${result.totalCells} Correct 🎯
 
 ${emojiGrid}
