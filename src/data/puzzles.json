@@ -818,25 +818,25 @@
         {
           "constraint": "Contains a color",
           "cells": [
-            { "category": "people", "clue": "Half of Tenacious D and master of the comedic scream-song", "clue2": "School of Rock teacher who voiced Po in Kung Fu Panda", "answer": "Jack Black", "acceptableAnswers": ["Black"], "imageUrl": "" },
-            { "category": "places", "clue": "Wisconsin city whose football fans wear cheese on their heads unironically", "clue2": "Where the Packers have played since 1919 at Lambeau Field", "answer": "Green Bay", "imageUrl": "" },
-            { "category": "things", "clue": "Architect's sketch that makes buildings possible before they exist", "clue2": "Technical drawing essential before any construction begins", "answer": "Blueprint", "imageUrl": "" }
+            { "category": "people", "clue": "Half of <i>Tenacious D</i>", "clue2": "<i>School of Rock</i> teacher and Po in <i>Kung Fu Panda</i>", "answer": "Jack Black", "acceptableAnswers": ["Black"], "imageUrl": "" },
+            { "category": "places", "clue": "City whose football fans wear cheese on their heads", "clue2": "Where the Packers have played since 1919 at Lambeau Field", "answer": "Green Bay", "imageUrl": "" },
+            { "category": "things", "clue": "It outlines what's to come when working on a project", "clue2": "Technical drawing essential before any construction begins", "answer": "Blueprint", "imageUrl": "" }
           ]
         },
         {
           "constraint": "Starts and ends with the same letter",
           "cells": [
-            { "category": "people", "clue": "She rode dragons and commanded armies in a medieval fantasy realm", "clue2": "Game of Thrones' Mother of Dragons turned rom-com star", "answer": "Emilia Clarke", "acceptableAnswers": ["Clarke"], "imageUrl": "" },
-            { "category": "places", "clue": "America's largest state is smaller than its ego about being the largest", "clue2": "The Last Frontier, purchased from Russia for about two cents an acre", "answer": "Alaska", "imageUrl": "" },
-            { "category": "things", "clue": "Celestial event that sends people staring skyward with special glasses", "clue2": "When the moon photobombs the sun, sometimes totality ensues", "answer": "Eclipse", "imageUrl": "" }
+            { "category": "people", "clue": "Brain aneurysm survivor who kept her health battles private during HBO's biggest show", "clue2": "The \"Mother of Dragons\" turned rom-com star", "answer": "Emilia Clarke", "acceptableAnswers": ["Clarke"], "imageUrl": "" },
+            { "category": "places", "clue": "The Last Frontier, purchased from Russia for about two cents an acre", "clue2": "US State and also a baked dessert", "answer": "Alaska", "imageUrl": "" },
+            { "category": "things", "clue": "Celestial event that sometimes has people staring at the sky with special glasses", "clue2": "When one celestial body photobombs another - sometimes totality ensues", "answer": "Eclipse", "imageUrl": "" }
           ]
         },
         {
           "constraint": "Ends in 'LE'",
           "cells": [
-            { "category": "people", "clue": "Teacher whose student would go on to conquer the known world", "clue2": "Greek philosopher who founded the Lyceum in Athens", "answer": "Aristotle", "imageUrl": "" },
-            { "category": "places", "clue": "Rainy city where grunge was born and espresso is a food group", "clue2": "Pacific Northwest hub with a Space Needle on its skyline", "answer": "Seattle", "imageUrl": "" },
-            { "category": "things", "clue": "Queen sang about wanting to ride one and never wanting to stop", "clue2": "Amsterdam's two-wheeled transportation of choice", "answer": "Bicycle", "acceptableAnswers": ["Bike"], "imageUrl": "" }
+            { "category": "people", "clue": "Philosopher whose student would go on to conquer the known world", "clue2": "Founded the Lyceum in Athens", "answer": "Aristotle", "imageUrl": "" },
+            { "category": "places", "clue": "Rainy city where grunge was born", "clue2": "Birthplace of Starbucks", "answer": "Seattle", "imageUrl": "" },
+            { "category": "things", "clue": "James Bond's Siberian escape vehicle", "clue2": "Form of transport in the Yukon, potentially", "answer": "Snowmobile", "imageUrl": "" }
           ]
         }
       ]
