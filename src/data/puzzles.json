@@ -286,8 +286,8 @@
         {
           "constraint": "Starts with the letter 'S'",
           "cells": [
-            { "category": "people", "clue": "She's behinnd the 2010 FIFA World Cup song with the same title as the sound Pacman makes", "clue2": "This Colombian superstar's hips have an aversion to dishonesty", "answer": "Shakira", "imageUrl": "" },
-            { "category": "places", "clue": "Where the Nobel Prize is officially distributed", "clue2": "Both a major city and a notorious syndrome", "answer": "Stockholm", "imageUrl": "" },
+            { "category": "people", "clue": "She's behind the 2010 FIFA World Cup song reminiscent of the sound Pacman makes", "clue2": "This Colombian superstar's hips have an aversion to dishonesty", "answer": "Shakira", "imageUrl": "" },
+            { "category": "places", "clue": "Where the Nobel Prize is officially distributed", "clue2": "Major city or notorious syndrome", "answer": "Stockholm", "imageUrl": "" },
             { "category": "things", "clue": "One way to listen to your heart, literally", "clue2": "Doctor's device that's often cold to the touch", "answer": "Stethoscope", "imageUrl": "" }
           ]
         },
