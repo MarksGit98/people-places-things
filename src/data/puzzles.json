@@ -846,25 +846,25 @@
         {
           "constraint": "Contains two 'N's in a row",
           "cells": [
-            { "category": "people", "clue": "Caribbean captain whose eyeliner game is stronger than his navigation", "clue2": "Actor known for eccentric roles and a high-profile defamation trial", "answer": "Johnny Depp", "acceptableAnswers": ["Depp"], "imageUrl": "" },
-            { "category": "places", "clue": "Ohio city where they put chili on spaghetti and call it cuisine", "clue2": "Home of the Bengals and some surprisingly nice architecture", "answer": "Cincinnati", "imageUrl": "" },
-            { "category": "things", "clue": "Bark-derived powder that makes fall lattes financially irresponsible", "clue2": "Key spice in apple pie, snickerdoodles, and countless holiday treats", "answer": "Cinnamon", "imageUrl": "" }
+            { "category": "people", "clue": "Known for eccentric roles and a high-profile televised defamation trial", "clue2": "Caribbean captain whose eyeliner game is stronger than his navigation", "answer": "Johnny Depp", "acceptableAnswers": ["Depp"], "imageUrl": "" },
+            { "category": "places", "clue": "The city where Harambe was put down before his time on that fateful day", "clue2": "Home of the Bengals and some surprisingly nice architecture", "answer": "Cincinnati", "imageUrl": "" },
+            { "category": "things", "clue": "Bark-derived powder that also served as the name of a Jamaican cereal mascot", "clue2": "Key spice in apple pie, snickerdoodles, and fall lattes", "answer": "Cinnamon", "imageUrl": "" }
           ]
         },
         {
           "constraint": "Composed of two smaller words",
           "cells": [
-            { "category": "people", "clue": "First to leave bootprints somewhere NASA hadn't swept yet", "clue2": "Apollo 11 commander whose small step speech became immortal", "answer": "Neil Armstrong", "acceptableAnswers": ["Armstrong"], "imageUrl": "" },
-            { "category": "places", "clue": "English city where four lads from a certain rock band came together", "clue2": "Port city home to Anfield stadium and a legendary music scene", "answer": "Liverpool", "imageUrl": "" },
-            { "category": "things", "clue": "Marine creature that can regenerate its limbs like a comic book hero", "clue2": "Five-pointed sea dweller that lacks an actual spine", "answer": "Starfish", "acceptableAnswers": ["Sea Star"], "imageUrl": "" }
+            { "category": "people", "clue": "First to leave bootprints on the big gray rock in the sky", "clue2": "Apollo 11 commander whose small step speech became immortal", "answer": "Neil Armstrong", "acceptableAnswers": ["Armstrong"], "imageUrl": "" },
+            { "category": "places", "clue": "City where four lads from a certain English rock band came together", "clue2": "This port city boasts two Premier League clubs", "answer": "Liverpool", "imageUrl": "" },
+            { "category": "things", "clue": "Marine creature that can regenerate its limbs like a comic book hero", "clue2": "Spongebob's bestie's surname", "answer": "Starfish", "acceptableAnswers": ["Sea Star"], "imageUrl": "" }
           ]
         },
         {
           "constraint": "Two words both ending in the same letter",
           "cells": [
-            { "category": "people", "clue": "She and Thelma drove off a cliff in one of cinema's boldest endings", "clue2": "Oscar winner for Dead Man Walking and longtime activist", "answer": "Susan Sarandon", "acceptableAnswers": ["Sarandon"], "imageUrl": "" },
-            { "category": "places", "clue": "Neon-lit harbor where ancient temples hide between skyscrapers", "clue2": "Former British territory returned to China in 1997", "answer": "Hong Kong", "imageUrl": "" },
-            { "category": "things", "clue": "Communal feast where diners cook their own ingredients in bubbling broth", "clue2": "Asian dining experience that turns meals into social events", "answer": "Hot Pot", "acceptableAnswers": ["Hotpot"], "imageUrl": "" }
+            { "category": "people", "clue": "She drove off a cliff in one of cinema's boldest endings", "clue2": "Oscar winner for playing a nun opposite Sean Penn", "answer": "Susan Sarandon", "acceptableAnswers": ["Sarandon"], "imageUrl": "" },
+            { "category": "places", "clue": "World's most skyscraper-dense city and also a major harbor", "clue2": "Dim Sum capital of the world", "answer": "Hong Kong", "imageUrl": "" },
+            { "category": "things", "clue": "DIY communal dinner in a bubbling broth", "clue2": "Asian dining experience that turns meals into social events", "answer": "Hot Pot", "acceptableAnswers": ["Hotpot"], "imageUrl": "" }
           ]
         }
       ]
