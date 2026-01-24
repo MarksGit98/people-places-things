@@ -296,7 +296,7 @@
           "cells": [
             { "category": "people", "clue": "This musical artist has been making a statement with his gender-fluid fashion", "clue2": "Former British boy band member who went in his own direction", "answer": "Harry Styles", "imageUrl": "" },
             { "category": "places", "clue": "Tiny nation sandwiched between larger neighbors in the Pyrenees", "clue2": "European microstate famous for duty-free shopping and skiing", "answer": "Andorra", "imageUrl": "" },
-            { "category": "things", "clue": "Where to look to see if you're being followed", "clue2": "Where objects may be closer than they appear", "answer": "Rearview Mirror", "imageUrl": "" }
+            { "category": "things", "clue": "Where to look to see if you're being followed", "clue2": "Where objects may be closer than they appear", "answer": "Rearview Mirror", "acceptableAnswers": ["Mirror"], "imageUrl": "" }
           ]
         },
         {
