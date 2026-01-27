@@ -376,11 +376,11 @@
           ]
         },
         {
-          "constraint": "Exactly two words",
+          "constraint": "Two words that begin with the same letter",
           "cells": [
             { "category": "people", "clue": "This Cubist famously depicted a weeping woman", "clue2": "This Spanish master's work grew increasingly surreal as his career progressed", "answer": "Pablo Picasso", "acceptableAnswers": ["Picasso"], "imageUrl": "" },
-            { "category": "places", "clue": "One of the first Spanish settlements in South America and where Simón Bolívar died", "clue2": "Port city or a saint?", "answer": "Santa Marta", "imageUrl": "" },
-            { "category": "things", "clue": "An enchanted weapon wielded exclusively by the God of Thunder", "clue2": "Like a boomerang but only for the man of it's namesake", "answer": "Thor's Hammer", "acceptableAnswers": ["Mjölnir"], "imageUrl": "" }
+            { "category": "places", "clue": "City that some speculate is where Columbus may have first made landfall in 1492 ", "clue2": "Central American capital that sits in the \"Valley of the Hammocks\" and is flanked by volcanoes", "answer": "San Salvador", "imageUrl": "" },
+            { "category": "things", "clue": "A peppermint hook that doubles as a Christmas tree ornament", "clue2": "Striped seasonal treat shaped like a shepherd's staff", "answer": "Candy Cane", "imageUrl": "" }
           ]
         },
         {

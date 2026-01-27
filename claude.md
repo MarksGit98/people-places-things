@@ -40,7 +40,7 @@ PUZZLE GENERATION RULES
 	11. Starts with “un” or similar
 	12. Contains exactly X vowels per answer
 	13. Contains obscure letter (q, x, z, etc) 
-	14. Exactly one (two, three) word(s)
+	14. Exactly one or three words (avoid "exactly two words" as most names are two words)
 	15. Rhymes with X
 	16. Contains a common noun
 	17. Contains a color
@@ -70,7 +70,7 @@ PUZZLE GENERATION RULES
 	- Contains a color
 	- Two/Three words beginning/ending with the same letter
 	- Starts and ends with the same letter
-	- Exactly X words
+	- Exactly one or three words (never "exactly two words")
 	- Exactly X syllables (max 3 syllables)
 	- Contains a number
 	- Rhymes with X
