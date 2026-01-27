@@ -72,6 +72,16 @@ export function MainMenu({ onPlay, puzzleNumber }: MainMenuProps) {
 
       <OtherGames />
 
+      {/* Banner ad at very bottom */}
+      <div className="main-menu__banner-ad">
+        <AdsterraBanner
+          adKey="7370110dc9e2b65e305339fd5395c7e3"
+          width={300}
+          height={250}
+          position="bottom"
+        />
+      </div>
+
       <Footer />
     </div>
   );
