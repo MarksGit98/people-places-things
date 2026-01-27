@@ -386,7 +386,7 @@
         {
           "constraint": "Starts with the letter 'M'",
           "cells": [
-            { "category": "people", "clue": "He floated, he stung, and he shook up the world", "clue2": "He took a bold stance refusing to serve in America's imperial wars", "answer": "Muhammad Ali", "acceptableAnswers": ["Ali"], "imageUrl": "" },
+            { "category": "people", "clue": "He floated, he stung, and he was the heavyweight world champion", "clue2": "This hall of famer took a bold stance refusing to serve in America's imperial wars", "answer": "Muhammad Ali", "acceptableAnswers": ["Ali"], "imageUrl": "" },
             { "category": "places", "clue": "Where King Julien ruled over a great colony of lemurs", "clue2": "Fourth largest island nation best known for its biodiversity and beautiful beaches", "answer": "Madagascar", "imageUrl": "" },
             { "category": "things", "clue": "A musician's clicking companion", "clue2": "Pendulum device that helps keep tempo", "answer": "Metronome", "imageUrl": "" }
           ]
