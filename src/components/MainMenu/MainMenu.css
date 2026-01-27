@@ -106,8 +106,8 @@
 /* Play Button - matches Share Results button base layout */
 .main-menu__play-btn {
   width: 100%;
-  max-width: 280px;
-  padding: var(--spacing-lg) var(--spacing-lg);
+  max-width: 230px;
+  padding: var(--spacing-md) var(--spacing-lg);
   font-family: var(--font-family);
   font-size: var(--font-size-3xl);
   font-weight: var(--font-weight-bold);
