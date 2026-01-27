@@ -360,7 +360,7 @@
           "cells": [
             { "category": "people", "clue": "Bugs and Daffy's short-tempered adversary", "clue2": "This spinning looney toon devours everything in his path", "answer": "Tasmanian Devil", "imageUrl": "" },
             { "category": "places", "clue": "A real region whose folklore inspired Bram Stoker's masterwork", "clue2": "When visiting the gothic castles be sure to bring garlic and a wooden stake", "answer": "Transylvania", "imageUrl": "" },
-            { "category": "things", "clue": "A gold-star siege weapon prior to the advent of gunpowder", "clue2": "The catapult's bigger cousin", "answer": "Trebuchet", "imageUrl": "" }
+            { "category": "things", "clue": "A gold-standard siege weapon prior to the advent of gunpowder", "clue2": "The catapult's big brother", "answer": "Trebuchet", "imageUrl": "" }
           ]
         }
       ]
