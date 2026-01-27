@@ -144,6 +144,7 @@
   --modal-width-desktop: 560px;
   --modal-width-mobile: 364px;
   --modal-width-mobile-sm: 340px;
+  --row-label-grid-padding: 4px; /* Minimum padding between y-axis constraint text and grid */
   --grid-gap: 10px;  /* 5% smaller than 11px */
   --grid-gap-mobile: 4px;
   --grid-gap-mobile-sm: 3px;

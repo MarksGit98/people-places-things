@@ -342,7 +342,7 @@
         {
           "constraint": "Composed of two smaller words",
           "cells": [
-            { "category": "people", "clue": "The gravely-voiced man who beautifully serenaded our Wonderful World", "clue2": "<i>Satchmo's</i> horn spoke what his voice couldn't always say", "answer": "Louis Armstrong", "acceptableAnswers": ["Armstrong"], "imageUrl": "" },
+            { "category": "people", "clue": "The gravelly-voiced man who beautifully serenaded our Wonderful World", "clue2": "<i>Satchmo's</i> horn spoke what his voice couldn't always say", "answer": "Louis Armstrong", "acceptableAnswers": ["Armstrong"], "imageUrl": "" },
             { "category": "places", "clue": "Where the guys featured on the money stare stoically into the distance", "clue2": "Gutzon Borglum's granite masterpiece depicting four American mugs", "answer": "Mount Rushmore", "acceptableAnswers": ["Rushmore", "Mt Rushmore"], "imageUrl": "" },
             { "category": "things", "clue": "Victorian timekeeper and also #bodygoals", "clue2": "Twin-bulbed vessel that measures time in granules", "answer": "Hourglass", "imageUrl": "" }
           ]
@@ -351,7 +351,7 @@
           "constraint": "Ends in 'Y'",
           "cells": [
             { "category": "people", "clue": "The first pop sensation to perform in orbit from a spaceship", "clue2": "She's a <i>California Gurl</i> with a <i>Teenage Dream</i>", "answer": "Katy Perry", "imageUrl": "" },
-            { "category": "places", "clue": "Region that has swamped hands between European empires for millenia", "clue2": "Allied forces stormed these shores in June 1944", "answer": "Normandy", "imageUrl": "" },
+            { "category": "places", "clue": "Coastal region that has swapped hands between European empires for millenia", "clue2": "Allied forces stormed these shores in June 1944", "answer": "Normandy", "imageUrl": "" },
             { "category": "things", "clue": "Squidward's guilty pleasure", "clue2": "An underwater delicacy cooked expertly by a talking sponge", "answer": "Krabby Patty", "imageUrl": "" }
           ]
         },
@@ -930,25 +930,25 @@
         {
           "constraint": "Starts with the letter 'C'",
           "cells": [
-            { "category": "people", "clue": "Iowa's scoring machine who made women's basketball must-see TV", "clue2": "2024 WNBA #1 draft pick known for logo three-pointers", "answer": "Caitlin Clark", "acceptableAnswers": ["Clark"], "imageUrl": "" },
-            { "category": "places", "clue": "Mountain megacity famous for its spicy hot pot and fog-shrouded skyline", "clue2": "Massive municipality in southwestern China with over 30 million people", "answer": "Chongqing", "imageUrl": "" },
-            { "category": "things", "clue": "AI sensation that had every student worried about homework's future", "clue2": "OpenAI's conversational tool that sparked the AI chatbot craze", "answer": "ChatGPT", "imageUrl": "" }
+            { "category": "people", "clue": "Iowan scoring machine who brought a new set of eyes to March Madness", "clue2": "WNBA #1 draft pick known for her logo three-pointers", "answer": "Caitlin Clark", "acceptableAnswers": ["Clark"], "imageUrl": "" },
+            { "category": "places", "clue": "Mountainous megacity famous for its spicy hot pot and fog-shrouded skyline", "clue2": "Massive \"futuristic\" municipality with over 30 million people that many in the West haven't even heard of", "answer": "Chongqing", "imageUrl": "" },
+            { "category": "things", "clue": "The bane of every teacher grading assignments post 2022", "clue2": "OpenAI's flagship product that sparked the AI chatbot craze", "answer": "ChatGPT", "imageUrl": "" }
           ]
         },
         {
           "constraint": "Ends with the letter 'N'",
           "cells": [
-            { "category": "people", "clue": "Kite-flying polymath who helped draft a revolutionary document", "clue2": "Founding Father whose face graces the hundred-dollar bill", "answer": "Ben Franklin", "acceptableAnswers": ["Franklin", "Benjamin Franklin"], "imageUrl": "" },
-            { "category": "places", "clue": "Where ancient Petra lies carved into rose-red cliffs", "clue2": "Middle Eastern kingdom home to the Dead Sea's eastern shore", "answer": "Jordan", "imageUrl": "" },
-            { "category": "things", "clue": "Stainless steel ride that hit 88 mph and made history (fictional use)", "clue2": "Gull-winged car that became a time machine in the movies", "answer": "DeLorean", "imageUrl": "" }
+            { "category": "people", "clue": "Kite-flying polymath who helped draft a revolutionary document", "clue2": "The face on the hundred-dollar bill", "answer": "Ben Franklin", "acceptableAnswers": ["Franklin", "Benjamin Franklin"], "imageUrl": "" },
+            { "category": "places", "clue": "Where the ancient \"Rose City\" Petra lies carved into rose-red cliffs", "clue2": "Middle Eastern kingdom home to the Dead Sea's eastern shore", "answer": "Jordan", "imageUrl": "" },
+            { "category": "things", "clue": "Cinema history was made when one of these hit 88 mph and traveled through time", "clue2": "Gull-winged stainless steel sports car of the '80s", "answer": "DeLorean", "imageUrl": "" }
           ]
         },
-        {
-          "constraint": "Exactly two words",
+         {
+          "constraint": "Composed of two smaller words",
           "cells": [
-            { "category": "people", "clue": "The fastest human ever, whose signature pose became iconic", "clue2": "Jamaican sprinter who dominated the 100m and 200m for a decade", "answer": "Usain Bolt", "acceptableAnswers": ["Bolt"], "imageUrl": "" },
+            { "category": "people", "clue": "English folklore champion for the poor who the modern Tories would call a \"thug\"", "clue2": "Sherwood Forest archer who believed strongly in wealth redistribution", "answer": "Robin Hood", "acceptableAnswers":["Robinhood"], "imageUrl": "" },
             { "category": "places", "clue": "Mile-deep masterpiece carved by the Colorado River over millions of years", "clue2": "Arizona national park visited by over 6 million people annually", "answer": "Grand Canyon", "imageUrl": "" },
-            { "category": "things", "clue": "Somehow still required by doctors' offices everywhere", "clue2": "Pre-email device that sent documents over phone lines", "answer": "Fax Machine", "imageUrl": "" }
+            { "category": "things", "clue": "Oh no, he's wearing ____ - he can't hear me!", "clue2": "Cordless earbuds launched in 2016 that everyone has experienced losing once", "answer": "Airpods", "acceptableAnswers": ["AirPods", "Air Pods"], "imageUrl": "" }
           ]
         }
       ]
@@ -963,14 +963,7 @@
             { "category": "things", "clue": "Rugged action cam strapped to helmets and surfboards worldwide", "clue2": "Hero-branded camera company founded by a surfer", "answer": "GoPro", "imageUrl": "" }
           ]
         },
-        {
-          "constraint": "Composed of two smaller words",
-          "cells": [
-            { "category": "people", "clue": "Sherwood Forest's most famous wealth redistributor (fictional)", "clue2": "Legendary archer who stole from the rich to give to the poor", "answer": "Robin Hood", "imageUrl": "" },
-            { "category": "places", "clue": "Island where children don't age and pirates don't win (fictional)", "clue2": "Peter Pan's magical home accessible by the second star to the right", "answer": "Neverland", "imageUrl": "" },
-            { "category": "things", "clue": "White wireless earbuds that sparked a thousand memes about losing them", "clue2": "Apple's cordless earbuds launched in 2016", "answer": "Airpods", "acceptableAnswers": ["AirPods"], "imageUrl": "" }
-          ]
-        },
+       
         {
           "constraint": "Contains the letter 'I'",
           "cells": [

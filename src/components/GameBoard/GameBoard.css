@@ -112,6 +112,7 @@
   width: var(--row-label-width);
   flex-shrink: 0;
   padding: var(--spacing-sm);
+  padding-right: max(var(--spacing-sm), var(--row-label-grid-padding));
   display: flex;
   align-items: center;
   justify-content: center;
@@ -185,6 +186,7 @@
     width: var(--row-label-width-mobile);
     padding: var(--spacing-xs);
     padding-left: 8px;
+    padding-right: max(var(--spacing-xs), var(--row-label-grid-padding));
   }
 
   .game-board__constraint {
@@ -236,7 +238,7 @@
   .game-board__row-label {
     width: var(--row-label-width-mobile-sm);
     padding-left: 7px;
-    padding-right: var(--spacing-sm); /* 8px - extra 4px gap from grid */
+    padding-right: max(var(--spacing-sm), var(--row-label-grid-padding));
   }
 
   .game-board__constraint {
