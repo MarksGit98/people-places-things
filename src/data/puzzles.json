@@ -378,7 +378,7 @@
         {
           "constraint": "Exactly two words",
           "cells": [
-            { "category": "people", "clue": "Famously depicted a weeping woman", "clue2": "This Spanish master's work grew increasingly surreal as his career progressed", "answer": "Pablo Picasso", "acceptableAnswers": ["Picasso"], "imageUrl": "" },
+            { "category": "people", "clue": "This cubist famously depicted a weeping woman", "clue2": "This Spanish master's work grew increasingly surreal as his career progressed", "answer": "Pablo Picasso", "acceptableAnswers": ["Picasso"], "imageUrl": "" },
             { "category": "places", "clue": "One of the first Spanish settlements in South America and where Simón Bolívar died", "clue2": "Port city or a saint?", "answer": "Santa Marta", "imageUrl": "" },
             { "category": "things", "clue": "An enchanted weapon wielded exclusively by the God of Thunder", "clue2": "Like a boomerang but only for the man of it's namesake", "answer": "Thor's Hammer", "acceptableAnswers": ["Mjölnir"], "imageUrl": "" }
           ]
