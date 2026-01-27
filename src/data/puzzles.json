@@ -872,27 +872,27 @@
     {
       "rows": [
         {
-          "constraint": "Contains 'TR'",
+          "constraint": "Starts with the letter 'S'",
           "cells": [
-            { "category": "people", "clue": "The benchmark against which all acting performances are measured", "clue2": "Record-breaking Oscar nominee who terrified Anne Hathaway as a fashion editor", "answer": "Meryl Streep", "acceptableAnswers": ["Streep"], "imageUrl": "" },
-            { "category": "places", "clue": "City where gravy-smothered fries became a cherished culinary tradition", "clue2": "Quebec's largest metropolis, home to North America's biggest jazz festival", "answer": "Montreal", "imageUrl": "" },
-            { "category": "things", "clue": "Exercise equipment that turns running into a stationary pursuit", "clue2": "Gym machine that often doubles as an expensive coat rack", "answer": "Treadmill", "imageUrl": "" }
+            { "category": "people", "clue": "Turtleneck-wearing tech titan", "clue2": "Fruitarian who built the Apple empire", "answer": "Steve Jobs", "acceptableAnswers": ["Jobs"], "imageUrl": "" },
+            { "category": "places", "clue": "City that birthed K-pop", "clue2": "The world's 4th largest metropolitan economy and home to Samsung HQ", "answer": "Seoul", "imageUrl": "" },
+            { "category": "things", "clue": "Sports trophy that athletes are obliged to drink beer from", "clue2": "Also a trendy stainless steel tumbler", "answer": "Stanley Cup", "imageUrl": "" }
           ]
         },
         {
-          "constraint": "Contains the letter 'Y'",
+          "constraint": "Ends with the letter 'A'",
           "cells": [
-            { "category": "people", "clue": "She clicked her heels three times and left Kansas behind forever", "clue2": "Tragic Hollywood icon whose daughter Liza became a legend herself", "answer": "Judy Garland", "acceptableAnswers": ["Garland"], "imageUrl": "" },
-            { "category": "places", "clue": "Harbor city where an architectural marvel appears to be setting sail", "clue2": "Australia's most populous city, often mistaken for the capital", "answer": "Sydney", "imageUrl": "" },
-            { "category": "things", "clue": "Toy with serious commitment issues about which direction to go", "clue2": "Duncan's string-spinning claim to fame", "answer": "Yo-yo", "acceptableAnswers": ["Yoyo"], "imageUrl": "" }
+            { "category": "people", "clue": "Her face adorned a golden dollar coin starting in 2000", "clue2": "Shoshone guide who helped Lewis and Clark reach the Pacific", "answer": "Sacagawea", "imageUrl": "" },
+            { "category": "places", "clue": "Northern nation home to more lakes than the rest of the world combined", "clue2": "Where milk comes in a bag and you can find a Tim Hortons on every block", "answer": "Canada", "imageUrl": "" },
+            { "category": "things", "clue": "iRobot's disc-shaped domestic device that terrorizes pets", "clue2": "Autonomous floor cleaner prone to bump into all your furniture", "answer": "Roomba", "imageUrl": "" }
           ]
         },
         {
-          "constraint": "Contains the letter 'W'",
+          "constraint": "Starts with the letter 'M'",
           "cells": [
-            { "category": "people", "clue": "Child star who phoned home with an alien before becoming rom-com royalty", "clue2": "One of Charlie's Angels now hosting a daytime talk show", "answer": "Drew Barrymore", "acceptableAnswers": ["Barrymore"], "imageUrl": "" },
-            { "category": "places", "clue": "Capital rebuilt from WWII ashes into a thriving modern metropolis", "clue2": "Polish city where Chopin's heart rests in a church pillar", "answer": "Warsaw", "imageUrl": "" },
-            { "category": "things", "clue": "Daryl Dixon's signature weapon for dispatching the undead quietly", "clue2": "Medieval ranged weapon with a trigger and bolt", "answer": "Crossbow", "imageUrl": "" }
+            { "category": "people", "clue": "A name synonymous with greatness", "clue2": "Minor league baseball player who may have also won 6 NBA championships", "answer": "Michael Jordan", "acceptableAnswers": ["Jordan", "MJ"], "imageUrl": "" },
+            { "category": "places", "clue": "Party city where the sports cars are low and the cheekbones are high", "clue2": "Spring breaker's Mecca", "answer": "Miami", "imageUrl": "" },
+            { "category": "things", "clue": "The central nervous system of your computer", "clue2": "Circuit board where CPU, RAM, and GPU all connect", "answer": "Motherboard", "imageUrl": "" }
           ]
         }
       ]
@@ -900,27 +900,27 @@
     {
       "rows": [
         {
-          "constraint": "Contains 'ST'",
+          "constraint": "Starts with the letter 'B'",
           "cells": [
-            { "category": "people", "clue": "He ignored the advice about plastics and became a movie legend instead", "clue2": "Method actor who dressed as a woman for an entire soap opera in Tootsie", "answer": "Dustin Hoffman", "acceptableAnswers": ["Hoffman"], "imageUrl": "" },
-            { "category": "places", "clue": "Not Constantinople anymore, as that catchy 1950s song reminds us", "clue2": "Turkish metropolis straddling the Bosphorus strait", "answer": "Istanbul", "imageUrl": "" },
-            { "category": "things", "clue": "Kitchen appliance responsible for countless minor morning burns", "clue2": "Brave Little one went on a great adventure in 1987", "answer": "Toaster", "imageUrl": "" }
+            { "category": "people", "clue": "Comic whose solo-podcast is almost as notorious as his standup", "clue2": "Redheaded Bostonian with no inside voice", "answer": "Bill Burr", "acceptableAnswers": ["Burr"], "imageUrl": "" },
+            { "category": "places", "clue": "City scarred by \"The Troubles\", now a <i>Game of Thrones</i> tourism hub", "clue2": "Capital with a Titanic Quarter tourist district", "answer": "Belfast", "imageUrl": "" },
+            { "category": "things", "clue": "7(ish) foot staple of the \"Church of Iron\"", "clue2": "Weighted metal pole essential for powerlifting", "answer": "Barbell", "imageUrl": "" }
           ]
         },
         {
-          "constraint": "Contains 'OR'",
+          "constraint": "Starts with the letter 'Q'",
           "cells": [
-            { "category": "people", "clue": "His voice could narrate a grocery list and win an Emmy for it", "clue2": "Actor who played God twice and nobody questioned the casting", "answer": "Morgan Freeman", "acceptableAnswers": ["Freeman"], "imageUrl": "" },
-            { "category": "places", "clue": "State where craft beer, hipsters, and dramatic coastlines collide", "clue2": "Home to Crater Lake and countless microbreweries", "answer": "Oregon", "imageUrl": "" },
-            { "category": "things", "clue": "Device that made mental arithmetic an endangered skill", "clue2": "Texas Instruments classroom staple that teachers love to ban", "answer": "Calculator", "imageUrl": "" }
+            { "category": "people", "clue": "The fictional town of Quahog's most notorious pervert", "clue2": "Peter's chinny \"giggity\"-uttering drinking buddy", "answer": "Glenn Quagmire", "acceptableAnswers": ["Quagmire"], "imageUrl": "" },
+            { "category": "places", "clue": "North America's francophone holdout", "clue2": "Province that gifted the world poutine", "answer": "Quebec", "imageUrl": "" },
+            { "category": "things", "clue": "Katniss Everdeen's essential back accessory in the arena", "clue2": "Olympic archer's carryall", "answer": "Quiver", "imageUrl": "" }
           ]
         },
         {
-          "constraint": "Exactly two syllables",
+          "constraint": "Ends with the letter 'S'",
           "cells": [
-            { "category": "people", "clue": "Wizard who mentored a boy destined to defeat a dark lord on screen", "clue2": "Ian McKellen's character guided the fellowship through Middle-earth", "answer": "Gandalf", "imageUrl": "" },
-            { "category": "places", "clue": "Desert emirate that went from pearl diving to petroleum overnight", "clue2": "Tiny nation with the world's tallest building", "answer": "Dubai", "imageUrl": "" },
-            { "category": "things", "clue": "First course soup that Asian restaurants serve steaming in a ceramic spoon", "clue2": "Fermented soybean paste base gives this Japanese staple its umami kick", "answer": "Miso", "acceptableAnswers": ["Miso Soup"], "imageUrl": "" }
+            { "category": "people", "clue": "Elder sister who dominated Wimbledon in the early 2000s", "clue2": "Singles champion from Compton with the first name of a planet", "answer": "Venus Williams", "acceptableAnswers": ["Venus"], "imageUrl": "" },
+            { "category": "places", "clue": "Fictional desert planet where the spice must flow", "clue2": "Domain of the massive sandworms know as Shai-Hulud", "answer": "Arrakis", "imageUrl": "" },
+            { "category": "things", "clue": "Divisive foam footwear that seems to go in and out of style", "clue2": "Holey clogs that sparked an accessory craze", "answer": "Crocs", "imageUrl": "" }
           ]
         }
       ]
@@ -928,27 +928,27 @@
     {
       "rows": [
         {
-          "constraint": "Contains 'GR'",
+          "constraint": "Starts with the letter 'C'",
           "cells": [
-            { "category": "people", "clue": "Hollywood royalty who became actual royalty in Monaco", "clue2": "Blonde Hitchcock muse who traded the silver screen for a tiara", "answer": "Grace Kelly", "acceptableAnswers": ["Kelly"], "imageUrl": "" },
-            { "category": "places", "clue": "Balkan nation whose name sounds like a paint color for a mountain cabin", "clue2": "Adriatic country known for its stunning Bay of Kotor", "answer": "Montenegro", "imageUrl": "" },
-            { "category": "things", "clue": "Heirloom timepiece that chimes and looms in old mansions", "clue2": "Tall wooden clock with a swinging pendulum", "answer": "Grandfather Clock", "acceptableAnswers": ["Grandfather's Clock", "Longcase Clock"], "imageUrl": "" }
+            { "category": "people", "clue": "Iowa's scoring machine who made women's basketball must-see TV", "clue2": "2024 WNBA #1 draft pick known for logo three-pointers", "answer": "Caitlin Clark", "acceptableAnswers": ["Clark"], "imageUrl": "" },
+            { "category": "places", "clue": "Mountain megacity famous for its spicy hot pot and fog-shrouded skyline", "clue2": "Massive municipality in southwestern China with over 30 million people", "answer": "Chongqing", "imageUrl": "" },
+            { "category": "things", "clue": "AI sensation that had every student worried about homework's future", "clue2": "OpenAI's conversational tool that sparked the AI chatbot craze", "answer": "ChatGPT", "imageUrl": "" }
           ]
         },
         {
-          "constraint": "Ends in 'ND'",
+          "constraint": "Ends with the letter 'N'",
           "cells": [
-            { "category": "people", "clue": "Objectivist philosopher whose novels are thicker than dictionaries", "clue2": "Author of Atlas Shrugged and The Fountainhead", "answer": "Ayn Rand", "acceptableAnswers": ["Rand"], "imageUrl": "" },
-            { "category": "places", "clue": "Nordic nation of hot springs and dramatic volcanic landscapes", "clue2": "Island republic where Björk hails from", "answer": "Iceland", "imageUrl": "" },
-            { "category": "things", "clue": "Precious stone that De Beers convinced everyone was essential for proposals", "clue2": "The hardest natural material, often found on engagement rings", "answer": "Diamond", "imageUrl": "" }
+            { "category": "people", "clue": "Kite-flying polymath who helped draft a revolutionary document", "clue2": "Founding Father whose face graces the hundred-dollar bill", "answer": "Ben Franklin", "acceptableAnswers": ["Franklin", "Benjamin Franklin"], "imageUrl": "" },
+            { "category": "places", "clue": "Where ancient Petra lies carved into rose-red cliffs", "clue2": "Middle Eastern kingdom home to the Dead Sea's eastern shore", "answer": "Jordan", "imageUrl": "" },
+            { "category": "things", "clue": "Stainless steel ride that hit 88 mph and made history (fictional use)", "clue2": "Gull-winged car that became a time machine in the movies", "answer": "DeLorean", "imageUrl": "" }
           ]
         },
         {
-          "constraint": "Contains two 'S's in a row",
+          "constraint": "Exactly two words",
           "cells": [
-            { "category": "people", "clue": "Comedian whose physical comedy and impeccable timing made her a superstar", "clue2": "Bridesmaids and Spy star known for stealing every scene she's in", "answer": "Melissa McCarthy", "acceptableAnswers": ["McCarthy"], "imageUrl": "" },
-            { "category": "places", "clue": "Southern US state where blues was born and a mighty river flows", "clue2": "Home to the Delta, Faulkner's Oxford, and a winding river that shares its name", "answer": "Mississippi", "imageUrl": "" },
-            { "category": "things", "clue": "Travel document that customs agents love to stamp", "clue2": "Booklet proving citizenship that you panic-search for before international trips", "answer": "Passport", "imageUrl": "" }
+            { "category": "people", "clue": "The fastest human ever, whose signature pose became iconic", "clue2": "Jamaican sprinter who dominated the 100m and 200m for a decade", "answer": "Usain Bolt", "acceptableAnswers": ["Bolt"], "imageUrl": "" },
+            { "category": "places", "clue": "Mile-deep masterpiece carved by the Colorado River over millions of years", "clue2": "Arizona national park visited by over 6 million people annually", "answer": "Grand Canyon", "imageUrl": "" },
+            { "category": "things", "clue": "Somehow still required by doctors' offices everywhere", "clue2": "Pre-email device that sent documents over phone lines", "answer": "Fax Machine", "imageUrl": "" }
           ]
         }
       ]
@@ -956,55 +956,43 @@
     {
       "rows": [
         {
-          "constraint": "Contains 'MP'",
+          "constraint": "Starts with the letter 'G'",
           "cells": [
-            { "category": "people", "clue": "Golden Age star who told Ingrid Bergman they'd always have Paris", "clue2": "Leading man of Casablanca and The Maltese Falcon", "answer": "Humphrey Bogart", "acceptableAnswers": ["Bogart"], "imageUrl": "" },
-            { "category": "places", "clue": "Tennessee city where Elvis made his home at Graceland", "clue2": "Birthplace of rock and roll and home to Beale Street blues", "answer": "Memphis", "imageUrl": "" },
-            { "category": "things", "clue": "Musical brass that jazz wouldn't exist without", "clue2": "What Louis Armstrong made sing and Miles Davis made cool", "answer": "Trumpet", "imageUrl": "" }
+            { "category": "people", "clue": "Canadian martial artist who ruled the UFC's welterweight division", "clue2": "MMA legend known for his wrestling and striking precision", "answer": "Georges St-Pierre", "acceptableAnswers": ["GSP", "St-Pierre"], "imageUrl": "" },
+            { "category": "places", "clue": "The Dark Knight protects this perpetually gloomy metropolis (fictional)", "clue2": "Batman's crime-ridden home in DC Comics", "answer": "Gotham", "acceptableAnswers": ["Gotham City"], "imageUrl": "" },
+            { "category": "things", "clue": "Rugged action cam strapped to helmets and surfboards worldwide", "clue2": "Hero-branded camera company founded by a surfer", "answer": "GoPro", "imageUrl": "" }
           ]
         },
         {
-          "constraint": "Contains 'EA'",
+          "constraint": "Composed of two smaller words",
           "cells": [
-            { "category": "people", "clue": "Rebel without a cause who died before he could become one", "clue2": "1950s icon whose poster still hangs in dorm rooms worldwide", "answer": "James Dean", "acceptableAnswers": ["Dean"], "imageUrl": "" },
-            { "category": "places", "clue": "Seaside city where the famous mermaid statue has been taking selfies since 1913", "clue2": "Danish capital known for Tivoli Gardens and colorful harbors", "answer": "Copenhagen", "imageUrl": "" },
-            { "category": "things", "clue": "Device that wakes you up and immediately becomes your enemy", "clue2": "Bedside companion you're programmed to hate at 6 AM", "answer": "Alarm Clock", "acceptableAnswers": ["Alarm"], "imageUrl": "" }
+            { "category": "people", "clue": "Sherwood Forest's most famous wealth redistributor (fictional)", "clue2": "Legendary archer who stole from the rich to give to the poor", "answer": "Robin Hood", "imageUrl": "" },
+            { "category": "places", "clue": "Island where children don't age and pirates don't win (fictional)", "clue2": "Peter Pan's magical home accessible by the second star to the right", "answer": "Neverland", "imageUrl": "" },
+            { "category": "things", "clue": "White wireless earbuds that sparked a thousand memes about losing them", "clue2": "Apple's cordless earbuds launched in 2016", "answer": "Airpods", "acceptableAnswers": ["AirPods"], "imageUrl": "" }
           ]
         },
         {
-          "constraint": "Exactly one word",
+          "constraint": "Contains the letter 'I'",
           "cells": [
-            { "category": "people", "clue": "Brazilian footballer whose one name was all he needed to conquer the world", "clue2": "Three-time World Cup winner considered by many the greatest ever", "answer": "Pele", "acceptableAnswers": ["Pelé"], "imageUrl": "" },
-            { "category": "places", "clue": "African nation whose independence struggle inspired a continent", "clue2": "Formerly the Gold Coast before it became the first sub-Saharan nation to gain independence", "answer": "Ghana", "imageUrl": "" },
-            { "category": "things", "clue": "What you wear to a masquerade to become someone mysterious", "clue2": "Face covering favored by superheroes and Venetian partygoers alike", "answer": "Mask", "imageUrl": "" }
-          ]
-        }
-      ]
-    },
-    {
-      "rows": [
-        {
-          "constraint": "Contains 'BL'",
-          "cells": [
-            { "category": "people", "clue": "Troubled genius who painted himself with bandaged ear", "clue2": "Post-impressionist whose Starry Night hangs in MoMA", "answer": "Vincent van Gogh", "acceptableAnswers": ["Van Gogh"], "imageUrl": "" },
-            { "category": "places", "clue": "Irish city famous for Guinness and literary pub crawls", "clue2": "Capital on the Liffey where Joyce set his masterwork", "answer": "Dublin", "imageUrl": "" },
-            { "category": "things", "clue": "Where all your best ideas end up after a brainstorm", "clue2": "Writing surface found in classrooms and conference rooms", "answer": "Whiteboard", "acceptableAnswers": ["Blackboard", "Chalkboard"], "imageUrl": "" }
+            { "category": "people", "clue": "Kansas City's cannon-armed QB who makes no-look passes look routine", "clue2": "Chiefs quarterback with multiple Super Bowl rings before turning 30", "answer": "Patrick Mahomes", "acceptableAnswers": ["Mahomes"], "imageUrl": "" },
+            { "category": "places", "clue": "Desert capital where oil money meets ultramodern architecture", "clue2": "Saudi Arabia's largest city and seat of the monarchy", "answer": "Riyadh", "imageUrl": "" },
+            { "category": "things", "clue": "Instant camera brand that OutKast told us to shake (incorrectly)", "clue2": "Iconic instant-print camera company founded in 1937", "answer": "Polaroid", "imageUrl": "" }
           ]
         },
         {
-          "constraint": "Two words both beginning with the same letter",
+          "constraint": "Starts with the letter 'I'",
           "cells": [
-            { "category": "people", "clue": "Groundhog Day star who's impossible not to like", "clue2": "SNL alum turned beloved everyman in countless comedies", "answer": "Bill Murray", "acceptableAnswers": ["Murray"], "imageUrl": "" },
-            { "category": "places", "clue": "South American capital that sits higher than any other in the world", "clue2": "Bolivian administrative capital at a breathtaking altitude", "answer": "La Paz", "imageUrl": "" },
-            { "category": "things", "clue": "Where clean plates go after surviving the dishwasher", "clue2": "Kitchen storage solution for ceramics and glasses", "answer": "Dish Drainer", "acceptableAnswers": ["Drying Rack", "Dish Rack"], "imageUrl": "" }
+            { "category": "people", "clue": "Apple's most famous victim before Steve Jobs came along", "clue2": "English physicist who formalized gravity while allegedly under a tree", "answer": "Isaac Newton", "acceptableAnswers": ["Newton"], "imageUrl": "" },
+            { "category": "places", "clue": "A balding celebrity's first destination", "clue2": "The 'Grand Bazaar' city that was once named Constantinople", "answer": "Istanbul", "imageUrl": "" },
+            { "category": "things", "clue": "Marvel's most coveted accessory, bedazzled with universe-altering stones", "clue2": "Thanos's golden glove that required a snap to reshape reality", "answer": "Infinity Gauntlet", "imageUrl": "" }
           ]
         },
         {
-          "constraint": "Starts with the letter 'H'",
+          "constraint": "Starts with the letter 'O'",
           "cells": [
-            { "category": "people", "clue": "Escape artist whose stunts still baffle engineers a century later", "clue2": "Hungarian-American illusionist who made a career of cheating death", "answer": "Harry Houdini", "acceptableAnswers": ["Houdini"], "imageUrl": "" },
-            { "category": "places", "clue": "Caribbean capital where colorful architecture meets revolutionary history", "clue2": "Cuban city frozen in time with vintage American cars on every corner", "answer": "Havana", "imageUrl": "" },
-            { "category": "things", "clue": "Medical device that lets doctors listen to your insides", "clue2": "Cold metal disk that gets pressed to your chest during checkups", "answer": "Heart Monitor", "acceptableAnswers": ["Heart Rate Monitor", "EKG"], "imageUrl": "" }
+            { "category": "people", "clue": "The queen of daytime who made book clubs mainstream again", "clue2": "Media mogul famous for 'you get a car!' giveaways", "answer": "Oprah Winfrey", "acceptableAnswers": ["Oprah"], "imageUrl": "" },
+            { "category": "places", "clue": "Japan's culinary capital nicknamed 'the Nation's Kitchen'", "clue2": "Port city famous for takoyaki and Universal Studios Japan", "answer": "Osaka", "imageUrl": "" },
+            { "category": "things", "clue": "Semaglutide brand name", "clue2": "Hollywood's not-so-secret for dramatic red carpet transformations", "answer": "Ozempic", "imageUrl": "" }
           ]
         }
       ]

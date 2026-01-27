@@ -6,6 +6,8 @@ TECHNICAL / STYLISTIC RULES
 
 -Always reuse existing components whenever possible to avoid redundancy in the codebase. Before creating new UI elements, check if an existing component can be used or adapted. This applies to modals, buttons, cards, form elements, and any other reusable UI patterns.
 
+-ADVERTISING PLACEMENT: Ads must NEVER be intrusive or block any game content. Ads should only ever appear to the side or bottom of the page and must never obscure any content for any user. No popups, overlays, interstitials, or any ad format that interrupts gameplay or covers game elements is permitted.
+
 
 PUZZLE GENERATION RULES
 
@@ -54,6 +56,13 @@ PUZZLE GENERATION RULES
 	1. X is a double letter - ALWAYS word these as "Contains two 'X's in a row" (e.g., "Contains two 'L's in a row" NOT "Contains 'LL'")
 	2. X is a unique/uncommon combination (Contains 'GH', Contains 'PH', Contains 'QU', etc.)
 	3. X is a recognizable word or suffix embedded in the answer
+
+-STRICTLY LIMIT "Contains XY" constraints. These should be used VERY sparingly and only when the letter combination is truly eccentric or unusual. Common combinations like "ER", "AN", "ON", "AT", "EN", "OR", "AL", "ED", "ES", "TH", "HE", "RE", "OU", "IT", etc. are NOT acceptable. Reserve "Contains" constraints for genuinely distinctive patterns like:
+	- Double letters (Contains two 'O's in a row)
+	- Rare letter combinations (Contains 'XY', Contains 'QU', Contains 'ZZ')
+	- Silent letter patterns (Contains 'GH', Contains 'KN')
+	- Unusual phonetic combinations (Contains 'PH', Contains 'WR')
+	When in doubt, choose a different constraint type entirely.
 
 -CONSTRAINT VARIETY: When generating puzzles, prioritize MORE CREATIVE constraints over basic ones. Give extra weight to:
 	- Composed of two smaller words

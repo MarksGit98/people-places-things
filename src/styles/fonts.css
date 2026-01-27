@@ -103,3 +103,27 @@
   font-style: normal;
   font-display: swap;
 }
+
+@font-face {
+  font-family: 'KIN668';
+  src: url('../fonts/KIN668.TTF') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'KING';
+  src: url('../fonts/KING.TTF') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Type Machine';
+  src: url('../fonts/Type Machine.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}

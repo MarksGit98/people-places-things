@@ -14,7 +14,6 @@ interface ResultsModalProps {
 const EMOJI_MAP: Record<string, string> = {
   green: '🟩',
   yellow: '🟨',
-  orange: '🟧',
   red: '🟥',
 };
 
