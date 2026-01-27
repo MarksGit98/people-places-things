@@ -372,7 +372,7 @@
           "cells": [
             { "category": "people", "clue": "<i>The Little Tramp</i> turned poverty into poetry and pratfalls", "clue2": "Silent film star whose work is as iconic as his facial hair", "answer": "Charlie Chaplin", "acceptableAnswers": ["Chaplin"], "imageUrl": "" },
             { "category": "places", "clue": "Revolutionary artists and exiled writers banked in this lakeside city", "clue2": "The land were Carl Jung once practiced psychiatry, now the headquarters for FIFA", "answer": "Zurich", "imageUrl": "" },
-            { "category": "things", "clue": "IBM made history with a computer program that beat world champion Gary Kasparov at this game", "clue2": "This straegy board game has endured for millenia", "answer": "Chess", "imageUrl": "" }
+            { "category": "things", "clue": "IBM's <i>Deep Blue</i> humbled world champion Gary Kasparov at this game", "clue2": "This straegy board game has endured for millenia", "answer": "Chess", "imageUrl": "" }
           ]
         },
         {
