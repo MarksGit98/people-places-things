@@ -121,6 +121,13 @@
   padding: var(--spacing-lg) 0;
 }
 
+/* Mobile: single bottom banner only */
+@media (max-width: 768px) {
+  .privacy-policy__bottom-ad {
+    display: none;
+  }
+}
+
 /* Mobile styles */
 @media (max-width: 600px) {
   .privacy-policy {

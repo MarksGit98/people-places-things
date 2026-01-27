@@ -285,3 +285,10 @@
   margin-top: var(--spacing-lg);
   width: 100%;
 }
+
+/* Hide modal ad on mobile - only a single bottom banner should show */
+@media (max-width: 768px) {
+  .results-modal__ad {
+    display: none;
+  }
+}

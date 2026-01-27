@@ -145,6 +145,7 @@
   --modal-width-mobile: 364px;
   --modal-width-mobile-sm: 340px;
   --row-label-grid-padding: 4px; /* Minimum padding between y-axis constraint text and grid */
+  --mobile-ad-breakpoint: 768px; /* Breakpoint below which only a single bottom banner ad displays */
   --grid-gap: 10px;  /* 5% smaller than 11px */
   --grid-gap-mobile: 4px;
   --grid-gap-mobile-sm: 3px;
