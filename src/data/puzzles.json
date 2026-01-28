@@ -415,7 +415,7 @@
           "constraint": "Starts with the letter 'D'",
           "cells": [
             { "category": "people", "clue": "A certain Italian plumber's original nemesis (when he went by a different alias)", "clue2": "He wears only a tie and has been rolling barrels since the 80s", "answer": "Donkey Kong", "imageUrl": "" },
-            { "category": "places", "clue": "This host of Europe's oldest Christmas market is known as the \"Florence on the Elbe\"", "clue2": "Cold War's most famous split city, now reunified", "answer": "Dresden", "imageUrl": "" },
+            { "category": "places", "clue": "This host of Europe's oldest Christmas market is known as the \"Florence on the Elbe\"", "clue2": "City ruthlessly firebombed by allied forces during WWII, since rebuilt", "answer": "Dresden", "imageUrl": "" },
             { "category": "things", "clue": "Arguably the world's oldest wind instrument", "clue2": "Aboriginal people played music from this hollow wooden tube with a funny English name", "answer": "Didgeridoo", "imageUrl": "" }
           ]
         }
@@ -958,26 +958,17 @@
         {
           "constraint": "Starts with the letter 'G'",
           "cells": [
-            { "category": "people", "clue": "Canadian martial artist who ruled the UFC's welterweight division", "clue2": "MMA legend known for his wrestling and striking precision", "answer": "Georges St-Pierre", "acceptableAnswers": ["GSP", "St-Pierre"], "imageUrl": "" },
-            { "category": "places", "clue": "The Dark Knight protects this perpetually gloomy metropolis (fictional)", "clue2": "Batman's crime-ridden home in DC Comics", "answer": "Gotham", "acceptableAnswers": ["Gotham City"], "imageUrl": "" },
-            { "category": "things", "clue": "Rugged action cam strapped to helmets and surfboards worldwide", "clue2": "Hero-branded camera company founded by a surfer", "answer": "GoPro", "imageUrl": "" }
-          ]
-        },
-       
-        {
-          "constraint": "Contains the letter 'I'",
-          "cells": [
-            { "category": "people", "clue": "Kansas City's cannon-armed QB who makes no-look passes look routine", "clue2": "Chiefs quarterback with multiple Super Bowl rings before turning 30", "answer": "Patrick Mahomes", "acceptableAnswers": ["Mahomes"], "imageUrl": "" },
-            { "category": "places", "clue": "Desert capital where oil money meets ultramodern architecture", "clue2": "Saudi Arabia's largest city and seat of the monarchy", "answer": "Riyadh", "imageUrl": "" },
-            { "category": "things", "clue": "Instant camera brand that OutKast told us to shake (incorrectly)", "clue2": "Iconic instant-print camera company founded in 1937", "answer": "Polaroid", "imageUrl": "" }
+            { "category": "people", "clue": "Montreal's patron saint of total octagon dominance", "clue2": "MMA legend known for his wrestling and striking precision... and kicking Captain America", "answer": "Georges St-Pierre", "acceptableAnswers": ["GSP", "St-Pierre"], "imageUrl": "" },
+            { "category": "places", "clue": "New York City's nickname since 1807", "clue2": "Where the bat signal shines when trouble is afoot", "answer": "Gotham", "acceptableAnswers": ["Gotham City"], "imageUrl": "" },
+            { "category": "things", "clue": "A stunt Youtuber's essential gear", "clue2": "Camera company founded by a surfer designed for action shots", "answer": "GoPro", "imageUrl": "" }
           ]
         },
         {
           "constraint": "Starts with the letter 'I'",
           "cells": [
-            { "category": "people", "clue": "Apple's most famous victim before Steve Jobs came along", "clue2": "English physicist who formalized gravity while allegedly under a tree", "answer": "Isaac Newton", "acceptableAnswers": ["Newton"], "imageUrl": "" },
+            { "category": "people", "clue": "An apple allegedly fell on his head and the rest was history", "clue2": "Renowned physicist who the unit of force is named after", "answer": "Isaac Newton", "acceptableAnswers": ["Newton"], "imageUrl": "" },
             { "category": "places", "clue": "A balding celebrity's first destination", "clue2": "The 'Grand Bazaar' city that was once named Constantinople", "answer": "Istanbul", "imageUrl": "" },
-            { "category": "things", "clue": "Marvel's most coveted accessory, bedazzled with universe-altering stones", "clue2": "Thanos's golden glove that required a snap to reshape reality", "answer": "Infinity Gauntlet", "imageUrl": "" }
+            { "category": "things", "clue": "A single snap with this mythical glove can disappear half the universe", "clue2": "Thanos's bejewled handwear of cosmic importance", "answer": "Infinity Gauntlet", "imageUrl": "" }
           ]
         },
         {

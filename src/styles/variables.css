@@ -188,8 +188,8 @@
   --header-tagline-font-mobile-sm: var(--font-size-xxs);
 
   /* Main menu - desktop */
-  --main-menu-banner-height: 22vh;
-  --main-menu-icon-size: 192px;
+  --main-menu-banner-height: 20vh;
+  --main-menu-icon-size: 190px;
 
   /* Main menu - mobile */
   --main-menu-banner-height-mobile: 16.2vh;
