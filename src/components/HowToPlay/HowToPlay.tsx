@@ -109,7 +109,9 @@ export function HowToPlay({ variant = 'card', onClose }: HowToPlayProps) {
           </span>
           <div className="how-to-play__text">
             <strong>Score</strong>
-            <p><span className="how-to-play__green">Green</span> = 1st try, <span className="how-to-play__yellow">Yellow</span> = 2nd try, <span className="how-to-play__red">Red</span> = missed</p>
+            <p><span className="how-to-play__green">Green</span>: Correct on 1st try</p>
+            <p><span className="how-to-play__yellow">Yellow</span>: Correct on 2nd try</p>
+            <p><span className="how-to-play__red">Red</span>: Missed</p>
           </div>
         </div>
       </div>
