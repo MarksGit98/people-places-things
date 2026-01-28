@@ -399,7 +399,7 @@
           "constraint": "Contains 'TH'",
           "cells": [
             { "category": "people", "clue": "Young New York City native gunning for greatness on the big screen", "clue2": "He proudly represented his country in table tennis and previously conquered Arrakis", "answer": "Timothee Chalamet", "acceptableAnswers": ["Chalamet"], "imageUrl": "" },
-            { "category": "places", "clue": "Birthplace of democracy (at least for some...)", "clue2": "Where Socrates was sentenced to drinnk Hemlock", "answer": "Athens", "imageUrl": "" },
+            { "category": "places", "clue": "Birthplace of democracy - at least for some...", "clue2": "Where Socrates was sentenced to drink Hemlock for his heresy", "answer": "Athens", "imageUrl": "" },
             { "category": "things", "clue": "Where one can find a myriad of \"options\",\"choices\", \"selections\", etc", "clue2": "What you consult when you've used \"very\" too many times", "answer": "Thesaurus", "imageUrl": "" }
           ]
         },
