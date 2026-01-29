@@ -974,8 +974,8 @@
         {
           "constraint": "Starts with the letter 'O'",
           "cells": [
-            { "category": "people", "clue": "The queen of daytime who made book clubs mainstream again", "clue2": "Media mogul famous for 'you get a car!' giveaways", "answer": "Oprah Winfrey", "acceptableAnswers": ["Oprah"], "imageUrl": "" },
-            { "category": "places", "clue": "Japan's culinary capital nicknamed 'the Nation's Kitchen'", "clue2": "Port city famous for takoyaki and Universal Studios Japan", "answer": "Osaka", "imageUrl": "" },
+            { "category": "people", "clue": "The queen of daytime who made book clubs mainstream again", "clue2": "Media mogul famous for \"you get a car!\" giveaways", "answer": "Oprah Winfrey", "acceptableAnswers": ["Oprah"], "imageUrl": "" },
+            { "category": "places", "clue": "City known for takoyaki and okonomiyaki", "clue2": "Port city famous for Universal Studios Japan", "answer": "Osaka", "imageUrl": "" },
             { "category": "things", "clue": "Semaglutide brand name", "clue2": "Hollywood's not-so-secret for dramatic red carpet transformations", "answer": "Ozempic", "imageUrl": "" }
           ]
         }
