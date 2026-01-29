@@ -6,12 +6,22 @@ import './CardOverlay.css';
 /** Threshold for considering a word "long" (requires smaller font) */
 const LONG_WORD_THRESHOLD = 12;
 
+/** Threshold for considering combined clues "short" (allows larger font) */
+const SHORT_CLUE_THRESHOLD = 100;
+
 /**
  * Checks if the answer contains a continuous word (no spaces) that is 12+ characters
  */
 function hasLongWord(answer: string): boolean {
   const words = answer.split(/\s+/);
   return words.some(word => word.length >= LONG_WORD_THRESHOLD);
+}
+
+/**
+ * Checks if combined clue text (including spaces) is 100 characters or fewer
+ */
+function hasShortClues(clue1: string, clue2: string): boolean {
+  return (clue1.length + clue2.length) <= SHORT_CLUE_THRESHOLD;
 }
 
 /**
@@ -221,7 +231,7 @@ export function CardOverlay({ cell, cellState, columnType, onGuess, onClose, dis
             <div className="card-overlay__clue-section">
               <p className="card-overlay__clue-title">Clues</p>
               <div className="card-overlay__clue-divider"></div>
-              <div className="card-overlay__clues">
+              <div className={`card-overlay__clues ${hasShortClues(cell.clue, cell.clue2) ? 'card-overlay__clues--short' : ''}`}>
                 <p className="card-overlay__clue"><span className="card-overlay__clue-number">1.</span> {parseClueText(cell.clue)}</p>
                 {showSecondClue ? (
                   <p className="card-overlay__clue card-overlay__clue--second"><span className="card-overlay__clue-number">2.</span> {parseClueText(cell.clue2)}</p>

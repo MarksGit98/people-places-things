@@ -487,6 +487,11 @@
     line-height: 1.35;
   }
 
+  /* Larger font for short clues on mobile */
+  .card-overlay__clues--short .card-overlay__clue {
+    font-size: var(--font-size-overlay-clue-short-mobile);
+  }
+
   .card-overlay__clue-title {
     font-size: var(--font-size-overlay-clue-title-mobile);
   }
@@ -512,6 +517,11 @@
   .card-overlay__clue {
     font-size: var(--font-size-overlay-clue-mobile-sm);
     line-height: 1.35;
+  }
+
+  /* Larger font for short clues on small mobile */
+  .card-overlay__clues--short .card-overlay__clue {
+    font-size: var(--font-size-overlay-clue-short-mobile-sm);
   }
 
   .card-overlay__clue-title {

@@ -50,12 +50,19 @@
 
   --font-size-xxs: 0.72rem;  
   --font-size-xs: 0.81rem;  
-  --font-size-sm: 0.885rem; 
+  --font-size-sm: 0.89rem; 
   --font-size-md: 1.125rem;   
   --font-size-clue-mobile: 0.675rem;
   --font-size-clue-mobile-sm: 0.63rem;
   --font-size-overlay-clue-mobile: 1.15rem;
   --font-size-overlay-clue-mobile-sm: 1.1rem;
+
+  /* Short clue text sizes (10~% larger - for clues with ≤100 combined characters) */
+  --font-size-clue-short: 0.974rem;          
+  --font-size-clue-short-mobile: 0.743rem;    
+  --font-size-clue-short-mobile-sm: 0.693rem;  
+  --font-size-overlay-clue-short-mobile: 1.27rem;     
+  --font-size-overlay-clue-short-mobile-sm: 1.21rem;   
   --font-size-overlay-clue-title-mobile: 0.95rem;
   --font-size-overlay-clue-title-mobile-sm: 0.9rem;
   --font-size-constraint-mobile: 0.79rem;    
