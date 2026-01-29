@@ -7,7 +7,7 @@ import './CardOverlay.css';
 const LONG_WORD_THRESHOLD = 12;
 
 /** Threshold for considering combined clues "short" (allows larger font) */
-const SHORT_CLUE_THRESHOLD = 100;
+const SHORT_CLUE_THRESHOLD = 110;
 
 /**
  * Checks if the answer contains a continuous word (no spaces) that is 12+ characters
