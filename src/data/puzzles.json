@@ -426,17 +426,17 @@
         {
           "constraint": "Contains two 'E's in a row",
           "cells": [
-            { "category": "people", "clue": "She's Blonde in a non-criminal way", "clue2": "Won her Oscar for her acting in <i>Walk the Line</i>", "answer": "Reese Witherspoon", "acceptableAnswers": ["Witherspoon"], "imageUrl": "" },
+            { "category": "people", "clue": "She's Blonde in a non-criminal way", "clue2": "Won her Oscar for her acting masterclass in <i>Walk the Line</i>", "answer": "Reese Witherspoon", "acceptableAnswers": ["Witherspoon"], "imageUrl": "" },
             { "category": "places", "clue": "Gave us the King of Rock and the Queen of Country", "clue2": "This US State has eight bordering neighbors", "answer": "Tennessee", "imageUrl": "" },
-            { "category": "things", "clue": "These first started appearing around 3500 BCE", "clue2": "Your hands should be on 10 and 2 (or maybe 9 and 3)", "answer": "The Wheel", "acceptableAnswers": ["Wheel"], "imageUrl": "" }
+            { "category": "things", "clue": "This invention first started appearing around 3500 BCE", "clue2": "Your hands should be on 10 and 2 (or maybe 9 and 3)", "answer": "The Wheel", "acceptableAnswers": ["Wheel"], "imageUrl": "" }
           ]
         },
         {
           "constraint": "Ends in 'S'",
           "cells": [
-            { "category": "people", "clue": "His intentionally vague quatrains are said to have predicted world events for centuries past his death", "clue2": "This frenchman is perhaps history's most notorious Astrologer", "answer": "Nostradamus", "imageUrl": "" },
-            { "category": "places", "clue": "Island divided by a buffer zone where two cultures coexist uneasily", "clue2": "Their Constitution was drawn up by the British establishing a power-sharing system between its two main factions", "answer": "Cyprus", "imageUrl": "" },
-            { "category": "things", "clue": "Probably restricted in ancient Sumerian math classes", "clue2": "Sort of an analog calculator that doesn't require batteries", "answer": "Abacus", "imageUrl": "" }
+            { "category": "people", "clue": "His vague quatrains are said to have predicted world events for centuries beyond his death", "clue2": "This frenchman is perhaps history's most notorious Astrologer", "answer": "Nostradamus", "imageUrl": "" },
+            { "category": "places", "clue": "Island divided by a buffer zone where two cultures coexist uneasily", "clue2": "Mediterranean nation divided by a UN-patrolled \"Green Line\" since 1974", "answer": "Cyprus", "imageUrl": "" },
+            { "category": "things", "clue": "Probably not allowed during an ancient Sumerian math test", "clue2": "Sort of an analog calculator that doesn't require batteries", "answer": "Abacus", "imageUrl": "" }
           ]
         },
         {
