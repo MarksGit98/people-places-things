@@ -302,7 +302,7 @@
 }
 
 .card-overlay__clue {
-  font-family: 'Nunito', sans-serif;
+  font-family: var(--font-family-clue-text);
   font-size: var(--font-size-md);
   color: var(--color-clue-text);
   text-align: left;

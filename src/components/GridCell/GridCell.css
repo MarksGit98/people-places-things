@@ -153,7 +153,7 @@
 }
 
 .grid-cell__clue {
-  font-family: 'Nunito', sans-serif;
+  font-family: var(--font-family-clue-text);
   font-size: var(--font-size-sm);
   color: var(--color-clue-text);
   text-align: left;

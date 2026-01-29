@@ -47,13 +47,14 @@
   --font-family-things: 'Adelia', 'Permanent Marker', cursive;
   --font-family-tagline: 'Pacifico', cursive;
   --font-family-puzzle-number: 'Nunito Sans', 'Segoe UI', system-ui, sans-serif;
+  --font-family-clue-text: 'Nunito', sans-serif;
 
   --font-size-xxs: 0.72rem;  
-  --font-size-xs: 0.81rem;  
+  --font-size-xs: 0.82rem;  
   --font-size-sm: 0.95rem;
-  --font-size-md: 1.125rem;
-  --font-size-clue-mobile: 0.702rem;
-  --font-size-clue-mobile-sm: 0.656rem;
+  --font-size-md: 1.13rem;
+  --font-size-clue-mobile: 0.72rem;
+  --font-size-clue-mobile-sm: 0.66rem;
   --font-size-overlay-clue-mobile: 1.15rem;
   --font-size-overlay-clue-mobile-sm: 1.15rem;
 
@@ -64,8 +65,8 @@
   --font-size-overlay-clue-short-mobile-sm: 1.25rem;   
   --font-size-overlay-clue-title-mobile: 0.98rem;
   --font-size-overlay-clue-title-mobile-sm: 0.91rem;
-  --font-size-constraint-mobile: 0.79rem;    
-  --font-size-constraint-mobile-sm: 0.73rem; 
+  --font-size-constraint-mobile: 0.8rem;    
+  --font-size-constraint-mobile-sm: 0.75rem; 
   --font-size-lg: 1.25rem;    /* 20px */
   --font-size-xl: 1.5rem;     /* 24px */
   --font-size-2xl: 1.8rem;      /* 32px */
