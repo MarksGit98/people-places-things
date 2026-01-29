@@ -30,7 +30,7 @@
   --color-text-primary: #1d1d1a;
   --color-text-secondary: #6B6B6B;
   --color-text-muted: #9B9B9B;
-  --color-clue-text: #2f2e27;
+  --color-clue-text: #3a3633;
   --color-accent-brown: #5D4037;
   --color-border: #E0E0E0;
   --color-border-dark: #CCCCCC;
@@ -130,7 +130,7 @@
 
   /* Grid */
   --cell-size: 232px;  
-  --cell-size-mobile: 114px;
+  --cell-size-mobile: 115px;
   --cell-height-mobile: 195px;
 
   /* Small mobile (iPhone 16 and smaller ~390px screens) */
