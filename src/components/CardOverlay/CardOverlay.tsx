@@ -4,7 +4,7 @@ import type { Cell, CellState, ColumnType } from '../../types';
 import './CardOverlay.css';
 
 /** Threshold for considering a word "long" (requires smaller font) */
-const LONG_WORD_THRESHOLD = 12;
+const LONG_WORD_THRESHOLD = 11;
 
 /** Threshold for considering combined clues "short" (allows larger font) */
 const SHORT_CLUE_THRESHOLD = 110;

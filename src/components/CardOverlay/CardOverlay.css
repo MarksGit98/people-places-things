@@ -76,7 +76,7 @@
 /* Close button */
 .card-overlay__close {
   position: absolute;
-  top: var(--spacing-md);
+  top: calc(var(--spacing-md) + (var(--font-size-sm) + var(--spacing-xs) - 32px) / 2);
   right: var(--spacing-sm);
   width: 32px;
   height: 32px;
@@ -223,11 +223,11 @@
 /* Result indicator - centered in upper third of back card */
 .card-overlay__result-indicator {
   position: absolute;
-  top: 16.67%;
+  top: 16.7%;
   left: 50%;
   transform: translate(-50%, -50%);
-  width: 52px;
-  height: 52px;
+  width: 61px;
+  height: 61px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -251,15 +251,16 @@
   color: var(--color-incorrect);
 }
 
-/* Back side result indicator - force white color */
+/* Back side result indicator - positioned below answer */
 .card-overlay__result-indicator.card-overlay__result-indicator--back {
+  top: 67%;
   color: rgba(255, 255, 255, 0.95);
 }
 
 /* Front side result indicator - position above tap hint */
 .card-overlay__result-indicator--front {
   position: absolute;
-  bottom: 50px;
+  bottom: 44px;
   top: auto;
   left: 50%;
   transform: translateX(-50%);
@@ -449,18 +450,18 @@
 /* Answer text - centered in middle third of back card */
 .card-overlay__answer-text {
   position: absolute;
-  top: 50%;
+  top: 40%;
   left: 50%;
   transform: translate(-50%, -50%);
   width: 90%;
-  font-size: var(--font-size-2xl);
+  font-size: 2.3rem;
   font-weight: var(--font-weight-bold);
   text-align: center;
 }
 
 /* Smaller font for long continuous words (12+ characters) */
 .card-overlay__answer-text--long {
-  font-size: var(--font-size-answer-long-overlay);
+  font-size: 1.9rem;
 }
 
 /* Tap hint */
@@ -482,6 +483,10 @@
 
 /* Mobile styles */
 @media (max-width: 600px) {
+  .card-overlay__close {
+    top: calc(var(--spacing-md) + (var(--font-size-overlay-clue-title-mobile) + var(--spacing-xs) - 32px) / 2);
+  }
+
   .card-overlay__clue {
     font-size: var(--font-size-overlay-clue-mobile);
     line-height: 1.35;
@@ -545,23 +550,24 @@
   }
 
   .card-overlay__answer-text {
-    font-size: 1.73rem;  /* 5% larger than 1.65rem */
+    font-size: 2.1rem;
   }
 
   .card-overlay__answer-text--long {
-    font-size: 1.31rem;  /* 5% larger than 1.25rem */
+    font-size: 1.rem;
   }
 
   .card-overlay__result-indicator {
-    width: 44px;
-    height: 44px;
+    width: 55px;
+    height: 55px;
   }
 
   .card-overlay__result-indicator--front {
-    bottom: 40px;
+    bottom: 36px;
   }
 
   .card-overlay__close {
+    top: calc(var(--spacing-sm) + (var(--font-size-overlay-clue-title-mobile-sm) + var(--spacing-xs) - 28px) / 2);
     width: 28px;
     height: 28px;
   }

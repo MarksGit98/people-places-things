@@ -344,11 +344,11 @@
 /* Answer text - centered in middle third of back card */
 .grid-cell__answer-text {
   position: absolute;
-  top: 50%;
+  top: 40%;
   left: 50%;
   transform: translate(-50%, -50%);
   width: 90%;
-  font-size: var(--font-size-xl);
+  font-size: var(--font-size-answer);
   font-weight: var(--font-weight-bold);
 }
 
@@ -357,14 +357,14 @@
   font-size: var(--font-size-answer-long);
 }
 
-/* Result indicator - centered in upper third of back card */
+/* Result indicator - positioned below answer */
 .grid-cell__result-indicator {
   position: absolute;
-  top: 16.67%;
+  top: 67%;
   left: 50%;
   transform: translate(-50%, -50%);
-  width: 48px;
-  height: 48px;
+  width: 50px;
+  height: 50px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -464,7 +464,7 @@
   }
 
   .grid-cell__answer-text {
-    font-size: var(--font-size-md);
+    font-size: var(--font-size-answer-mobile);
   }
 
   .grid-cell__answer-text--long {
@@ -479,8 +479,8 @@
   }
 
   .grid-cell__result-indicator {
-    width: 28px;
-    height: 28px;
+    width: 29px;
+    height: 29px;
   }
 
   .grid-cell__guess-dot {
@@ -543,11 +543,11 @@
   }
 
   .grid-cell__answer-text {
-    font-size: 0.92rem;  /* 4% larger than 0.887rem */
+    font-size: var(--font-size-answer-mobile-sm);
   }
 
   .grid-cell__answer-text--long {
-    font-size: 0.66rem;  /* 4% larger than 0.638rem */
+    font-size: var(--font-size-answer-long-mobile-sm);
   }
 
   .grid-cell__result-icon {
@@ -558,8 +558,8 @@
   }
 
   .grid-cell__result-indicator {
-    width: 24px;
-    height: 24px;
+    width: 25px;
+    height: 25px;
   }
 
   .grid-cell__guess-dot {

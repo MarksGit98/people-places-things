@@ -72,11 +72,16 @@
   --font-size-2xl: 1.8rem;      /* 32px */
   --font-size-3xl: 2.2rem;    /* 40px */
 
-  /* Answer text - reduced sizes for long words (12+ characters) */
-  --font-size-answer-long: 1.125rem;  /* 18px - for long answers on GridCell */
+  /* Answer text - standard sizes for GridCell */
+  --font-size-answer: 1.62rem; 
+  --font-size-answer-mobile: 1rem;  
+  --font-size-answer-mobile-sm: 0.93rem;  
+
+  /* Answer text - reduced sizes for long words (11+ characters) */
+  --font-size-answer-long: 1.125rem;  /* 18px - for long answers on desktop GridCell */
   --font-size-answer-long-overlay: 1.5rem;  /* 24px - for long answers on CardOverlay */
   --font-size-answer-long-mobile: 0.75rem;  /* 12px - for long answers on mobile GridCell */
-  --font-size-answer-long-mobile-sm: 0.625rem;  /* 10px - for long answers on small mobile GridCell */
+  --font-size-answer-long-mobile-sm: 0.66rem;  /* ~11px - for long answers on small mobile GridCell */
 
   --font-weight-normal: 400;
   --font-weight-medium: 500;
