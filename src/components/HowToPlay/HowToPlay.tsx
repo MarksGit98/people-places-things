@@ -87,7 +87,8 @@ export function HowToPlay({ variant = 'card', onClose }: HowToPlayProps) {
           <div className="how-to-play__text">
             <strong>Read the Clues</strong>
             <p>Each cell also has only one correct answer that must satisify the category (along the x-axis), the individual clues provided in each cell, and its respective row constraint (along the y-axis).</p>
-             <p>Note that y-axis constraints can apply to either first OR last names of <i>People</i> and not necessarily both. Cell clues may often be playful and tongue-and-cheek as opposed to completely literal.</p>
+            <p>Cell clues may often be playful and tongue-and-cheek as opposed to completely literal.</p>
+             <p>*Note that certain y-axis constraints can apply to either first OR last names of <i>People</i> and not necessarily both.</p>
           </div>
         </div>
 
@@ -104,8 +105,11 @@ export function HowToPlay({ variant = 'card', onClose }: HowToPlayProps) {
 
         <div className="how-to-play__rule">
           <span className="how-to-play__icon how-to-play__icon--colors">
-            <span className="how-to-play__color-box how-to-play__color-box--green"></span>
-            <span className="how-to-play__color-box how-to-play__color-box--yellow"></span>
+            <span className="how-to-play__score-grid">
+              <span></span><span></span><span></span>
+              <span></span><span></span><span></span>
+              <span></span><span></span><span></span>
+            </span>
           </span>
           <div className="how-to-play__text">
             <strong>Score</strong>

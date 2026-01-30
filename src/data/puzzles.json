@@ -20,7 +20,7 @@
           ]
         },
         {
-          "constraint": "Starts with the letter 'K'",
+          "constraint": "Starts with 'K'*",
           "cells": [
             { "category": "people", "clue": "The first rapper to win a Pulitzer Prize in music", "clue2": "Famously headlined the Superbowl alongside Samuel L. Jackson", "answer": "Kendrick Lamar", "acceptableAnswers": ["Kendrick", "Kdot"], "imageUrl": "" },
             { "category": "places", "clue": "Famous for its cherry blossoms", "clue2": "Once the imperial capital of a modern nation but no longer", "answer": "Kyoto", "imageUrl": "" },
@@ -32,7 +32,7 @@
     {
       "rows": [
         {
-          "constraint": "Starts with the letter 'A'",
+          "constraint": "Starts with 'A'*",
           "cells": [
             { "category": "people", "clue": "This person is the best-selling novelist of all time, with over 2 billion copies sold", "clue2": "Through her classic murder mystery novels she has earned her reputation as the 'Queen of Crime'", "answer": "Agatha Christie", "imageUrl": "" },
             { "category": "places", "clue": "A city where bicycles outnumber residents", "clue2": "A tourist destination famous for its canals and museums", "answer": "Amsterdam", "imageUrl": "" },
@@ -68,7 +68,7 @@
           ]
         },
         {
-          "constraint": "Ends in 'Y'",
+          "constraint": "Ends in 'Y'*",
           "cells": [
             { "category": "people", "clue": "A dreadlocked superstar from the Carribbean", "clue2": "The King of Reggae", "answer": "Bob Marley", "imageUrl": "" },
             { "category": "places", "clue": "Known for its boot shape on the map", "clue2": "Birthplace of the Renaissance", "answer": "Italy", "imageUrl": "" },
@@ -88,7 +88,7 @@
     {
       "rows": [
         {
-          "constraint": "Starts with the letter 'M'",
+          "constraint": "Starts with 'M'*",
           "cells": [
             { "category": "people", "clue": "Formerly a member of a band with four of his brothers", "clue2": "Pioneered an iconic dance move that involves stepping backwards with ease", "answer": "Michael Jackson", "imageUrl": "" },
             { "category": "places", "clue": "Once controlled by the Bolsheviks", "clue2": "City architecturally distinguished by its onion-shaped domes", "answer": "Moscow", "imageUrl": "" },
@@ -116,7 +116,7 @@
     {
       "rows": [
         {
-          "constraint": "Ends in 'ER'",
+          "constraint": "Ends in 'ER'*",
           "cells": [
             { "category": "people", "clue": "A professional server who never worked at a restaurant", "clue2": "This athlete won 20 Grand Slams", "answer": "Roger Federer", "acceptableAnswers":["Federer"], "imageUrl": "" },
             { "category": "places", "clue": "This mountanous urban hub is often referred to as \"Hollywood North\"", "clue2": "This Pacific city hosted the Winter Olympics in 2010", "answer": "Vancouver", "imageUrl": "" },
@@ -132,7 +132,7 @@
           ]
         },
         {
-          "constraint": "Ends in 'A'",
+          "constraint": "Ends in 'A'*",
           "cells": [
             { "category": "people", "clue": "No last name required", "clue2": "This <i>Material Girl</i> is arguably pop's most sacred queen", "answer": "Madonna", "imageUrl": "" },
             { "category": "places", "clue": "Where Indianna Jones found the Holy Grail", "clue2": "This UNESCO site is iconic for its red rock-cut architecture", "answer": "Petra", "imageUrl": "" },
@@ -144,7 +144,7 @@
     {
       "rows": [
         {
-          "constraint": "Starts with the letter 'B'",
+          "constraint": "Starts with 'B'*",
           "cells": [
             { "category": "people", "clue": "She has her own hive, but isn't a beekeeper", "clue2": "From girl group to solo superstar", "answer": "Beyonce", "imageUrl": "" },
             { "category": "places", "clue": "Their famous cathedral has been in construction for over 140 years", "clue2": "The largest city in an autonomous community with its own language", "answer": "Barcelona", "imageUrl": "" },
@@ -160,7 +160,7 @@
           ]
         },
         {
-          "constraint": "Ends in 'N'",
+          "constraint": "Ends in 'N'*",
           "cells": [
             { "category": "people", "clue": "This revolutionary united industrial laborers and rural farmers", "clue2": "He sealed the Romanov's fate and formed the first worker's state", "answer": "Vladimir Lenin", "acceptableAnswers": ["Lenin"], "imageUrl": "" },
             { "category": "places", "clue": "Where you can buy a \"chopped cheese\" and a bev at 4 in the morning", "clue2": "The place that spawned Biggie and Jay-Z", "answer": "Brooklyn", "imageUrl": "" },
@@ -200,7 +200,7 @@
     {
       "rows": [
         {
-          "constraint": "Starts with the letter 'C'",
+          "constraint": "Starts with 'C'*",
           "cells": [
             { "category": "people", "clue": "A ruler whose romantic alliances shaped empires", "clue2": "The last Hellenistic Pharaoh", "answer": "Cleopatra", "acceptableAnswers": ["Cleo"], "imageUrl": "" },
             { "category": "places", "clue": "This nation famously complained to the UN about Romania allegedly copying their flag", "clue2": "Country and also the guy in every frat", "answer": "Chad", "imageUrl": "" },
@@ -208,7 +208,7 @@
           ]
         },
         {
-          "constraint": "Starts with the letter 'R'",
+          "constraint": "Starts with 'R'*",
           "cells": [
             { "category": "people", "clue": "Barbados's biggest export since sugar", "clue2": "She put the \"ella\" in \"umbrella\"", "answer": "Rihanna", "imageUrl": "" },
             { "category": "places", "clue": "\"The land of a thousand hills\" south of the Sahara", "clue2": "Where Belgium fostered ethnic animus between the native Hutus and Tutsis", "answer": "Rwanda", "imageUrl": "" },
@@ -284,7 +284,7 @@
     {
       "rows": [
         {
-          "constraint": "Starts with the letter 'S'",
+          "constraint": "Starts with 'S'*",
           "cells": [
             { "category": "people", "clue": "She's behind the 2010 FIFA World Cup song reminiscent of the sound Pacman makes", "clue2": "This Colombian superstar's hips have an aversion to dishonesty", "answer": "Shakira", "imageUrl": "" },
             { "category": "places", "clue": "City where the Nobel Prize is officially distributed", "clue2": "Also the name of a notorious syndrome", "answer": "Stockholm", "imageUrl": "" },
@@ -312,7 +312,7 @@
     {
       "rows": [
         {
-          "constraint": "Ends in 'ER'",
+          "constraint": "Ends in 'ER'*",
           "cells": [
             { "category": "people", "clue": "Canadian whose bowl cut once conquered middle school lockers worldwide", "clue2": "From YouTube covers in his room to teenage hearthrob on stadium tours", "answer": "Justin Bieber", "acceptableAnswers":["Bieber"], "imageUrl": "" },
             { "category": "places", "clue": "The place people come to from all around to scale rocks, aptly named", "clue2": "The Mile-high city's technically higher neighbor", "answer": "Boulder", "imageUrl": "" },
@@ -328,7 +328,7 @@
           ]
         },
         {
-          "constraint": "Starts with the letter 'N'",
+          "constraint": "Starts with 'N'*",
           "cells": [
            { "category": "people", "clue": "\"Here's Johnny!\" and also the Joker", "clue2": "He flew over the cuckoo's nest to get his first Oscar", "answer": "Jack Nicholson", "acceptableAnswers": ["Nicholson"], "imageUrl": "" },
             { "category": "places", "clue": "Second site where Little Boy's sibling was dropped", "clue2": "Once this Eastern nation's primary gateway for trade with the Dutch", "answer": "Nagasaki", "imageUrl": "" },
@@ -348,7 +348,7 @@
           ]
         },
         {
-          "constraint": "Ends in 'Y'",
+          "constraint": "Ends in 'Y'*",
           "cells": [
             { "category": "people", "clue": "The first pop sensation to perform in orbit from a spaceship", "clue2": "She's a <i>California Gurl</i> with a <i>Teenage Dream</i>", "answer": "Katy Perry", "imageUrl": "" },
             { "category": "places", "clue": "Coastal region that has swapped hands between European empires for millenia", "clue2": "Allied forces stormed these shores in June 1944", "answer": "Normandy", "imageUrl": "" },
@@ -356,7 +356,7 @@
           ]
         },
         {
-          "constraint": "Starts with the letter 'T'",
+          "constraint": "Starts with 'T'*",
           "cells": [
             { "category": "people", "clue": "Bugs and Daffy's short-tempered adversary", "clue2": "This spinning looney toon devours everything in his path", "answer": "Tasmanian Devil", "imageUrl": "" },
             { "category": "places", "clue": "A real region whose folklore inspired Bram Stoker's masterwork", "clue2": "When visiting the gothic castles be sure to bring garlic and a wooden stake", "answer": "Transylvania", "imageUrl": "" },
@@ -384,7 +384,7 @@
           ]
         },
         {
-          "constraint": "Starts with the letter 'M'",
+          "constraint": "Starts with 'M'*",
           "cells": [
             { "category": "people", "clue": "He floated, he stung, and he was the heavyweight world champion", "clue2": "This hall of famer took a bold stance refusing to serve in America's imperial wars", "answer": "Muhammad Ali", "acceptableAnswers": ["Ali"], "imageUrl": "" },
             { "category": "places", "clue": "Where King Julien ruled over a great colony of lemurs", "clue2": "Fourth largest island nation best known for its biodiversity and beautiful beaches", "answer": "Madagascar", "imageUrl": "" },
@@ -404,7 +404,7 @@
           ]
         },
         {
-          "constraint": "Ends in 'O'",
+          "constraint": "Ends in 'O'*",
           "cells": [
             { "category": "people", "clue": "From sinking on the world's biggest ship to charting super-yachts in his spare time", "clue2": "He fought a bear to finally win his Oscar", "answer": "Leonardo DiCaprio", "acceptableAnswers": ["DiCaprio", "Leo"], "imageUrl": "" },
             { "category": "places", "clue": "Kingdom where you can haggle for spices in the souk", "clue2": "White city immortalized by a 1942 film that largely takes place in a nightclub", "answer": "Morocco", "imageUrl": "" },
@@ -412,7 +412,7 @@
           ]
         },
         {
-          "constraint": "Starts with the letter 'D'",
+          "constraint": "Starts with 'D'*",
           "cells": [
             { "category": "people", "clue": "A certain Italian plumber's original nemesis (when he went by a different alias)", "clue2": "He wears only a tie and has been rolling barrels since the 80s", "answer": "Donkey Kong", "imageUrl": "" },
             { "category": "places", "clue": "This host of Europe's oldest Christmas market is known as the \"Florence on the Elbe\"", "clue2": "City ruthlessly firebombed by allied forces during WWII, since rebuilt", "answer": "Dresden", "imageUrl": "" },
@@ -432,7 +432,7 @@
           ]
         },
         {
-          "constraint": "Ends in 'S'",
+          "constraint": "Ends in 'S'*",
           "cells": [
             { "category": "people", "clue": "His vague quatrains are said to have predicted world events for centuries beyond his death", "clue2": "This frenchman is perhaps history's most notorious Astrologer", "answer": "Nostradamus", "imageUrl": "" },
             { "category": "places", "clue": "Island divided by a buffer zone where two cultures coexist uneasily", "clue2": "Mediterranean nation divided by a UN-patrolled \"Green Line\" since 1974", "answer": "Cyprus", "imageUrl": "" },
@@ -440,7 +440,7 @@
           ]
         },
         {
-          "constraint": "Starts with the letter 'P'",
+          "constraint": "Starts with 'P'*",
           "cells": [
             { "category": "people", "clue": "He drank and he knew things on TV", "clue2": "Gave Will Ferrel a hard time in <i>Elf</i>", "answer": "Peter Dinklage", "imageUrl": "" },
             { "category": "places", "clue": "The city preserved in volcanic ash", "clue2": "Home to a garden containing the casts of 13 victims of the eruption of Mount Vesuvius", "answer": "Pompeii", "imageUrl": "" },
@@ -460,7 +460,7 @@
           ]
         },
         {
-          "constraint": "Ends in 'N'",
+          "constraint": "Ends in 'N'*",
           "cells": [
             { "category": "people", "clue": "Steppe conqueror who built an empire from stretching sea to sea", "clue2": "He has an estimated 16 million male descendants alive today", "answer": "Genghis Khan", "acceptableAnswers": ["Khan"], "imageUrl": "" },
             { "category": "places", "clue": "Where wealthy families go to pretend they're outdoorsy", "clue2": "Rocky Mountain ski town where fur coats outnumber parkas", "answer": "Aspen", "imageUrl": "" },
@@ -488,7 +488,7 @@
           ]
         },
         {
-          "constraint": "Starts with the letter 'W'",
+          "constraint": "Starts with 'W'*",
           "cells": [
             { "category": "people", "clue": "Roald Dahl's eccentric candy man", "clue2": "Zany chocolatier brought to life first by Gene Wilder", "answer": "Willy Wonka", "acceptableAnswers": ["Wonka"], "imageUrl": "" },
             { "category": "places", "clue": "Home to a famous windmill and a more famous international annual sporting event", "clue2": "London suburb where two sisters from Compton made sports history", "answer": "Wimbledon", "imageUrl": "" },
@@ -496,7 +496,7 @@
           ]
         },
         {
-          "constraint": "Ends in 'Y'",
+          "constraint": "Ends in 'Y'*",
           "cells": [
             { "category": "people", "clue": "Perhaps most famous for his street art depicting a young girl reaching for a heart-shaped balloon", "clue2": "His anonymity is part of his artistic appeal", "answer": "Banksy", "imageUrl": "" },
             { "category": "places", "clue": "Destination for Chaucer's pilgrims", "clue2": "Home to the seat of the Anglican Church", "answer": "Canterbury", "imageUrl": "" },
@@ -536,7 +536,7 @@
     {
       "rows": [
         {
-          "constraint": "Ends in 'ER'",
+          "constraint": "Ends in 'ER'*",
           "cells": [
             { "category": "people", "clue": "Famously dubbed the \"Iron Lady\" by the Soviet press", "clue2": "European PM known for privatizing industries and combating labor unions", "answer": "Margaret Thatcher", "acceptableAnswers": ["Thatcher"], "imageUrl": "" },
             { "category": "places", "clue": "Once home to the Mali Empire and much later a colony of the French", "clue2": "The name of both the African nation and the river that flows through it", "answer": "Niger", "imageUrl": "" },
@@ -552,7 +552,7 @@
           ]
         },
         {
-          "constraint": "Starts with the letter 'F'",
+          "constraint": "Starts with 'F'*",
           "cells": [
             { "category": "people", "clue": "Her surreal self-portraits eventually got her on the nation's currency", "clue2": "Wearer of perhaps the world's most iconic unibrow", "answer": "Frida Kahlo", "acceptableAnswers": ["Frida"], "imageUrl": "" },
             { "category": "places", "clue": "A Medici stronghold for nearly 300 years", "clue2": "Birthplace of Dante", "answer": "Florence", "imageUrl": "" },
@@ -572,7 +572,7 @@
           ]
         },
         {
-          "constraint": "Starts with the letter 'J'",
+          "constraint": "Starts with 'J'*",
           "cells": [
             { "category": "people", "clue": "Teenage warrior guided by saintly visions who led her nation's army to victory", "clue2": "She was burned at the stake by her rivals at just 19 years of age", "answer": "Joan of Arc", "acceptableAnswers": ["Joan"], "imageUrl": "" },
             { "category": "places", "clue": "Short-lived commune in Guyana associated with the <i>People's Temple</i> cult", "clue2": "The tragic mass suicide here spawned the phrase \"drinking the Kool-Aid\"", "answer": "Jonestown", "imageUrl": "" },
@@ -580,7 +580,7 @@
           ]
         },
         {
-          "constraint": "Ends in 'A'",
+          "constraint": "Ends in 'A'*",
           "cells": [
             { "category": "people", "clue": "Inventor who Edison tried desperately to discredit", "clue2": "Serbian genius who lit up the world with alternating current", "answer": "Nikola Tesla", "acceptableAnswers": ["Tesla"], "imageUrl": "" },
             { "category": "places", "clue": "Where an infamous U.S-backed right-wing paramilitary group was armed with secret weapon sales", "clue2": "The word \"water\" is in this nation's name (in their language)", "answer": "Nicaragua", "imageUrl": "" },
@@ -608,7 +608,7 @@
           ]
         },
         {
-          "constraint": "Starts with the letter 'D'",
+          "constraint": "Starts with 'D'*",
           "cells": [
             { "category": "people", "clue": "Country queen who works from <i>9 to 5</i>", "clue2": "Tennessee treasure whose wigs are almost as iconic as her voice", "answer": "Dolly Parton", "acceptableAnswers": ["Dolly"], "imageUrl": "" },
             { "category": "places", "clue": "Known for its gaudy skyscrapers and exploitative labor practices", "clue2": "Home to the world's tallest tower, the Burj Khalifa", "answer": "Dubai", "imageUrl": "" },
@@ -636,7 +636,7 @@
           ]
         },
         {
-          "constraint": "Starts with the letter 'R'",
+          "constraint": "Starts with 'R'*",
           "cells": [
             { "category": "people", "clue": "Manic comic genius who made audiences both laugh and cry", "clue2": "The Genie from Aladdin and Matt Damon's unconventional therapist", "answer": "Robin Williams", "acceptableAnswers": ["Williams"], "imageUrl": "" },
             { "category": "places", "clue": "City rebuilt after 1940 bombing into a modernist architectural showpiece", "clue2": "Europe's largest port, known for bold skyscrapers and the Erasmus Bridge", "answer": "Rotterdam", "imageUrl": "" },
@@ -648,7 +648,7 @@
     {
       "rows": [
         {
-          "constraint": "Ends in 'O'",
+          "constraint": "Ends in 'O'*",
           "cells": [
             { "category": "people", "clue": "Venetian merchant whose 13th century travels to Kublai Khan's court became legendary", "clue2": "Explorer whose name now graces swimming pools around the globe", "answer": "Marco Polo", "acceptableAnswers": ["Polo"], "imageUrl": "" },
             { "category": "places", "clue": "Neon metropolis that once started as a small fishing village called Edo", "clue2": "Incredibly population-dense city at least one of your friends is actively planning a trip to", "answer": "Tokyo", "imageUrl": "" },
@@ -664,7 +664,7 @@
           ]
         },
         {
-          "constraint": "Starts with the letter 'B'",
+          "constraint": "Starts with 'B'*",
           "cells": [
             { "category": "people", "clue": "Composer who kept conducting even when he couldn't hear the orchestra", "clue2": "German genius whose Ninth Symphony can be heard in concert halls around the world", "answer": "Ludwig van Beethoven", "acceptableAnswers": ["Beethoven"], "imageUrl": "" },
             { "category": "places", "clue": "European capital whose name combines its two distinct halves, split by the Danube River", "clue2": "Wes Anderson's \"Grand\" hotel locale", "answer": "Budapest", "imageUrl": "" },
@@ -676,7 +676,7 @@
     {
       "rows": [
         {
-          "constraint": "Ends in 'CE'",
+          "constraint": "Ends in 'CE'*",
           "cells": [
             { "category": "people", "clue": "Legendary guitarist who partied like it was <i>1999</i>", "clue2": "Minneapolis maestro who only wants to see you underneath the <i>Purple Rain</i>", "answer": "Prince", "imageUrl": "" },
             { "category": "places", "clue": "Nation known for its fashion, bakeries, and wine", "clue2": "They've been at war with England for much of their existence", "answer": "France", "imageUrl": "" },
@@ -692,7 +692,7 @@
           ]
         },
         {
-          "constraint": "Starts with the letter 'U'",
+          "constraint": "Starts with 'U'*",
           "cells": [
             { "category": "people", "clue": "She suited up in bee colors to take out Bill on the big screen", "clue2": "Travolta's twist partner on film who later helped take down producer Weinstein", "answer": "Uma Thurman", "acceptableAnswers": ["Thurman"], "imageUrl": "" },
             { "category": "places", "clue": "First World Cup host and winner in 1930", "clue2": "The smallest Spanish speaking nation on its continent", "answer": "Uruguay", "imageUrl": "" },
@@ -704,7 +704,7 @@
     {
       "rows": [
         {
-          "constraint": "Ends in 'SON'",
+          "constraint": "Ends in 'SON'*",
           "cells": [
             { "category": "people", "clue": "He's had it with these motherf---ing snakes on this motherf---ing plane", "clue2": "He quoted scripture before pulling the trigger in arguably his most iconic role", "answer": "Samuel L Jackson", "acceptableAnswers": ["Samuel L. Jackson", "Jackson"], "imageUrl": "" },
             { "category": "places", "clue": "Known as \"Old Pueblo\" to locals", "clue2": "Large Sun Belt city home to its state's flagship university", "answer": "Tucson", "imageUrl": "" },
@@ -720,7 +720,7 @@
           ]
         },
         {
-          "constraint": "Starts with the letter 'E'",
+          "constraint": "Starts with 'E'*",
           "cells": [
             { "category": "people", "clue": "<i>Rocket Man</i> whose farewell tour lasted nearly 5 years", "clue2": "British pianist who is on the very short list of EGOT winners", "answer": "Elton John", "acceptableAnswers": ["Elton"], "imageUrl": "" },
             { "category": "places", "clue": "Known by some as \"Athens of the North\" and by others as where <i>Trainspotting</i> is set", "clue2": "Capital city whose name is used in a Duke's title", "answer": "Edinburgh", "imageUrl": "" },
@@ -740,7 +740,7 @@
           ]
         },
         {
-          "constraint": "Ends in 'RD'",
+          "constraint": "Ends in 'RD'*",
           "cells": [
             { "category": "people", "clue": "George Lucas's former carpenter, who he saw enough potential in to cast as a leading man", "clue2": "Han Solo and Indiana Jones walk into a bar... he asks for a beer", "answer": "Harrison Ford", "acceptableAnswers": ["Ford"], "imageUrl": "" },
             { "category": "places", "clue": "British university town where a famous comma got its namesake", "clue2": "Where <i>Harry Potter</i> was filmed and actual scholars still wear robes", "answer": "Oxford", "imageUrl": "" },
@@ -748,7 +748,7 @@
           ]
         },
         {
-          "constraint": "Starts with the letter 'G'",
+          "constraint": "Starts with 'G'*",
           "cells": [
             { "category": "people", "clue": "He drove, he dreamed in LA, and he was Ken — quite a range", "clue2": "Timberlake's fellow former Mouseketeer", "answer": "Ryan Gosling", "acceptableAnswers": ["Gosling"], "imageUrl": "" },
             { "category": "places", "clue": "Site of the Reagan-Gorbachev summits and home to CERN headquarters", "clue2": "Where a notorious post-war convention was held that established \"humanitarian rules\" for future wars", "answer": "Geneva", "imageUrl": "" },
@@ -760,7 +760,7 @@
     {
       "rows": [
         {
-          "constraint": "Ends in 'OW'",
+          "constraint": "Ends in 'OW'*",
           "cells": [
             { "category": "people", "clue": "Blonde bombshell from Hollywood's golden age who died tragically young", "clue2": "1930s platinum actress whose real name was Harlean Carpenter", "answer": "Jean Harlow", "acceptableAnswers": ["Harlow"], "imageUrl": "" },
             { "category": "places", "clue": "Polish city where a dragon allegedly lives under the castle", "clue2": "Former capital known for Wawel Castle and a famous trumpet call", "answer": "Krakow", "acceptableAnswers": ["Cracow"], "imageUrl": "" },
@@ -768,7 +768,7 @@
           ]
         },
         {
-          "constraint": "Ends in 'TH'",
+          "constraint": "Ends in 'TH'*",
           "cells": [
             { "category": "people", "clue": "Fresh Prince who slapped his way to Oscar controversy", "clue2": "Bel-Air's finest who became an action star and meme factory", "answer": "Will Smith", "acceptableAnswers": ["Smith"], "imageUrl": "" },
             { "category": "places", "clue": "English coastal city where the Pilgrims set sail for the New World", "clue2": "Devon port that shares its name with an American Rock", "answer": "Plymouth", "imageUrl": "" },
@@ -788,7 +788,7 @@
     {
       "rows": [
         {
-          "constraint": "Ends in 'LY'",
+          "constraint": "Ends in 'LY'*",
           "cells": [
             { "category": "people", "clue": "She navigated a fantastical maze opposite a glam-rock legend in the 80s", "clue2": "Academy Award winner for <i>A Beautiful Mind</i>", "answer": "Jennifer Connelly", "acceptableAnswers": ["Connelly"], "imageUrl": "" },
             { "category": "places", "clue": "The Corleone family's ancestral homeland in a little known trilogy", "clue2": "The \"ball\" on the \"boot\" so to speak", "answer": "Sicily", "imageUrl": "" },
@@ -832,7 +832,7 @@
           ]
         },
         {
-          "constraint": "Ends in 'LE'",
+          "constraint": "Ends in 'LE'*",
           "cells": [
             { "category": "people", "clue": "Philosopher whose student would go on to conquer the known world", "clue2": "Founded the Lyceum in Athens", "answer": "Aristotle", "imageUrl": "" },
             { "category": "places", "clue": "Rainy city where grunge was born", "clue2": "Birthplace of Starbucks", "answer": "Seattle", "imageUrl": "" },
@@ -872,7 +872,7 @@
     {
       "rows": [
         {
-          "constraint": "Starts with the letter 'S'",
+          "constraint": "Starts with 'S'*",
           "cells": [
             { "category": "people", "clue": "Turtleneck-wearing tech titan", "clue2": "Fruitarian who built the Apple empire", "answer": "Steve Jobs", "acceptableAnswers": ["Jobs"], "imageUrl": "" },
             { "category": "places", "clue": "City that birthed K-pop", "clue2": "The world's 4th largest metropolitan economy and home to Samsung HQ", "answer": "Seoul", "imageUrl": "" },
@@ -880,7 +880,7 @@
           ]
         },
         {
-          "constraint": "Ends with the letter 'A'",
+          "constraint": "Ends with 'A'*",
           "cells": [
             { "category": "people", "clue": "Her face adorned a golden dollar coin starting in 2000", "clue2": "Shoshone guide who helped Lewis and Clark reach the Pacific", "answer": "Sacagawea", "imageUrl": "" },
             { "category": "places", "clue": "Northern nation home to more lakes than the rest of the world combined", "clue2": "Where milk comes in a bag and you can find a Tim Hortons on every block", "answer": "Canada", "imageUrl": "" },
@@ -888,7 +888,7 @@
           ]
         },
         {
-          "constraint": "Starts with the letter 'M'",
+          "constraint": "Starts with 'M'*",
           "cells": [
             { "category": "people", "clue": "A name synonymous with greatness", "clue2": "Minor league baseball player who may have also won 6 NBA championships", "answer": "Michael Jordan", "acceptableAnswers": ["Jordan", "MJ"], "imageUrl": "" },
             { "category": "places", "clue": "Party city where the sports cars are low and the cheekbones are high", "clue2": "Spring breaker's Mecca", "answer": "Miami", "imageUrl": "" },
@@ -900,7 +900,7 @@
     {
       "rows": [
         {
-          "constraint": "Starts with the letter 'B'",
+          "constraint": "Starts with 'B'*",
           "cells": [
             { "category": "people", "clue": "Comic whose solo-podcast is almost as notorious as his standup", "clue2": "Redheaded Bostonian with no inside voice", "answer": "Bill Burr", "acceptableAnswers": ["Burr"], "imageUrl": "" },
             { "category": "places", "clue": "City scarred by \"The Troubles\", now a <i>Game of Thrones</i> tourism hub", "clue2": "Capital with a Titanic Quarter tourist district", "answer": "Belfast", "imageUrl": "" },
@@ -908,7 +908,7 @@
           ]
         },
         {
-          "constraint": "Starts with the letter 'Q'",
+          "constraint": "Starts with 'Q'*",
           "cells": [
             { "category": "people", "clue": "The fictional town of Quahog's most notorious pervert", "clue2": "Peter's chinny \"giggity\"-uttering drinking buddy", "answer": "Glenn Quagmire", "acceptableAnswers": ["Quagmire"], "imageUrl": "" },
             { "category": "places", "clue": "North America's francophone holdout", "clue2": "Province that gifted the world poutine", "answer": "Quebec", "imageUrl": "" },
@@ -916,7 +916,7 @@
           ]
         },
         {
-          "constraint": "Ends with the letter 'S'",
+          "constraint": "Ends with 'S'*",
           "cells": [
             { "category": "people", "clue": "Elder sister who dominated Wimbledon in the early 2000s", "clue2": "Singles champion from Compton with the first name of a planet", "answer": "Venus Williams", "acceptableAnswers": ["Venus"], "imageUrl": "" },
             { "category": "places", "clue": "Fictional desert planet where the spice must flow", "clue2": "Domain of the massive sandworms know as Shai-Hulud", "answer": "Arrakis", "imageUrl": "" },
@@ -928,7 +928,7 @@
     {
       "rows": [
         {
-          "constraint": "Starts with the letter 'C'",
+          "constraint": "Starts with 'C'*",
           "cells": [
             { "category": "people", "clue": "Iowan scoring machine who brought a new set of eyes to March Madness", "clue2": "WNBA #1 draft pick known for her logo three-pointers", "answer": "Caitlin Clark", "acceptableAnswers": ["Clark"], "imageUrl": "" },
             { "category": "places", "clue": "Mountainous megacity famous for its spicy hot pot and fog-shrouded skyline", "clue2": "Massive \"futuristic\" municipality with over 30 million people that many in the West haven't even heard of", "answer": "Chongqing", "imageUrl": "" },
@@ -936,7 +936,7 @@
           ]
         },
         {
-          "constraint": "Ends with the letter 'N'",
+          "constraint": "Ends with 'N'*",
           "cells": [
             { "category": "people", "clue": "Kite-flying polymath who helped draft a revolutionary document", "clue2": "The face on the hundred-dollar bill", "answer": "Ben Franklin", "acceptableAnswers": ["Franklin", "Benjamin Franklin"], "imageUrl": "" },
             { "category": "places", "clue": "Where the ancient \"Rose City\" Petra lies carved into rose-red cliffs", "clue2": "Middle Eastern kingdom home to the Dead Sea's eastern shore", "answer": "Jordan", "imageUrl": "" },
@@ -956,7 +956,7 @@
     {
       "rows": [
         {
-          "constraint": "Starts with the letter 'G'",
+          "constraint": "Starts with 'G'*",
           "cells": [
             { "category": "people", "clue": "Montreal's patron saint of total octagon dominance", "clue2": "MMA legend known for his wrestling and striking precision... and kicking Captain America", "answer": "Georges St-Pierre", "acceptableAnswers": ["GSP", "St-Pierre"], "imageUrl": "" },
             { "category": "places", "clue": "New York City's nickname since 1807", "clue2": "Where the bat signal shines when trouble is afoot", "answer": "Gotham", "acceptableAnswers": ["Gotham City"], "imageUrl": "" },
@@ -964,7 +964,7 @@
           ]
         },
         {
-          "constraint": "Starts with the letter 'I'",
+          "constraint": "Starts with 'I'*",
           "cells": [
             { "category": "people", "clue": "An apple allegedly fell on his head and the rest was history", "clue2": "Renowned physicist who the unit of force is named after", "answer": "Isaac Newton", "acceptableAnswers": ["Newton"], "imageUrl": "" },
             { "category": "places", "clue": "A balding celebrity's first destination", "clue2": "The 'Grand Bazaar' city that was once named Constantinople", "answer": "Istanbul", "imageUrl": "" },
@@ -972,7 +972,7 @@
           ]
         },
         {
-          "constraint": "Starts with the letter 'O'",
+          "constraint": "Starts with 'O'*",
           "cells": [
             { "category": "people", "clue": "The queen of daytime who made book clubs mainstream again", "clue2": "Media mogul famous for \"you get a car!\" giveaways", "answer": "Oprah Winfrey", "acceptableAnswers": ["Oprah"], "imageUrl": "" },
             { "category": "places", "clue": "City known for takoyaki and okonomiyaki", "clue2": "Port city famous for Universal Studios Japan", "answer": "Osaka", "imageUrl": "" },
