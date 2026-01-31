@@ -483,14 +483,14 @@
           "constraint": "Contains an animal",
           "cells": [
             { "category": "people", "clue": "This soul singer's grammy award winning hit was featured on the <i>Batman Forever</i> soundtrack", "clue2": "He was once briefly married to supermodel Heidi Klum", "answer": "Seal", "imageUrl": "" },
-            { "category": "places", "clue": "Originally the terminus of the Erie Canal making it once the world's largest grain port in that era", "clue2": "Where the famous spicy buttery wings get their namesake", "answer": "Buffalo", "imageUrl": "" },
-            { "category": "things", "clue": "Strikes fear in the hearts of <i>Angry Birds</i>", "clue2": "The trebuchet's diminutive cousin", "answer": "Catapult", "imageUrl": "" }
+            { "category": "places", "clue": "Originally the terminus of the Erie Canal making it once the world's largest grain port city", "clue2": "Where the famous spicy buttery wings get their namesake", "answer": "Buffalo", "imageUrl": "" },
+            { "category": "things", "clue": "This ancient device strikes fear in the hearts of <i>Angry Birds</i>", "clue2": "The trebuchet's diminutive cousin", "answer": "Catapult", "imageUrl": "" }
           ]
         },
         {
           "constraint": "Starts with 'W'*",
           "cells": [
-            { "category": "people", "clue": "Roald Dahl's eccentric candy man", "clue2": "Zany chocolatier brought to life first by Gene Wilder", "answer": "Willy Wonka", "acceptableAnswers": ["Wonka"], "imageUrl": "" },
+            { "category": "people", "clue": "Roald Dahl's iconic eccentric candy man", "clue2": "Zany chocolatier brought to life first by Gene Wilder", "answer": "Willy Wonka", "acceptableAnswers": ["Wonka"], "imageUrl": "" },
             { "category": "places", "clue": "Home to a famous windmill and more famous international tennis event", "clue2": "London suburb where two sisters from Compton made sports history", "answer": "Wimbledon", "imageUrl": "" },
             { "category": "things", "clue": "How Sony revolutionized the way we consume music forever", "clue2": "The predecessor to the MP3 player", "answer": "Walkman", "acceptableAnswers": ["Sony Walkman"], "imageUrl": "" }
           ]

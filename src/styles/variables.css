@@ -36,6 +36,11 @@
   --color-border-dark: #CCCCCC;
   --color-creator-divider: #D0D0D0;
 
+  /* Constraint divider (dashed lines between rows) */
+  --constraint-divider-width: 2px;
+  --constraint-divider-dash: 14px;
+  --constraint-divider-dash-mobile: 6px;
+
   /* Header banner */
   --color-header-banner: #C41E3A;
   --color-header-banner-dark: #9B1B2F;
