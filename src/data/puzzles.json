@@ -499,7 +499,7 @@
           "constraint": "Ends in 'Y'*",
           "cells": [
             { "category": "people", "clue": "Perhaps most famous for his street art depicting a young girl reaching for a heart-shaped balloon", "clue2": "His anonymity is part of his artistic appeal", "answer": "Banksy", "imageUrl": "" },
-            { "category": "places", "clue": "Destination for Chaucer's pilgrims", "clue2": "Home to the seat of the Anglican Church", "answer": "Canterbury", "imageUrl": "" },
+            { "category": "places", "clue": "Destination for Chaucer's pilgrims in his tales", "clue2": "Home to the seat of the Anglican Church", "answer": "Canterbury", "imageUrl": "" },
             { "category": "things", "clue": "Herb that's for remembrance, according to Ophelia", "clue2": "Fragrant sprig and also a classic girl's name", "answer": "Rosemary", "imageUrl": "" }
           ]
         }
@@ -975,7 +975,7 @@
           "constraint": "Starts with 'O'*",
           "cells": [
             { "category": "people", "clue": "The queen of daytime who made book clubs mainstream again", "clue2": "Media mogul famous for \"you get a car!\" giveaways", "answer": "Oprah Winfrey", "acceptableAnswers": ["Oprah"], "imageUrl": "" },
-            { "category": "places", "clue": "City known for takoyaki and okonomiyaki", "clue2": "Port city famous for Universal Studios Japan", "answer": "Osaka", "imageUrl": "" },
+            { "category": "places", "clue": "City known for its yummy takoyaki and okonomiyaki", "clue2": "Port city famous for Universal Studios Japan", "answer": "Osaka", "imageUrl": "" },
             { "category": "things", "clue": "Semaglutide brand name", "clue2": "Hollywood's not-so-secret for dramatic red carpet transformations", "answer": "Ozempic", "imageUrl": "" }
           ]
         }
