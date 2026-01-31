@@ -455,7 +455,7 @@
           "constraint": "Contains 'TH'",
           "cells": [
             { "category": "people", "clue": "Soul queen who demanded R-E-S-P-E-C-T and got it", "clue2": "Detroit diva who could make a phone book sound spiritual", "answer": "Aretha Franklin", "acceptableAnswers": ["Aretha"], "imageUrl": "" },
-            { "category": "places", "clue": "The only nation of its geographic cohort to never be formally colonized by a European power" , "clue2": "Home to elephants, incredible street food, and talented martial artists", "answer": "Thailand", "imageUrl": "" },
+            { "category": "places", "clue": "Only nation of its geographic cohort to never be formally colonized by a European power" , "clue2": "Home to elephants, incredible street food, and talented martial artists", "answer": "Thailand", "imageUrl": "" },
             { "category": "things", "clue": "One way your mom can tell if you're faking it to get out of school", "clue2": "Displays a reading you hope isn't too high", "answer": "Thermometer", "imageUrl": "" }
           ]
         },
@@ -471,7 +471,7 @@
           "constraint": "Two words both beginning with the same letter",
           "cells": [
             { "category": "people", "clue": "Blonde bombshell who sang breathily to a president on his birthday", "clue2": "Hollywood star immortalized in Warhol prints", "answer": "Marilyn Monroe", "acceptableAnswers": ["Monroe"], "imageUrl": "" },
-            { "category": "places", "clue": "South Pacific capital that is home to the largest tuna cannery in the world", "clue2": "American Samoa's main harbor with a famously repetitive name", "answer": "Pago Pago", "imageUrl": "" },
+            { "category": "places", "clue": "South Pacific capital that is home to the largest tuna cannery in the world", "clue2": "American Samoa's main harbor with a repetitive name", "answer": "Pago Pago", "imageUrl": "" },
             { "category": "things", "clue": "Snappable sweet snack", "clue2": "Candy bar that begs for a break", "answer": "Kit Kat", "imageUrl": "" }
           ]
         }
@@ -483,7 +483,7 @@
           "constraint": "Contains an animal",
           "cells": [
             { "category": "people", "clue": "This soul singer's grammy award winning hit was featured on the <i>Batman Forever</i> soundtrack", "clue2": "He was once briefly married to supermodel Heidi Klum", "answer": "Seal", "imageUrl": "" },
-            { "category": "places", "clue": "Selected originally as the terminus of the Erie Canal making it the world's largest grain port in that era", "clue2": "Where the famous spicy buttery wings get their namesake", "answer": "Buffalo", "imageUrl": "" },
+            { "category": "places", "clue": "Originally the terminus of the Erie Canal making it once the world's largest grain port in that era", "clue2": "Where the famous spicy buttery wings get their namesake", "answer": "Buffalo", "imageUrl": "" },
             { "category": "things", "clue": "Strikes fear in the hearts of <i>Angry Birds</i>", "clue2": "The trebuchet's diminutive cousin", "answer": "Catapult", "imageUrl": "" }
           ]
         },
@@ -491,8 +491,8 @@
           "constraint": "Starts with 'W'*",
           "cells": [
             { "category": "people", "clue": "Roald Dahl's eccentric candy man", "clue2": "Zany chocolatier brought to life first by Gene Wilder", "answer": "Willy Wonka", "acceptableAnswers": ["Wonka"], "imageUrl": "" },
-            { "category": "places", "clue": "Home to a famous windmill and a more famous international annual sporting event", "clue2": "London suburb where two sisters from Compton made sports history", "answer": "Wimbledon", "imageUrl": "" },
-            { "category": "things", "clue": "How Sony revolutionized the way we consume music forever", "clue2": "The predecessor to the MP3 player", "answer": "Walkman", "imageUrl": "" }
+            { "category": "places", "clue": "Home to a famous windmill and more famous international tennis event", "clue2": "London suburb where two sisters from Compton made sports history", "answer": "Wimbledon", "imageUrl": "" },
+            { "category": "things", "clue": "How Sony revolutionized the way we consume music forever", "clue2": "The predecessor to the MP3 player", "answer": "Walkman", "acceptableAnswers": ["Sony Walkman"], "imageUrl": "" }
           ]
         },
         {

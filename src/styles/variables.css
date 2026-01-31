@@ -53,8 +53,8 @@
   --font-size-xs: 0.82rem;  
   --font-size-sm: 0.95rem;
   --font-size-md: 1.13rem;
-  --font-size-clue-mobile: 0.712rem;
-  --font-size-clue-mobile-sm: 0.67rem;
+  --font-size-clue-mobile: 0.7rem;
+  --font-size-clue-mobile-sm: 0.665rem;
   --font-size-overlay-clue-mobile: 1.15rem;
   --font-size-overlay-clue-mobile-sm: 1.15rem;
 
@@ -136,11 +136,11 @@
   /* Grid */
   --cell-size: 232px;  
   --cell-size-mobile: 115px;
-  --cell-height-mobile: 195px;
+  --cell-height-mobile: 200px;
 
   /* Small mobile (iPhone 16 and smaller ~390px screens) */
-  --cell-size-mobile-sm: 108px;
-  --cell-height-mobile-sm: 176px;
+  --cell-size-mobile-sm: 109px;
+  --cell-height-mobile-sm: 180px;
 
   /* Card overlay (mobile enlarged view) */
   --overlay-card-width: 280px;
