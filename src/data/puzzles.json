@@ -980,6 +980,90 @@
           ]
         }
       ]
+    },
+    {
+      "rows": [
+        {
+          "constraint": "Contains an animal",
+          "cells": [
+            { "category": "people", "clue": "In 1985 he played both a teenage wolf and a time-traveler", "clue2": "Marty McFly on screen, Parkinson's advocate off screen", "answer": "Michael J. Fox", "acceptableAnswers": ["Michael J Fox"], "imageUrl": "" },
+            { "category": "places", "clue": "Major European port city known for its historic \"Grote Markt\" and diamonds", "clue2": "Peter Paul Rubens' home base, where Baroque is no joke", "answer": "Antwerp", "imageUrl": "" },
+            { "category": "things", "clue": "Often tossed at stakes for sport in North America", "clue2": "Good luck charm that blacksmiths fit to hooves", "answer": "Horseshoe", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Starts with 'V'*",
+          "cells": [
+            { "category": "people", "clue": "British actress who famously embodied Southern belles in early Hollywood", "clue2": "<i>Gone with the Wind</i> star who also rode <i>A Streetcar Named Desire</i>", "answer": "Vivien Leigh", "acceptableAnswers": ["Leigh"], "imageUrl": "" },
+            { "category": "places", "clue": "European capital where 60% of residents live in subsidized or city-owned housing—and like it", "clue2": "City of waltzes, strudel, and psychoanalytic breakthroughs", "answer": "Vienna", "imageUrl": "" },
+            { "category": "things", "clue": "Your grandparents' music format and your annoying friend's recent fixation", "clue2": "Grooved disc that spins at 33 or 45 RPM", "answer": "Vinyl Record", "acceptableAnswers": ["Vinyl"], "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Exactly one word",
+          "cells": [
+            { "category": "people", "clue": "Enlightenment wit who was frequently exiled for his sharp pen toward the Church and aristocracy", "clue2": "French philosopher and playwright famous for his satirical novella <i>Candide</i>", "answer": "Voltaire", "imageUrl": "" },
+            { "category": "places", "clue": "Country that lost the width lottery but won the coastline", "clue2": "South American nation that sounds like a yummy stew", "answer": "Chile", "imageUrl": "" },
+            { "category": "things", "clue": "Mirrors and glass that simulate psychedlic visions", "clue2": "Handheld tube that transforms mirrors and beads into infinite patterns", "answer": "Kaleidoscope", "imageUrl": "" }
+          ]
+        }
+      ]
+    },
+    {
+      "rows": [
+        {
+          "constraint": "Composed of two smaller words",
+          "cells": [
+            { "category": "people", "clue": "British comedian whose holiday adventures with his posh dad became a Netflix hit", "clue2": "This Essex funnyman played JP in <i>Fresh Meat</i>", "answer": "Jack Whitehall", "acceptableAnswers": ["Whitehall"], "imageUrl": "" },
+            { "category": "places", "clue": "Three days of peace and music that defined a generation's counterculture", "clue2": "Legendary 1969 festival featuring Hendrix, Joplin, and half a million muddy fans", "answer": "Woodstock", "imageUrl": "" },
+            { "category": "things", "clue": "Hexagonal architecture built by colony workers", "clue2": "Waxy structure where bees store their sweetest creation", "answer": "Honeycomb", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Ends in 'IA'*",
+          "cells": [
+            { "category": "people", "clue": "Mickey wore his famous wizard hat for this symphony of animated segments", "clue2": "Disney's 1940 classical music masterpiece featuring \"The Sorcerer's Apprentice\"", "answer": "Fantasia", "imageUrl": "" },
+            { "category": "places", "clue": "Landlocked nation where Che met his end in the jungle", "clue2": "South American country named after a revolutionary liberator", "answer": "Bolivia", "imageUrl": "" },
+            { "category": "things", "clue": "What the coronation cameras zoom in on: orbs, scepters, and ermine robes", "clue2": "Ceremonial attire and objects of royalty", "answer": "Regalia", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Contains two 'O's in a row",
+          "cells": [
+            { "category": "people", "clue": "Hobbit-sized actor who carried the weight of Middle-earth on his finger", "clue2": "Frodo Baggins in Peter Jackson's trilogy", "answer": "Elijah Wood", "acceptableAnswers": ["Wood"], "imageUrl": "" },
+            { "category": "places", "clue": "Tennessee city whose name has a fun rhythm and a famous choo-choo", "clue2": "Southern city known for the world's steepest incline railway and a Glenn Miller tune", "answer": "Chattanooga", "imageUrl": "" },
+            { "category": "things", "clue": "Pandas munch through 80 pounds of this daily", "clue2": "Fast-growing grass used to make flooring and furniture", "answer": "Bamboo", "imageUrl": "" }
+          ]
+        }
+      ]
+    },
+    {
+      "rows": [
+        {
+          "constraint": "Exactly three words",
+          "cells": [
+            { "category": "people", "clue": "Master of the macabre who died mysteriously on the streets of Baltimore", "clue2": "Creator of <i>The Raven</i> and pioneer of the detective fiction genre", "answer": "Edgar Allan Poe", "acceptableAnswers": ["Poe", "Edgar Allen Poe"], "imageUrl": "" },
+            { "category": "places", "clue": "1961 fiasco where CIA-trained exiles got swamped on a Cuban beach", "clue2": "Failed invasion that embarrassed the Kennedy administration", "answer": "Bay of Pigs", "imageUrl": "" },
+            { "category": "things", "clue": "Controversial relic whose carbon dating suggests a medieval origin", "clue2": "Ancient linen cloth some believe bears the image of Christ", "answer": "Shroud of Turin", "acceptableAnswers": ["Turin Shroud"], "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Starts and ends with the same letter",
+          "cells": [
+            { "category": "people", "clue": "MASH surgeon who brought humor to the horrors of the Korean War", "clue2": "Emmy-winning actor who played Hawkeye Pierce for 11 seasons", "answer": "Alan Alda", "acceptableAnswers": ["Alda"], "imageUrl": "" },
+            { "category": "places", "clue": "State that's launched more astronauts into space than any other", "clue2": "Buckeye State bordering Lake Erie", "answer": "Ohio", "imageUrl": "" },
+            { "category": "things", "clue": "Inuit invention that's now a weekend warrior's paddle of choice", "clue2": "Narrow watercraft propelled by a double-bladed oar", "answer": "Kayak", "imageUrl": "" }
+          ]
+        },
+        {
+          "constraint": "Contains a number",
+          "cells": [
+            { "category": "people", "clue": "Queens rapper who survived nine gunshots and turned it into marketing gold", "clue2": "\"In Da Club\" hitmaker and Vitamin Water mogul", "answer": "50 Cent", "acceptableAnswers": ["Fifty Cent", "Curtis Jackson"], "imageUrl": "" },
+            { "category": "places", "clue": "\"Mother Road\" that once carried Dust Bowl migrants from Chicago to Santa Monica", "clue2": "Historic American highway immortalized by Nat King Cole and countless neon signs", "answer": "Route 66", "imageUrl": "" },
+            { "category": "things", "clue": "Squeaky hinges fear this blue and yellow can", "clue2": "Multi-purpose lubricant that took 40 attempts to perfect", "answer": "WD-40", "acceptableAnswers": ["WD40", "WD 40"], "imageUrl": "" }
+          ]
+        }
+      ]
     }
   ]
 }
