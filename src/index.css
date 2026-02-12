@@ -54,3 +54,22 @@ a {
     display: none;  /* Chrome, Safari, Opera */
   }
 }
+
+/* Disable all ad placements on mobile sizes */
+@media (max-width: 900px) {
+  .adsterra-banner,
+  .adsterra-ad,
+  .app__ad-below-game,
+  .main-menu__bottom-ad,
+  .main-menu__banner-ad,
+  .about__bottom-ad,
+  .about__banner-ad,
+  .faq__bottom-ad,
+  .faq__banner-ad,
+  .privacy-policy__bottom-ad,
+  .privacy-policy__banner-ad,
+  .results-modal__ad,
+  [id^="ezoic-pub-ad-placeholder-"] {
+    display: none !important;
+  }
+}
